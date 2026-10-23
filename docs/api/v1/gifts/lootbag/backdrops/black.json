@@ -18,7 +18,11 @@
   "originalRarityPermille": 20,
   "rarity": 2,
   "originalRarity": 2,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-square.svg"
+  },
   "gift": {
     "slug": "lootbag",
     "name": "Loot Bag",

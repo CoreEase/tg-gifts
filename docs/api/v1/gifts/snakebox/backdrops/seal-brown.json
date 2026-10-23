@@ -18,7 +18,11 @@
   "originalRarityPermille": 12,
   "rarity": 1.2,
   "originalRarity": 1.2,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/664d45-47362e-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/664d45-47362e-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/664d45-47362e-square.svg"
+  },
   "gift": {
     "slug": "snakebox",
     "name": "Snake Box",

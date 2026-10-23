@@ -18,7 +18,11 @@
   "originalRarityPermille": 10,
   "rarity": 1,
   "originalRarity": 1,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-square.svg"
+  },
   "gift": {
     "slug": "hangingstar",
     "name": "Hanging Star",

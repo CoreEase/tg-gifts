@@ -18,7 +18,11 @@
   "originalRarityPermille": 15,
   "rarity": 1.5,
   "originalRarity": 1.5,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b58d38-946925-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b58d38-946925-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b58d38-946925-square.svg"
+  },
   "gift": {
     "slug": "springbasket",
     "name": "Spring Basket",

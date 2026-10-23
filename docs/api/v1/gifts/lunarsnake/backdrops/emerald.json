@@ -18,7 +18,11 @@
   "originalRarityPermille": 10,
   "rarity": 1,
   "originalRarity": 1,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/78c585-42a171-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/78c585-42a171-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/78c585-42a171-square.svg"
+  },
   "gift": {
     "slug": "lunarsnake",
     "name": "Lunar Snake",

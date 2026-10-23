@@ -43,6 +43,10 @@ export interface Backdrop {
     patternColor: string;
     textColor: string;
   };
+  assets: {
+    circleSvg: string;
+    squareSvg: string;
+  };
 }
 
 export interface GiftCollection {

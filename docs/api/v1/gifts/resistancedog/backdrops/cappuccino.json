@@ -18,7 +18,11 @@
   "originalRarityPermille": 7,
   "rarity": 0.7,
   "originalRarity": 0.7,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-square.svg"
+  },
   "gift": {
     "slug": "resistancedog",
     "name": "Resistance Dog",

@@ -18,7 +18,11 @@
   "originalRarityPermille": 21,
   "rarity": 2.1,
   "originalRarity": 2.1,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e28ab6-a4588b-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e28ab6-a4588b-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e28ab6-a4588b-square.svg"
+  },
   "gift": {
     "slug": "jinglebells",
     "name": "Jingle Bells",

@@ -18,7 +18,11 @@
   "originalRarityPermille": 15,
   "rarity": 1.5,
   "originalRarity": 1.5,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b186bb-875a91-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b186bb-875a91-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b186bb-875a91-square.svg"
+  },
   "gift": {
     "slug": "inputkey",
     "name": "Input Key",

@@ -18,7 +18,11 @@
   "originalRarityPermille": 20,
   "rarity": 2,
   "originalRarity": 2,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/dab345-b1802a-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/dab345-b1802a-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/dab345-b1802a-square.svg"
+  },
   "gift": {
     "slug": "lovecandle",
     "name": "Love Candle",

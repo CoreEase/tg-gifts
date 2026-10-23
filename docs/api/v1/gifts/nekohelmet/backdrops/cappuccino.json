@@ -18,7 +18,11 @@
   "originalRarityPermille": 10,
   "rarity": 1,
   "originalRarity": 1,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-square.svg"
+  },
   "gift": {
     "slug": "nekohelmet",
     "name": "Neko Helmet",

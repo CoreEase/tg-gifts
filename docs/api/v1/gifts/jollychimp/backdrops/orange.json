@@ -18,7 +18,11 @@
   "originalRarityPermille": 10,
   "rarity": 1,
   "originalRarity": 1,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d19a3a-c06f47-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d19a3a-c06f47-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d19a3a-c06f47-square.svg"
+  },
   "gift": {
     "slug": "jollychimp",
     "name": "Jolly Chimp",

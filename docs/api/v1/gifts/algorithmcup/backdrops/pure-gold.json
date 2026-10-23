@@ -18,7 +18,11 @@
   "originalRarityPermille": 60,
   "rarity": 6,
   "originalRarity": 6,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ccab41-987b32-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ccab41-987b32-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ccab41-987b32-square.svg"
+  },
   "gift": {
     "slug": "algorithmcup",
     "name": "Algorithm Cup",

@@ -18,7 +18,11 @@
   "originalRarityPermille": 15,
   "rarity": 1.5,
   "originalRarity": 1.5,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/db9867-c76f4f-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/db9867-c76f4f-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/db9867-c76f4f-square.svg"
+  },
   "gift": {
     "slug": "artisanbrick",
     "name": "Artisan Brick",

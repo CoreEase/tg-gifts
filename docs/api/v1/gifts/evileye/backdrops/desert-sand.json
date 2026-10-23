@@ -18,7 +18,11 @@
   "originalRarityPermille": 20,
   "rarity": 2,
   "originalRarity": 2,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b39f82-7e735b-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b39f82-7e735b-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b39f82-7e735b-square.svg"
+  },
   "gift": {
     "slug": "evileye",
     "name": "Evil Eye",

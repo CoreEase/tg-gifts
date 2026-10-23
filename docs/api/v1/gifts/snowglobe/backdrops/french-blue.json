@@ -18,7 +18,11 @@
   "originalRarityPermille": 12,
   "rarity": 1.2,
   "originalRarity": 1.2,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c9bc4-37739a-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c9bc4-37739a-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c9bc4-37739a-square.svg"
+  },
   "gift": {
     "slug": "snowglobe",
     "name": "Snow Globe",

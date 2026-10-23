@@ -18,7 +18,11 @@
   "originalRarityPermille": 15,
   "rarity": 1.5,
   "originalRarity": 1.5,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6ba97c-3e7970-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6ba97c-3e7970-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6ba97c-3e7970-square.svg"
+  },
   "gift": {
     "slug": "bdaycandle",
     "name": "B-Day Candle",

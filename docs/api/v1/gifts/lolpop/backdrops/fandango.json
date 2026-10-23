@@ -18,7 +18,11 @@
   "originalRarityPermille": 20,
   "rarity": 2,
   "originalRarity": 2,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e28ab6-a4588b-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e28ab6-a4588b-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e28ab6-a4588b-square.svg"
+  },
   "gift": {
     "slug": "lolpop",
     "name": "Lol Pop",

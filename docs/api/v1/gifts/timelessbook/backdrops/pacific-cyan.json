@@ -18,7 +18,11 @@
   "originalRarityPermille": 12,
   "rarity": 1.2,
   "originalRarity": 1.2,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5abea6-3d95ba-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5abea6-3d95ba-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5abea6-3d95ba-square.svg"
+  },
   "gift": {
     "slug": "timelessbook",
     "name": "Timeless Book",

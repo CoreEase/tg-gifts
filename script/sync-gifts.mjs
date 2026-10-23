@@ -6,11 +6,12 @@ import { setTimeout as delay } from 'node:timers/promises';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const GIFTS_DIR = path.join(ROOT, 'gifts');
+const SHARED_ASSETS_DIR = path.join(ROOT, 'assets');
 const API_OUTPUT_DIR = path.join(ROOT, 'docs', 'api', 'v1');
 const UPSTREAM = (process.env.GIFTS_API_BASE || 'https://api.changes.tg').replace(/\/+$/, '');
 const REPOSITORY = process.env.GITHUB_REPOSITORY || 'CoreEase/tg-gifts';
 const [OWNER, REPO] = REPOSITORY.split('/');
-const PAGES_BASE = (process.env.GITHUB_PAGES_BASE_URL || `https://${OWNER.toLowerCase()}.github.io/${REPO.toLowerCase()}`).replace(/\/+$/, '');
+const PAGES_BASE = (process.env.GITHUB_PAGES_BASE_URL || `https://${OWNER}.github.io/${REPO}`).replace(/\/+$/, '');
 const ASSET_BASE = (process.env.ASSET_PUBLIC_BASE_URL || `https://raw.githubusercontent.com/${OWNER}/${REPO}/main`).replace(/\/+$/, '');
 const CONCURRENCY = Math.max(1, Math.min(16, Number.parseInt(process.env.ASSET_DOWNLOAD_CONCURRENCY || '6', 10) || 6));
 const REFRESH = process.argv.includes('--refresh');
@@ -18,7 +19,7 @@ const CHECK_ONLY = process.argv.includes('--check-only');
 const HELP = process.argv.includes('--help') || process.argv.includes('-h');
 
 if (HELP) {
-  console.log(`Usage: node script/sync-gifts.mjs [--check-only] [--refresh]\n\n--check-only  Fetch and validate the complete upstream catalog without changing files.\n--refresh     Re-download every model, pattern, and original asset.\n\nThe normal run synchronizes all upgradable gifts, validates the API snapshot,\ndownloads missing or invalid assets, formats TypeScript, and builds docs/api/v1.`);
+  console.log(`Usage: node script/sync-gifts.mjs [--check-only] [--refresh]\n\n--check-only  Fetch and validate the complete upstream catalog without changing files.\n--refresh     Re-download model, pattern, and original assets.\n\nThe normal run synchronizes all upgradable gifts, validates the API snapshot,\ndownloads missing or invalid assets, generates shared backdrop SVGs, formats\nTypeScript, and builds docs/api/v1.`);
   process.exit(0);
 }
 
@@ -215,6 +216,40 @@ function nullableNumber(value) {
   return typeof value === 'number' && Number.isFinite(value) ? value : null;
 }
 
+function canonicalColor(value, label) {
+  assert(typeof value === 'string' && /^#[0-9a-f]{6}$/i.test(value), `${label} must be a six-digit hex color.`);
+  return value.toLowerCase();
+}
+
+function backdropAssetPaths(hex) {
+  const center = canonicalColor(hex.centerColor, 'Backdrop centerColor');
+  const edge = canonicalColor(hex.edgeColor, 'Backdrop edgeColor');
+  const stem = `${center.slice(1)}-${edge.slice(1)}`;
+  return {
+    circleSvg: `assets/backdrops/${stem}-circle.svg`,
+    squareSvg: `assets/backdrops/${stem}-square.svg`,
+  };
+}
+
+function renderBackdropSvg(centerColor, edgeColor, shape) {
+  const center = canonicalColor(centerColor, 'Backdrop centerColor');
+  const edge = canonicalColor(edgeColor, 'Backdrop edgeColor');
+  const shapeMarkup = shape === 'circle'
+    ? '<circle cx="50%" cy="50%" r="45%" fill="url(#backdrop-gradient)"/>'
+    : '<rect width="128" height="128" fill="url(#backdrop-gradient)"/>';
+  return [
+    '<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg">',
+    '  <defs>',
+    '    <radialGradient id="backdrop-gradient" cx="50%" cy="50%" fx="50%" fy="50%" r="69%">',
+    `      <stop stop-color="${center}" offset="0%"/>`,
+    `      <stop stop-color="${edge}" offset="100%"/>`,
+    '    </radialGradient>',
+    '  </defs>',
+    `  ${shapeMarkup}`,
+    '</svg>',
+  ].join('\n') + '\n';
+}
+
 function normalizeModel(item, emojiItem, assets) {
   return {
     name: item.name,
@@ -263,6 +298,7 @@ function normalizeBackdrop(item, emojiItem = item) {
     originalRarityPermille: nullableNumber(item.originalRarityPermille),
     rarity: nullableNumber(item.rarity),
     originalRarity: nullableNumber(item.originalRarity),
+    assets: backdropAssetPaths(item.hex),
   };
 }
 
@@ -332,8 +368,9 @@ function isValidAsset(filePath, kind) {
   }
 }
 
-function createAssetTasks(groups) {
+function createAssetTasks(groups, globalBackdrops) {
   const tasks = [];
+  const backdropAssets = new Map();
   for (const group of groups) {
     const original = group.summary.original;
     tasks.push({
@@ -354,11 +391,31 @@ function createAssetTasks(groups) {
       tasks.push({ relativePath: paths.png, kind: 'png', url: `${UPSTREAM}/pattern/${giftId}/${name}.png`, label: `${group.gift.name}/${raw.name} PNG` });
     }
   }
-  return tasks;
+  for (const backdrop of globalBackdrops) {
+    for (const [shape, relativePath] of Object.entries(backdrop.assets)) {
+      if (backdropAssets.has(relativePath)) continue;
+      const shapeName = shape === 'circleSvg' ? 'circle' : 'square';
+      backdropAssets.set(relativePath, {
+        relativePath,
+        kind: 'generated-svg',
+        generatedContent: renderBackdropSvg(backdrop.hex.centerColor, backdrop.hex.edgeColor, shapeName),
+        label: `${backdrop.name} ${shapeName} backdrop SVG`,
+      });
+    }
+  }
+  return [...tasks, ...backdropAssets.values()];
 }
 
 async function downloadTask(task) {
   const destination = safeAssetPath(task.relativePath);
+  if (task.kind === 'generated-svg') {
+    if (fs.existsSync(destination) && fs.readFileSync(destination, 'utf8') === task.generatedContent) return 'skipped';
+    fs.mkdirSync(path.dirname(destination), { recursive: true });
+    const temporary = `${destination}.part-${process.pid}`;
+    fs.writeFileSync(temporary, task.generatedContent, 'utf8');
+    fs.renameSync(temporary, destination);
+    return 'downloaded';
+  }
   if (!REFRESH && isValidAsset(destination, task.kind)) return 'skipped';
   fs.mkdirSync(path.dirname(destination), { recursive: true });
   let lastError;
@@ -522,6 +579,8 @@ function apiPattern(item, slug, gift, giftApiPath) {
 
 function apiBackdrop(item, slug, gift, giftApiPath) {
   const self = `${giftApiPath}/backdrops/${item.slug}.json`;
+  const circleUrl = safePublicUrl(ASSET_BASE, item.assets.circleSvg);
+  const squareUrl = safePublicUrl(ASSET_BASE, item.assets.squareSvg);
   return {
     type: 'backdrop',
     slug: item.slug,
@@ -537,7 +596,8 @@ function apiBackdrop(item, slug, gift, giftApiPath) {
     originalRarityPermille: item.originalRarityPermille,
     rarity: item.rarity,
     originalRarity: item.originalRarity,
-    imageUrl: null,
+    imageUrl: squareUrl,
+    assets: { circleSvg: circleUrl, squareSvg: squareUrl },
     gift: { slug, name: gift.name, id: String(gift.id) },
     url: `${PAGES_BASE}/api/v1/${self}`,
   };
@@ -646,7 +706,11 @@ function buildStaticApi(groups, globalBackdrops, sourceUpdatedAt) {
   const globalApiBackdrops = globalBackdrops.map((item) => ({
     ...item,
     slug: slugify(item.name),
-    imageUrl: null,
+    imageUrl: safePublicUrl(ASSET_BASE, item.assets.squareSvg),
+    assets: {
+      circleSvg: safePublicUrl(ASSET_BASE, item.assets.circleSvg),
+      squareSvg: safePublicUrl(ASSET_BASE, item.assets.squareSvg),
+    },
   }));
   writeJson(path.join(API_OUTPUT_DIR, 'backdrops.json'), {
     count: globalApiBackdrops.length,
@@ -742,10 +806,26 @@ async function discoverCatalog() {
 }
 
 function checkMissingAssets(tasks) {
-  const missing = tasks.filter((task) => !isValidAsset(safeAssetPath(task.relativePath), task.kind));
-  const byKind = Object.fromEntries(['svg', 'tgs', 'png'].map((kind) => [kind, missing.filter((task) => task.kind === kind).length]));
+  const missing = tasks.filter((task) => {
+    const destination = safeAssetPath(task.relativePath);
+    if (task.kind === 'generated-svg') return !fs.existsSync(destination) || fs.readFileSync(destination, 'utf8') !== task.generatedContent;
+    return !isValidAsset(destination, task.kind);
+  });
+  const byKind = Object.fromEntries(['svg', 'tgs', 'png', 'generated-svg'].map((kind) => [kind, missing.filter((task) => task.kind === kind).length]));
   console.log(`Check only: missing or invalid assets=${missing.length}; ${JSON.stringify(byKind)}.`);
   if (missing.length) console.log(`First missing files:\n${missing.slice(0, 15).map((task) => `- ${task.relativePath}`).join('\n')}`);
+}
+
+function cleanupStaleBackdropAssets(tasks) {
+  const directory = path.join(SHARED_ASSETS_DIR, 'backdrops');
+  if (!fs.existsSync(directory)) return;
+  const expected = new Set(tasks.filter((task) => task.kind === 'generated-svg').map((task) => path.posix.basename(task.relativePath)));
+  const generatedName = /^[0-9a-f]{6}-[0-9a-f]{6}-(?:circle|square)\.svg$/;
+  for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
+    if (entry.isFile() && generatedName.test(entry.name) && !expected.has(entry.name)) {
+      fs.rmSync(path.join(directory, entry.name), { force: true });
+    }
+  }
 }
 
 async function main() {
@@ -753,12 +833,13 @@ async function main() {
   assert(fs.existsSync(GIFTS_DIR), `Missing gifts directory: ${GIFTS_DIR}`);
   console.log(`Sync base: ${ROOT}; API: ${UPSTREAM}; Pages base: ${PAGES_BASE}; asset base: ${ASSET_BASE}`);
   const catalog = await discoverCatalog();
-  const tasks = createAssetTasks(catalog.groups);
+  const tasks = createAssetTasks(catalog.groups, catalog.globalBackdrops);
   if (CHECK_ONLY) {
     checkMissingAssets(tasks);
     return;
   }
   const assetStats = await downloadAll(tasks);
+  cleanupStaleBackdropAssets(tasks);
 
   const summaryIndex = catalog.groups.map((group) => group.summary);
   for (const group of catalog.groups) {

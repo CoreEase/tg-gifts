@@ -18,7 +18,11 @@
   "originalRarityPermille": 20,
   "rarity": 2,
   "originalRarity": 2,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8c8c85-6c6c66-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8c8c85-6c6c66-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8c8c85-6c6c66-square.svg"
+  },
   "gift": {
     "slug": "signetring",
     "name": "Signet Ring",

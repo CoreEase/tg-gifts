@@ -18,7 +18,11 @@
   "originalRarityPermille": 50,
   "rarity": 5,
   "originalRarity": 5,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/bab6b1-a19d97-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/bab6b1-a19d97-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/bab6b1-a19d97-square.svg"
+  },
   "gift": {
     "slug": "intelligencecup",
     "name": "Intelligence Cup",

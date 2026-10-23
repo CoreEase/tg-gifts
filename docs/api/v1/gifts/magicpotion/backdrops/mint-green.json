@@ -18,7 +18,11 @@
   "originalRarityPermille": 15,
   "rarity": 1.5,
   "originalRarity": 1.5,
-  "imageUrl": null,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-square.svg"
+  },
   "gift": {
     "slug": "magicpotion",
     "name": "Magic Potion",

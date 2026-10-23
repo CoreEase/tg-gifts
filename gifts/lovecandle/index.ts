@@ -2705,7 +2705,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/8c8c85-6c6c66-circle.svg",
+      "squareSvg": "assets/backdrops/8c8c85-6c6c66-square.svg"
+    }
   },
   {
     "name": "Caramel",
@@ -2724,7 +2728,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/d09932-b77431-circle.svg",
+      "squareSvg": "assets/backdrops/d09932-b77431-square.svg"
+    }
   },
   {
     "name": "Copper",
@@ -2743,7 +2751,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/d08656-9d6531-circle.svg",
+      "squareSvg": "assets/backdrops/d08656-9d6531-square.svg"
+    }
   },
   {
     "name": "Electric Purple",
@@ -2762,7 +2774,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/ca70c6-9662d4-circle.svg",
+      "squareSvg": "assets/backdrops/ca70c6-9662d4-square.svg"
+    }
   },
   {
     "name": "Fandango",
@@ -2781,7 +2797,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/e28ab6-a4588b-circle.svg",
+      "squareSvg": "assets/backdrops/e28ab6-a4588b-square.svg"
+    }
   },
   {
     "name": "Hunter Green",
@@ -2800,7 +2820,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/8fae78-4b825b-circle.svg",
+      "squareSvg": "assets/backdrops/8fae78-4b825b-square.svg"
+    }
   },
   {
     "name": "Midnight Blue",
@@ -2819,7 +2843,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/5c6985-354057-circle.svg",
+      "squareSvg": "assets/backdrops/5c6985-354057-square.svg"
+    }
   },
   {
     "name": "Moonstone",
@@ -2838,7 +2866,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/7eb1b4-588390-circle.svg",
+      "squareSvg": "assets/backdrops/7eb1b4-588390-square.svg"
+    }
   },
   {
     "name": "Persimmon",
@@ -2857,7 +2889,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/e7a75a-c5675f-circle.svg",
+      "squareSvg": "assets/backdrops/e7a75a-c5675f-square.svg"
+    }
   },
   {
     "name": "Rosewood",
@@ -2876,7 +2912,11 @@ export const backdrops = [
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
-    "originalRarity": 1
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/b77a77-814c52-circle.svg",
+      "squareSvg": "assets/backdrops/b77a77-814c52-square.svg"
+    }
   },
   {
     "name": "Azure Blue",
@@ -2895,7 +2935,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/5db1cb-448bab-circle.svg",
+      "squareSvg": "assets/backdrops/5db1cb-448bab-square.svg"
+    }
   },
   {
     "name": "Chestnut",
@@ -2914,7 +2958,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/be6f54-994838-circle.svg",
+      "squareSvg": "assets/backdrops/be6f54-994838-square.svg"
+    }
   },
   {
     "name": "Coral Red",
@@ -2933,7 +2981,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/da896b-c4654f-circle.svg",
+      "squareSvg": "assets/backdrops/da896b-c4654f-square.svg"
+    }
   },
   {
     "name": "Cyberpunk",
@@ -2952,7 +3004,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/858ff3-865fd3-circle.svg",
+      "squareSvg": "assets/backdrops/858ff3-865fd3-square.svg"
+    }
   },
   {
     "name": "Emerald",
@@ -2971,7 +3027,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/78c585-42a171-circle.svg",
+      "squareSvg": "assets/backdrops/78c585-42a171-square.svg"
+    }
   },
   {
     "name": "English Violet",
@@ -2990,7 +3050,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/b186bb-875a91-circle.svg",
+      "squareSvg": "assets/backdrops/b186bb-875a91-square.svg"
+    }
   },
   {
     "name": "Grape",
@@ -3009,7 +3073,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/9d74c1-794da0-circle.svg",
+      "squareSvg": "assets/backdrops/9d74c1-794da0-square.svg"
+    }
   },
   {
     "name": "Ivory White",
@@ -3028,7 +3096,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/bab6b1-a19d97-circle.svg",
+      "squareSvg": "assets/backdrops/bab6b1-a19d97-square.svg"
+    }
   },
   {
     "name": "Jade Green",
@@ -3047,7 +3119,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/55c49c-3b9977-circle.svg",
+      "squareSvg": "assets/backdrops/55c49c-3b9977-square.svg"
+    }
   },
   {
     "name": "Khaki Green",
@@ -3066,7 +3142,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/adb070-6b7d54-circle.svg",
+      "squareSvg": "assets/backdrops/adb070-6b7d54-square.svg"
+    }
   },
   {
     "name": "Lavender",
@@ -3085,7 +3165,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/b789e4-8a5abc-circle.svg",
+      "squareSvg": "assets/backdrops/b789e4-8a5abc-square.svg"
+    }
   },
   {
     "name": "Malachite",
@@ -3104,7 +3188,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/95b457-3d9755-circle.svg",
+      "squareSvg": "assets/backdrops/95b457-3d9755-square.svg"
+    }
   },
   {
     "name": "Navy Blue",
@@ -3123,7 +3211,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/6c9edd-5c6ec9-circle.svg",
+      "squareSvg": "assets/backdrops/6c9edd-5c6ec9-square.svg"
+    }
   },
   {
     "name": "Neon Blue",
@@ -3142,7 +3234,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/7596f9-6862e4-circle.svg",
+      "squareSvg": "assets/backdrops/7596f9-6862e4-square.svg"
+    }
   },
   {
     "name": "Orange",
@@ -3161,7 +3257,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/d19a3a-c06f47-circle.svg",
+      "squareSvg": "assets/backdrops/d19a3a-c06f47-square.svg"
+    }
   },
   {
     "name": "Pacific Green",
@@ -3180,7 +3280,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/6fc793-3b9c84-circle.svg",
+      "squareSvg": "assets/backdrops/6fc793-3b9c84-square.svg"
+    }
   },
   {
     "name": "Purple",
@@ -3199,7 +3303,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/ae6cae-844784-circle.svg",
+      "squareSvg": "assets/backdrops/ae6cae-844784-square.svg"
+    }
   },
   {
     "name": "Satin Gold",
@@ -3218,7 +3326,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/bf9b47-8d7739-circle.svg",
+      "squareSvg": "assets/backdrops/bf9b47-8d7739-square.svg"
+    }
   },
   {
     "name": "Shamrock Green",
@@ -3237,7 +3349,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/8ab163-559345-circle.svg",
+      "squareSvg": "assets/backdrops/8ab163-559345-square.svg"
+    }
   },
   {
     "name": "Steel Grey",
@@ -3256,7 +3372,11 @@ export const backdrops = [
     "rarityPermille": 15,
     "originalRarityPermille": 15,
     "rarity": 1.5,
-    "originalRarity": 1.5
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/97a2ac-63727c-circle.svg",
+      "squareSvg": "assets/backdrops/97a2ac-63727c-square.svg"
+    }
   },
   {
     "name": "Amber",
@@ -3275,7 +3395,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/dab345-b1802a-circle.svg",
+      "squareSvg": "assets/backdrops/dab345-b1802a-square.svg"
+    }
   },
   {
     "name": "Aquamarine",
@@ -3294,7 +3418,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/60b195-46abb4-circle.svg",
+      "squareSvg": "assets/backdrops/60b195-46abb4-square.svg"
+    }
   },
   {
     "name": "Black",
@@ -3313,7 +3441,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/363738-0e0f0f-circle.svg",
+      "squareSvg": "assets/backdrops/363738-0e0f0f-square.svg"
+    }
   },
   {
     "name": "Burgundy",
@@ -3332,7 +3464,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/a35e66-6d414a-circle.svg",
+      "squareSvg": "assets/backdrops/a35e66-6d414a-square.svg"
+    }
   },
   {
     "name": "Cappuccino",
@@ -3351,7 +3487,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/b1907e-7c6356-circle.svg",
+      "squareSvg": "assets/backdrops/b1907e-7c6356-square.svg"
+    }
   },
   {
     "name": "Carrot Juice",
@@ -3370,7 +3510,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/db9867-c76f4f-circle.svg",
+      "squareSvg": "assets/backdrops/db9867-c76f4f-square.svg"
+    }
   },
   {
     "name": "Chocolate",
@@ -3389,7 +3533,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/a46e58-74443b-circle.svg",
+      "squareSvg": "assets/backdrops/a46e58-74443b-square.svg"
+    }
   },
   {
     "name": "Cobalt Blue",
@@ -3408,7 +3556,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/6088cf-5162b8-circle.svg",
+      "squareSvg": "assets/backdrops/6088cf-5162b8-square.svg"
+    }
   },
   {
     "name": "Dark Lilac",
@@ -3427,7 +3579,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/b17da5-8c577a-circle.svg",
+      "squareSvg": "assets/backdrops/b17da5-8c577a-square.svg"
+    }
   },
   {
     "name": "Desert Sand",
@@ -3446,7 +3602,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/b39f82-7e735b-circle.svg",
+      "squareSvg": "assets/backdrops/b39f82-7e735b-square.svg"
+    }
   },
   {
     "name": "Electric Indigo",
@@ -3465,7 +3625,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/a980f3-5b62d8-circle.svg",
+      "squareSvg": "assets/backdrops/a980f3-5b62d8-square.svg"
+    }
   },
   {
     "name": "French Blue",
@@ -3484,7 +3648,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/5c9bc4-37739a-circle.svg",
+      "squareSvg": "assets/backdrops/5c9bc4-37739a-square.svg"
+    }
   },
   {
     "name": "Indigo Dye",
@@ -3503,7 +3671,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/537991-416479-circle.svg",
+      "squareSvg": "assets/backdrops/537991-416479-square.svg"
+    }
   },
   {
     "name": "Lemongrass",
@@ -3522,7 +3694,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/aeb85a-559345-circle.svg",
+      "squareSvg": "assets/backdrops/aeb85a-559345-square.svg"
+    }
   },
   {
     "name": "Light Olive",
@@ -3541,7 +3717,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/c2af64-887e45-circle.svg",
+      "squareSvg": "assets/backdrops/c2af64-887e45-square.svg"
+    }
   },
   {
     "name": "Mint Green",
@@ -3560,7 +3740,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/7ecb82-459e5a-circle.svg",
+      "squareSvg": "assets/backdrops/7ecb82-459e5a-square.svg"
+    }
   },
   {
     "name": "Mystic Pearl",
@@ -3579,7 +3763,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/d08b6d-b05770-circle.svg",
+      "squareSvg": "assets/backdrops/d08b6d-b05770-square.svg"
+    }
   },
   {
     "name": "Onyx Black",
@@ -3598,7 +3786,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/4d5254-313638-circle.svg",
+      "squareSvg": "assets/backdrops/4d5254-313638-square.svg"
+    }
   },
   {
     "name": "Pacific Cyan",
@@ -3617,7 +3809,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/5abea6-3d95ba-circle.svg",
+      "squareSvg": "assets/backdrops/5abea6-3d95ba-square.svg"
+    }
   },
   {
     "name": "Pine Green",
@@ -3636,7 +3832,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/6ba97c-3e7970-circle.svg",
+      "squareSvg": "assets/backdrops/6ba97c-3e7970-square.svg"
+    }
   },
   {
     "name": "Pistachio",
@@ -3655,7 +3855,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/97b07c-5c814c-circle.svg",
+      "squareSvg": "assets/backdrops/97b07c-5c814c-square.svg"
+    }
   },
   {
     "name": "Platinum",
@@ -3674,7 +3878,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/b2aea7-88847e-circle.svg",
+      "squareSvg": "assets/backdrops/b2aea7-88847e-square.svg"
+    }
   },
   {
     "name": "Pure Gold",
@@ -3693,7 +3901,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/ccab41-987b32-circle.svg",
+      "squareSvg": "assets/backdrops/ccab41-987b32-square.svg"
+    }
   },
   {
     "name": "Raspberry",
@@ -3712,7 +3924,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/e07b85-b65980-circle.svg",
+      "squareSvg": "assets/backdrops/e07b85-b65980-square.svg"
+    }
   },
   {
     "name": "Roman Silver",
@@ -3731,7 +3947,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/a3a8b5-7c808a-circle.svg",
+      "squareSvg": "assets/backdrops/a3a8b5-7c808a-square.svg"
+    }
   },
   {
     "name": "Sapphire",
@@ -3750,7 +3970,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/58a3c8-5379c2-circle.svg",
+      "squareSvg": "assets/backdrops/58a3c8-5379c2-square.svg"
+    }
   },
   {
     "name": "Silver Blue",
@@ -3769,7 +3993,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/80a4b8-607c91-circle.svg",
+      "squareSvg": "assets/backdrops/80a4b8-607c91-square.svg"
+    }
   },
   {
     "name": "Sky Blue",
@@ -3788,7 +4016,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/58b4c8-538bc2-circle.svg",
+      "squareSvg": "assets/backdrops/58b4c8-538bc2-square.svg"
+    }
   },
   {
     "name": "Strawberry",
@@ -3807,7 +4039,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/dd8e6f-b75a60-circle.svg",
+      "squareSvg": "assets/backdrops/dd8e6f-b75a60-square.svg"
+    }
   },
   {
     "name": "Turquoise",
@@ -3826,7 +4062,11 @@ export const backdrops = [
     "rarityPermille": 20,
     "originalRarityPermille": 20,
     "rarity": 2,
-    "originalRarity": 2
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/5ec0b8-3d928e-circle.svg",
+      "squareSvg": "assets/backdrops/5ec0b8-3d928e-square.svg"
+    }
   }
 ] satisfies readonly Backdrop[];
 
