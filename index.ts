@@ -17,10 +17,6 @@ export const backdrops = [
       "patternColor": "#6c6868",
       "textColor": "#8c8f91"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/363738-0e0f0f-circle.svg",
       "squareSvg": "assets/backdrops/363738-0e0f0f-square.svg"
@@ -40,10 +36,6 @@ export const backdrops = [
       "patternColor": "#620fb4",
       "textColor": "#ebceff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/ca70c6-9662d4-circle.svg",
       "squareSvg": "assets/backdrops/ca70c6-9662d4-square.svg"
@@ -63,10 +55,6 @@ export const backdrops = [
       "patternColor": "#5b10ab",
       "textColor": "#e8d1ff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/b789e4-8a5abc-circle.svg",
       "squareSvg": "assets/backdrops/b789e4-8a5abc-square.svg"
@@ -86,10 +74,6 @@ export const backdrops = [
       "patternColor": "#4318a6",
       "textColor": "#e0d9ff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/858ff3-865fd3-circle.svg",
       "squareSvg": "assets/backdrops/858ff3-865fd3-square.svg"
@@ -109,10 +93,6 @@ export const backdrops = [
       "patternColor": "#3722ab",
       "textColor": "#d8d8ff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/a980f3-5b62d8-circle.svg",
       "squareSvg": "assets/backdrops/a980f3-5b62d8-square.svg"
@@ -132,10 +112,6 @@ export const backdrops = [
       "patternColor": "#2828bc",
       "textColor": "#cfddff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/7596f9-6862e4-circle.svg",
       "squareSvg": "assets/backdrops/7596f9-6862e4-square.svg"
@@ -155,10 +131,6 @@ export const backdrops = [
       "patternColor": "#1239a2",
       "textColor": "#d3e1ff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/6c9edd-5c6ec9-circle.svg",
       "squareSvg": "assets/backdrops/6c9edd-5c6ec9-square.svg"
@@ -178,10 +150,6 @@ export const backdrops = [
       "patternColor": "#0d45b6",
       "textColor": "#c1deff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/58a3c8-5379c2-circle.svg",
       "squareSvg": "assets/backdrops/58a3c8-5379c2-square.svg"
@@ -201,10 +169,6 @@ export const backdrops = [
       "patternColor": "#07609b",
       "textColor": "#cde8fd"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/58b4c8-538bc2-circle.svg",
       "squareSvg": "assets/backdrops/58b4c8-538bc2-square.svg"
@@ -224,10 +188,6 @@ export const backdrops = [
       "patternColor": "#025074",
       "textColor": "#b5ecff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/5db1cb-448bab-circle.svg",
       "squareSvg": "assets/backdrops/5db1cb-448bab-square.svg"
@@ -247,10 +207,6 @@ export const backdrops = [
       "patternColor": "#02648d",
       "textColor": "#b6efff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/5abea6-3d95ba-circle.svg",
       "squareSvg": "assets/backdrops/5abea6-3d95ba-square.svg"
@@ -270,10 +226,6 @@ export const backdrops = [
       "patternColor": "#035f67",
       "textColor": "#c7fdfe"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/60b195-46abb4-circle.svg",
       "squareSvg": "assets/backdrops/60b195-46abb4-square.svg"
@@ -293,10 +245,6 @@ export const backdrops = [
       "patternColor": "#006149",
       "textColor": "#c6fff0"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/6fc793-3b9c84-circle.svg",
       "squareSvg": "assets/backdrops/6fc793-3b9c84-square.svg"
@@ -316,10 +264,6 @@ export const backdrops = [
       "patternColor": "#006532",
       "textColor": "#b9f9d9"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/78c585-42a171-circle.svg",
       "squareSvg": "assets/backdrops/78c585-42a171-square.svg"
@@ -339,10 +283,6 @@ export const backdrops = [
       "patternColor": "#026b22",
       "textColor": "#bdffcc"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/7ecb82-459e5a-circle.svg",
       "squareSvg": "assets/backdrops/7ecb82-459e5a-square.svg"
@@ -362,10 +302,6 @@ export const backdrops = [
       "patternColor": "#046b06",
       "textColor": "#c2efbe"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/95b457-3d9755-circle.svg",
       "squareSvg": "assets/backdrops/95b457-3d9755-square.svg"
@@ -385,10 +321,6 @@ export const backdrops = [
       "patternColor": "#126b00",
       "textColor": "#d5fbc8"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/8ab163-559345-circle.svg",
       "squareSvg": "assets/backdrops/8ab163-559345-square.svg"
@@ -408,10 +340,6 @@ export const backdrops = [
       "patternColor": "#466a07",
       "textColor": "#d8f2c2"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/aeb85a-559345-circle.svg",
       "squareSvg": "assets/backdrops/aeb85a-559345-square.svg"
@@ -431,10 +359,6 @@ export const backdrops = [
       "patternColor": "#594c04",
       "textColor": "#f5ebbc"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/c2af64-887e45-circle.svg",
       "squareSvg": "assets/backdrops/c2af64-887e45-square.svg"
@@ -454,10 +378,6 @@ export const backdrops = [
       "patternColor": "#5d3b00",
       "textColor": "#fee4a9"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/bf9b47-8d7739-circle.svg",
       "squareSvg": "assets/backdrops/bf9b47-8d7739-square.svg"
@@ -477,10 +397,6 @@ export const backdrops = [
       "patternColor": "#703c00",
       "textColor": "#ffe5ab"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/ccab41-987b32-circle.svg",
       "squareSvg": "assets/backdrops/ccab41-987b32-square.svg"
@@ -500,10 +416,6 @@ export const backdrops = [
       "patternColor": "#7a3100",
       "textColor": "#ffedc7"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/dab345-b1802a-circle.svg",
       "squareSvg": "assets/backdrops/dab345-b1802a-square.svg"
@@ -523,10 +435,6 @@ export const backdrops = [
       "patternColor": "#7d3600",
       "textColor": "#ffd9b3"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/d09932-b77431-circle.svg",
       "squareSvg": "assets/backdrops/d09932-b77431-square.svg"
@@ -546,10 +454,6 @@ export const backdrops = [
       "patternColor": "#9d3907",
       "textColor": "#ffe1c3"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/d19a3a-c06f47-circle.svg",
       "squareSvg": "assets/backdrops/d19a3a-c06f47-square.svg"
@@ -569,10 +473,6 @@ export const backdrops = [
       "patternColor": "#8e2100",
       "textColor": "#ffd7ca"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/db9867-c76f4f-circle.svg",
       "squareSvg": "assets/backdrops/db9867-c76f4f-square.svg"
@@ -592,10 +492,6 @@ export const backdrops = [
       "patternColor": "#891200",
       "textColor": "#ffd9d2"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/da896b-c4654f-circle.svg",
       "squareSvg": "assets/backdrops/da896b-c4654f-square.svg"
@@ -615,10 +511,6 @@ export const backdrops = [
       "patternColor": "#ad0e00",
       "textColor": "#ffe4d7"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/e7a75a-c5675f-circle.svg",
       "squareSvg": "assets/backdrops/e7a75a-c5675f-square.svg"
@@ -638,10 +530,6 @@ export const backdrops = [
       "patternColor": "#a90c0c",
       "textColor": "#ffd3d3"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/dd8e6f-b75a60-circle.svg",
       "squareSvg": "assets/backdrops/dd8e6f-b75a60-square.svg"
@@ -661,10 +549,6 @@ export const backdrops = [
       "patternColor": "#890638",
       "textColor": "#ffd6e6"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/e07b85-b65980-circle.svg",
       "squareSvg": "assets/backdrops/e07b85-b65980-square.svg"
@@ -684,10 +568,6 @@ export const backdrops = [
       "patternColor": "#9b0526",
       "textColor": "#fedde0"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/d08b6d-b05770-circle.svg",
       "squareSvg": "assets/backdrops/d08b6d-b05770-square.svg"
@@ -707,10 +587,6 @@ export const backdrops = [
       "patternColor": "#8e054e",
       "textColor": "#ffc7eb"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/e28ab6-a4588b-circle.svg",
       "squareSvg": "assets/backdrops/e28ab6-a4588b-square.svg"
@@ -730,10 +606,6 @@ export const backdrops = [
       "patternColor": "#652852",
       "textColor": "#f0c4e2"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/b17da5-8c577a-circle.svg",
       "squareSvg": "assets/backdrops/b17da5-8c577a-square.svg"
@@ -753,10 +625,6 @@ export const backdrops = [
       "patternColor": "#54225f",
       "textColor": "#e6c7ed"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/b186bb-875a91-circle.svg",
       "squareSvg": "assets/backdrops/b186bb-875a91-square.svg"
@@ -776,10 +644,6 @@ export const backdrops = [
       "patternColor": "#164552",
       "textColor": "#daf5fd"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/7eb1b4-588390-circle.svg",
       "squareSvg": "assets/backdrops/7eb1b4-588390-square.svg"
@@ -799,10 +663,6 @@ export const backdrops = [
       "patternColor": "#0b4833",
       "textColor": "#d8f5e5"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/6ba97c-3e7970-circle.svg",
       "squareSvg": "assets/backdrops/6ba97c-3e7970-square.svg"
@@ -822,10 +682,6 @@ export const backdrops = [
       "patternColor": "#1c491f",
       "textColor": "#d8f5de"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/8fae78-4b825b-circle.svg",
       "squareSvg": "assets/backdrops/8fae78-4b825b-square.svg"
@@ -845,10 +701,6 @@ export const backdrops = [
       "patternColor": "#28471b",
       "textColor": "#d9f2c9"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/97b07c-5c814c-circle.svg",
       "squareSvg": "assets/backdrops/97b07c-5c814c-square.svg"
@@ -868,10 +720,6 @@ export const backdrops = [
       "patternColor": "#39501b",
       "textColor": "#d3e6bb"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/adb070-6b7d54-circle.svg",
       "squareSvg": "assets/backdrops/adb070-6b7d54-square.svg"
@@ -891,10 +739,6 @@ export const backdrops = [
       "patternColor": "#504429",
       "textColor": "#f2e5cd"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/b39f82-7e735b-circle.svg",
       "squareSvg": "assets/backdrops/b39f82-7e735b-square.svg"
@@ -914,10 +758,6 @@ export const backdrops = [
       "patternColor": "#4a3226",
       "textColor": "#ebd4c8"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/b1907e-7c6356-circle.svg",
       "squareSvg": "assets/backdrops/b1907e-7c6356-square.svg"
@@ -937,10 +777,6 @@ export const backdrops = [
       "patternColor": "#551c22",
       "textColor": "#edcacd"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/b77a77-814c52-circle.svg",
       "squareSvg": "assets/backdrops/b77a77-814c52-square.svg"
@@ -960,10 +796,6 @@ export const backdrops = [
       "patternColor": "#665f52",
       "textColor": "#f5f4f2"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/bab6b1-a19d97-circle.svg",
       "squareSvg": "assets/backdrops/bab6b1-a19d97-square.svg"
@@ -983,10 +815,6 @@ export const backdrops = [
       "patternColor": "#3d382d",
       "textColor": "#e9e7e2"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/b2aea7-88847e-circle.svg",
       "squareSvg": "assets/backdrops/b2aea7-88847e-square.svg"
@@ -1006,10 +834,6 @@ export const backdrops = [
       "patternColor": "#3f4550",
       "textColor": "#dadfe2"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/a3a8b5-7c808a-circle.svg",
       "squareSvg": "assets/backdrops/a3a8b5-7c808a-square.svg"
@@ -1029,10 +853,6 @@ export const backdrops = [
       "patternColor": "#334552",
       "textColor": "#dfe4e8"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/97a2ac-63727c-circle.svg",
       "squareSvg": "assets/backdrops/97a2ac-63727c-square.svg"
@@ -1052,10 +872,6 @@ export const backdrops = [
       "patternColor": "#15374b",
       "textColor": "#c9e4f4"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/80a4b8-607c91-circle.svg",
       "squareSvg": "assets/backdrops/80a4b8-607c91-square.svg"
@@ -1075,10 +891,6 @@ export const backdrops = [
       "patternColor": "#340307",
       "textColor": "#e7bcc0"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/a35e66-6d414a-circle.svg",
       "squareSvg": "assets/backdrops/a35e66-6d414a-square.svg"
@@ -1098,10 +910,6 @@ export const backdrops = [
       "patternColor": "#031b29",
       "textColor": "#c2dcee"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/537991-416479-circle.svg",
       "squareSvg": "assets/backdrops/537991-416479-square.svg"
@@ -1121,10 +929,6 @@ export const backdrops = [
       "patternColor": "#030a18",
       "textColor": "#bfcce0"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/5c6985-354057-circle.svg",
       "squareSvg": "assets/backdrops/5c6985-354057-square.svg"
@@ -1144,10 +948,6 @@ export const backdrops = [
       "patternColor": "#000000",
       "textColor": "#a9abad"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/4d5254-313638-circle.svg",
       "squareSvg": "assets/backdrops/4d5254-313638-square.svg"
@@ -1167,10 +967,6 @@ export const backdrops = [
       "patternColor": "#2b2a20",
       "textColor": "#cfcec4"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/8c8c85-6c6c66-circle.svg",
       "squareSvg": "assets/backdrops/8c8c85-6c6c66-square.svg"
@@ -1190,10 +986,6 @@ export const backdrops = [
       "patternColor": "#470c47",
       "textColor": "#f3cbf3"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/ae6cae-844784-circle.svg",
       "squareSvg": "assets/backdrops/ae6cae-844784-square.svg"
@@ -1213,10 +1005,6 @@ export const backdrops = [
       "patternColor": "#3e0a6b",
       "textColor": "#e0bdfe"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/9d74c1-794da0-circle.svg",
       "squareSvg": "assets/backdrops/9d74c1-794da0-square.svg"
@@ -1236,10 +1024,6 @@ export const backdrops = [
       "patternColor": "#13247c",
       "textColor": "#c2d3f5"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/6088cf-5162b8-circle.svg",
       "squareSvg": "assets/backdrops/6088cf-5162b8-square.svg"
@@ -1259,10 +1043,6 @@ export const backdrops = [
       "patternColor": "#073b5c",
       "textColor": "#c1e3f9"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/5c9bc4-37739a-circle.svg",
       "squareSvg": "assets/backdrops/5c9bc4-37739a-square.svg"
@@ -1282,10 +1062,6 @@ export const backdrops = [
       "patternColor": "#11534c",
       "textColor": "#bdf8f2"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/5ec0b8-3d928e-circle.svg",
       "squareSvg": "assets/backdrops/5ec0b8-3d928e-square.svg"
@@ -1305,10 +1081,6 @@ export const backdrops = [
       "patternColor": "#044931",
       "textColor": "#befee7"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/55c49c-3b9977-circle.svg",
       "squareSvg": "assets/backdrops/55c49c-3b9977-square.svg"
@@ -1328,10 +1100,6 @@ export const backdrops = [
       "patternColor": "#602901",
       "textColor": "#f4d8be"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/d08656-9d6531-circle.svg",
       "squareSvg": "assets/backdrops/d08656-9d6531-square.svg"
@@ -1351,10 +1119,6 @@ export const backdrops = [
       "patternColor": "#601508",
       "textColor": "#fec6b9"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/be6f54-994838-circle.svg",
       "squareSvg": "assets/backdrops/be6f54-994838-square.svg"
@@ -1374,10 +1138,6 @@ export const backdrops = [
       "patternColor": "#3e0a02",
       "textColor": "#e4b6ac"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/a46e58-74443b-circle.svg",
       "squareSvg": "assets/backdrops/a46e58-74443b-square.svg"
@@ -1397,10 +1157,6 @@ export const backdrops = [
       "patternColor": "#010821",
       "textColor": "#bbcbf2"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/4e689c-3b4b7a-circle.svg",
       "squareSvg": "assets/backdrops/4e689c-3b4b7a-square.svg"
@@ -1420,10 +1176,6 @@ export const backdrops = [
       "patternColor": "#002624",
       "textColor": "#b7e6d3"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/44826b-2f6369-circle.svg",
       "squareSvg": "assets/backdrops/44826b-2f6369-square.svg"
@@ -1443,10 +1195,6 @@ export const backdrops = [
       "patternColor": "#07261d",
       "textColor": "#b5e0d4"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/558a65-3d6657-circle.svg",
       "squareSvg": "assets/backdrops/558a65-3d6657-square.svg"
@@ -1466,10 +1214,6 @@ export const backdrops = [
       "patternColor": "#000501",
       "textColor": "#bfd1a9"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/516341-2b452f-circle.svg",
       "squareSvg": "assets/backdrops/516341-2b452f-square.svg"
@@ -1489,10 +1233,6 @@ export const backdrops = [
       "patternColor": "#0a0605",
       "textColor": "#d4bcb5"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/664d45-47362e-circle.svg",
       "squareSvg": "assets/backdrops/664d45-47362e-square.svg"
@@ -1512,10 +1252,6 @@ export const backdrops = [
       "patternColor": "#0f120b",
       "textColor": "#c3c7bd"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/64695c-4b5241-circle.svg",
       "squareSvg": "assets/backdrops/64695c-4b5241-square.svg"
@@ -1535,10 +1271,6 @@ export const backdrops = [
       "patternColor": "#102209",
       "textColor": "#b7c4b5"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/5f7849-3c4f3b-circle.svg",
       "squareSvg": "assets/backdrops/5f7849-3c4f3b-square.svg"
@@ -1558,10 +1290,6 @@ export const backdrops = [
       "patternColor": "#163701",
       "textColor": "#cfe8b9"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/75944d-547341-circle.svg",
       "squareSvg": "assets/backdrops/75944d-547341-square.svg"
@@ -1581,10 +1309,6 @@ export const backdrops = [
       "patternColor": "#1c261f",
       "textColor": "#dee9e1"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/899288-5e6b63-circle.svg",
       "squareSvg": "assets/backdrops/899288-5e6b63-square.svg"
@@ -1604,10 +1328,6 @@ export const backdrops = [
       "patternColor": "#04080a",
       "textColor": "#b6c5cc"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/4c5d63-2f3b42-circle.svg",
       "squareSvg": "assets/backdrops/4c5d63-2f3b42-square.svg"
@@ -1627,10 +1347,6 @@ export const backdrops = [
       "patternColor": "#004f4f",
       "textColor": "#d1fffd"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/31b5aa-189599-circle.svg",
       "squareSvg": "assets/backdrops/31b5aa-189599-square.svg"
@@ -1650,10 +1366,6 @@ export const backdrops = [
       "patternColor": "#750230",
       "textColor": "#ffd6e6"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/e36692-c9497c-circle.svg",
       "squareSvg": "assets/backdrops/e36692-c9497c-square.svg"
@@ -1673,10 +1385,6 @@ export const backdrops = [
       "patternColor": "#800b00",
       "textColor": "#ffccbd"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/e6793e-d44e3f-circle.svg",
       "squareSvg": "assets/backdrops/e6793e-d44e3f-square.svg"
@@ -1696,10 +1404,6 @@ export const backdrops = [
       "patternColor": "#690009",
       "textColor": "#ffb7a6"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/f05f4f-c43949-circle.svg",
       "squareSvg": "assets/backdrops/f05f4f-c43949-square.svg"
@@ -1719,10 +1423,6 @@ export const backdrops = [
       "patternColor": "#003e85",
       "textColor": "#c2e7ff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/45b8ed-3886d9-circle.svg",
       "squareSvg": "assets/backdrops/45b8ed-3886d9-square.svg"
@@ -1742,10 +1442,6 @@ export const backdrops = [
       "patternColor": "#4f3302",
       "textColor": "#ffdd8c"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/b58d38-946925-circle.svg",
       "squareSvg": "assets/backdrops/b58d38-946925-square.svg"
@@ -1765,10 +1461,6 @@ export const backdrops = [
       "patternColor": "#6b0902",
       "textColor": "#ffccb0"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/d66f3c-b54b2d-circle.svg",
       "squareSvg": "assets/backdrops/d66f3c-b54b2d-square.svg"
@@ -1788,10 +1480,6 @@ export const backdrops = [
       "patternColor": "#4f0100",
       "textColor": "#ffb7ad"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/e0574a-a8383b-circle.svg",
       "squareSvg": "assets/backdrops/e0574a-a8383b-square.svg"
@@ -1811,10 +1499,6 @@ export const backdrops = [
       "patternColor": "#7a2500",
       "textColor": "#ffde9c"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/d4980d-c47712-circle.svg",
       "squareSvg": "assets/backdrops/d4980d-c47712-square.svg"
@@ -1834,10 +1518,6 @@ export const backdrops = [
       "patternColor": "#4a018a",
       "textColor": "#ebc7ff"
     },
-    "rarityPermille": null,
-    "originalRarityPermille": null,
-    "rarity": null,
-    "originalRarity": null,
     "assets": {
       "circleSvg": "assets/backdrops/c260e6-914ed9-circle.svg",
       "squareSvg": "assets/backdrops/c260e6-914ed9-square.svg"
