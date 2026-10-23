@@ -1,6 +1,5 @@
 import type { Backdrop } from './types.js';
 
-/** All unique Telegram gift backdrops. */
 export const backdrops = [
   {
     "name": "Feldgrau",
