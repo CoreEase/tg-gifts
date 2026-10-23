@@ -41,9 +41,9 @@ jobs:
           ORIGINAL_DOWNLOAD_CONCURRENCY: '6'
         run: |
           if [[ "$REFRESH" == "true" ]]; then
-            node scripts/download-originals.mjs --refresh
+            node script/download-originals.mjs --refresh
           else
-            node scripts/download-originals.mjs
+            node script/download-originals.mjs
           fi
 
       - name: Commit downloaded originals
