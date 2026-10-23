@@ -26,9 +26,12 @@ export interface GiftCollection {
   backdrops: readonly Backdrop[];
 }
 
-export interface CollectionSummary {
+export interface CollectionSummary = {
   slug: string;
+  name: string;
+  image: string;
+  count: number | null;       
   modelCount: number;
   patternCount: number;
   backdropCount: number;
-}
+};
