@@ -36,10 +36,10 @@ export interface GiftCollection {
 export type CollectionSummary = {
   slug: string;
   name: string;
-  image: string;
   count: number | null;
   modelCount: number;
   patternCount: number;
   backdropCount: number;
-  inFragment: boolean; 
+  inFragment: boolean;
+  original: string;
 };
