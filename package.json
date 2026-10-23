@@ -5,7 +5,6 @@
   "description": "Structured TypeScript data for Telegram gifts, collections, models, patterns and backdrops.",
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate-data.cjs",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
