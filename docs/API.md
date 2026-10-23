@@ -16,6 +16,7 @@ After publication, the default API base is `https://coreease.github.io/tg-gifts/
 Each model record has absolute `imageUrl` (SVG) and `animationUrl` (TGS) links. Each pattern has an absolute PNG `imageUrl`. Backdrops return color values and have `imageUrl: null` because the upstream describes them as color/material definitions without downloadable image files. All media links are absolute raw GitHub URLs. The URL base can be changed using `GITHUB_PAGES_BASE_URL` and `ASSET_PUBLIC_BASE_URL`.
 
 The workflow includes a conditional Pages deployment job. The repository remains private and Pages remains disabled until the owner makes the repository public and selects **GitHub Actions** in **Settings → Pages → Build and deployment → Source**. The next manual or scheduled sync publishes the contents of `docs/`.
+The workflow includes a conditional Pages deployment job. Pages is not enabled yet. To publish the API, select **GitHub Actions** in **Settings → Pages → Build and deployment → Source**; the next manual or scheduled sync will publish the contents of `docs/`.
 
 ## Upstream contract reviewed
 

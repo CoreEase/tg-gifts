@@ -8,5 +8,6 @@ Static JSON endpoints for Telegram gift collections, models, patterns, and backd
 - [Global backdrop list](api/v1/backdrops.json)
 
 The default site URL after enabling GitHub Pages is `https://coreease.github.io/tg-gifts/`. The API will be available below `/api/v1/`. Media links in the JSON are absolute raw GitHub URLs. This repository is currently private; the endpoints become publicly accessible only after the owner makes it public and enables Pages.
+The default site URL after enabling GitHub Pages is `https://coreease.github.io/tg-gifts/`. The API will be available below `/api/v1/`. Media links in the JSON are absolute raw GitHub URLs. GitHub Pages is not enabled yet, so the API URLs will be available after the Pages site is enabled.
 
 Powered by [@GiftChanges](https://t.me/GiftChanges) via [api.changes.tg](https://api.changes.tg).
