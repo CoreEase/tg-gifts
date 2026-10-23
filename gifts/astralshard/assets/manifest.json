@@ -1,0 +1,1545 @@
+{
+  "slug": "astralshard",
+  "models": [
+    {
+      "name": "Dark Soul",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/dark-soul.svg",
+        "tgs": "gifts/astralshard/assets/models/dark-soul.tgs"
+      }
+    },
+    {
+      "name": "Elven Might",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/elven-might.svg",
+        "tgs": "gifts/astralshard/assets/models/elven-might.tgs"
+      }
+    },
+    {
+      "name": "Eve’s Apple",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/eve-s-apple.svg",
+        "tgs": "gifts/astralshard/assets/models/eve-s-apple.tgs"
+      }
+    },
+    {
+      "name": "Excalibrite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/excalibrite.svg",
+        "tgs": "gifts/astralshard/assets/models/excalibrite.tgs"
+      }
+    },
+    {
+      "name": "Lovestone",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/lovestone.svg",
+        "tgs": "gifts/astralshard/assets/models/lovestone.tgs"
+      }
+    },
+    {
+      "name": "Aquarium",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/aquarium.svg",
+        "tgs": "gifts/astralshard/assets/models/aquarium.tgs"
+      }
+    },
+    {
+      "name": "Muffin",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/muffin.svg",
+        "tgs": "gifts/astralshard/assets/models/muffin.tgs"
+      }
+    },
+    {
+      "name": "Nectarite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/nectarite.svg",
+        "tgs": "gifts/astralshard/assets/models/nectarite.tgs"
+      }
+    },
+    {
+      "name": "Crystal Punk",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/crystal-punk.svg",
+        "tgs": "gifts/astralshard/assets/models/crystal-punk.tgs"
+      }
+    },
+    {
+      "name": "Fractured",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/fractured.svg",
+        "tgs": "gifts/astralshard/assets/models/fractured.tgs"
+      }
+    },
+    {
+      "name": "Barbed",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/barbed.svg",
+        "tgs": "gifts/astralshard/assets/models/barbed.tgs"
+      }
+    },
+    {
+      "name": "Blender",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/blender.svg",
+        "tgs": "gifts/astralshard/assets/models/blender.tgs"
+      }
+    },
+    {
+      "name": "Ivy Vine",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/ivy-vine.svg",
+        "tgs": "gifts/astralshard/assets/models/ivy-vine.tgs"
+      }
+    },
+    {
+      "name": "Arctite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/arctite.svg",
+        "tgs": "gifts/astralshard/assets/models/arctite.tgs"
+      }
+    },
+    {
+      "name": "Gold 999",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/gold-999.svg",
+        "tgs": "gifts/astralshard/assets/models/gold-999.tgs"
+      }
+    },
+    {
+      "name": "Silver Art",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/silver-art.svg",
+        "tgs": "gifts/astralshard/assets/models/silver-art.tgs"
+      }
+    },
+    {
+      "name": "Gramite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/gramite.svg",
+        "tgs": "gifts/astralshard/assets/models/gramite.tgs"
+      }
+    },
+    {
+      "name": "Premium",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/premium.svg",
+        "tgs": "gifts/astralshard/assets/models/premium.tgs"
+      }
+    },
+    {
+      "name": "Jurassic",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/jurassic.svg",
+        "tgs": "gifts/astralshard/assets/models/jurassic.tgs"
+      }
+    },
+    {
+      "name": "Galactite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/galactite.svg",
+        "tgs": "gifts/astralshard/assets/models/galactite.tgs"
+      }
+    },
+    {
+      "name": "Nouveau Gold",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/nouveau-gold.svg",
+        "tgs": "gifts/astralshard/assets/models/nouveau-gold.tgs"
+      }
+    },
+    {
+      "name": "Pure Silver",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/pure-silver.svg",
+        "tgs": "gifts/astralshard/assets/models/pure-silver.tgs"
+      }
+    },
+    {
+      "name": "Bogartite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/bogartite.svg",
+        "tgs": "gifts/astralshard/assets/models/bogartite.tgs"
+      }
+    },
+    {
+      "name": "Warholite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/warholite.svg",
+        "tgs": "gifts/astralshard/assets/models/warholite.tgs"
+      }
+    },
+    {
+      "name": "Uranium",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/uranium.svg",
+        "tgs": "gifts/astralshard/assets/models/uranium.tgs"
+      }
+    },
+    {
+      "name": "Moonstone",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/moonstone.svg",
+        "tgs": "gifts/astralshard/assets/models/moonstone.tgs"
+      }
+    },
+    {
+      "name": "RGB-ite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/rgb-ite.svg",
+        "tgs": "gifts/astralshard/assets/models/rgb-ite.tgs"
+      }
+    },
+    {
+      "name": "Glowstone",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/glowstone.svg",
+        "tgs": "gifts/astralshard/assets/models/glowstone.tgs"
+      }
+    },
+    {
+      "name": "White Opal",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/white-opal.svg",
+        "tgs": "gifts/astralshard/assets/models/white-opal.tgs"
+      }
+    },
+    {
+      "name": "True Opal",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/true-opal.svg",
+        "tgs": "gifts/astralshard/assets/models/true-opal.tgs"
+      }
+    },
+    {
+      "name": "Black Diamond",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/black-diamond.svg",
+        "tgs": "gifts/astralshard/assets/models/black-diamond.tgs"
+      }
+    },
+    {
+      "name": "Labradorite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/labradorite.svg",
+        "tgs": "gifts/astralshard/assets/models/labradorite.tgs"
+      }
+    },
+    {
+      "name": "Emerald",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/emerald.svg",
+        "tgs": "gifts/astralshard/assets/models/emerald.tgs"
+      }
+    },
+    {
+      "name": "Sapphire",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/sapphire.svg",
+        "tgs": "gifts/astralshard/assets/models/sapphire.tgs"
+      }
+    },
+    {
+      "name": "Ammolite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/ammolite.svg",
+        "tgs": "gifts/astralshard/assets/models/ammolite.tgs"
+      }
+    },
+    {
+      "name": "Amethyst",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/amethyst.svg",
+        "tgs": "gifts/astralshard/assets/models/amethyst.tgs"
+      }
+    },
+    {
+      "name": "Ethereal",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/ethereal.svg",
+        "tgs": "gifts/astralshard/assets/models/ethereal.tgs"
+      }
+    },
+    {
+      "name": "Ocean Jasper",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/ocean-jasper.svg",
+        "tgs": "gifts/astralshard/assets/models/ocean-jasper.tgs"
+      }
+    },
+    {
+      "name": "Tourmaline",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/tourmaline.svg",
+        "tgs": "gifts/astralshard/assets/models/tourmaline.tgs"
+      }
+    },
+    {
+      "name": "Garnet",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/garnet.svg",
+        "tgs": "gifts/astralshard/assets/models/garnet.tgs"
+      }
+    },
+    {
+      "name": "Candy Flossite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/candy-flossite.svg",
+        "tgs": "gifts/astralshard/assets/models/candy-flossite.tgs"
+      }
+    },
+    {
+      "name": "Bouquet",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/bouquet.svg",
+        "tgs": "gifts/astralshard/assets/models/bouquet.tgs"
+      }
+    },
+    {
+      "name": "Ruby Fuchsite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/ruby-fuchsite.svg",
+        "tgs": "gifts/astralshard/assets/models/ruby-fuchsite.tgs"
+      }
+    },
+    {
+      "name": "Aquamarine",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/aquamarine.svg",
+        "tgs": "gifts/astralshard/assets/models/aquamarine.tgs"
+      }
+    },
+    {
+      "name": "Red Ruby",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/red-ruby.svg",
+        "tgs": "gifts/astralshard/assets/models/red-ruby.tgs"
+      }
+    },
+    {
+      "name": "Citrine",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/citrine.svg",
+        "tgs": "gifts/astralshard/assets/models/citrine.tgs"
+      }
+    },
+    {
+      "name": "Moonlit",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/moonlit.svg",
+        "tgs": "gifts/astralshard/assets/models/moonlit.tgs"
+      }
+    },
+    {
+      "name": "Sunstone",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/sunstone.svg",
+        "tgs": "gifts/astralshard/assets/models/sunstone.tgs"
+      }
+    },
+    {
+      "name": "Spinel",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/spinel.svg",
+        "tgs": "gifts/astralshard/assets/models/spinel.tgs"
+      }
+    },
+    {
+      "name": "Tanzanite",
+      "assets": {
+        "svg": "gifts/astralshard/assets/models/tanzanite.svg",
+        "tgs": "gifts/astralshard/assets/models/tanzanite.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/astralshard/assets/patterns/koala.png"
+      }
+    }
+  ]
+}

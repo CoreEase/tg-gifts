@@ -1,0 +1,1407 @@
+{
+  "slug": "whipcupcake",
+  "models": [
+    {
+      "name": "Bitcoin",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/bitcoin.svg",
+        "tgs": "gifts/whipcupcake/assets/models/bitcoin.tgs"
+      }
+    },
+    {
+      "name": "Deep State",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/deep-state.svg",
+        "tgs": "gifts/whipcupcake/assets/models/deep-state.tgs"
+      }
+    },
+    {
+      "name": "Resistance",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/resistance.svg",
+        "tgs": "gifts/whipcupcake/assets/models/resistance.tgs"
+      }
+    },
+    {
+      "name": "Circus",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/circus.svg",
+        "tgs": "gifts/whipcupcake/assets/models/circus.tgs"
+      }
+    },
+    {
+      "name": "Fast Charge",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/fast-charge.svg",
+        "tgs": "gifts/whipcupcake/assets/models/fast-charge.tgs"
+      }
+    },
+    {
+      "name": "Honey Bee",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/honey-bee.svg",
+        "tgs": "gifts/whipcupcake/assets/models/honey-bee.tgs"
+      }
+    },
+    {
+      "name": "Ogre Snack",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/ogre-snack.svg",
+        "tgs": "gifts/whipcupcake/assets/models/ogre-snack.tgs"
+      }
+    },
+    {
+      "name": "Starfish",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/starfish.svg",
+        "tgs": "gifts/whipcupcake/assets/models/starfish.tgs"
+      }
+    },
+    {
+      "name": "Sugar Daddy",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/sugar-daddy.svg",
+        "tgs": "gifts/whipcupcake/assets/models/sugar-daddy.tgs"
+      }
+    },
+    {
+      "name": "Toncoin",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/toncoin.svg",
+        "tgs": "gifts/whipcupcake/assets/models/toncoin.tgs"
+      }
+    },
+    {
+      "name": "Trump Cake",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/trump-cake.svg",
+        "tgs": "gifts/whipcupcake/assets/models/trump-cake.tgs"
+      }
+    },
+    {
+      "name": "Christmas",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/christmas.svg",
+        "tgs": "gifts/whipcupcake/assets/models/christmas.tgs"
+      }
+    },
+    {
+      "name": "Demoman",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/demoman.svg",
+        "tgs": "gifts/whipcupcake/assets/models/demoman.tgs"
+      }
+    },
+    {
+      "name": "Dracula",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/dracula.svg",
+        "tgs": "gifts/whipcupcake/assets/models/dracula.tgs"
+      }
+    },
+    {
+      "name": "Gummy Bears",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/gummy-bears.svg",
+        "tgs": "gifts/whipcupcake/assets/models/gummy-bears.tgs"
+      }
+    },
+    {
+      "name": "Hellspawn",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/hellspawn.svg",
+        "tgs": "gifts/whipcupcake/assets/models/hellspawn.tgs"
+      }
+    },
+    {
+      "name": "Maneki Neko",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/maneki-neko.svg",
+        "tgs": "gifts/whipcupcake/assets/models/maneki-neko.tgs"
+      }
+    },
+    {
+      "name": "Poopy Pie",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/poopy-pie.svg",
+        "tgs": "gifts/whipcupcake/assets/models/poopy-pie.tgs"
+      }
+    },
+    {
+      "name": "Stardust",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/stardust.svg",
+        "tgs": "gifts/whipcupcake/assets/models/stardust.tgs"
+      }
+    },
+    {
+      "name": "Sweetheart",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/sweetheart.svg",
+        "tgs": "gifts/whipcupcake/assets/models/sweetheart.tgs"
+      }
+    },
+    {
+      "name": "Tarot Cards",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/tarot-cards.svg",
+        "tgs": "gifts/whipcupcake/assets/models/tarot-cards.tgs"
+      }
+    },
+    {
+      "name": "Trippy",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/trippy.svg",
+        "tgs": "gifts/whipcupcake/assets/models/trippy.tgs"
+      }
+    },
+    {
+      "name": "Alien Slime",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/alien-slime.svg",
+        "tgs": "gifts/whipcupcake/assets/models/alien-slime.tgs"
+      }
+    },
+    {
+      "name": "Bag End",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/bag-end.svg",
+        "tgs": "gifts/whipcupcake/assets/models/bag-end.tgs"
+      }
+    },
+    {
+      "name": "Biohazard",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/biohazard.svg",
+        "tgs": "gifts/whipcupcake/assets/models/biohazard.tgs"
+      }
+    },
+    {
+      "name": "Cream Scream",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/cream-scream.svg",
+        "tgs": "gifts/whipcupcake/assets/models/cream-scream.tgs"
+      }
+    },
+    {
+      "name": "Half-Life",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/half-life.svg",
+        "tgs": "gifts/whipcupcake/assets/models/half-life.tgs"
+      }
+    },
+    {
+      "name": "Arizona",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/arizona.svg",
+        "tgs": "gifts/whipcupcake/assets/models/arizona.tgs"
+      }
+    },
+    {
+      "name": "Bitter Sweet",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/bitter-sweet.svg",
+        "tgs": "gifts/whipcupcake/assets/models/bitter-sweet.tgs"
+      }
+    },
+    {
+      "name": "Hawaii",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/hawaii.svg",
+        "tgs": "gifts/whipcupcake/assets/models/hawaii.tgs"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/jolly-roger.svg",
+        "tgs": "gifts/whipcupcake/assets/models/jolly-roger.tgs"
+      }
+    },
+    {
+      "name": "Minion",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/minion.svg",
+        "tgs": "gifts/whipcupcake/assets/models/minion.tgs"
+      }
+    },
+    {
+      "name": "Paradise",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/paradise.svg",
+        "tgs": "gifts/whipcupcake/assets/models/paradise.tgs"
+      }
+    },
+    {
+      "name": "Spiritwood",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/spiritwood.svg",
+        "tgs": "gifts/whipcupcake/assets/models/spiritwood.tgs"
+      }
+    },
+    {
+      "name": "Sponge Duck",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/sponge-duck.svg",
+        "tgs": "gifts/whipcupcake/assets/models/sponge-duck.tgs"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/unicorn.svg",
+        "tgs": "gifts/whipcupcake/assets/models/unicorn.tgs"
+      }
+    },
+    {
+      "name": "Wasteland",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/wasteland.svg",
+        "tgs": "gifts/whipcupcake/assets/models/wasteland.tgs"
+      }
+    },
+    {
+      "name": "Blueberry Hill",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/blueberry-hill.svg",
+        "tgs": "gifts/whipcupcake/assets/models/blueberry-hill.tgs"
+      }
+    },
+    {
+      "name": "Cherry Top",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/cherry-top.svg",
+        "tgs": "gifts/whipcupcake/assets/models/cherry-top.tgs"
+      }
+    },
+    {
+      "name": "Cloud Nine",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/cloud-nine.svg",
+        "tgs": "gifts/whipcupcake/assets/models/cloud-nine.tgs"
+      }
+    },
+    {
+      "name": "Fantastic Four",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/fantastic-four.svg",
+        "tgs": "gifts/whipcupcake/assets/models/fantastic-four.tgs"
+      }
+    },
+    {
+      "name": "First Bite",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/first-bite.svg",
+        "tgs": "gifts/whipcupcake/assets/models/first-bite.tgs"
+      }
+    },
+    {
+      "name": "Heaven Seven",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/heaven-seven.svg",
+        "tgs": "gifts/whipcupcake/assets/models/heaven-seven.tgs"
+      }
+    },
+    {
+      "name": "High Five",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/high-five.svg",
+        "tgs": "gifts/whipcupcake/assets/models/high-five.tgs"
+      }
+    },
+    {
+      "name": "March Eight",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/march-eight.svg",
+        "tgs": "gifts/whipcupcake/assets/models/march-eight.tgs"
+      }
+    },
+    {
+      "name": "Rising Dead",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/rising-dead.svg",
+        "tgs": "gifts/whipcupcake/assets/models/rising-dead.tgs"
+      }
+    },
+    {
+      "name": "Six Senses",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/six-senses.svg",
+        "tgs": "gifts/whipcupcake/assets/models/six-senses.tgs"
+      }
+    },
+    {
+      "name": "Triple Treat",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/triple-treat.svg",
+        "tgs": "gifts/whipcupcake/assets/models/triple-treat.tgs"
+      }
+    },
+    {
+      "name": "Two Sweet!",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/two-sweet.svg",
+        "tgs": "gifts/whipcupcake/assets/models/two-sweet.tgs"
+      }
+    },
+    {
+      "name": "Zero Sugar",
+      "assets": {
+        "svg": "gifts/whipcupcake/assets/models/zero-sugar.svg",
+        "tgs": "gifts/whipcupcake/assets/models/zero-sugar.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Handcuffs",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/handcuffs.png"
+      }
+    },
+    {
+      "name": "Loving Heart",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/loving-heart.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Daisy",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/daisy.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Chocolate",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/chocolate.png"
+      }
+    },
+    {
+      "name": "Two Hearts",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/two-hearts.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Blossom",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/blossom.png"
+      }
+    },
+    {
+      "name": "Napkins",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/napkins.png"
+      }
+    },
+    {
+      "name": "Cute Bear",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cute-bear.png"
+      }
+    },
+    {
+      "name": "Cupid",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cupid.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Angel",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/angel.png"
+      }
+    },
+    {
+      "name": "Rose Blossom",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/rose-blossom.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Iron Helmet",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/iron-helmet.png"
+      }
+    },
+    {
+      "name": "Heart Shades",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/heart-shades.png"
+      }
+    },
+    {
+      "name": "Blooms",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/blooms.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Lavender",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/lavender.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Cupid’s Arrow",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cupid-s-arrow.png"
+      }
+    },
+    {
+      "name": "Tulip Bloom",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/tulip-bloom.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Cunning Fox",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cunning-fox.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Love Bulb",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/love-bulb.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Hard Hat",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/hard-hat.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Love Bell",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/love-bell.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Cactus Bloom",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cactus-bloom.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Heart Box",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/heart-box.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Angelic Heart",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/angelic-heart.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Lips",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/lips.png"
+      }
+    },
+    {
+      "name": "Patched Heart",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/patched-heart.png"
+      }
+    },
+    {
+      "name": "Heart Lock",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/heart-lock.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Water Drops",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/water-drops.png"
+      }
+    },
+    {
+      "name": "High Hat",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/high-hat.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Heart Ring",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/heart-ring.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Fuchsia",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/fuchsia.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Pigeon",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/pigeon.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Cake",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cake.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Heart Donut",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/heart-donut.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Cyclamen",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cyclamen.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Panty",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/panty.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Balloon",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/balloon.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Wine Toast",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/wine-toast.png"
+      }
+    },
+    {
+      "name": "Pixel Heart",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/pixel-heart.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Fluffy Wolf",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/fluffy-wolf.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Loveberry",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/loveberry.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Wepwawet",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/wepwawet.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Orchid",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/orchid.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Iris",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/iris.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Calla Lily",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/calla-lily.png"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/banana.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Gentian",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/gentian.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Jester Hat",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/jester-hat.png"
+      }
+    },
+    {
+      "name": "Little Cupid",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/little-cupid.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Padlock",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/padlock.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/whipcupcake/assets/patterns/strawberry.png"
+      }
+    }
+  ]
+}

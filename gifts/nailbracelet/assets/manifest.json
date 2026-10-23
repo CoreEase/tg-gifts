@@ -1,0 +1,1929 @@
+{
+  "slug": "nailbracelet",
+  "models": [
+    {
+      "name": "Diamond",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/diamond.svg",
+        "tgs": "gifts/nailbracelet/assets/models/diamond.tgs"
+      }
+    },
+    {
+      "name": "Gold Rush",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/gold-rush.svg",
+        "tgs": "gifts/nailbracelet/assets/models/gold-rush.tgs"
+      }
+    },
+    {
+      "name": "Interstellar",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/interstellar.svg",
+        "tgs": "gifts/nailbracelet/assets/models/interstellar.tgs"
+      }
+    },
+    {
+      "name": "Mystic Copper",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/mystic-copper.svg",
+        "tgs": "gifts/nailbracelet/assets/models/mystic-copper.tgs"
+      }
+    },
+    {
+      "name": "Blue Velvet",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/blue-velvet.svg",
+        "tgs": "gifts/nailbracelet/assets/models/blue-velvet.tgs"
+      }
+    },
+    {
+      "name": "Hypno Kaa",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/hypno-kaa.svg",
+        "tgs": "gifts/nailbracelet/assets/models/hypno-kaa.tgs"
+      }
+    },
+    {
+      "name": "Aqua Ring",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/aqua-ring.svg",
+        "tgs": "gifts/nailbracelet/assets/models/aqua-ring.tgs"
+      }
+    },
+    {
+      "name": "Black Panther",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/black-panther.svg",
+        "tgs": "gifts/nailbracelet/assets/models/black-panther.tgs"
+      }
+    },
+    {
+      "name": "Blue Dolphin",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/blue-dolphin.svg",
+        "tgs": "gifts/nailbracelet/assets/models/blue-dolphin.tgs"
+      }
+    },
+    {
+      "name": "Carrot Bunny",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/carrot-bunny.svg",
+        "tgs": "gifts/nailbracelet/assets/models/carrot-bunny.tgs"
+      }
+    },
+    {
+      "name": "Cat Person",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/cat-person.svg",
+        "tgs": "gifts/nailbracelet/assets/models/cat-person.tgs"
+      }
+    },
+    {
+      "name": "Crypto Gem",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/crypto-gem.svg",
+        "tgs": "gifts/nailbracelet/assets/models/crypto-gem.tgs"
+      }
+    },
+    {
+      "name": "Duck Amulet",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/duck-amulet.svg",
+        "tgs": "gifts/nailbracelet/assets/models/duck-amulet.tgs"
+      }
+    },
+    {
+      "name": "Hachikō",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/hachiko.svg",
+        "tgs": "gifts/nailbracelet/assets/models/hachiko.tgs"
+      }
+    },
+    {
+      "name": "Heavy Metal",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/heavy-metal.svg",
+        "tgs": "gifts/nailbracelet/assets/models/heavy-metal.tgs"
+      }
+    },
+    {
+      "name": "Mario Pipe",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/mario-pipe.svg",
+        "tgs": "gifts/nailbracelet/assets/models/mario-pipe.tgs"
+      }
+    },
+    {
+      "name": "Market Rally",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/market-rally.svg",
+        "tgs": "gifts/nailbracelet/assets/models/market-rally.tgs"
+      }
+    },
+    {
+      "name": "Moon Cat",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/moon-cat.svg",
+        "tgs": "gifts/nailbracelet/assets/models/moon-cat.tgs"
+      }
+    },
+    {
+      "name": "Ocelot",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/ocelot.svg",
+        "tgs": "gifts/nailbracelet/assets/models/ocelot.tgs"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/ouroboros.svg",
+        "tgs": "gifts/nailbracelet/assets/models/ouroboros.tgs"
+      }
+    },
+    {
+      "name": "Pearl Glam",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/pearl-glam.svg",
+        "tgs": "gifts/nailbracelet/assets/models/pearl-glam.tgs"
+      }
+    },
+    {
+      "name": "Pepe Band",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/pepe-band.svg",
+        "tgs": "gifts/nailbracelet/assets/models/pepe-band.tgs"
+      }
+    },
+    {
+      "name": "Resistance",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/resistance.svg",
+        "tgs": "gifts/nailbracelet/assets/models/resistance.tgs"
+      }
+    },
+    {
+      "name": "Scorpio",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/scorpio.svg",
+        "tgs": "gifts/nailbracelet/assets/models/scorpio.tgs"
+      }
+    },
+    {
+      "name": "Succubus",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/succubus.svg",
+        "tgs": "gifts/nailbracelet/assets/models/succubus.tgs"
+      }
+    },
+    {
+      "name": "Tesla Coil",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/tesla-coil.svg",
+        "tgs": "gifts/nailbracelet/assets/models/tesla-coil.tgs"
+      }
+    },
+    {
+      "name": "Candle Wax",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/candle-wax.svg",
+        "tgs": "gifts/nailbracelet/assets/models/candle-wax.tgs"
+      }
+    },
+    {
+      "name": "Monster Eye",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/monster-eye.svg",
+        "tgs": "gifts/nailbracelet/assets/models/monster-eye.tgs"
+      }
+    },
+    {
+      "name": "Nuclear Silo",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/nuclear-silo.svg",
+        "tgs": "gifts/nailbracelet/assets/models/nuclear-silo.tgs"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/pencil.svg",
+        "tgs": "gifts/nailbracelet/assets/models/pencil.tgs"
+      }
+    },
+    {
+      "name": "Pug Royale",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/pug-royale.svg",
+        "tgs": "gifts/nailbracelet/assets/models/pug-royale.tgs"
+      }
+    },
+    {
+      "name": "Rainbow Pills",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/rainbow-pills.svg",
+        "tgs": "gifts/nailbracelet/assets/models/rainbow-pills.tgs"
+      }
+    },
+    {
+      "name": "Explosive",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/explosive.svg",
+        "tgs": "gifts/nailbracelet/assets/models/explosive.tgs"
+      }
+    },
+    {
+      "name": "Hologram",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/hologram.svg",
+        "tgs": "gifts/nailbracelet/assets/models/hologram.tgs"
+      }
+    },
+    {
+      "name": "Needle",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/needle.svg",
+        "tgs": "gifts/nailbracelet/assets/models/needle.tgs"
+      }
+    },
+    {
+      "name": "Neon Tube",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/neon-tube.svg",
+        "tgs": "gifts/nailbracelet/assets/models/neon-tube.tgs"
+      }
+    },
+    {
+      "name": "Rusty Nail",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/rusty-nail.svg",
+        "tgs": "gifts/nailbracelet/assets/models/rusty-nail.tgs"
+      }
+    },
+    {
+      "name": "Vague Dream",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/vague-dream.svg",
+        "tgs": "gifts/nailbracelet/assets/models/vague-dream.tgs"
+      }
+    },
+    {
+      "name": "X-Ray",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/x-ray.svg",
+        "tgs": "gifts/nailbracelet/assets/models/x-ray.tgs"
+      }
+    },
+    {
+      "name": "Firebronze",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/firebronze.svg",
+        "tgs": "gifts/nailbracelet/assets/models/firebronze.tgs"
+      }
+    },
+    {
+      "name": "Jade Serpent",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/jade-serpent.svg",
+        "tgs": "gifts/nailbracelet/assets/models/jade-serpent.tgs"
+      }
+    },
+    {
+      "name": "Mantis",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/mantis.svg",
+        "tgs": "gifts/nailbracelet/assets/models/mantis.tgs"
+      }
+    },
+    {
+      "name": "Pure Amber",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/pure-amber.svg",
+        "tgs": "gifts/nailbracelet/assets/models/pure-amber.tgs"
+      }
+    },
+    {
+      "name": "Argent",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/argent.svg",
+        "tgs": "gifts/nailbracelet/assets/models/argent.tgs"
+      }
+    },
+    {
+      "name": "Red Fang",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/red-fang.svg",
+        "tgs": "gifts/nailbracelet/assets/models/red-fang.tgs"
+      }
+    },
+    {
+      "name": "Rose Gold",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/rose-gold.svg",
+        "tgs": "gifts/nailbracelet/assets/models/rose-gold.tgs"
+      }
+    },
+    {
+      "name": "Rose Thorn",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/rose-thorn.svg",
+        "tgs": "gifts/nailbracelet/assets/models/rose-thorn.tgs"
+      }
+    },
+    {
+      "name": "Shadow",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/shadow.svg",
+        "tgs": "gifts/nailbracelet/assets/models/shadow.tgs"
+      }
+    },
+    {
+      "name": "Skyline",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/skyline.svg",
+        "tgs": "gifts/nailbracelet/assets/models/skyline.tgs"
+      }
+    },
+    {
+      "name": "Ultramarine",
+      "assets": {
+        "svg": "gifts/nailbracelet/assets/models/ultramarine.svg",
+        "tgs": "gifts/nailbracelet/assets/models/ultramarine.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Hard Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/hard-hat.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Robin Hood",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/robin-hood.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Elf Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/elf-hat.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Egg Basket",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/egg-basket.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Beanie",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/beanie.png"
+      }
+    },
+    {
+      "name": "Kashket",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/kashket.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Ushanka",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/ushanka.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Gua Pi Mao",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/gua-pi-mao.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Wontons",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/wontons.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Peace Dove",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/peace-dove.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Jester Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/jester-hat.png"
+      }
+    },
+    {
+      "name": "Paw Print",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/paw-print.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Conical Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/conical-hat.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Mining Helmet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/mining-helmet.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "High Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/high-hat.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Piranha",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/piranha.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Tamagotchi",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/tamagotchi.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Easter Bunny",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/easter-bunny.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Royal Turban",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/royal-turban.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Academic Cap",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/academic-cap.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Spring Chick",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/spring-chick.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/pilot-hat.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Doctor Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/doctor-hat.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/nailbracelet/assets/patterns/wizard-hat.png"
+      }
+    }
+  ]
+}

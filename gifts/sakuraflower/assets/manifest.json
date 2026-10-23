@@ -1,0 +1,2243 @@
+{
+  "slug": "sakuraflower",
+  "models": [
+    {
+      "name": "Flowey",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/flowey.svg",
+        "tgs": "gifts/sakuraflower/assets/models/flowey.tgs"
+      }
+    },
+    {
+      "name": "Zap Aster",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/zap-aster.svg",
+        "tgs": "gifts/sakuraflower/assets/models/zap-aster.tgs"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/sunflower.svg",
+        "tgs": "gifts/sakuraflower/assets/models/sunflower.tgs"
+      }
+    },
+    {
+      "name": "Carnation",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/carnation.svg",
+        "tgs": "gifts/sakuraflower/assets/models/carnation.tgs"
+      }
+    },
+    {
+      "name": "Dog Flower",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/dog-flower.svg",
+        "tgs": "gifts/sakuraflower/assets/models/dog-flower.tgs"
+      }
+    },
+    {
+      "name": "Wilted",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/wilted.svg",
+        "tgs": "gifts/sakuraflower/assets/models/wilted.tgs"
+      }
+    },
+    {
+      "name": "Meower",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/meower.svg",
+        "tgs": "gifts/sakuraflower/assets/models/meower.tgs"
+      }
+    },
+    {
+      "name": "Monsoon",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/monsoon.svg",
+        "tgs": "gifts/sakuraflower/assets/models/monsoon.tgs"
+      }
+    },
+    {
+      "name": "Heartbeat",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/heartbeat.svg",
+        "tgs": "gifts/sakuraflower/assets/models/heartbeat.tgs"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/sakura.svg",
+        "tgs": "gifts/sakuraflower/assets/models/sakura.tgs"
+      }
+    },
+    {
+      "name": "Blazing Dusk",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/blazing-dusk.svg",
+        "tgs": "gifts/sakuraflower/assets/models/blazing-dusk.tgs"
+      }
+    },
+    {
+      "name": "Snowdrop",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/snowdrop.svg",
+        "tgs": "gifts/sakuraflower/assets/models/snowdrop.tgs"
+      }
+    },
+    {
+      "name": "Bull’s Eye",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/bull-s-eye.svg",
+        "tgs": "gifts/sakuraflower/assets/models/bull-s-eye.tgs"
+      }
+    },
+    {
+      "name": "Big Bang",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/big-bang.svg",
+        "tgs": "gifts/sakuraflower/assets/models/big-bang.tgs"
+      }
+    },
+    {
+      "name": "Pixel Bloom",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/pixel-bloom.svg",
+        "tgs": "gifts/sakuraflower/assets/models/pixel-bloom.tgs"
+      }
+    },
+    {
+      "name": "Loves Or Not",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/loves-or-not.svg",
+        "tgs": "gifts/sakuraflower/assets/models/loves-or-not.tgs"
+      }
+    },
+    {
+      "name": "Fire Bloom",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/fire-bloom.svg",
+        "tgs": "gifts/sakuraflower/assets/models/fire-bloom.tgs"
+      }
+    },
+    {
+      "name": "Dark Neo",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/dark-neo.svg",
+        "tgs": "gifts/sakuraflower/assets/models/dark-neo.tgs"
+      }
+    },
+    {
+      "name": "Bubblia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/bubblia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/bubblia.tgs"
+      }
+    },
+    {
+      "name": "Venus Flytrap",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/venus-flytrap.svg",
+        "tgs": "gifts/sakuraflower/assets/models/venus-flytrap.tgs"
+      }
+    },
+    {
+      "name": "Shake It",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/shake-it.svg",
+        "tgs": "gifts/sakuraflower/assets/models/shake-it.tgs"
+      }
+    },
+    {
+      "name": "Icebound",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/icebound.svg",
+        "tgs": "gifts/sakuraflower/assets/models/icebound.tgs"
+      }
+    },
+    {
+      "name": "Myrtella",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/myrtella.svg",
+        "tgs": "gifts/sakuraflower/assets/models/myrtella.tgs"
+      }
+    },
+    {
+      "name": "Jellybud",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/jellybud.svg",
+        "tgs": "gifts/sakuraflower/assets/models/jellybud.tgs"
+      }
+    },
+    {
+      "name": "Wildflower",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/wildflower.svg",
+        "tgs": "gifts/sakuraflower/assets/models/wildflower.tgs"
+      }
+    },
+    {
+      "name": "Luminosia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/luminosia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/luminosia.tgs"
+      }
+    },
+    {
+      "name": "Ping Blossom",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/ping-blossom.svg",
+        "tgs": "gifts/sakuraflower/assets/models/ping-blossom.tgs"
+      }
+    },
+    {
+      "name": "Pokerface",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/pokerface.svg",
+        "tgs": "gifts/sakuraflower/assets/models/pokerface.tgs"
+      }
+    },
+    {
+      "name": "Glitch",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/glitch.svg",
+        "tgs": "gifts/sakuraflower/assets/models/glitch.tgs"
+      }
+    },
+    {
+      "name": "Savanna",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/savanna.svg",
+        "tgs": "gifts/sakuraflower/assets/models/savanna.tgs"
+      }
+    },
+    {
+      "name": "Party Time",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/party-time.svg",
+        "tgs": "gifts/sakuraflower/assets/models/party-time.tgs"
+      }
+    },
+    {
+      "name": "Shimeria",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/shimeria.svg",
+        "tgs": "gifts/sakuraflower/assets/models/shimeria.tgs"
+      }
+    },
+    {
+      "name": "Spotty Leo",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/spotty-leo.svg",
+        "tgs": "gifts/sakuraflower/assets/models/spotty-leo.tgs"
+      }
+    },
+    {
+      "name": "Peony",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/peony.svg",
+        "tgs": "gifts/sakuraflower/assets/models/peony.tgs"
+      }
+    },
+    {
+      "name": "Dark Loader",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/dark-loader.svg",
+        "tgs": "gifts/sakuraflower/assets/models/dark-loader.tgs"
+      }
+    },
+    {
+      "name": "Windy",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/windy.svg",
+        "tgs": "gifts/sakuraflower/assets/models/windy.tgs"
+      }
+    },
+    {
+      "name": "Morning Sun",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/morning-sun.svg",
+        "tgs": "gifts/sakuraflower/assets/models/morning-sun.tgs"
+      }
+    },
+    {
+      "name": "Yellow Poppy",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/yellow-poppy.svg",
+        "tgs": "gifts/sakuraflower/assets/models/yellow-poppy.tgs"
+      }
+    },
+    {
+      "name": "White Peony",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/white-peony.svg",
+        "tgs": "gifts/sakuraflower/assets/models/white-peony.tgs"
+      }
+    },
+    {
+      "name": "Red Poppy",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/red-poppy.svg",
+        "tgs": "gifts/sakuraflower/assets/models/red-poppy.tgs"
+      }
+    },
+    {
+      "name": "Silveria",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/silveria.svg",
+        "tgs": "gifts/sakuraflower/assets/models/silveria.tgs"
+      }
+    },
+    {
+      "name": "Bronzula",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/bronzula.svg",
+        "tgs": "gifts/sakuraflower/assets/models/bronzula.tgs"
+      }
+    },
+    {
+      "name": "Goldensia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/goldensia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/goldensia.tgs"
+      }
+    },
+    {
+      "name": "Party Bloom",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/party-bloom.svg",
+        "tgs": "gifts/sakuraflower/assets/models/party-bloom.tgs"
+      }
+    },
+    {
+      "name": "Plumeria",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/plumeria.svg",
+        "tgs": "gifts/sakuraflower/assets/models/plumeria.tgs"
+      }
+    },
+    {
+      "name": "Hellebore",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/hellebore.svg",
+        "tgs": "gifts/sakuraflower/assets/models/hellebore.tgs"
+      }
+    },
+    {
+      "name": "Gerbera",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/gerbera.svg",
+        "tgs": "gifts/sakuraflower/assets/models/gerbera.tgs"
+      }
+    },
+    {
+      "name": "Brunnera",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/brunnera.svg",
+        "tgs": "gifts/sakuraflower/assets/models/brunnera.tgs"
+      }
+    },
+    {
+      "name": "Petunia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/petunia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/petunia.tgs"
+      }
+    },
+    {
+      "name": "Hydrangea",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/hydrangea.svg",
+        "tgs": "gifts/sakuraflower/assets/models/hydrangea.tgs"
+      }
+    },
+    {
+      "name": "Nightshade",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/nightshade.svg",
+        "tgs": "gifts/sakuraflower/assets/models/nightshade.tgs"
+      }
+    },
+    {
+      "name": "Clivia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/clivia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/clivia.tgs"
+      }
+    },
+    {
+      "name": "Allamanda",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/allamanda.svg",
+        "tgs": "gifts/sakuraflower/assets/models/allamanda.tgs"
+      }
+    },
+    {
+      "name": "Bumblebee",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/bumblebee.svg",
+        "tgs": "gifts/sakuraflower/assets/models/bumblebee.tgs"
+      }
+    },
+    {
+      "name": "Geranium",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/geranium.svg",
+        "tgs": "gifts/sakuraflower/assets/models/geranium.tgs"
+      }
+    },
+    {
+      "name": "Aetheris",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/aetheris.svg",
+        "tgs": "gifts/sakuraflower/assets/models/aetheris.tgs"
+      }
+    },
+    {
+      "name": "Anemone",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/anemone.svg",
+        "tgs": "gifts/sakuraflower/assets/models/anemone.tgs"
+      }
+    },
+    {
+      "name": "Hybrid",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/hybrid.svg",
+        "tgs": "gifts/sakuraflower/assets/models/hybrid.tgs"
+      }
+    },
+    {
+      "name": "Dahlia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/dahlia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/dahlia.tgs"
+      }
+    },
+    {
+      "name": "Hollyhock",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/hollyhock.svg",
+        "tgs": "gifts/sakuraflower/assets/models/hollyhock.tgs"
+      }
+    },
+    {
+      "name": "Lemon Queen",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/lemon-queen.svg",
+        "tgs": "gifts/sakuraflower/assets/models/lemon-queen.tgs"
+      }
+    },
+    {
+      "name": "Crimsonia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/crimsonia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/crimsonia.tgs"
+      }
+    },
+    {
+      "name": "Tropicana",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/tropicana.svg",
+        "tgs": "gifts/sakuraflower/assets/models/tropicana.tgs"
+      }
+    },
+    {
+      "name": "Oxalis",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/oxalis.svg",
+        "tgs": "gifts/sakuraflower/assets/models/oxalis.tgs"
+      }
+    },
+    {
+      "name": "Indigo",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/indigo.svg",
+        "tgs": "gifts/sakuraflower/assets/models/indigo.tgs"
+      }
+    },
+    {
+      "name": "Floravelle",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/floravelle.svg",
+        "tgs": "gifts/sakuraflower/assets/models/floravelle.tgs"
+      }
+    },
+    {
+      "name": "Solivine",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/solivine.svg",
+        "tgs": "gifts/sakuraflower/assets/models/solivine.tgs"
+      }
+    },
+    {
+      "name": "Barbia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/barbia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/barbia.tgs"
+      }
+    },
+    {
+      "name": "Eclipsia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/eclipsia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/eclipsia.tgs"
+      }
+    },
+    {
+      "name": "Noctivis",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/noctivis.svg",
+        "tgs": "gifts/sakuraflower/assets/models/noctivis.tgs"
+      }
+    },
+    {
+      "name": "Aurivelle",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/aurivelle.svg",
+        "tgs": "gifts/sakuraflower/assets/models/aurivelle.tgs"
+      }
+    },
+    {
+      "name": "Violet Iris",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/violet-iris.svg",
+        "tgs": "gifts/sakuraflower/assets/models/violet-iris.tgs"
+      }
+    },
+    {
+      "name": "Aubrieta",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/aubrieta.svg",
+        "tgs": "gifts/sakuraflower/assets/models/aubrieta.tgs"
+      }
+    },
+    {
+      "name": "Nectarium",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/nectarium.svg",
+        "tgs": "gifts/sakuraflower/assets/models/nectarium.tgs"
+      }
+    },
+    {
+      "name": "Lunaris",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/lunaris.svg",
+        "tgs": "gifts/sakuraflower/assets/models/lunaris.tgs"
+      }
+    },
+    {
+      "name": "Twilight",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/twilight.svg",
+        "tgs": "gifts/sakuraflower/assets/models/twilight.tgs"
+      }
+    },
+    {
+      "name": "Floraven",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/floraven.svg",
+        "tgs": "gifts/sakuraflower/assets/models/floraven.tgs"
+      }
+    },
+    {
+      "name": "Hibiscus",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/hibiscus.svg",
+        "tgs": "gifts/sakuraflower/assets/models/hibiscus.tgs"
+      }
+    },
+    {
+      "name": "Aster",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/aster.svg",
+        "tgs": "gifts/sakuraflower/assets/models/aster.tgs"
+      }
+    },
+    {
+      "name": "Azure",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/azure.svg",
+        "tgs": "gifts/sakuraflower/assets/models/azure.tgs"
+      }
+    },
+    {
+      "name": "Verdania",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/verdania.svg",
+        "tgs": "gifts/sakuraflower/assets/models/verdania.tgs"
+      }
+    },
+    {
+      "name": "Celestara",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/celestara.svg",
+        "tgs": "gifts/sakuraflower/assets/models/celestara.tgs"
+      }
+    },
+    {
+      "name": "Primrose",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/primrose.svg",
+        "tgs": "gifts/sakuraflower/assets/models/primrose.tgs"
+      }
+    },
+    {
+      "name": "Fabulous",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/fabulous.svg",
+        "tgs": "gifts/sakuraflower/assets/models/fabulous.tgs"
+      }
+    },
+    {
+      "name": "Violet",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/violet.svg",
+        "tgs": "gifts/sakuraflower/assets/models/violet.tgs"
+      }
+    },
+    {
+      "name": "Ghostia",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/ghostia.svg",
+        "tgs": "gifts/sakuraflower/assets/models/ghostia.tgs"
+      }
+    },
+    {
+      "name": "Meadowlyn",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/meadowlyn.svg",
+        "tgs": "gifts/sakuraflower/assets/models/meadowlyn.tgs"
+      }
+    },
+    {
+      "name": "Marigold",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/marigold.svg",
+        "tgs": "gifts/sakuraflower/assets/models/marigold.tgs"
+      }
+    },
+    {
+      "name": "Floris",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/floris.svg",
+        "tgs": "gifts/sakuraflower/assets/models/floris.tgs"
+      }
+    },
+    {
+      "name": "Orchidra",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/orchidra.svg",
+        "tgs": "gifts/sakuraflower/assets/models/orchidra.tgs"
+      }
+    },
+    {
+      "name": "Vanilla",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/vanilla.svg",
+        "tgs": "gifts/sakuraflower/assets/models/vanilla.tgs"
+      }
+    },
+    {
+      "name": "Hawaii",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/hawaii.svg",
+        "tgs": "gifts/sakuraflower/assets/models/hawaii.tgs"
+      }
+    },
+    {
+      "name": "Lanceolata",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/lanceolata.svg",
+        "tgs": "gifts/sakuraflower/assets/models/lanceolata.tgs"
+      }
+    },
+    {
+      "name": "Flameris",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/flameris.svg",
+        "tgs": "gifts/sakuraflower/assets/models/flameris.tgs"
+      }
+    },
+    {
+      "name": "Cosmea",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/cosmea.svg",
+        "tgs": "gifts/sakuraflower/assets/models/cosmea.tgs"
+      }
+    },
+    {
+      "name": "Peach Perfect",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/peach-perfect.svg",
+        "tgs": "gifts/sakuraflower/assets/models/peach-perfect.tgs"
+      }
+    },
+    {
+      "name": "Zephyra",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/zephyra.svg",
+        "tgs": "gifts/sakuraflower/assets/models/zephyra.tgs"
+      }
+    },
+    {
+      "name": "Seraphina",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/seraphina.svg",
+        "tgs": "gifts/sakuraflower/assets/models/seraphina.tgs"
+      }
+    },
+    {
+      "name": "False Bird",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/false-bird.svg",
+        "tgs": "gifts/sakuraflower/assets/models/false-bird.tgs"
+      }
+    },
+    {
+      "name": "Sylvaris",
+      "assets": {
+        "svg": "gifts/sakuraflower/assets/models/sylvaris.svg",
+        "tgs": "gifts/sakuraflower/assets/models/sylvaris.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/banana.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Gua Pi Mao",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/gua-pi-mao.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Mining Helmet",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/mining-helmet.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Hard Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/hard-hat.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Turban",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/turban.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Steampunk Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/steampunk-hat.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Beret",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/beret.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Ushanka",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/ushanka.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Beanie",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/beanie.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Conical Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/conical-hat.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/pilot-hat.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Earflap Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/earflap-hat.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Academic Cap",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/academic-cap.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Chef Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/chef-hat.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Pirate Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/pirate-hat.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Ribeye Steak",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/ribeye-steak.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Keffiyeh",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/keffiyeh.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/sakuraflower/assets/patterns/serpent.png"
+      }
+    }
+  ]
+}

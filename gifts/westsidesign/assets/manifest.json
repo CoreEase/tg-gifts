@@ -1,0 +1,1407 @@
+{
+  "slug": "westsidesign",
+  "models": [
+    {
+      "name": "Champion",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/champion.svg",
+        "tgs": "gifts/westsidesign/assets/models/champion.tgs"
+      }
+    },
+    {
+      "name": "Gospel Vibe",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/gospel-vibe.svg",
+        "tgs": "gifts/westsidesign/assets/models/gospel-vibe.tgs"
+      }
+    },
+    {
+      "name": "Sapphire",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/sapphire.svg",
+        "tgs": "gifts/westsidesign/assets/models/sapphire.tgs"
+      }
+    },
+    {
+      "name": "Snoopy",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/snoopy.svg",
+        "tgs": "gifts/westsidesign/assets/models/snoopy.tgs"
+      }
+    },
+    {
+      "name": "Cheeky Puppy",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/cheeky-puppy.svg",
+        "tgs": "gifts/westsidesign/assets/models/cheeky-puppy.tgs"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/crystal.svg",
+        "tgs": "gifts/westsidesign/assets/models/crystal.tgs"
+      }
+    },
+    {
+      "name": "Fresh Smoke",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/fresh-smoke.svg",
+        "tgs": "gifts/westsidesign/assets/models/fresh-smoke.tgs"
+      }
+    },
+    {
+      "name": "Gin and Juice",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/gin-and-juice.svg",
+        "tgs": "gifts/westsidesign/assets/models/gin-and-juice.tgs"
+      }
+    },
+    {
+      "name": "Obsidian",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/obsidian.svg",
+        "tgs": "gifts/westsidesign/assets/models/obsidian.tgs"
+      }
+    },
+    {
+      "name": "Sugar Bone",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/sugar-bone.svg",
+        "tgs": "gifts/westsidesign/assets/models/sugar-bone.tgs"
+      }
+    },
+    {
+      "name": "Bible Of Love",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/bible-of-love.svg",
+        "tgs": "gifts/westsidesign/assets/models/bible-of-love.tgs"
+      }
+    },
+    {
+      "name": "DeVille",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/deville.svg",
+        "tgs": "gifts/westsidesign/assets/models/deville.tgs"
+      }
+    },
+    {
+      "name": "Doggfather",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/doggfather.svg",
+        "tgs": "gifts/westsidesign/assets/models/doggfather.tgs"
+      }
+    },
+    {
+      "name": "Four-Twenty",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/four-twenty.svg",
+        "tgs": "gifts/westsidesign/assets/models/four-twenty.tgs"
+      }
+    },
+    {
+      "name": "Most Wanted",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/most-wanted.svg",
+        "tgs": "gifts/westsidesign/assets/models/most-wanted.tgs"
+      }
+    },
+    {
+      "name": "Real Dog",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/real-dog.svg",
+        "tgs": "gifts/westsidesign/assets/models/real-dog.tgs"
+      }
+    },
+    {
+      "name": "All In",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/all-in.svg",
+        "tgs": "gifts/westsidesign/assets/models/all-in.tgs"
+      }
+    },
+    {
+      "name": "Big Fan",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/big-fan.svg",
+        "tgs": "gifts/westsidesign/assets/models/big-fan.tgs"
+      }
+    },
+    {
+      "name": "Dogg",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/dogg.svg",
+        "tgs": "gifts/westsidesign/assets/models/dogg.tgs"
+      }
+    },
+    {
+      "name": "Double Cup",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/double-cup.svg",
+        "tgs": "gifts/westsidesign/assets/models/double-cup.tgs"
+      }
+    },
+    {
+      "name": "Drop It",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/drop-it.svg",
+        "tgs": "gifts/westsidesign/assets/models/drop-it.tgs"
+      }
+    },
+    {
+      "name": "Legal Crime",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/legal-crime.svg",
+        "tgs": "gifts/westsidesign/assets/models/legal-crime.tgs"
+      }
+    },
+    {
+      "name": "Organic Height",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/organic-height.svg",
+        "tgs": "gifts/westsidesign/assets/models/organic-height.tgs"
+      }
+    },
+    {
+      "name": "Ruby",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/ruby.svg",
+        "tgs": "gifts/westsidesign/assets/models/ruby.tgs"
+      }
+    },
+    {
+      "name": "Shadow Flex",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/shadow-flex.svg",
+        "tgs": "gifts/westsidesign/assets/models/shadow-flex.tgs"
+      }
+    },
+    {
+      "name": "Still D.R.E.",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/still-d-r-e.svg",
+        "tgs": "gifts/westsidesign/assets/models/still-d-r-e.tgs"
+      }
+    },
+    {
+      "name": "Yippie Yo",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/yippie-yo.svg",
+        "tgs": "gifts/westsidesign/assets/models/yippie-yo.tgs"
+      }
+    },
+    {
+      "name": "Barcs A Locks",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/barcs-a-locks.svg",
+        "tgs": "gifts/westsidesign/assets/models/barcs-a-locks.tgs"
+      }
+    },
+    {
+      "name": "Bow Wizzle",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/bow-wizzle.svg",
+        "tgs": "gifts/westsidesign/assets/models/bow-wizzle.tgs"
+      }
+    },
+    {
+      "name": "Chill Out",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/chill-out.svg",
+        "tgs": "gifts/westsidesign/assets/models/chill-out.tgs"
+      }
+    },
+    {
+      "name": "Chow Wow",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/chow-wow.svg",
+        "tgs": "gifts/westsidesign/assets/models/chow-wow.tgs"
+      }
+    },
+    {
+      "name": "Doggystyle",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/doggystyle.svg",
+        "tgs": "gifts/westsidesign/assets/models/doggystyle.tgs"
+      }
+    },
+    {
+      "name": "God Bless",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/god-bless.svg",
+        "tgs": "gifts/westsidesign/assets/models/god-bless.tgs"
+      }
+    },
+    {
+      "name": "Groupie Luv",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/groupie-luv.svg",
+        "tgs": "gifts/westsidesign/assets/models/groupie-luv.tgs"
+      }
+    },
+    {
+      "name": "Legacy",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/legacy.svg",
+        "tgs": "gifts/westsidesign/assets/models/legacy.tgs"
+      }
+    },
+    {
+      "name": "Masterpiece",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/masterpiece.svg",
+        "tgs": "gifts/westsidesign/assets/models/masterpiece.tgs"
+      }
+    },
+    {
+      "name": "Signature",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/signature.svg",
+        "tgs": "gifts/westsidesign/assets/models/signature.tgs"
+      }
+    },
+    {
+      "name": "Sugar Daddy",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/sugar-daddy.svg",
+        "tgs": "gifts/westsidesign/assets/models/sugar-daddy.tgs"
+      }
+    },
+    {
+      "name": "The Hard Way",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/the-hard-way.svg",
+        "tgs": "gifts/westsidesign/assets/models/the-hard-way.tgs"
+      }
+    },
+    {
+      "name": "Tru Tank Doggs",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/tru-tank-doggs.svg",
+        "tgs": "gifts/westsidesign/assets/models/tru-tank-doggs.tgs"
+      }
+    },
+    {
+      "name": "Wild Power",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/wild-power.svg",
+        "tgs": "gifts/westsidesign/assets/models/wild-power.tgs"
+      }
+    },
+    {
+      "name": "Woofee",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/woofee.svg",
+        "tgs": "gifts/westsidesign/assets/models/woofee.tgs"
+      }
+    },
+    {
+      "name": "Yap Yap",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/yap-yap.svg",
+        "tgs": "gifts/westsidesign/assets/models/yap-yap.tgs"
+      }
+    },
+    {
+      "name": "Duality",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/duality.svg",
+        "tgs": "gifts/westsidesign/assets/models/duality.tgs"
+      }
+    },
+    {
+      "name": "Emerald",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/emerald.svg",
+        "tgs": "gifts/westsidesign/assets/models/emerald.tgs"
+      }
+    },
+    {
+      "name": "Gold Ruby",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/gold-ruby.svg",
+        "tgs": "gifts/westsidesign/assets/models/gold-ruby.tgs"
+      }
+    },
+    {
+      "name": "Green Slime",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/green-slime.svg",
+        "tgs": "gifts/westsidesign/assets/models/green-slime.tgs"
+      }
+    },
+    {
+      "name": "Paisley",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/paisley.svg",
+        "tgs": "gifts/westsidesign/assets/models/paisley.tgs"
+      }
+    },
+    {
+      "name": "Swag Droid",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/swag-droid.svg",
+        "tgs": "gifts/westsidesign/assets/models/swag-droid.tgs"
+      }
+    },
+    {
+      "name": "Undead",
+      "assets": {
+        "svg": "gifts/westsidesign/assets/models/undead.svg",
+        "tgs": "gifts/westsidesign/assets/models/undead.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Boombox",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/boombox.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Black Bandana",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/black-bandana.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Jester Hat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/jester-hat.png"
+      }
+    },
+    {
+      "name": "Rap Sign",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/rap-sign.png"
+      }
+    },
+    {
+      "name": "Desert Eagle",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/desert-eagle.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Iron Helmet",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/iron-helmet.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "High Hat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/high-hat.png"
+      }
+    },
+    {
+      "name": "Visor",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/visor.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Ushanka",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/ushanka.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Snoop Collar",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/snoop-collar.png"
+      }
+    },
+    {
+      "name": "Music Skull",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/music-skull.png"
+      }
+    },
+    {
+      "name": "213",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/213.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Dollar Graffiti",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/dollar-graffiti.png"
+      }
+    },
+    {
+      "name": "Snoop Logo",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/snoop-logo.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Gua Pi Mao",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/gua-pi-mao.png"
+      }
+    },
+    {
+      "name": "Palm Trees",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/palm-trees.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Swag Bandana",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/swag-bandana.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Hip-Hop",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/hip-hop.png"
+      }
+    },
+    {
+      "name": "Panty",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/panty.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Beretta",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/beretta.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "UZI",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/uzi.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Westside Hand",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/westside-hand.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Brass Knuckles",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/brass-knuckles.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Cash Cap",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/cash-cap.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Yo Sign",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/yo-sign.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Paschal Lamb",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/paschal-lamb.png"
+      }
+    },
+    {
+      "name": "Vinyl Record",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/vinyl-record.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Rap Mic",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/rap-mic.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Bong",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bong.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Cute Paw",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/cute-paw.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Earflap Hat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/earflap-hat.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Paisley",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/paisley.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Snoop Leaf",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/snoop-leaf.png"
+      }
+    },
+    {
+      "name": "Pro Headphones",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/pro-headphones.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Loudspeaker",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/loudspeaker.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Los Angeles",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/los-angeles.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Spray Paint",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/spray-paint.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Headphones",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/headphones.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Low Rider",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/low-rider.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Head Scarf",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/head-scarf.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Blunt",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/blunt.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Revolver",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/revolver.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/westsidesign/assets/patterns/cocktail.png"
+      }
+    }
+  ]
+}

@@ -3,1010 +3,1814 @@ import type { GiftModel, GiftPattern, Backdrop, GiftCollection } from '../../typ
 export const models = [
   {
     "name": "Fiscal Hawk",
-    "customEmojiId": "5193043278261429220"
+    "customEmojiId": "5193043278261429220",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/fiscal-hawk.svg",
+      "tgs": "gifts/rarebird/assets/models/fiscal-hawk.tgs"
+    }
   },
   {
     "name": "Frozen Gold",
-    "customEmojiId": "5192825132577496810"
+    "customEmojiId": "5192825132577496810",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/frozen-gold.svg",
+      "tgs": "gifts/rarebird/assets/models/frozen-gold.tgs"
+    }
   },
   {
     "name": "Royal Pavo",
-    "customEmojiId": "5195161410102923927"
+    "customEmojiId": "5195161410102923927",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/royal-pavo.svg",
+      "tgs": "gifts/rarebird/assets/models/royal-pavo.tgs"
+    }
   },
   {
     "name": "Thunderbird",
-    "customEmojiId": "5192912492212295921"
+    "customEmojiId": "5192912492212295921",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/thunderbird.svg",
+      "tgs": "gifts/rarebird/assets/models/thunderbird.tgs"
+    }
   },
   {
     "name": "Zombie Rider",
-    "customEmojiId": "5193015335204197525"
+    "customEmojiId": "5193015335204197525",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/zombie-rider.svg",
+      "tgs": "gifts/rarebird/assets/models/zombie-rider.tgs"
+    }
   },
   {
     "name": "Dark Knight",
-    "customEmojiId": "5193075353077191964"
+    "customEmojiId": "5193075353077191964",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/dark-knight.svg",
+      "tgs": "gifts/rarebird/assets/models/dark-knight.tgs"
+    }
   },
   {
     "name": "Dark Prince",
-    "customEmojiId": "5193211095518580009"
+    "customEmojiId": "5193211095518580009",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/dark-prince.svg",
+      "tgs": "gifts/rarebird/assets/models/dark-prince.tgs"
+    }
   },
   {
     "name": "Hot Chick",
-    "customEmojiId": "5192794908892634550"
+    "customEmojiId": "5192794908892634550",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/hot-chick.svg",
+      "tgs": "gifts/rarebird/assets/models/hot-chick.tgs"
+    }
   },
   {
     "name": "Lucifer",
-    "customEmojiId": "5195400944723990744"
+    "customEmojiId": "5195400944723990744",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/lucifer.svg",
+      "tgs": "gifts/rarebird/assets/models/lucifer.tgs"
+    }
   },
   {
     "name": "Rose Fairy",
-    "customEmojiId": "5195448034745421630"
+    "customEmojiId": "5195448034745421630",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/rose-fairy.svg",
+      "tgs": "gifts/rarebird/assets/models/rose-fairy.tgs"
+    }
   },
   {
     "name": "Ruby Dodo",
-    "customEmojiId": "5192957649498444974"
+    "customEmojiId": "5192957649498444974",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/ruby-dodo.svg",
+      "tgs": "gifts/rarebird/assets/models/ruby-dodo.tgs"
+    }
   },
   {
     "name": "Wave Glider",
-    "customEmojiId": "5193169786523129188"
+    "customEmojiId": "5193169786523129188",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/wave-glider.svg",
+      "tgs": "gifts/rarebird/assets/models/wave-glider.tgs"
+    }
   },
   {
     "name": "Apex Drone",
-    "customEmojiId": "5193150064033307787"
+    "customEmojiId": "5193150064033307787",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/apex-drone.svg",
+      "tgs": "gifts/rarebird/assets/models/apex-drone.tgs"
+    }
   },
   {
     "name": "Aurora Moth",
-    "customEmojiId": "5193078978029591403"
+    "customEmojiId": "5193078978029591403",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/aurora-moth.svg",
+      "tgs": "gifts/rarebird/assets/models/aurora-moth.tgs"
+    }
   },
   {
     "name": "Black Hawk",
-    "customEmojiId": "5192803958388725357"
+    "customEmojiId": "5192803958388725357",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/black-hawk.svg",
+      "tgs": "gifts/rarebird/assets/models/black-hawk.tgs"
+    }
   },
   {
     "name": "Dragon",
-    "customEmojiId": "5193007325090193262"
+    "customEmojiId": "5193007325090193262",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/dragon.svg",
+      "tgs": "gifts/rarebird/assets/models/dragon.tgs"
+    }
   },
   {
     "name": "Fire Rooster",
-    "customEmojiId": "5193189642156939544"
+    "customEmojiId": "5193189642156939544",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/fire-rooster.svg",
+      "tgs": "gifts/rarebird/assets/models/fire-rooster.tgs"
+    }
   },
   {
     "name": "Gargoyle",
-    "customEmojiId": "5193004168289231077"
+    "customEmojiId": "5193004168289231077",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/gargoyle.svg",
+      "tgs": "gifts/rarebird/assets/models/gargoyle.tgs"
+    }
   },
   {
     "name": "Gilded Heron",
-    "customEmojiId": "5192918384907429753"
+    "customEmojiId": "5192918384907429753",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/gilded-heron.svg",
+      "tgs": "gifts/rarebird/assets/models/gilded-heron.tgs"
+    }
   },
   {
     "name": "Golden Falcon",
-    "customEmojiId": "5193171478740242731"
+    "customEmojiId": "5193171478740242731",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/golden-falcon.svg",
+      "tgs": "gifts/rarebird/assets/models/golden-falcon.tgs"
+    }
   },
   {
     "name": "Manticore",
-    "customEmojiId": "5195151819440949202"
+    "customEmojiId": "5195151819440949202",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/manticore.svg",
+      "tgs": "gifts/rarebird/assets/models/manticore.tgs"
+    }
   },
   {
     "name": "Shadow Raven",
-    "customEmojiId": "5195129932287611384"
+    "customEmojiId": "5195129932287611384",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/shadow-raven.svg",
+      "tgs": "gifts/rarebird/assets/models/shadow-raven.tgs"
+    }
   },
   {
     "name": "Sphinx",
-    "customEmojiId": "5192700544166171082"
+    "customEmojiId": "5192700544166171082",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/sphinx.svg",
+      "tgs": "gifts/rarebird/assets/models/sphinx.tgs"
+    }
   },
   {
     "name": "Treasure",
-    "customEmojiId": "5195351277722179508"
+    "customEmojiId": "5195351277722179508",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/treasure.svg",
+      "tgs": "gifts/rarebird/assets/models/treasure.tgs"
+    }
   },
   {
     "name": "Winged Victory",
-    "customEmojiId": "5194970932598313514"
+    "customEmojiId": "5194970932598313514",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/winged-victory.svg",
+      "tgs": "gifts/rarebird/assets/models/winged-victory.tgs"
+    }
   },
   {
     "name": "Bat King",
-    "customEmojiId": "5194909840983497064"
+    "customEmojiId": "5194909840983497064",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/bat-king.svg",
+      "tgs": "gifts/rarebird/assets/models/bat-king.tgs"
+    }
   },
   {
     "name": "Battlewing",
-    "customEmojiId": "5192867403645621534"
+    "customEmojiId": "5192867403645621534",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/battlewing.svg",
+      "tgs": "gifts/rarebird/assets/models/battlewing.tgs"
+    }
   },
   {
     "name": "Crystal Swift",
-    "customEmojiId": "5192732030571418239"
+    "customEmojiId": "5192732030571418239",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/crystal-swift.svg",
+      "tgs": "gifts/rarebird/assets/models/crystal-swift.tgs"
+    }
   },
   {
     "name": "Diamond Owl",
-    "customEmojiId": "5192682668512287682"
+    "customEmojiId": "5192682668512287682",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/diamond-owl.svg",
+      "tgs": "gifts/rarebird/assets/models/diamond-owl.tgs"
+    }
   },
   {
     "name": "Hippogriff",
-    "customEmojiId": "5193107986238709475"
+    "customEmojiId": "5193107986238709475",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/hippogriff.svg",
+      "tgs": "gifts/rarebird/assets/models/hippogriff.tgs"
+    }
   },
   {
     "name": "Icarus",
-    "customEmojiId": "5195392324724625595"
+    "customEmojiId": "5195392324724625595",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/icarus.svg",
+      "tgs": "gifts/rarebird/assets/models/icarus.tgs"
+    }
   },
   {
     "name": "Necromancer",
-    "customEmojiId": "5192935878309219716"
+    "customEmojiId": "5192935878309219716",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/necromancer.svg",
+      "tgs": "gifts/rarebird/assets/models/necromancer.tgs"
+    }
   },
   {
     "name": "Prehistoric",
-    "customEmojiId": "5192661112071428440"
+    "customEmojiId": "5192661112071428440",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/prehistoric.svg",
+      "tgs": "gifts/rarebird/assets/models/prehistoric.tgs"
+    }
   },
   {
     "name": "Chickadee",
-    "customEmojiId": "5192805014950681479"
+    "customEmojiId": "5192805014950681479",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/chickadee.svg",
+      "tgs": "gifts/rarebird/assets/models/chickadee.tgs"
+    }
   },
   {
     "name": "Garnet Koel",
-    "customEmojiId": "5193104829437746732"
+    "customEmojiId": "5193104829437746732",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/garnet-koel.svg",
+      "tgs": "gifts/rarebird/assets/models/garnet-koel.tgs"
+    }
   },
   {
     "name": "Kakapo",
-    "customEmojiId": "5192919681987552093"
+    "customEmojiId": "5192919681987552093",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/kakapo.svg",
+      "tgs": "gifts/rarebird/assets/models/kakapo.tgs"
+    }
   },
   {
     "name": "Pegasus",
-    "customEmojiId": "5192931566162056389"
+    "customEmojiId": "5192931566162056389",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/pegasus.svg",
+      "tgs": "gifts/rarebird/assets/models/pegasus.tgs"
+    }
   },
   {
     "name": "Silver Spike",
-    "customEmojiId": "5192920257513166849"
+    "customEmojiId": "5192920257513166849",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/silver-spike.svg",
+      "tgs": "gifts/rarebird/assets/models/silver-spike.tgs"
+    }
   },
   {
     "name": "Silver Wings",
-    "customEmojiId": "5195308779020783144"
+    "customEmojiId": "5195308779020783144",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/silver-wings.svg",
+      "tgs": "gifts/rarebird/assets/models/silver-wings.tgs"
+    }
   },
   {
     "name": "The Emperor",
-    "customEmojiId": "5192872819599381247"
+    "customEmojiId": "5192872819599381247",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/the-emperor.svg",
+      "tgs": "gifts/rarebird/assets/models/the-emperor.tgs"
+    }
   },
   {
     "name": "Copper Quack",
-    "customEmojiId": "5193155265238700421"
+    "customEmojiId": "5193155265238700421",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/copper-quack.svg",
+      "tgs": "gifts/rarebird/assets/models/copper-quack.tgs"
+    }
   },
   {
     "name": "Pigeon",
-    "customEmojiId": "5193068141827104462"
+    "customEmojiId": "5193068141827104462",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/pigeon.svg",
+      "tgs": "gifts/rarebird/assets/models/pigeon.tgs"
+    }
   },
   {
     "name": "Red Vulture",
-    "customEmojiId": "5193098094929026381"
+    "customEmojiId": "5193098094929026381",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/red-vulture.svg",
+      "tgs": "gifts/rarebird/assets/models/red-vulture.tgs"
+    }
   },
   {
     "name": "Amber Toucan",
-    "customEmojiId": "5193197171234611886"
+    "customEmojiId": "5193197171234611886",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/amber-toucan.svg",
+      "tgs": "gifts/rarebird/assets/models/amber-toucan.tgs"
+    }
   },
   {
     "name": "Azure Spark",
-    "customEmojiId": "5192748037914534027"
+    "customEmojiId": "5192748037914534027",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/azure-spark.svg",
+      "tgs": "gifts/rarebird/assets/models/azure-spark.tgs"
+    }
   },
   {
     "name": "Crystal Swan",
-    "customEmojiId": "5193037145048131827"
+    "customEmojiId": "5193037145048131827",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/crystal-swan.svg",
+      "tgs": "gifts/rarebird/assets/models/crystal-swan.tgs"
+    }
   },
   {
     "name": "Jade Jay",
-    "customEmojiId": "5193162111416569832"
+    "customEmojiId": "5193162111416569832",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/jade-jay.svg",
+      "tgs": "gifts/rarebird/assets/models/jade-jay.tgs"
+    }
   },
   {
     "name": "Noble Puffin",
-    "customEmojiId": "5192671617561435206"
+    "customEmojiId": "5192671617561435206",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/noble-puffin.svg",
+      "tgs": "gifts/rarebird/assets/models/noble-puffin.tgs"
+    }
   },
   {
     "name": "Pelican",
-    "customEmojiId": "5192785863691505417"
+    "customEmojiId": "5192785863691505417",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/pelican.svg",
+      "tgs": "gifts/rarebird/assets/models/pelican.tgs"
+    }
   },
   {
     "name": "Phoenix",
-    "customEmojiId": "5192672729957969411"
+    "customEmojiId": "5192672729957969411",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/phoenix.svg",
+      "tgs": "gifts/rarebird/assets/models/phoenix.tgs"
+    }
   },
   {
     "name": "Paradise",
-    "customEmojiId": "5193092197938929283"
+    "customEmojiId": "5193092197938929283",
+    "assets": {
+      "svg": "gifts/rarebird/assets/models/paradise.svg",
+      "tgs": "gifts/rarebird/assets/models/paradise.tgs"
+    }
   }
 ] satisfies readonly GiftModel[];
 
 export const patterns = [
   {
     "name": "Jolly Roger",
-    "customEmojiId": "5199466333133113018"
+    "customEmojiId": "5199466333133113018",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/jolly-roger.png"
+    }
   },
   {
     "name": "Bishop",
-    "customEmojiId": "5199551953306157566"
+    "customEmojiId": "5199551953306157566",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bishop.png"
+    }
   },
   {
     "name": "Flower Cross",
-    "customEmojiId": "5199741412903518768"
+    "customEmojiId": "5199741412903518768",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/flower-cross.png"
+    }
   },
   {
     "name": "Shinto Shrine",
-    "customEmojiId": "5199478432055988373"
+    "customEmojiId": "5199478432055988373",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/shinto-shrine.png"
+    }
   },
   {
     "name": "Cupcake",
-    "customEmojiId": "5199460788330335122"
+    "customEmojiId": "5199460788330335122",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/cupcake.png"
+    }
   },
   {
     "name": "Mustache",
-    "customEmojiId": "5199490530978856729"
+    "customEmojiId": "5199490530978856729",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/mustache.png"
+    }
   },
   {
     "name": "Robin Hood",
-    "customEmojiId": "5199634154685237795"
+    "customEmojiId": "5199634154685237795",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/robin-hood.png"
+    }
   },
   {
     "name": "Flag",
-    "customEmojiId": "5199874462400414430"
+    "customEmojiId": "5199874462400414430",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/flag.png"
+    }
   },
   {
     "name": "Jellyfish",
-    "customEmojiId": "5199463842052082744"
+    "customEmojiId": "5199463842052082744",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/jellyfish.png"
+    }
   },
   {
     "name": "Pear",
-    "customEmojiId": "5199711558585845500"
+    "customEmojiId": "5199711558585845500",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pear.png"
+    }
   },
   {
     "name": "Teru Bōzu",
-    "customEmojiId": "5199948172629150385"
+    "customEmojiId": "5199948172629150385",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/teru-bozu.png"
+    }
   },
   {
     "name": "Crystal Ball",
-    "customEmojiId": "5199590410443328799"
+    "customEmojiId": "5199590410443328799",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/crystal-ball.png"
+    }
   },
   {
     "name": "Money Bag",
-    "customEmojiId": "5199426943988044271"
+    "customEmojiId": "5199426943988044271",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/money-bag.png"
+    }
   },
   {
     "name": "Arabian Horse",
-    "customEmojiId": "5199442384395467198"
+    "customEmojiId": "5199442384395467198",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/arabian-horse.png"
+    }
   },
   {
     "name": "Eikthyrnir",
-    "customEmojiId": "5199875514667404240"
+    "customEmojiId": "5199875514667404240",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/eikthyrnir.png"
+    }
   },
   {
     "name": "Inguz Rune",
-    "customEmojiId": "5199780557235455952"
+    "customEmojiId": "5199780557235455952",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/inguz-rune.png"
+    }
   },
   {
     "name": "Greek Helmet",
-    "customEmojiId": "5199497274077514887"
+    "customEmojiId": "5199497274077514887",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/greek-helmet.png"
+    }
   },
   {
     "name": "Rhino Warrior",
-    "customEmojiId": "5199722768450487484"
+    "customEmojiId": "5199722768450487484",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/rhino-warrior.png"
+    }
   },
   {
     "name": "Fehu Rune",
-    "customEmojiId": "5201658535980598965"
+    "customEmojiId": "5201658535980598965",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/fehu-rune.png"
+    }
   },
   {
     "name": "Axe",
-    "customEmojiId": "5199830537769879159"
+    "customEmojiId": "5199830537769879159",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/axe.png"
+    }
   },
   {
     "name": "Sea Horse",
-    "customEmojiId": "5199693631392352882"
+    "customEmojiId": "5199693631392352882",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sea-horse.png"
+    }
   },
   {
     "name": "Feather",
-    "customEmojiId": "5199561191780815148"
+    "customEmojiId": "5199561191780815148",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/feather.png"
+    }
   },
   {
     "name": "Kashket",
-    "customEmojiId": "5199448672227594010"
+    "customEmojiId": "5199448672227594010",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/kashket.png"
+    }
   },
   {
     "name": "Seahorse",
-    "customEmojiId": "5199707001625546696"
+    "customEmojiId": "5199707001625546696",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/seahorse.png"
+    }
   },
   {
     "name": "Coat of Arms",
-    "customEmojiId": "5199543926012283083"
+    "customEmojiId": "5199543926012283083",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/coat-of-arms.png"
+    }
   },
   {
     "name": "Mannaz Rune",
-    "customEmojiId": "5199593631668799507"
+    "customEmojiId": "5199593631668799507",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/mannaz-rune.png"
+    }
   },
   {
     "name": "Greek Sun",
-    "customEmojiId": "5199681906131637748"
+    "customEmojiId": "5199681906131637748",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/greek-sun.png"
+    }
   },
   {
     "name": "Novus Ordo",
-    "customEmojiId": "5199450368739677084"
+    "customEmojiId": "5199450368739677084",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/novus-ordo.png"
+    }
   },
   {
     "name": "Croissant",
-    "customEmojiId": "5199706980150706028"
+    "customEmojiId": "5199706980150706028",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/croissant.png"
+    }
   },
   {
     "name": "Avocado",
-    "customEmojiId": "5199464318793453067"
+    "customEmojiId": "5199464318793453067",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/avocado.png"
+    }
   },
   {
     "name": "Hard Hat",
-    "customEmojiId": "5199914431366072974"
+    "customEmojiId": "5199914431366072974",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/hard-hat.png"
+    }
   },
   {
     "name": "Ramen",
-    "customEmojiId": "5199591943746650619"
+    "customEmojiId": "5199591943746650619",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/ramen.png"
+    }
   },
   {
     "name": "Chili Pepper",
-    "customEmojiId": "5199643277195772037"
+    "customEmojiId": "5199643277195772037",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/chili-pepper.png"
+    }
   },
   {
     "name": "Fez",
-    "customEmojiId": "5199554328423076266"
+    "customEmojiId": "5199554328423076266",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/fez.png"
+    }
   },
   {
     "name": "Shield",
-    "customEmojiId": "5199474497865945550"
+    "customEmojiId": "5199474497865945550",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/shield.png"
+    }
   },
   {
     "name": "Car",
-    "customEmojiId": "5199704214191765603"
+    "customEmojiId": "5199704214191765603",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/car.png"
+    }
   },
   {
     "name": "Strawberry",
-    "customEmojiId": "5199925473726988633"
+    "customEmojiId": "5199925473726988633",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/strawberry.png"
+    }
   },
   {
     "name": "Pith Helmet",
-    "customEmojiId": "5199425878836152426"
+    "customEmojiId": "5199425878836152426",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pith-helmet.png"
+    }
   },
   {
     "name": "Police Badge",
-    "customEmojiId": "5199500710051351632"
+    "customEmojiId": "5199500710051351632",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/police-badge.png"
+    }
   },
   {
     "name": "Banana",
-    "customEmojiId": "5199719637419326222"
+    "customEmojiId": "5199719637419326222",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/banana.png"
+    }
   },
   {
     "name": "Sea Jelly",
-    "customEmojiId": "5199917369123703634"
+    "customEmojiId": "5199917369123703634",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sea-jelly.png"
+    }
   },
   {
     "name": "Ball",
-    "customEmojiId": "5199921152989891702"
+    "customEmojiId": "5199921152989891702",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/ball.png"
+    }
   },
   {
     "name": "Bottle",
-    "customEmojiId": "5199580759651813806"
+    "customEmojiId": "5199580759651813806",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bottle.png"
+    }
   },
   {
     "name": "Magic Wand",
-    "customEmojiId": "5199565744446145009"
+    "customEmojiId": "5199565744446145009",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/magic-wand.png"
+    }
   },
   {
     "name": "Lotus Flower",
-    "customEmojiId": "5199764283604373260"
+    "customEmojiId": "5199764283604373260",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/lotus-flower.png"
+    }
   },
   {
     "name": "Legionary",
-    "customEmojiId": "5199428202413461386"
+    "customEmojiId": "5199428202413461386",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/legionary.png"
+    }
   },
   {
     "name": "Fleur-de-lis",
-    "customEmojiId": "5199655573687140713"
+    "customEmojiId": "5199655573687140713",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/fleur-de-lis.png"
+    }
   },
   {
     "name": "Fish Skeleton",
-    "customEmojiId": "5199448302860405743"
+    "customEmojiId": "5199448302860405743",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/fish-skeleton.png"
+    }
   },
   {
     "name": "Straw Hat",
-    "customEmojiId": "5199475953859857051"
+    "customEmojiId": "5199475953859857051",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/straw-hat.png"
+    }
   },
   {
     "name": "Jester Hat",
-    "customEmojiId": "5199676378508724814"
+    "customEmojiId": "5199676378508724814",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/jester-hat.png"
+    }
   },
   {
     "name": "Conch",
-    "customEmojiId": "5199858635445929849"
+    "customEmojiId": "5199858635445929849",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/conch.png"
+    }
   },
   {
     "name": "Press Hat",
-    "customEmojiId": "5199819379444842683"
+    "customEmojiId": "5199819379444842683",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/press-hat.png"
+    }
   },
   {
     "name": "Gingerbread",
-    "customEmojiId": "5199945376605439444"
+    "customEmojiId": "5199945376605439444",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/gingerbread.png"
+    }
   },
   {
     "name": "Coonskin Cap",
-    "customEmojiId": "5199711867823495459"
+    "customEmojiId": "5199711867823495459",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/coonskin-cap.png"
+    }
   },
   {
     "name": "Shuriken",
-    "customEmojiId": "5199657373278441561"
+    "customEmojiId": "5199657373278441561",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/shuriken.png"
+    }
   },
   {
     "name": "Watching Sun",
-    "customEmojiId": "5199594327453501292"
+    "customEmojiId": "5199594327453501292",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/watching-sun.png"
+    }
   },
   {
     "name": "Sakura Flower",
-    "customEmojiId": "5199826225622713630"
+    "customEmojiId": "5199826225622713630",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sakura-flower.png"
+    }
   },
   {
     "name": "Lion Head",
-    "customEmojiId": "5199655049701172498"
+    "customEmojiId": "5199655049701172498",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/lion-head.png"
+    }
   },
   {
     "name": "Coconut",
-    "customEmojiId": "5199939960651680778"
+    "customEmojiId": "5199939960651680778",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/coconut.png"
+    }
   },
   {
     "name": "Pawn",
-    "customEmojiId": "5199596131339765368"
+    "customEmojiId": "5199596131339765368",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pawn.png"
+    }
   },
   {
     "name": "Cactus",
-    "customEmojiId": "5199664352600297564"
+    "customEmojiId": "5199664352600297564",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/cactus.png"
+    }
   },
   {
     "name": "Basketball",
-    "customEmojiId": "5199728789994637327"
+    "customEmojiId": "5199728789994637327",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/basketball.png"
+    }
   },
   {
     "name": "Alarm",
-    "customEmojiId": "5199575713065239188"
+    "customEmojiId": "5199575713065239188",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/alarm.png"
+    }
   },
   {
     "name": "Piggy Bank",
-    "customEmojiId": "5199476082708878264"
+    "customEmojiId": "5199476082708878264",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/piggy-bank.png"
+    }
   },
   {
     "name": "Jewel",
-    "customEmojiId": "5199798166601371927"
+    "customEmojiId": "5199798166601371927",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/jewel.png"
+    }
   },
   {
     "name": "Rain Drop",
-    "customEmojiId": "5199596200059239228"
+    "customEmojiId": "5199596200059239228",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/rain-drop.png"
+    }
   },
   {
     "name": "Bicorne",
-    "customEmojiId": "5199462042460782106"
+    "customEmojiId": "5199462042460782106",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bicorne.png"
+    }
   },
   {
     "name": "Burger",
-    "customEmojiId": "5199576765332229212"
+    "customEmojiId": "5199576765332229212",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/burger.png"
+    }
   },
   {
     "name": "Visor",
-    "customEmojiId": "5199623855353661732"
+    "customEmojiId": "5199623855353661732",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/visor.png"
+    }
   },
   {
     "name": "Ghost",
-    "customEmojiId": "5199766383843378029"
+    "customEmojiId": "5199766383843378029",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/ghost.png"
+    }
   },
   {
     "name": "Magic Hat",
-    "customEmojiId": "5199903041112803502"
+    "customEmojiId": "5199903041112803502",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/magic-hat.png"
+    }
   },
   {
     "name": "Oak Leaf",
-    "customEmojiId": "5199714255825309269"
+    "customEmojiId": "5199714255825309269",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/oak-leaf.png"
+    }
   },
   {
     "name": "Sakura",
-    "customEmojiId": "5199856934638878837"
+    "customEmojiId": "5199856934638878837",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sakura.png"
+    }
   },
   {
     "name": "Divine Falcon",
-    "customEmojiId": "5199678478747732305"
+    "customEmojiId": "5199678478747732305",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/divine-falcon.png"
+    }
   },
   {
     "name": "Star",
-    "customEmojiId": "5199425320490407263"
+    "customEmojiId": "5199425320490407263",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/star.png"
+    }
   },
   {
     "name": "UFO",
-    "customEmojiId": "5199788069133256359"
+    "customEmojiId": "5199788069133256359",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/ufo.png"
+    }
   },
   {
     "name": "Deerstalker",
-    "customEmojiId": "5199479669006568749"
+    "customEmojiId": "5199479669006568749",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/deerstalker.png"
+    }
   },
   {
     "name": "Bowler Hat",
-    "customEmojiId": "5199745982748721353"
+    "customEmojiId": "5199745982748721353",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bowler-hat.png"
+    }
   },
   {
     "name": "Propeller Cap",
-    "customEmojiId": "5199861745002254248"
+    "customEmojiId": "5199861745002254248",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/propeller-cap.png"
+    }
   },
   {
     "name": "Horned Helm",
-    "customEmojiId": "5199925937583456568"
+    "customEmojiId": "5199925937583456568",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/horned-helm.png"
+    }
   },
   {
     "name": "Sombrero",
-    "customEmojiId": "5199736203108190403"
+    "customEmojiId": "5199736203108190403",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sombrero.png"
+    }
   },
   {
     "name": "Celtic Wolf",
-    "customEmojiId": "5199434919742310645"
+    "customEmojiId": "5199434919742310645",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/celtic-wolf.png"
+    }
   },
   {
     "name": "Scarab",
-    "customEmojiId": "5199439627026463806"
+    "customEmojiId": "5199439627026463806",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/scarab.png"
+    }
   },
   {
     "name": "Sushi Rolls",
-    "customEmojiId": "5199851312526692154"
+    "customEmojiId": "5199851312526692154",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sushi-rolls.png"
+    }
   },
   {
     "name": "Egg Basket",
-    "customEmojiId": "5199573548401720659"
+    "customEmojiId": "5199573548401720659",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/egg-basket.png"
+    }
   },
   {
     "name": "Hedgehog",
-    "customEmojiId": "5199443440957426886"
+    "customEmojiId": "5199443440957426886",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/hedgehog.png"
+    }
   },
   {
     "name": "Neptune",
-    "customEmojiId": "5199805712858906090"
+    "customEmojiId": "5199805712858906090",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/neptune.png"
+    }
   },
   {
     "name": "Iron Helmet",
-    "customEmojiId": "5199857089257702611"
+    "customEmojiId": "5199857089257702611",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/iron-helmet.png"
+    }
   },
   {
     "name": "Koala",
-    "customEmojiId": "5199786591664505620"
+    "customEmojiId": "5199786591664505620",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/koala.png"
+    }
   },
   {
     "name": "Carambola",
-    "customEmojiId": "5199563687156815774"
+    "customEmojiId": "5199563687156815774",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/carambola.png"
+    }
   },
   {
     "name": "Like",
-    "customEmojiId": "5199438957011572772"
+    "customEmojiId": "5199438957011572772",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/like.png"
+    }
   },
   {
     "name": "Rooster",
-    "customEmojiId": "5199454002282004330"
+    "customEmojiId": "5199454002282004330",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/rooster.png"
+    }
   },
   {
     "name": "PC Mouse",
-    "customEmojiId": "5199776412592014669"
+    "customEmojiId": "5199776412592014669",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pc-mouse.png"
+    }
   },
   {
     "name": "War Bonnet",
-    "customEmojiId": "5199865125141516619"
+    "customEmojiId": "5199865125141516619",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/war-bonnet.png"
+    }
   },
   {
     "name": "Turtle",
-    "customEmojiId": "5199802964079839347"
+    "customEmojiId": "5199802964079839347",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/turtle.png"
+    }
   },
   {
     "name": "Smartphone",
-    "customEmojiId": "5199833724635614475"
+    "customEmojiId": "5199833724635614475",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/smartphone.png"
+    }
   },
   {
     "name": "Totem Bear",
-    "customEmojiId": "5199656939486742424"
+    "customEmojiId": "5199656939486742424",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/totem-bear.png"
+    }
   },
   {
     "name": "Galaxy",
-    "customEmojiId": "5199493898233219049"
+    "customEmojiId": "5199493898233219049",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/galaxy.png"
+    }
   },
   {
     "name": "Peaked Cap",
-    "customEmojiId": "5199944066640415730"
+    "customEmojiId": "5199944066640415730",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/peaked-cap.png"
+    }
   },
   {
     "name": "Black Cat",
-    "customEmojiId": "5199686110904618188"
+    "customEmojiId": "5199686110904618188",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/black-cat.png"
+    }
   },
   {
     "name": "Drug",
-    "customEmojiId": "5199963359633511195"
+    "customEmojiId": "5199963359633511195",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/drug.png"
+    }
   },
   {
     "name": "Moon",
-    "customEmojiId": "5199499052193973671"
+    "customEmojiId": "5199499052193973671",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/moon.png"
+    }
   },
   {
     "name": "Glasses",
-    "customEmojiId": "5199843323887519152"
+    "customEmojiId": "5199843323887519152",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/glasses.png"
+    }
   },
   {
     "name": "All-Seeing Eye",
-    "customEmojiId": "5199922359875701200"
+    "customEmojiId": "5199922359875701200",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/all-seeing-eye.png"
+    }
   },
   {
     "name": "Winged Helm",
-    "customEmojiId": "5202028006247268831"
+    "customEmojiId": "5202028006247268831",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/winged-helm.png"
+    }
   },
   {
     "name": "Pegasus",
-    "customEmojiId": "5199615102210311126"
+    "customEmojiId": "5199615102210311126",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pegasus.png"
+    }
   },
   {
     "name": "Viper",
-    "customEmojiId": "5199937503930385823"
+    "customEmojiId": "5199937503930385823",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/viper.png"
+    }
   },
   {
     "name": "Shell",
-    "customEmojiId": "5199502470987945576"
+    "customEmojiId": "5199502470987945576",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/shell.png"
+    }
   },
   {
     "name": "Mafdet",
-    "customEmojiId": "5199698669388988419"
+    "customEmojiId": "5199698669388988419",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/mafdet.png"
+    }
   },
   {
     "name": "Wontons",
-    "customEmojiId": "5199961989538942623"
+    "customEmojiId": "5199961989538942623",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/wontons.png"
+    }
   },
   {
     "name": "Tricorne",
-    "customEmojiId": "5199835163449654129"
+    "customEmojiId": "5199835163449654129",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/tricorne.png"
+    }
   },
   {
     "name": "Manta Ray",
-    "customEmojiId": "5199852231649690419"
+    "customEmojiId": "5199852231649690419",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/manta-ray.png"
+    }
   },
   {
     "name": "Mayan Moth",
-    "customEmojiId": "5199778452701480675"
+    "customEmojiId": "5199778452701480675",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/mayan-moth.png"
+    }
   },
   {
     "name": "Kudu Totem",
-    "customEmojiId": "5199943018668394204"
+    "customEmojiId": "5199943018668394204",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/kudu-totem.png"
+    }
   },
   {
     "name": "Bubble Tea",
-    "customEmojiId": "5199799150148883131"
+    "customEmojiId": "5199799150148883131",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bubble-tea.png"
+    }
   },
   {
     "name": "Easter Bunny",
-    "customEmojiId": "5199627626334947886"
+    "customEmojiId": "5199627626334947886",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/easter-bunny.png"
+    }
   },
   {
     "name": "Pomegranate",
-    "customEmojiId": "5199497579020194190"
+    "customEmojiId": "5199497579020194190",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pomegranate.png"
+    }
   },
   {
     "name": "Bunny",
-    "customEmojiId": "5199800120811489322"
+    "customEmojiId": "5199800120811489322",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bunny.png"
+    }
   },
   {
     "name": "Wreath",
-    "customEmojiId": "5199506340753473869"
+    "customEmojiId": "5199506340753473869",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/wreath.png"
+    }
   },
   {
     "name": "Corn",
-    "customEmojiId": "5199836340270695549"
+    "customEmojiId": "5199836340270695549",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/corn.png"
+    }
   },
   {
     "name": "Academic Cap",
-    "customEmojiId": "5199683830276984098"
+    "customEmojiId": "5199683830276984098",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/academic-cap.png"
+    }
   },
   {
     "name": "Flower Sun",
-    "customEmojiId": "5199422558826431486"
+    "customEmojiId": "5199422558826431486",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/flower-sun.png"
+    }
   },
   {
     "name": "Twin Koi",
-    "customEmojiId": "5199691170376093717"
+    "customEmojiId": "5199691170376093717",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/twin-koi.png"
+    }
   },
   {
     "name": "Baphomet",
-    "customEmojiId": "5199603441374108638"
+    "customEmojiId": "5199603441374108638",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/baphomet.png"
+    }
   },
   {
     "name": "Silver Ibis",
-    "customEmojiId": "5199513981500297130"
+    "customEmojiId": "5199513981500297130",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/silver-ibis.png"
+    }
   },
   {
     "name": "Illuminati",
-    "customEmojiId": "5199959970904312871"
+    "customEmojiId": "5199959970904312871",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/illuminati.png"
+    }
   },
   {
     "name": "Jörmungandr",
-    "customEmojiId": "5199764777525611986"
+    "customEmojiId": "5199764777525611986",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/jormungandr.png"
+    }
   },
   {
     "name": "Bandana",
-    "customEmojiId": "5199711902183232393"
+    "customEmojiId": "5199711902183232393",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bandana.png"
+    }
   },
   {
     "name": "Pencil",
-    "customEmojiId": "5199649638042340721"
+    "customEmojiId": "5199649638042340721",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pencil.png"
+    }
   },
   {
     "name": "Watermelon",
-    "customEmojiId": "5199448229845961538"
+    "customEmojiId": "5199448229845961538",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/watermelon.png"
+    }
   },
   {
     "name": "Horseshoe",
-    "customEmojiId": "5199843530045950060"
+    "customEmojiId": "5199843530045950060",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/horseshoe.png"
+    }
   },
   {
     "name": "Nemean Lion",
-    "customEmojiId": "5199957797650858913"
+    "customEmojiId": "5199957797650858913",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/nemean-lion.png"
+    }
   },
   {
     "name": "Wolf Rage",
-    "customEmojiId": "5199809844617447088"
+    "customEmojiId": "5199809844617447088",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/wolf-rage.png"
+    }
   },
   {
     "name": "Cowboy Hat",
-    "customEmojiId": "5199727909526343129"
+    "customEmojiId": "5199727909526343129",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/cowboy-hat.png"
+    }
   },
   {
     "name": "Birthday Cake",
-    "customEmojiId": "5199528562914267487"
+    "customEmojiId": "5199528562914267487",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/birthday-cake.png"
+    }
   },
   {
     "name": "Brain",
-    "customEmojiId": "5199813422325207751"
+    "customEmojiId": "5199813422325207751",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/brain.png"
+    }
   },
   {
     "name": "Police Hat",
-    "customEmojiId": "5199767113987824870"
+    "customEmojiId": "5199767113987824870",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/police-hat.png"
+    }
   },
   {
     "name": "Bearskin",
-    "customEmojiId": "5199745828129901558"
+    "customEmojiId": "5199745828129901558",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bearskin.png"
+    }
   },
   {
     "name": "Serpent",
-    "customEmojiId": "5199799880293323047"
+    "customEmojiId": "5199799880293323047",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/serpent.png"
+    }
   },
   {
     "name": "Alert Serpent",
-    "customEmojiId": "5199488392085146030"
+    "customEmojiId": "5199488392085146030",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/alert-serpent.png"
+    }
   },
   {
     "name": "Winged Helmet",
-    "customEmojiId": "5199518650129746938"
+    "customEmojiId": "5199518650129746938",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/winged-helmet.png"
+    }
   },
   {
     "name": "Viking",
-    "customEmojiId": "5199809080113267301"
+    "customEmojiId": "5199809080113267301",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/viking.png"
+    }
   },
   {
     "name": "Monarch",
-    "customEmojiId": "5199967568701462550"
+    "customEmojiId": "5199967568701462550",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/monarch.png"
+    }
   },
   {
     "name": "Griffon",
-    "customEmojiId": "5199733754976831104"
+    "customEmojiId": "5199733754976831104",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/griffon.png"
+    }
   },
   {
     "name": "Mustang",
-    "customEmojiId": "5199436757988311690"
+    "customEmojiId": "5199436757988311690",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/mustang.png"
+    }
   },
   {
     "name": "Tree of Life",
-    "customEmojiId": "5199597209376558882"
+    "customEmojiId": "5199597209376558882",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/tree-of-life.png"
+    }
   },
   {
     "name": "Fishing Hook",
-    "customEmojiId": "5199562218277996516"
+    "customEmojiId": "5199562218277996516",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/fishing-hook.png"
+    }
   },
   {
     "name": "Chef Hat",
-    "customEmojiId": "5199467063277553530"
+    "customEmojiId": "5199467063277553530",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/chef-hat.png"
+    }
   },
   {
     "name": "Banner",
-    "customEmojiId": "5199763055243726900"
+    "customEmojiId": "5199763055243726900",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/banner.png"
+    }
   },
   {
     "name": "Cobra",
-    "customEmojiId": "5199726195834392948"
+    "customEmojiId": "5199726195834392948",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/cobra.png"
+    }
   },
   {
     "name": "Bucket Hat",
-    "customEmojiId": "5199537066949512116"
+    "customEmojiId": "5199537066949512116",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/bucket-hat.png"
+    }
   },
   {
     "name": "Aztec Totem",
-    "customEmojiId": "5199726925978831254"
+    "customEmojiId": "5199726925978831254",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/aztec-totem.png"
+    }
   },
   {
     "name": "The Eye",
-    "customEmojiId": "5199464073980313985"
+    "customEmojiId": "5199464073980313985",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/the-eye.png"
+    }
   },
   {
     "name": "Hamburger",
-    "customEmojiId": "5199558610505467372"
+    "customEmojiId": "5199558610505467372",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/hamburger.png"
+    }
   },
   {
     "name": "Khinkali",
-    "customEmojiId": "5199559430844221150"
+    "customEmojiId": "5199559430844221150",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/khinkali.png"
+    }
   },
   {
     "name": "Morgenstern",
-    "customEmojiId": "5199655161370280611"
+    "customEmojiId": "5199655161370280611",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/morgenstern.png"
+    }
   },
   {
     "name": "Ram of Amun",
-    "customEmojiId": "5199770601501268034"
+    "customEmojiId": "5199770601501268034",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/ram-of-amun.png"
+    }
   },
   {
     "name": "Diamond",
-    "customEmojiId": "5199628004292067329"
+    "customEmojiId": "5199628004292067329",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/diamond.png"
+    }
   },
   {
     "name": "Spanner",
-    "customEmojiId": "5199442762352593351"
+    "customEmojiId": "5199442762352593351",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/spanner.png"
+    }
   },
   {
     "name": "Trinity Knot",
-    "customEmojiId": "5199449449616675994"
+    "customEmojiId": "5199449449616675994",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/trinity-knot.png"
+    }
   },
   {
     "name": "Hazelnut",
-    "customEmojiId": "5199962457690375276"
+    "customEmojiId": "5199962457690375276",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/hazelnut.png"
+    }
   },
   {
     "name": "Chili",
-    "customEmojiId": "5199718404763713565"
+    "customEmojiId": "5199718404763713565",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/chili.png"
+    }
   },
   {
     "name": "Pilot Hat",
-    "customEmojiId": "5199599971040525984"
+    "customEmojiId": "5199599971040525984",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pilot-hat.png"
+    }
   },
   {
     "name": "Yogi Shaman",
-    "customEmojiId": "5199445571261203846"
+    "customEmojiId": "5199445571261203846",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/yogi-shaman.png"
+    }
   },
   {
     "name": "Sword",
-    "customEmojiId": "5199810643481365864"
+    "customEmojiId": "5199810643481365864",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sword.png"
+    }
   },
   {
     "name": "Unicorn",
-    "customEmojiId": "5199548367008467469"
+    "customEmojiId": "5199548367008467469",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/unicorn.png"
+    }
   },
   {
     "name": "Grape",
-    "customEmojiId": "5199618417925067376"
+    "customEmojiId": "5199618417925067376",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/grape.png"
+    }
   },
   {
     "name": "Sunflower",
-    "customEmojiId": "5199874518234992013"
+    "customEmojiId": "5199874518234992013",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sunflower.png"
+    }
   },
   {
     "name": "Ice Pop",
-    "customEmojiId": "5202206762786127395"
+    "customEmojiId": "5202206762786127395",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/ice-pop.png"
+    }
   },
   {
     "name": "Two Katanas",
-    "customEmojiId": "5199814255548864362"
+    "customEmojiId": "5199814255548864362",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/two-katanas.png"
+    }
   },
   {
     "name": "Pumpkin Coach",
-    "customEmojiId": "5199890607182480707"
+    "customEmojiId": "5199890607182480707",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pumpkin-coach.png"
+    }
   },
   {
     "name": "Owl",
-    "customEmojiId": "5199736804403612865"
+    "customEmojiId": "5199736804403612865",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/owl.png"
+    }
   },
   {
     "name": "Clubs",
-    "customEmojiId": "5199913752761238667"
+    "customEmojiId": "5199913752761238667",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/clubs.png"
+    }
   },
   {
     "name": "Candy",
-    "customEmojiId": "5199911012572105730"
+    "customEmojiId": "5199911012572105730",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/candy.png"
+    }
   },
   {
     "name": "Okami Wolf",
-    "customEmojiId": "5199728489346925958"
+    "customEmojiId": "5199728489346925958",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/okami-wolf.png"
+    }
   },
   {
     "name": "Beret",
-    "customEmojiId": "5199710124066771918"
+    "customEmojiId": "5199710124066771918",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/beret.png"
+    }
   },
   {
     "name": "Telescope",
-    "customEmojiId": "5199588391808698998"
+    "customEmojiId": "5199588391808698998",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/telescope.png"
+    }
   },
   {
     "name": "Flashlight",
-    "customEmojiId": "5199659250179147232"
+    "customEmojiId": "5199659250179147232",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/flashlight.png"
+    }
   },
   {
     "name": "Easter Egg",
-    "customEmojiId": "5199483835124843089"
+    "customEmojiId": "5199483835124843089",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/easter-egg.png"
+    }
   },
   {
     "name": "Golden Scarab",
-    "customEmojiId": "5199515630767736867"
+    "customEmojiId": "5199515630767736867",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/golden-scarab.png"
+    }
   },
   {
     "name": "Book",
-    "customEmojiId": "5199463541404373712"
+    "customEmojiId": "5199463541404373712",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/book.png"
+    }
   },
   {
     "name": "Aztec Falcon",
-    "customEmojiId": "5199675880292517991"
+    "customEmojiId": "5199675880292517991",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/aztec-falcon.png"
+    }
   },
   {
     "name": "Sparks",
-    "customEmojiId": "5199534721897367416"
+    "customEmojiId": "5199534721897367416",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sparks.png"
+    }
   },
   {
     "name": "Shark Knife",
-    "customEmojiId": "5199666796436687154"
+    "customEmojiId": "5199666796436687154",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/shark-knife.png"
+    }
   },
   {
     "name": "Lion of Babylon",
-    "customEmojiId": "5199765593569398366"
+    "customEmojiId": "5199765593569398366",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/lion-of-babylon.png"
+    }
   },
   {
     "name": "Cavalier Hat",
-    "customEmojiId": "5199484170132292855"
+    "customEmojiId": "5199484170132292855",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/cavalier-hat.png"
+    }
   },
   {
     "name": "Sauron",
-    "customEmojiId": "5199852081325838722"
+    "customEmojiId": "5199852081325838722",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sauron.png"
+    }
   },
   {
     "name": "Winter Hat",
-    "customEmojiId": "5199676112220754626"
+    "customEmojiId": "5199676112220754626",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/winter-hat.png"
+    }
   },
   {
     "name": "Pyramid",
-    "customEmojiId": "5199649565027895118"
+    "customEmojiId": "5199649565027895118",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/pyramid.png"
+    }
   },
   {
     "name": "Meat Leg",
-    "customEmojiId": "5199442135287366557"
+    "customEmojiId": "5199442135287366557",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/meat-leg.png"
+    }
   },
   {
     "name": "Kitsune",
-    "customEmojiId": "5199625959887635892"
+    "customEmojiId": "5199625959887635892",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/kitsune.png"
+    }
   },
   {
     "name": "Anchor",
-    "customEmojiId": "5199524130508019696"
+    "customEmojiId": "5199524130508019696",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/anchor.png"
+    }
   },
   {
     "name": "Sun Mountain",
-    "customEmojiId": "5199464829894562233"
+    "customEmojiId": "5199464829894562233",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/sun-mountain.png"
+    }
   },
   {
     "name": "Astronaut",
-    "customEmojiId": "5199581154788806855"
+    "customEmojiId": "5199581154788806855",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/astronaut.png"
+    }
   },
   {
     "name": "Hersir",
-    "customEmojiId": "5199923815869616574"
+    "customEmojiId": "5199923815869616574",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/hersir.png"
+    }
   },
   {
     "name": "Unicorn Head",
-    "customEmojiId": "5199885517646234797"
+    "customEmojiId": "5199885517646234797",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/unicorn-head.png"
+    }
   },
   {
     "name": "Guitar",
-    "customEmojiId": "5199926040662672669"
+    "customEmojiId": "5199926040662672669",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/guitar.png"
+    }
   },
   {
     "name": "Lion King",
-    "customEmojiId": "5199514870558527530"
+    "customEmojiId": "5199514870558527530",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/lion-king.png"
+    }
   },
   {
     "name": "Paper Lantern",
-    "customEmojiId": "5199406474173906392"
+    "customEmojiId": "5199406474173906392",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/paper-lantern.png"
+    }
   },
   {
     "name": "Doberman",
-    "customEmojiId": "5199561689997017519"
+    "customEmojiId": "5199561689997017519",
+    "assets": {
+      "png": "gifts/rarebird/assets/patterns/doberman.png"
+    }
   }
 ] satisfies readonly GiftPattern[];
 

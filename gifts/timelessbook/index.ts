@@ -3,1094 +3,1962 @@ import type { GiftModel, GiftPattern, Backdrop, GiftCollection } from '../../typ
 export const models = [
   {
     "name": "Death Note",
-    "customEmojiId": "5334598421015731428"
+    "customEmojiId": "5334598421015731428",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/death-note.svg",
+      "tgs": "gifts/timelessbook/assets/models/death-note.tgs"
+    }
   },
   {
     "name": "The Ledger",
-    "customEmojiId": "5337294097109525977"
+    "customEmojiId": "5337294097109525977",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/the-ledger.svg",
+      "tgs": "gifts/timelessbook/assets/models/the-ledger.tgs"
+    }
   },
   {
     "name": "Token Vault",
-    "customEmojiId": "5334949246829371782"
+    "customEmojiId": "5334949246829371782",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/token-vault.svg",
+      "tgs": "gifts/timelessbook/assets/models/token-vault.tgs"
+    }
   },
   {
     "name": "Evidence",
-    "customEmojiId": "5337091653826027709"
+    "customEmojiId": "5337091653826027709",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/evidence.svg",
+      "tgs": "gifts/timelessbook/assets/models/evidence.tgs"
+    }
   },
   {
     "name": "Journal 1",
-    "customEmojiId": "5334675412599480338"
+    "customEmojiId": "5334675412599480338",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/journal-1.svg",
+      "tgs": "gifts/timelessbook/assets/models/journal-1.tgs"
+    }
   },
   {
     "name": "Kamasutra",
-    "customEmojiId": "5336829549151823064"
+    "customEmojiId": "5336829549151823064",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/kamasutra.svg",
+      "tgs": "gifts/timelessbook/assets/models/kamasutra.tgs"
+    }
   },
   {
     "name": "Rebel Dog",
-    "customEmojiId": "5336824240572243316"
+    "customEmojiId": "5336824240572243316",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/rebel-dog.svg",
+      "tgs": "gifts/timelessbook/assets/models/rebel-dog.tgs"
+    }
   },
   {
     "name": "Tom’s Diary",
-    "customEmojiId": "5335049963812462851"
+    "customEmojiId": "5335049963812462851",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/tom-s-diary.svg",
+      "tgs": "gifts/timelessbook/assets/models/tom-s-diary.tgs"
+    }
   },
   {
     "name": "Dragon Age",
-    "customEmojiId": "5337260733803568620"
+    "customEmojiId": "5337260733803568620",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/dragon-age.svg",
+      "tgs": "gifts/timelessbook/assets/models/dragon-age.tgs"
+    }
   },
   {
     "name": "Fahrenheit 451",
-    "customEmojiId": "5334833278417414222"
+    "customEmojiId": "5334833278417414222",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/fahrenheit-451.svg",
+      "tgs": "gifts/timelessbook/assets/models/fahrenheit-451.tgs"
+    }
   },
   {
     "name": "Fairy Tales",
-    "customEmojiId": "5337129372228816979"
+    "customEmojiId": "5337129372228816979",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/fairy-tales.svg",
+      "tgs": "gifts/timelessbook/assets/models/fairy-tales.tgs"
+    }
   },
   {
     "name": "Froges",
-    "customEmojiId": "5337151177777779020"
+    "customEmojiId": "5337151177777779020",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/froges.svg",
+      "tgs": "gifts/timelessbook/assets/models/froges.tgs"
+    }
   },
   {
     "name": "Lovecraft",
-    "customEmojiId": "5334781644320580583"
+    "customEmojiId": "5334781644320580583",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/lovecraft.svg",
+      "tgs": "gifts/timelessbook/assets/models/lovecraft.tgs"
+    }
   },
   {
     "name": "Monster Book",
-    "customEmojiId": "5335022570511046644"
+    "customEmojiId": "5335022570511046644",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/monster-book.svg",
+      "tgs": "gifts/timelessbook/assets/models/monster-book.tgs"
+    }
   },
   {
     "name": "Astrology",
-    "customEmojiId": "5337056130151520561"
+    "customEmojiId": "5337056130151520561",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/astrology.svg",
+      "tgs": "gifts/timelessbook/assets/models/astrology.tgs"
+    }
   },
   {
     "name": "Billy Milligan",
-    "customEmojiId": "5337092942316213509"
+    "customEmojiId": "5337092942316213509",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/billy-milligan.svg",
+      "tgs": "gifts/timelessbook/assets/models/billy-milligan.tgs"
+    }
   },
   {
     "name": "E-Reader",
-    "customEmojiId": "5336849228691972264"
+    "customEmojiId": "5336849228691972264",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/e-reader.svg",
+      "tgs": "gifts/timelessbook/assets/models/e-reader.tgs"
+    }
   },
   {
     "name": "Hitchhiker",
-    "customEmojiId": "5334524272700332792"
+    "customEmojiId": "5334524272700332792",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/hitchhiker.svg",
+      "tgs": "gifts/timelessbook/assets/models/hitchhiker.tgs"
+    }
   },
   {
     "name": "Liberty Scroll",
-    "customEmojiId": "5334666264319141034"
+    "customEmojiId": "5334666264319141034",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/liberty-scroll.svg",
+      "tgs": "gifts/timelessbook/assets/models/liberty-scroll.tgs"
+    }
   },
   {
     "name": "Metro",
-    "customEmojiId": "5336827075250659772"
+    "customEmojiId": "5336827075250659772",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/metro.svg",
+      "tgs": "gifts/timelessbook/assets/models/metro.tgs"
+    }
   },
   {
     "name": "Wisdom Scroll",
-    "customEmojiId": "5337014550573128147"
+    "customEmojiId": "5337014550573128147",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/wisdom-scroll.svg",
+      "tgs": "gifts/timelessbook/assets/models/wisdom-scroll.tgs"
+    }
   },
   {
     "name": "Big Brother",
-    "customEmojiId": "5337202678730630109"
+    "customEmojiId": "5337202678730630109",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/big-brother.svg",
+      "tgs": "gifts/timelessbook/assets/models/big-brother.tgs"
+    }
   },
   {
     "name": "Burn Book",
-    "customEmojiId": "5337285107742973333"
+    "customEmojiId": "5337285107742973333",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/burn-book.svg",
+      "tgs": "gifts/timelessbook/assets/models/burn-book.tgs"
+    }
   },
   {
     "name": "Crazy Book",
-    "customEmojiId": "5336774191318345803"
+    "customEmojiId": "5336774191318345803",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/crazy-book.svg",
+      "tgs": "gifts/timelessbook/assets/models/crazy-book.tgs"
+    }
   },
   {
     "name": "Crystal Tome",
-    "customEmojiId": "5334585394379922861"
+    "customEmojiId": "5334585394379922861",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/crystal-tome.svg",
+      "tgs": "gifts/timelessbook/assets/models/crystal-tome.tgs"
+    }
   },
   {
     "name": "Lord of Flies",
-    "customEmojiId": "5337168456431213033"
+    "customEmojiId": "5337168456431213033",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/lord-of-flies.svg",
+      "tgs": "gifts/timelessbook/assets/models/lord-of-flies.tgs"
+    }
   },
   {
     "name": "Mystique",
-    "customEmojiId": "5336920409184967576"
+    "customEmojiId": "5336920409184967576",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/mystique.svg",
+      "tgs": "gifts/timelessbook/assets/models/mystique.tgs"
+    }
   },
   {
     "name": "Rocket Science",
-    "customEmojiId": "5334875493650967463"
+    "customEmojiId": "5334875493650967463",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/rocket-science.svg",
+      "tgs": "gifts/timelessbook/assets/models/rocket-science.tgs"
+    }
   },
   {
     "name": "Secret Chapter",
-    "customEmojiId": "5334859426178313935"
+    "customEmojiId": "5334859426178313935",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/secret-chapter.svg",
+      "tgs": "gifts/timelessbook/assets/models/secret-chapter.tgs"
+    }
   },
   {
     "name": "Songbook",
-    "customEmojiId": "5337183699270147354"
+    "customEmojiId": "5337183699270147354",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/songbook.svg",
+      "tgs": "gifts/timelessbook/assets/models/songbook.tgs"
+    }
   },
   {
     "name": "Tiny Kingdom",
-    "customEmojiId": "5334693674800419091"
+    "customEmojiId": "5334693674800419091",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/tiny-kingdom.svg",
+      "tgs": "gifts/timelessbook/assets/models/tiny-kingdom.tgs"
+    }
   },
   {
     "name": "Ulysses",
-    "customEmojiId": "5334841391610634649"
+    "customEmojiId": "5334841391610634649",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/ulysses.svg",
+      "tgs": "gifts/timelessbook/assets/models/ulysses.tgs"
+    }
   },
   {
     "name": "Unfinished",
-    "customEmojiId": "5334746438473651565"
+    "customEmojiId": "5334746438473651565",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/unfinished.svg",
+      "tgs": "gifts/timelessbook/assets/models/unfinished.tgs"
+    }
   },
   {
     "name": "Anatomy",
-    "customEmojiId": "5337160746964919130"
+    "customEmojiId": "5337160746964919130",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/anatomy.svg",
+      "tgs": "gifts/timelessbook/assets/models/anatomy.tgs"
+    }
   },
   {
     "name": "Animator",
-    "customEmojiId": "5334827815219010666"
+    "customEmojiId": "5334827815219010666",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/animator.svg",
+      "tgs": "gifts/timelessbook/assets/models/animator.tgs"
+    }
   },
   {
     "name": "Divine Comedy",
-    "customEmojiId": "5337119940480635549"
+    "customEmojiId": "5337119940480635549",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/divine-comedy.svg",
+      "tgs": "gifts/timelessbook/assets/models/divine-comedy.tgs"
+    }
   },
   {
     "name": "Love Story",
-    "customEmojiId": "5334930069800396598"
+    "customEmojiId": "5334930069800396598",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/love-story.svg",
+      "tgs": "gifts/timelessbook/assets/models/love-story.tgs"
+    }
   },
   {
     "name": "Pirate Tales",
-    "customEmojiId": "5334691222374094913"
+    "customEmojiId": "5334691222374094913",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/pirate-tales.svg",
+      "tgs": "gifts/timelessbook/assets/models/pirate-tales.tgs"
+    }
   },
   {
     "name": "Secret Files",
-    "customEmojiId": "5334655599915343684"
+    "customEmojiId": "5334655599915343684",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/secret-files.svg",
+      "tgs": "gifts/timelessbook/assets/models/secret-files.tgs"
+    }
   },
   {
     "name": "Unipedia",
-    "customEmojiId": "5334571994081959176"
+    "customEmojiId": "5334571994081959176",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/unipedia.svg",
+      "tgs": "gifts/timelessbook/assets/models/unipedia.tgs"
+    }
   },
   {
     "name": "Voodoo",
-    "customEmojiId": "5336841364606854909"
+    "customEmojiId": "5336841364606854909",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/voodoo.svg",
+      "tgs": "gifts/timelessbook/assets/models/voodoo.tgs"
+    }
   },
   {
     "name": "Chemistry",
-    "customEmojiId": "5337176990531233537"
+    "customEmojiId": "5337176990531233537",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/chemistry.svg",
+      "tgs": "gifts/timelessbook/assets/models/chemistry.tgs"
+    }
   },
   {
     "name": "Clay Tablets",
-    "customEmojiId": "5334960439514144850"
+    "customEmojiId": "5334960439514144850",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/clay-tablets.svg",
+      "tgs": "gifts/timelessbook/assets/models/clay-tablets.tgs"
+    }
   },
   {
     "name": "Ice Nine",
-    "customEmojiId": "5337315683615150886"
+    "customEmojiId": "5337315683615150886",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/ice-nine.svg",
+      "tgs": "gifts/timelessbook/assets/models/ice-nine.tgs"
+    }
   },
   {
     "name": "Shakespeare",
-    "customEmojiId": "5337164539421041850"
+    "customEmojiId": "5337164539421041850",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/shakespeare.svg",
+      "tgs": "gifts/timelessbook/assets/models/shakespeare.tgs"
+    }
   },
   {
     "name": "Academic",
-    "customEmojiId": "5334597158295347764"
+    "customEmojiId": "5334597158295347764",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/academic.svg",
+      "tgs": "gifts/timelessbook/assets/models/academic.tgs"
+    }
   },
   {
     "name": "Alphabet",
-    "customEmojiId": "5336854077710048344"
+    "customEmojiId": "5336854077710048344",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/alphabet.svg",
+      "tgs": "gifts/timelessbook/assets/models/alphabet.tgs"
+    }
   },
   {
     "name": "Animal Friends",
-    "customEmojiId": "5334687223759542328"
+    "customEmojiId": "5334687223759542328",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/animal-friends.svg",
+      "tgs": "gifts/timelessbook/assets/models/animal-friends.tgs"
+    }
   },
   {
     "name": "Cookbook",
-    "customEmojiId": "5336908198592944331"
+    "customEmojiId": "5336908198592944331",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/cookbook.svg",
+      "tgs": "gifts/timelessbook/assets/models/cookbook.tgs"
+    }
   },
   {
     "name": "Geometry",
-    "customEmojiId": "5337222418400319432"
+    "customEmojiId": "5337222418400319432",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/geometry.svg",
+      "tgs": "gifts/timelessbook/assets/models/geometry.tgs"
+    }
   },
   {
     "name": "Herbarium",
-    "customEmojiId": "5337218290936749946"
+    "customEmojiId": "5337218290936749946",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/herbarium.svg",
+      "tgs": "gifts/timelessbook/assets/models/herbarium.tgs"
+    }
   },
   {
     "name": "Paleontology",
-    "customEmojiId": "5336776063924083190"
+    "customEmojiId": "5336776063924083190",
+    "assets": {
+      "svg": "gifts/timelessbook/assets/models/paleontology.svg",
+      "tgs": "gifts/timelessbook/assets/models/paleontology.tgs"
+    }
   }
 ] satisfies readonly GiftModel[];
 
 export const patterns = [
   {
     "name": "Paw Print",
-    "customEmojiId": "5199721767723108875"
+    "customEmojiId": "5199721767723108875",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/paw-print.png"
+    }
   },
   {
     "name": "Hourglass",
-    "customEmojiId": "5199866430811571603"
+    "customEmojiId": "5199866430811571603",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/hourglass.png"
+    }
   },
   {
     "name": "French Fries",
-    "customEmojiId": "5199752910530973025"
+    "customEmojiId": "5199752910530973025",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/french-fries.png"
+    }
   },
   {
     "name": "Ramen",
-    "customEmojiId": "5199591943746650619"
+    "customEmojiId": "5199591943746650619",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ramen.png"
+    }
   },
   {
     "name": "Rose",
-    "customEmojiId": "5199847348271877856"
+    "customEmojiId": "5199847348271877856",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/rose.png"
+    }
   },
   {
     "name": "Tamagotchi",
-    "customEmojiId": "5199853902391968563"
+    "customEmojiId": "5199853902391968563",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/tamagotchi.png"
+    }
   },
   {
     "name": "Chef Hat",
-    "customEmojiId": "5199467063277553530"
+    "customEmojiId": "5199467063277553530",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/chef-hat.png"
+    }
   },
   {
     "name": "High Hat",
-    "customEmojiId": "5199803080043958545"
+    "customEmojiId": "5199803080043958545",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/high-hat.png"
+    }
   },
   {
     "name": "Fehu Rune",
-    "customEmojiId": "5201658535980598965"
+    "customEmojiId": "5201658535980598965",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/fehu-rune.png"
+    }
   },
   {
     "name": "Mannaz Rune",
-    "customEmojiId": "5199593631668799507"
+    "customEmojiId": "5199593631668799507",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/mannaz-rune.png"
+    }
   },
   {
     "name": "Pawn",
-    "customEmojiId": "5199596131339765368"
+    "customEmojiId": "5199596131339765368",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pawn.png"
+    }
   },
   {
     "name": "Musical Note",
-    "customEmojiId": "5199763458970653234"
+    "customEmojiId": "5199763458970653234",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/musical-note.png"
+    }
   },
   {
     "name": "Gear",
-    "customEmojiId": "5199963565791939900"
+    "customEmojiId": "5199963565791939900",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/gear.png"
+    }
   },
   {
     "name": "Sunflower",
-    "customEmojiId": "5199874518234992013"
+    "customEmojiId": "5199874518234992013",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/sunflower.png"
+    }
   },
   {
     "name": "Like",
-    "customEmojiId": "5199438957011572772"
+    "customEmojiId": "5199438957011572772",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/like.png"
+    }
   },
   {
     "name": "Thief",
-    "customEmojiId": "5199501362886377899"
+    "customEmojiId": "5199501362886377899",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/thief.png"
+    }
   },
   {
     "name": "Toilet Paper",
-    "customEmojiId": "5199519908555163902"
+    "customEmojiId": "5199519908555163902",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/toilet-paper.png"
+    }
   },
   {
     "name": "Melon",
-    "customEmojiId": "5199664507219118426"
+    "customEmojiId": "5199664507219118426",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/melon.png"
+    }
   },
   {
     "name": "Kudu Totem",
-    "customEmojiId": "5199943018668394204"
+    "customEmojiId": "5199943018668394204",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/kudu-totem.png"
+    }
   },
   {
     "name": "Trickster Fox",
-    "customEmojiId": "5199707800489464034"
+    "customEmojiId": "5199707800489464034",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/trickster-fox.png"
+    }
   },
   {
     "name": "Sea Horse",
-    "customEmojiId": "5199693631392352882"
+    "customEmojiId": "5199693631392352882",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/sea-horse.png"
+    }
   },
   {
     "name": "Elephant",
-    "customEmojiId": "5199694971422146836"
+    "customEmojiId": "5199694971422146836",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/elephant.png"
+    }
   },
   {
     "name": "Deerstalker",
-    "customEmojiId": "5199479669006568749"
+    "customEmojiId": "5199479669006568749",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/deerstalker.png"
+    }
   },
   {
     "name": "Flag",
-    "customEmojiId": "5199874462400414430"
+    "customEmojiId": "5199874462400414430",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/flag.png"
+    }
   },
   {
     "name": "Bucket Hat",
-    "customEmojiId": "5199537066949512116"
+    "customEmojiId": "5199537066949512116",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bucket-hat.png"
+    }
   },
   {
     "name": "Tribal Shield",
-    "customEmojiId": "5199940531882326218"
+    "customEmojiId": "5199940531882326218",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/tribal-shield.png"
+    }
   },
   {
     "name": "Royal Turban",
-    "customEmojiId": "5199593258006647336"
+    "customEmojiId": "5199593258006647336",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/royal-turban.png"
+    }
   },
   {
     "name": "Baseball Cap",
-    "customEmojiId": "5199873423018329022"
+    "customEmojiId": "5199873423018329022",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/baseball-cap.png"
+    }
   },
   {
     "name": "Phoenix",
-    "customEmojiId": "5199683091542608723"
+    "customEmojiId": "5199683091542608723",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/phoenix.png"
+    }
   },
   {
     "name": "Pegasus",
-    "customEmojiId": "5199615102210311126"
+    "customEmojiId": "5199615102210311126",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pegasus.png"
+    }
   },
   {
     "name": "Tree of Life",
-    "customEmojiId": "5199597209376558882"
+    "customEmojiId": "5199597209376558882",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/tree-of-life.png"
+    }
   },
   {
     "name": "Totem Bear",
-    "customEmojiId": "5199656939486742424"
+    "customEmojiId": "5199656939486742424",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/totem-bear.png"
+    }
   },
   {
     "name": "Gua Pi Mao",
-    "customEmojiId": "5199440052228229167"
+    "customEmojiId": "5199440052228229167",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/gua-pi-mao.png"
+    }
   },
   {
     "name": "Kashket",
-    "customEmojiId": "5199448672227594010"
+    "customEmojiId": "5199448672227594010",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/kashket.png"
+    }
   },
   {
     "name": "Yogi Shaman",
-    "customEmojiId": "5199445571261203846"
+    "customEmojiId": "5199445571261203846",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/yogi-shaman.png"
+    }
   },
   {
     "name": "Tulip",
-    "customEmojiId": "5199743169545146465"
+    "customEmojiId": "5199743169545146465",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/tulip.png"
+    }
   },
   {
     "name": "Illuminati",
-    "customEmojiId": "5199959970904312871"
+    "customEmojiId": "5199959970904312871",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/illuminati.png"
+    }
   },
   {
     "name": "Hammerhead",
-    "customEmojiId": "5199846888710377808"
+    "customEmojiId": "5199846888710377808",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/hammerhead.png"
+    }
   },
   {
     "name": "Moon",
-    "customEmojiId": "5199499052193973671"
+    "customEmojiId": "5199499052193973671",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/moon.png"
+    }
   },
   {
     "name": "Obon Lantern",
-    "customEmojiId": "5199784405526151376"
+    "customEmojiId": "5199784405526151376",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/obon-lantern.png"
+    }
   },
   {
     "name": "Birthday Cake",
-    "customEmojiId": "5199528562914267487"
+    "customEmojiId": "5199528562914267487",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/birthday-cake.png"
+    }
   },
   {
     "name": "Lemon",
-    "customEmojiId": "5199949400989796691"
+    "customEmojiId": "5199949400989796691",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/lemon.png"
+    }
   },
   {
     "name": "Monstera",
-    "customEmojiId": "5199712567903159375"
+    "customEmojiId": "5199712567903159375",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/monstera.png"
+    }
   },
   {
     "name": "Sun Mountain",
-    "customEmojiId": "5199464829894562233"
+    "customEmojiId": "5199464829894562233",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/sun-mountain.png"
+    }
   },
   {
     "name": "Coonskin Cap",
-    "customEmojiId": "5199711867823495459"
+    "customEmojiId": "5199711867823495459",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/coonskin-cap.png"
+    }
   },
   {
     "name": "Jumbo Pencil",
-    "customEmojiId": "5199442723697888040"
+    "customEmojiId": "5199442723697888040",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/jumbo-pencil.png"
+    }
   },
   {
     "name": "Celtic Cross",
-    "customEmojiId": "5199560126628923287"
+    "customEmojiId": "5199560126628923287",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/celtic-cross.png"
+    }
   },
   {
     "name": "Oculus",
-    "customEmojiId": "5199618645558330282"
+    "customEmojiId": "5199618645558330282",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/oculus.png"
+    }
   },
   {
     "name": "Robin Hood",
-    "customEmojiId": "5199634154685237795"
+    "customEmojiId": "5199634154685237795",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/robin-hood.png"
+    }
   },
   {
     "name": "Clover",
-    "customEmojiId": "5199896852064926891"
+    "customEmojiId": "5199896852064926891",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/clover.png"
+    }
   },
   {
     "name": "Shield",
-    "customEmojiId": "5199474497865945550"
+    "customEmojiId": "5199474497865945550",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/shield.png"
+    }
   },
   {
     "name": "Shell",
-    "customEmojiId": "5199502470987945576"
+    "customEmojiId": "5199502470987945576",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/shell.png"
+    }
   },
   {
     "name": "Flashlight",
-    "customEmojiId": "5199659250179147232"
+    "customEmojiId": "5199659250179147232",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/flashlight.png"
+    }
   },
   {
     "name": "Tooth",
-    "customEmojiId": "5199462351698429183"
+    "customEmojiId": "5199462351698429183",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/tooth.png"
+    }
   },
   {
     "name": "Smartphone",
-    "customEmojiId": "5199833724635614475"
+    "customEmojiId": "5199833724635614475",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/smartphone.png"
+    }
   },
   {
     "name": "Dolphin",
-    "customEmojiId": "5199801499495994058"
+    "customEmojiId": "5199801499495994058",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/dolphin.png"
+    }
   },
   {
     "name": "Straw Hat",
-    "customEmojiId": "5199475953859857051"
+    "customEmojiId": "5199475953859857051",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/straw-hat.png"
+    }
   },
   {
     "name": "Vortex",
-    "customEmojiId": "5199813753037687817"
+    "customEmojiId": "5199813753037687817",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/vortex.png"
+    }
   },
   {
     "name": "Winged Helmet",
-    "customEmojiId": "5199518650129746938"
+    "customEmojiId": "5199518650129746938",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/winged-helmet.png"
+    }
   },
   {
     "name": "Lily",
-    "customEmojiId": "5199594718295526169"
+    "customEmojiId": "5199594718295526169",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/lily.png"
+    }
   },
   {
     "name": "Twin Peaks",
-    "customEmojiId": "5199548495857482960"
+    "customEmojiId": "5199548495857482960",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/twin-peaks.png"
+    }
   },
   {
     "name": "Palette",
-    "customEmojiId": "5199833587196661886"
+    "customEmojiId": "5199833587196661886",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/palette.png"
+    }
   },
   {
     "name": "Dragonfly",
-    "customEmojiId": "5199491647670355164"
+    "customEmojiId": "5199491647670355164",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/dragonfly.png"
+    }
   },
   {
     "name": "Feather",
-    "customEmojiId": "5199561191780815148"
+    "customEmojiId": "5199561191780815148",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/feather.png"
+    }
   },
   {
     "name": "PC Mouse",
-    "customEmojiId": "5199776412592014669"
+    "customEmojiId": "5199776412592014669",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pc-mouse.png"
+    }
   },
   {
     "name": "Pear",
-    "customEmojiId": "5199711558585845500"
+    "customEmojiId": "5199711558585845500",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pear.png"
+    }
   },
   {
     "name": "Ancient Urn",
-    "customEmojiId": "5199861697757609491"
+    "customEmojiId": "5199861697757609491",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ancient-urn.png"
+    }
   },
   {
     "name": "Meat Leg",
-    "customEmojiId": "5199442135287366557"
+    "customEmojiId": "5199442135287366557",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/meat-leg.png"
+    }
   },
   {
     "name": "Ice Cream",
-    "customEmojiId": "5199587451210861217"
+    "customEmojiId": "5199587451210861217",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ice-cream.png"
+    }
   },
   {
     "name": "Doctor Hat",
-    "customEmojiId": "5199584148381011556"
+    "customEmojiId": "5199584148381011556",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/doctor-hat.png"
+    }
   },
   {
     "name": "Telescope",
-    "customEmojiId": "5199588391808698998"
+    "customEmojiId": "5199588391808698998",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/telescope.png"
+    }
   },
   {
     "name": "Bobby Helmet",
-    "customEmojiId": "5199570082363115866"
+    "customEmojiId": "5199570082363115866",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bobby-helmet.png"
+    }
   },
   {
     "name": "Academic Cap",
-    "customEmojiId": "5199683830276984098"
+    "customEmojiId": "5199683830276984098",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/academic-cap.png"
+    }
   },
   {
     "name": "Police Hat",
-    "customEmojiId": "5199767113987824870"
+    "customEmojiId": "5199767113987824870",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/police-hat.png"
+    }
   },
   {
     "name": "Bandana",
-    "customEmojiId": "5199711902183232393"
+    "customEmojiId": "5199711902183232393",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bandana.png"
+    }
   },
   {
     "name": "Monarch",
-    "customEmojiId": "5199967568701462550"
+    "customEmojiId": "5199967568701462550",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/monarch.png"
+    }
   },
   {
     "name": "Wise Raven",
-    "customEmojiId": "5199774827749083086"
+    "customEmojiId": "5199774827749083086",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/wise-raven.png"
+    }
   },
   {
     "name": "Octopus",
-    "customEmojiId": "5199415742713335939"
+    "customEmojiId": "5199415742713335939",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/octopus.png"
+    }
   },
   {
     "name": "Bunny",
-    "customEmojiId": "5199800120811489322"
+    "customEmojiId": "5199800120811489322",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bunny.png"
+    }
   },
   {
     "name": "Burger",
-    "customEmojiId": "5199576765332229212"
+    "customEmojiId": "5199576765332229212",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/burger.png"
+    }
   },
   {
     "name": "Press Hat",
-    "customEmojiId": "5199819379444842683"
+    "customEmojiId": "5199819379444842683",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/press-hat.png"
+    }
   },
   {
     "name": "Leprechaun",
-    "customEmojiId": "5199899240066749481"
+    "customEmojiId": "5199899240066749481",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/leprechaun.png"
+    }
   },
   {
     "name": "Sprout",
-    "customEmojiId": "5199705945063589397"
+    "customEmojiId": "5199705945063589397",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/sprout.png"
+    }
   },
   {
     "name": "Shuriken",
-    "customEmojiId": "5199657373278441561"
+    "customEmojiId": "5199657373278441561",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/shuriken.png"
+    }
   },
   {
     "name": "Apple",
-    "customEmojiId": "5199834806967375335"
+    "customEmojiId": "5199834806967375335",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/apple.png"
+    }
   },
   {
     "name": "Pirate Hat",
-    "customEmojiId": "5199666663292700153"
+    "customEmojiId": "5199666663292700153",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pirate-hat.png"
+    }
   },
   {
     "name": "Spanner",
-    "customEmojiId": "5199442762352593351"
+    "customEmojiId": "5199442762352593351",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/spanner.png"
+    }
   },
   {
     "name": "Fish Skeleton",
-    "customEmojiId": "5199448302860405743"
+    "customEmojiId": "5199448302860405743",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/fish-skeleton.png"
+    }
   },
   {
     "name": "Divine Falcon",
-    "customEmojiId": "5199678478747732305"
+    "customEmojiId": "5199678478747732305",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/divine-falcon.png"
+    }
   },
   {
     "name": "Kitsune Mask",
-    "customEmojiId": "5199633360116285741"
+    "customEmojiId": "5199633360116285741",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/kitsune-mask.png"
+    }
   },
   {
     "name": "Arabian Horse",
-    "customEmojiId": "5199442384395467198"
+    "customEmojiId": "5199442384395467198",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/arabian-horse.png"
+    }
   },
   {
     "name": "Inca Sun",
-    "customEmojiId": "5199572075227940967"
+    "customEmojiId": "5199572075227940967",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/inca-sun.png"
+    }
   },
   {
     "name": "Lion of Babylon",
-    "customEmojiId": "5199765593569398366"
+    "customEmojiId": "5199765593569398366",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/lion-of-babylon.png"
+    }
   },
   {
     "name": "Mountain Lion",
-    "customEmojiId": "5199456879910094088"
+    "customEmojiId": "5199456879910094088",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/mountain-lion.png"
+    }
   },
   {
     "name": "Viper",
-    "customEmojiId": "5199937503930385823"
+    "customEmojiId": "5199937503930385823",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/viper.png"
+    }
   },
   {
     "name": "Ram of Amun",
-    "customEmojiId": "5199770601501268034"
+    "customEmojiId": "5199770601501268034",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ram-of-amun.png"
+    }
   },
   {
     "name": "Eagle",
-    "customEmojiId": "5199844350384703801"
+    "customEmojiId": "5199844350384703801",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/eagle.png"
+    }
   },
   {
     "name": "Ouroboros",
-    "customEmojiId": "5199428661974962024"
+    "customEmojiId": "5199428661974962024",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ouroboros.png"
+    }
   },
   {
     "name": "Wepwawet",
-    "customEmojiId": "5199485793629930536"
+    "customEmojiId": "5199485793629930536",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/wepwawet.png"
+    }
   },
   {
     "name": "Trinity Knot",
-    "customEmojiId": "5199449449616675994"
+    "customEmojiId": "5199449449616675994",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/trinity-knot.png"
+    }
   },
   {
     "name": "Lion Head",
-    "customEmojiId": "5199655049701172498"
+    "customEmojiId": "5199655049701172498",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/lion-head.png"
+    }
   },
   {
     "name": "Two Katanas",
-    "customEmojiId": "5199814255548864362"
+    "customEmojiId": "5199814255548864362",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/two-katanas.png"
+    }
   },
   {
     "name": "Twin Koi",
-    "customEmojiId": "5199691170376093717"
+    "customEmojiId": "5199691170376093717",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/twin-koi.png"
+    }
   },
   {
     "name": "Aztec Falcon",
-    "customEmojiId": "5199675880292517991"
+    "customEmojiId": "5199675880292517991",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/aztec-falcon.png"
+    }
   },
   {
     "name": "Evil Dragon",
-    "customEmojiId": "5199535271653181454"
+    "customEmojiId": "5199535271653181454",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/evil-dragon.png"
+    }
   },
   {
     "name": "Alert Serpent",
-    "customEmojiId": "5199488392085146030"
+    "customEmojiId": "5199488392085146030",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/alert-serpent.png"
+    }
   },
   {
     "name": "Trophy",
-    "customEmojiId": "5199543874472675475"
+    "customEmojiId": "5199543874472675475",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/trophy.png"
+    }
   },
   {
     "name": "Top Hat",
-    "customEmojiId": "5199704811192221997"
+    "customEmojiId": "5199704811192221997",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/top-hat.png"
+    }
   },
   {
     "name": "Heart",
-    "customEmojiId": "5199448474659098272"
+    "customEmojiId": "5199448474659098272",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/heart.png"
+    }
   },
   {
     "name": "Mask",
-    "customEmojiId": "5199413122783298258"
+    "customEmojiId": "5199413122783298258",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/mask.png"
+    }
   },
   {
     "name": "Ring",
-    "customEmojiId": "5199821179036142060"
+    "customEmojiId": "5199821179036142060",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ring.png"
+    }
   },
   {
     "name": "Double Axe",
-    "customEmojiId": "5199414905194712818"
+    "customEmojiId": "5199414905194712818",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/double-axe.png"
+    }
   },
   {
     "name": "Crusader",
-    "customEmojiId": "5199701096045512582"
+    "customEmojiId": "5199701096045512582",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/crusader.png"
+    }
   },
   {
     "name": "Anubis",
-    "customEmojiId": "5199800163761162785"
+    "customEmojiId": "5199800163761162785",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/anubis.png"
+    }
   },
   {
     "name": "Pyramid",
-    "customEmojiId": "5199649565027895118"
+    "customEmojiId": "5199649565027895118",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pyramid.png"
+    }
   },
   {
     "name": "Bishop",
-    "customEmojiId": "5199551953306157566"
+    "customEmojiId": "5199551953306157566",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bishop.png"
+    }
   },
   {
     "name": "Car",
-    "customEmojiId": "5199704214191765603"
+    "customEmojiId": "5199704214191765603",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/car.png"
+    }
   },
   {
     "name": "Venetian Mask",
-    "customEmojiId": "5199793845864267822"
+    "customEmojiId": "5199793845864267822",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/venetian-mask.png"
+    }
   },
   {
     "name": "Sleepy Unicorn",
-    "customEmojiId": "5199466646665722804"
+    "customEmojiId": "5199466646665722804",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/sleepy-unicorn.png"
+    }
   },
   {
     "name": "Egg",
-    "customEmojiId": "5199786226592283587"
+    "customEmojiId": "5199786226592283587",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/egg.png"
+    }
   },
   {
     "name": "Pumpkin Coach",
-    "customEmojiId": "5199890607182480707"
+    "customEmojiId": "5199890607182480707",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pumpkin-coach.png"
+    }
   },
   {
     "name": "Sword Fight",
-    "customEmojiId": "5202054218432674026"
+    "customEmojiId": "5202054218432674026",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/sword-fight.png"
+    }
   },
   {
     "name": "Iron Helmet",
-    "customEmojiId": "5199857089257702611"
+    "customEmojiId": "5199857089257702611",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/iron-helmet.png"
+    }
   },
   {
     "name": "Magic Vial",
-    "customEmojiId": "5199608535205315973"
+    "customEmojiId": "5199608535205315973",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/magic-vial.png"
+    }
   },
   {
     "name": "Moai Head",
-    "customEmojiId": "5199419934601418009"
+    "customEmojiId": "5199419934601418009",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/moai-head.png"
+    }
   },
   {
     "name": "Diamond",
-    "customEmojiId": "5199628004292067329"
+    "customEmojiId": "5199628004292067329",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/diamond.png"
+    }
   },
   {
     "name": "Arcane Mirror",
-    "customEmojiId": "5199560770874018874"
+    "customEmojiId": "5199560770874018874",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/arcane-mirror.png"
+    }
   },
   {
     "name": "Knight",
-    "customEmojiId": "5199568179692599944"
+    "customEmojiId": "5199568179692599944",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/knight.png"
+    }
   },
   {
     "name": "Piranha",
-    "customEmojiId": "5199947034462818715"
+    "customEmojiId": "5199947034462818715",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/piranha.png"
+    }
   },
   {
     "name": "Porrige",
-    "customEmojiId": "5199425857361315324"
+    "customEmojiId": "5199425857361315324",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/porrige.png"
+    }
   },
   {
     "name": "Fried Egg",
-    "customEmojiId": "5199508084510201810"
+    "customEmojiId": "5199508084510201810",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/fried-egg.png"
+    }
   },
   {
     "name": "Fishing Hook",
-    "customEmojiId": "5199562218277996516"
+    "customEmojiId": "5199562218277996516",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/fishing-hook.png"
+    }
   },
   {
     "name": "Anchor",
-    "customEmojiId": "5199524130508019696"
+    "customEmojiId": "5199524130508019696",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/anchor.png"
+    }
   },
   {
     "name": "Rook",
-    "customEmojiId": "5199812241209201867"
+    "customEmojiId": "5199812241209201867",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/rook.png"
+    }
   },
   {
     "name": "Unicorn Head",
-    "customEmojiId": "5199885517646234797"
+    "customEmojiId": "5199885517646234797",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/unicorn-head.png"
+    }
   },
   {
     "name": "Firebird",
-    "customEmojiId": "5199747116620088950"
+    "customEmojiId": "5199747116620088950",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/firebird.png"
+    }
   },
   {
     "name": "Coconut",
-    "customEmojiId": "5199939960651680778"
+    "customEmojiId": "5199939960651680778",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/coconut.png"
+    }
   },
   {
     "name": "Horned Helm",
-    "customEmojiId": "5199925937583456568"
+    "customEmojiId": "5199925937583456568",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/horned-helm.png"
+    }
   },
   {
     "name": "Fedora",
-    "customEmojiId": "5199413530805178187"
+    "customEmojiId": "5199413530805178187",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/fedora.png"
+    }
   },
   {
     "name": "Elf Hat",
-    "customEmojiId": "5199596066915260460"
+    "customEmojiId": "5199596066915260460",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/elf-hat.png"
+    }
   },
   {
     "name": "Peaked Cap",
-    "customEmojiId": "5199944066640415730"
+    "customEmojiId": "5199944066640415730",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/peaked-cap.png"
+    }
   },
   {
     "name": "Pith Helmet",
-    "customEmojiId": "5199425878836152426"
+    "customEmojiId": "5199425878836152426",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pith-helmet.png"
+    }
   },
   {
     "name": "Wizard Hat",
-    "customEmojiId": "5199659452042611516"
+    "customEmojiId": "5199659452042611516",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/wizard-hat.png"
+    }
   },
   {
     "name": "Egg Basket",
-    "customEmojiId": "5199573548401720659"
+    "customEmojiId": "5199573548401720659",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/egg-basket.png"
+    }
   },
   {
     "name": "Tricorne",
-    "customEmojiId": "5199835163449654129"
+    "customEmojiId": "5199835163449654129",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/tricorne.png"
+    }
   },
   {
     "name": "Chest",
-    "customEmojiId": "5199799017004894591"
+    "customEmojiId": "5199799017004894591",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/chest.png"
+    }
   },
   {
     "name": "Propeller Cap",
-    "customEmojiId": "5199861745002254248"
+    "customEmojiId": "5199861745002254248",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/propeller-cap.png"
+    }
   },
   {
     "name": "Fenrir",
-    "customEmojiId": "5199525530667354783"
+    "customEmojiId": "5199525530667354783",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/fenrir.png"
+    }
   },
   {
     "name": "Mafdet",
-    "customEmojiId": "5199698669388988419"
+    "customEmojiId": "5199698669388988419",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/mafdet.png"
+    }
   },
   {
     "name": "Conical Hat",
-    "customEmojiId": "5199648817703584324"
+    "customEmojiId": "5199648817703584324",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/conical-hat.png"
+    }
   },
   {
     "name": "Scorpion",
-    "customEmojiId": "5199940630666579018"
+    "customEmojiId": "5199940630666579018",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/scorpion.png"
+    }
   },
   {
     "name": "Cicada",
-    "customEmojiId": "5199501453080693075"
+    "customEmojiId": "5199501453080693075",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/cicada.png"
+    }
   },
   {
     "name": "Donut",
-    "customEmojiId": "5199509415950058480"
+    "customEmojiId": "5199509415950058480",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/donut.png"
+    }
   },
   {
     "name": "Inguz Rune",
-    "customEmojiId": "5199780557235455952"
+    "customEmojiId": "5199780557235455952",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/inguz-rune.png"
+    }
   },
   {
     "name": "Spellbook",
-    "customEmojiId": "5199951127566647821"
+    "customEmojiId": "5199951127566647821",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/spellbook.png"
+    }
   },
   {
     "name": "Bull of Heaven",
-    "customEmojiId": "5199518259287723654"
+    "customEmojiId": "5199518259287723654",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bull-of-heaven.png"
+    }
   },
   {
     "name": "White Deer",
-    "customEmojiId": "5199804858160416090"
+    "customEmojiId": "5199804858160416090",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/white-deer.png"
+    }
   },
   {
     "name": "Moto Helmet",
-    "customEmojiId": "5199939002873972654"
+    "customEmojiId": "5199939002873972654",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/moto-helmet.png"
+    }
   },
   {
     "name": "Bearskin",
-    "customEmojiId": "5199745828129901558"
+    "customEmojiId": "5199745828129901558",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bearskin.png"
+    }
   },
   {
     "name": "Bobble Hat",
-    "customEmojiId": "5199759262787603566"
+    "customEmojiId": "5199759262787603566",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bobble-hat.png"
+    }
   },
   {
     "name": "Doghouse",
-    "customEmojiId": "5199765365936130864"
+    "customEmojiId": "5199765365936130864",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/doghouse.png"
+    }
   },
   {
     "name": "Bonsai",
-    "customEmojiId": "5199553400710137770"
+    "customEmojiId": "5199553400710137770",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bonsai.png"
+    }
   },
   {
     "name": "Bandage",
-    "customEmojiId": "5199488155861947055"
+    "customEmojiId": "5199488155861947055",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bandage.png"
+    }
   },
   {
     "name": "Spider",
-    "customEmojiId": "5199675867407617007"
+    "customEmojiId": "5199675867407617007",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/spider.png"
+    }
   },
   {
     "name": "Tsunami",
-    "customEmojiId": "5199500714346319781"
+    "customEmojiId": "5199500714346319781",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/tsunami.png"
+    }
   },
   {
     "name": "Coin",
-    "customEmojiId": "5199414832180268714"
+    "customEmojiId": "5199414832180268714",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/coin.png"
+    }
   },
   {
     "name": "Bow Tie",
-    "customEmojiId": "5199652756188594205"
+    "customEmojiId": "5199652756188594205",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bow-tie.png"
+    }
   },
   {
     "name": "Clubs",
-    "customEmojiId": "5199913752761238667"
+    "customEmojiId": "5199913752761238667",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/clubs.png"
+    }
   },
   {
     "name": "Conch",
-    "customEmojiId": "5199858635445929849"
+    "customEmojiId": "5199858635445929849",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/conch.png"
+    }
   },
   {
     "name": "Greek Helmet",
-    "customEmojiId": "5199497274077514887"
+    "customEmojiId": "5199497274077514887",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/greek-helmet.png"
+    }
   },
   {
     "name": "Scissors",
-    "customEmojiId": "5199668037682237139"
+    "customEmojiId": "5199668037682237139",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/scissors.png"
+    }
   },
   {
     "name": "Sakura Flower",
-    "customEmojiId": "5199826225622713630"
+    "customEmojiId": "5199826225622713630",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/sakura-flower.png"
+    }
   },
   {
     "name": "Paper Crane",
-    "customEmojiId": "5199459267911913743"
+    "customEmojiId": "5199459267911913743",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/paper-crane.png"
+    }
   },
   {
     "name": "Lotus Flower",
-    "customEmojiId": "5199764283604373260"
+    "customEmojiId": "5199764283604373260",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/lotus-flower.png"
+    }
   },
   {
     "name": "Candle",
-    "customEmojiId": "5199639604998733687"
+    "customEmojiId": "5199639604998733687",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/candle.png"
+    }
   },
   {
     "name": "Eggplant",
-    "customEmojiId": "5199864798724001703"
+    "customEmojiId": "5199864798724001703",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/eggplant.png"
+    }
   },
   {
     "name": "Flying Dragon",
-    "customEmojiId": "5199467896501208139"
+    "customEmojiId": "5199467896501208139",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/flying-dragon.png"
+    }
   },
   {
     "name": "Potion",
-    "customEmojiId": "5199510532641560275"
+    "customEmojiId": "5199510532641560275",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/potion.png"
+    }
   },
   {
     "name": "Strawberry",
-    "customEmojiId": "5199925473726988633"
+    "customEmojiId": "5199925473726988633",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/strawberry.png"
+    }
   },
   {
     "name": "Bunny Ears",
-    "customEmojiId": "5199774076129808154"
+    "customEmojiId": "5199774076129808154",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bunny-ears.png"
+    }
   },
   {
     "name": "Crab",
-    "customEmojiId": "5199541684039353419"
+    "customEmojiId": "5199541684039353419",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/crab.png"
+    }
   },
   {
     "name": "Axe",
-    "customEmojiId": "5199830537769879159"
+    "customEmojiId": "5199830537769879159",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/axe.png"
+    }
   },
   {
     "name": "Pickaxe",
-    "customEmojiId": "5199445292088328237"
+    "customEmojiId": "5199445292088328237",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pickaxe.png"
+    }
   },
   {
     "name": "Light Bulb",
-    "customEmojiId": "5199494031377208082"
+    "customEmojiId": "5199494031377208082",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/light-bulb.png"
+    }
   },
   {
     "name": "Cone",
-    "customEmojiId": "5199449329357589107"
+    "customEmojiId": "5199449329357589107",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/cone.png"
+    }
   },
   {
     "name": "Bee",
-    "customEmojiId": "5199604974677428405"
+    "customEmojiId": "5199604974677428405",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bee.png"
+    }
   },
   {
     "name": "Horseshoe",
-    "customEmojiId": "5199843530045950060"
+    "customEmojiId": "5199843530045950060",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/horseshoe.png"
+    }
   },
   {
     "name": "La Corona",
-    "customEmojiId": "5201947986711578027"
+    "customEmojiId": "5201947986711578027",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/la-corona.png"
+    }
   },
   {
     "name": "Fire",
-    "customEmojiId": "5199557987735208484"
+    "customEmojiId": "5199557987735208484",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/fire.png"
+    }
   },
   {
     "name": "Rocket",
-    "customEmojiId": "5199857192336916692"
+    "customEmojiId": "5199857192336916692",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/rocket.png"
+    }
   },
   {
     "name": "Ladybug",
-    "customEmojiId": "5199818340062758355"
+    "customEmojiId": "5199818340062758355",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ladybug.png"
+    }
   },
   {
     "name": "Pirate Scull",
-    "customEmojiId": "5199610403516089508"
+    "customEmojiId": "5199610403516089508",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pirate-scull.png"
+    }
   },
   {
     "name": "Ice Pop",
-    "customEmojiId": "5202206762786127395"
+    "customEmojiId": "5202206762786127395",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ice-pop.png"
+    }
   },
   {
     "name": "Aztec Totem",
-    "customEmojiId": "5199726925978831254"
+    "customEmojiId": "5199726925978831254",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/aztec-totem.png"
+    }
   },
   {
     "name": "Coffee Bean",
-    "customEmojiId": "5199617662010820206"
+    "customEmojiId": "5199617662010820206",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/coffee-bean.png"
+    }
   },
   {
     "name": "Eye of Horus",
-    "customEmojiId": "5199790332581021201"
+    "customEmojiId": "5199790332581021201",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/eye-of-horus.png"
+    }
   },
   {
     "name": "Greek Sun",
-    "customEmojiId": "5199681906131637748"
+    "customEmojiId": "5199681906131637748",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/greek-sun.png"
+    }
   },
   {
     "name": "Bell Pepper",
-    "customEmojiId": "5199683718607834440"
+    "customEmojiId": "5199683718607834440",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/bell-pepper.png"
+    }
   },
   {
     "name": "Boat",
-    "customEmojiId": "5199564713653997766"
+    "customEmojiId": "5199564713653997766",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/boat.png"
+    }
   },
   {
     "name": "Turtle",
-    "customEmojiId": "5199802964079839347"
+    "customEmojiId": "5199802964079839347",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/turtle.png"
+    }
   },
   {
     "name": "Black Cat",
-    "customEmojiId": "5199686110904618188"
+    "customEmojiId": "5199686110904618188",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/black-cat.png"
+    }
   },
   {
     "name": "Crescent",
-    "customEmojiId": "5199777439089200573"
+    "customEmojiId": "5199777439089200573",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/crescent.png"
+    }
   },
   {
     "name": "Ink Pen",
-    "customEmojiId": "5199514776069247457"
+    "customEmojiId": "5199514776069247457",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/ink-pen.png"
+    }
   },
   {
     "name": "Nigiri",
-    "customEmojiId": "5199706554948942813"
+    "customEmojiId": "5199706554948942813",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/nigiri.png"
+    }
   },
   {
     "name": "Takoyaki",
-    "customEmojiId": "5199446662182899439"
+    "customEmojiId": "5199446662182899439",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/takoyaki.png"
+    }
   },
   {
     "name": "Carrot",
-    "customEmojiId": "5199942498977352363"
+    "customEmojiId": "5199942498977352363",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/carrot.png"
+    }
   },
   {
     "name": "Pineapple",
-    "customEmojiId": "5199590977379009936"
+    "customEmojiId": "5199590977379009936",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pineapple.png"
+    }
   },
   {
     "name": "Shooting Star",
-    "customEmojiId": "5199756398044416521"
+    "customEmojiId": "5199756398044416521",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/shooting-star.png"
+    }
   },
   {
     "name": "Fish",
-    "customEmojiId": "5199862024175126001"
+    "customEmojiId": "5199862024175126001",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/fish.png"
+    }
   },
   {
     "name": "Love Lock",
-    "customEmojiId": "5199543157213139030"
+    "customEmojiId": "5199543157213139030",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/love-lock.png"
+    }
   },
   {
     "name": "Jolly Roger",
-    "customEmojiId": "5199466333133113018"
+    "customEmojiId": "5199466333133113018",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/jolly-roger.png"
+    }
   },
   {
     "name": "Sea Jelly",
-    "customEmojiId": "5199917369123703634"
+    "customEmojiId": "5199917369123703634",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/sea-jelly.png"
+    }
   },
   {
     "name": "Viking Shield",
-    "customEmojiId": "5199415012568896891"
+    "customEmojiId": "5199415012568896891",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/viking-shield.png"
+    }
   },
   {
     "name": "Flower",
-    "customEmojiId": "5199829013056490060"
+    "customEmojiId": "5199829013056490060",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/flower.png"
+    }
   },
   {
     "name": "Pizza Slice",
-    "customEmojiId": "5199578066707317639"
+    "customEmojiId": "5199578066707317639",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/pizza-slice.png"
+    }
   },
   {
     "name": "Grape",
-    "customEmojiId": "5199618417925067376"
+    "customEmojiId": "5199618417925067376",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/grape.png"
+    }
   },
   {
     "name": "Moon Face",
-    "customEmojiId": "5199410219385393618"
+    "customEmojiId": "5199410219385393618",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/moon-face.png"
+    }
   },
   {
     "name": "Garden Pot",
-    "customEmojiId": "5199961336703914826"
+    "customEmojiId": "5199961336703914826",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/garden-pot.png"
+    }
   },
   {
     "name": "Hersir",
-    "customEmojiId": "5199923815869616574"
+    "customEmojiId": "5199923815869616574",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/hersir.png"
+    }
   },
   {
     "name": "Mustache",
-    "customEmojiId": "5199490530978856729"
+    "customEmojiId": "5199490530978856729",
+    "assets": {
+      "png": "gifts/timelessbook/assets/patterns/mustache.png"
+    }
   }
 ] satisfies readonly GiftPattern[];
 

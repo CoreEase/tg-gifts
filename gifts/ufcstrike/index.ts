@@ -3,786 +3,1416 @@ import type { GiftModel, GiftPattern, Backdrop, GiftCollection } from '../../typ
 export const models = [
   {
     "name": "Gold Adesanya",
-    "customEmojiId": "5307916134257823485"
+    "customEmojiId": "5307916134257823485",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-adesanya.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-adesanya.tgs"
+    }
   },
   {
     "name": "Gold Chimaev",
-    "customEmojiId": "5310284868851106000"
+    "customEmojiId": "5310284868851106000",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-chimaev.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-chimaev.tgs"
+    }
   },
   {
     "name": "Gold Dvalishvili",
-    "customEmojiId": "5310108916925895893"
+    "customEmojiId": "5310108916925895893",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-dvalishvili.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-dvalishvili.tgs"
+    }
   },
   {
     "name": "Gold Jones",
-    "customEmojiId": "5309759985192832914"
+    "customEmojiId": "5309759985192832914",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-jones.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-jones.tgs"
+    }
   },
   {
     "name": "Gold O’Malley",
-    "customEmojiId": "5309909149407025737"
+    "customEmojiId": "5309909149407025737",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-o-malley.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-o-malley.tgs"
+    }
   },
   {
     "name": "Gold Oliveira",
-    "customEmojiId": "5309932492554275986"
+    "customEmojiId": "5309932492554275986",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-oliveira.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-oliveira.tgs"
+    }
   },
   {
     "name": "Gold Pantoja",
-    "customEmojiId": "5307662177136577015"
+    "customEmojiId": "5307662177136577015",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-pantoja.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-pantoja.tgs"
+    }
   },
   {
     "name": "Gold Pereira",
-    "customEmojiId": "5310010463390568547"
+    "customEmojiId": "5310010463390568547",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-pereira.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-pereira.tgs"
+    }
   },
   {
     "name": "Gold Topuria",
-    "customEmojiId": "5310013186399831679"
+    "customEmojiId": "5310013186399831679",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-topuria.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-topuria.tgs"
+    }
   },
   {
     "name": "Gold Volkanovski",
-    "customEmojiId": "5310261134861832116"
+    "customEmojiId": "5310261134861832116",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-volkanovski.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-volkanovski.tgs"
+    }
   },
   {
     "name": "UFC World",
-    "customEmojiId": "5307553291125687730"
+    "customEmojiId": "5307553291125687730",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-world.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-world.tgs"
+    }
   },
   {
     "name": "Ult Fighting",
-    "customEmojiId": "5310086140714322249"
+    "customEmojiId": "5310086140714322249",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ult-fighting.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ult-fighting.tgs"
+    }
   },
   {
     "name": "Gold UFC Octagon",
-    "customEmojiId": "5310160851670436023"
+    "customEmojiId": "5310160851670436023",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/gold-ufc-octagon.svg",
+      "tgs": "gifts/ufcstrike/assets/models/gold-ufc-octagon.tgs"
+    }
   },
   {
     "name": "UFC Classic",
-    "customEmojiId": "5310199965937606347"
+    "customEmojiId": "5310199965937606347",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-classic.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-classic.tgs"
+    }
   },
   {
     "name": "UFC Glove Token",
-    "customEmojiId": "5310015651711062282"
+    "customEmojiId": "5310015651711062282",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-glove-token.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-glove-token.tgs"
+    }
   },
   {
     "name": "Ultimate Ult",
-    "customEmojiId": "5310199356052245006"
+    "customEmojiId": "5310199356052245006",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ultimate-ult.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ultimate-ult.tgs"
+    }
   },
   {
     "name": "Prime Relic",
-    "customEmojiId": "5310265408354293739"
+    "customEmojiId": "5310265408354293739",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/prime-relic.svg",
+      "tgs": "gifts/ufcstrike/assets/models/prime-relic.tgs"
+    }
   },
   {
     "name": "UFC BMF",
-    "customEmojiId": "5307803034884017834"
+    "customEmojiId": "5307803034884017834",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-bmf.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-bmf.tgs"
+    }
   },
   {
     "name": "UFC Keychain",
-    "customEmojiId": "5310160417878740235"
+    "customEmojiId": "5310160417878740235",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-keychain.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-keychain.tgs"
+    }
   },
   {
     "name": "UFC Love",
-    "customEmojiId": "5310203973142086980"
+    "customEmojiId": "5310203973142086980",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-love.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-love.tgs"
+    }
   },
   {
     "name": "Blue Glove Token",
-    "customEmojiId": "5309859684268677794"
+    "customEmojiId": "5309859684268677794",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/blue-glove-token.svg",
+      "tgs": "gifts/ufcstrike/assets/models/blue-glove-token.tgs"
+    }
   },
   {
     "name": "Keychain Blue",
-    "customEmojiId": "5307509546883778749"
+    "customEmojiId": "5307509546883778749",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/keychain-blue.svg",
+      "tgs": "gifts/ufcstrike/assets/models/keychain-blue.tgs"
+    }
   },
   {
     "name": "Keychain Red",
-    "customEmojiId": "5310056565569524234"
+    "customEmojiId": "5310056565569524234",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/keychain-red.svg",
+      "tgs": "gifts/ufcstrike/assets/models/keychain-red.tgs"
+    }
   },
   {
     "name": "Red Glove Token",
-    "customEmojiId": "5307947637842939787"
+    "customEmojiId": "5307947637842939787",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/red-glove-token.svg",
+      "tgs": "gifts/ufcstrike/assets/models/red-glove-token.tgs"
+    }
   },
   {
     "name": "UFC Legacy",
-    "customEmojiId": "5307914253062148599"
+    "customEmojiId": "5307914253062148599",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-legacy.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-legacy.tgs"
+    }
   },
   {
     "name": "Combo Hit",
-    "customEmojiId": "5310131843461318312"
+    "customEmojiId": "5310131843461318312",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/combo-hit.svg",
+      "tgs": "gifts/ufcstrike/assets/models/combo-hit.tgs"
+    }
   },
   {
     "name": "Dumbbell",
-    "customEmojiId": "5307847049708866759"
+    "customEmojiId": "5307847049708866759",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/dumbbell.svg",
+      "tgs": "gifts/ufcstrike/assets/models/dumbbell.tgs"
+    }
   },
   {
     "name": "Fist Bump",
-    "customEmojiId": "5310061620746032626"
+    "customEmojiId": "5310061620746032626",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/fist-bump.svg",
+      "tgs": "gifts/ufcstrike/assets/models/fist-bump.tgs"
+    }
   },
   {
     "name": "Level Up",
-    "customEmojiId": "5309811885577637946"
+    "customEmojiId": "5309811885577637946",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/level-up.svg",
+      "tgs": "gifts/ufcstrike/assets/models/level-up.tgs"
+    }
   },
   {
     "name": "Train Time",
-    "customEmojiId": "5307706965055542214"
+    "customEmojiId": "5307706965055542214",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/train-time.svg",
+      "tgs": "gifts/ufcstrike/assets/models/train-time.tgs"
+    }
   },
   {
     "name": "UFC Octagon",
-    "customEmojiId": "5309923997108963109"
+    "customEmojiId": "5309923997108963109",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-octagon.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-octagon.tgs"
+    }
   },
   {
     "name": "A. Pantoja",
-    "customEmojiId": "5307824531195334449"
+    "customEmojiId": "5307824531195334449",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/a-pantoja.svg",
+      "tgs": "gifts/ufcstrike/assets/models/a-pantoja.tgs"
+    }
   },
   {
     "name": "A. Pereira",
-    "customEmojiId": "5310253365265991893"
+    "customEmojiId": "5310253365265991893",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/a-pereira.svg",
+      "tgs": "gifts/ufcstrike/assets/models/a-pereira.tgs"
+    }
   },
   {
     "name": "A. Volkanovski",
-    "customEmojiId": "5307710212050817039"
+    "customEmojiId": "5307710212050817039",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/a-volkanovski.svg",
+      "tgs": "gifts/ufcstrike/assets/models/a-volkanovski.tgs"
+    }
   },
   {
     "name": "C. Oliveira",
-    "customEmojiId": "5308030517826852121"
+    "customEmojiId": "5308030517826852121",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/c-oliveira.svg",
+      "tgs": "gifts/ufcstrike/assets/models/c-oliveira.tgs"
+    }
   },
   {
     "name": "Classic Blue",
-    "customEmojiId": "5309896758426376852"
+    "customEmojiId": "5309896758426376852",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/classic-blue.svg",
+      "tgs": "gifts/ufcstrike/assets/models/classic-blue.tgs"
+    }
   },
   {
     "name": "Classic Red",
-    "customEmojiId": "5310075996001572816"
+    "customEmojiId": "5310075996001572816",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/classic-red.svg",
+      "tgs": "gifts/ufcstrike/assets/models/classic-red.tgs"
+    }
   },
   {
     "name": "I. Adesanya",
-    "customEmojiId": "5309841061290478334"
+    "customEmojiId": "5309841061290478334",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/i-adesanya.svg",
+      "tgs": "gifts/ufcstrike/assets/models/i-adesanya.tgs"
+    }
   },
   {
     "name": "I. Topuria",
-    "customEmojiId": "5309941026654291218"
+    "customEmojiId": "5309941026654291218",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/i-topuria.svg",
+      "tgs": "gifts/ufcstrike/assets/models/i-topuria.tgs"
+    }
   },
   {
     "name": "J. Jones",
-    "customEmojiId": "5310075308806805616"
+    "customEmojiId": "5310075308806805616",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/j-jones.svg",
+      "tgs": "gifts/ufcstrike/assets/models/j-jones.tgs"
+    }
   },
   {
     "name": "K. Chimaev",
-    "customEmojiId": "5310216385597576066"
+    "customEmojiId": "5310216385597576066",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/k-chimaev.svg",
+      "tgs": "gifts/ufcstrike/assets/models/k-chimaev.tgs"
+    }
   },
   {
     "name": "M. Dvalishvili",
-    "customEmojiId": "5309924194677458931"
+    "customEmojiId": "5309924194677458931",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/m-dvalishvili.svg",
+      "tgs": "gifts/ufcstrike/assets/models/m-dvalishvili.tgs"
+    }
   },
   {
     "name": "S. O’Malley",
-    "customEmojiId": "5310254847029712161"
+    "customEmojiId": "5310254847029712161",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/s-o-malley.svg",
+      "tgs": "gifts/ufcstrike/assets/models/s-o-malley.tgs"
+    }
   },
   {
     "name": "UFC 25 Blue",
-    "customEmojiId": "5310177700827139458"
+    "customEmojiId": "5310177700827139458",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-25-blue.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-25-blue.tgs"
+    }
   },
   {
     "name": "UFC 30 Red",
-    "customEmojiId": "5309913414309542426"
+    "customEmojiId": "5309913414309542426",
+    "assets": {
+      "svg": "gifts/ufcstrike/assets/models/ufc-30-red.svg",
+      "tgs": "gifts/ufcstrike/assets/models/ufc-30-red.tgs"
+    }
   }
 ] satisfies readonly GiftModel[];
 
 export const patterns = [
   {
     "name": "Round One",
-    "customEmojiId": "5303093903891665323"
+    "customEmojiId": "5303093903891665323",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/round-one.png"
+    }
   },
   {
     "name": "Coin",
-    "customEmojiId": "5199414832180268714"
+    "customEmojiId": "5199414832180268714",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/coin.png"
+    }
   },
   {
     "name": "Okami Wolf",
-    "customEmojiId": "5199728489346925958"
+    "customEmojiId": "5199728489346925958",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/okami-wolf.png"
+    }
   },
   {
     "name": "Horseshoe",
-    "customEmojiId": "5199843530045950060"
+    "customEmojiId": "5199843530045950060",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/horseshoe.png"
+    }
   },
   {
     "name": "Phoenix",
-    "customEmojiId": "5199683091542608723"
+    "customEmojiId": "5199683091542608723",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/phoenix.png"
+    }
   },
   {
     "name": "Jewel",
-    "customEmojiId": "5199798166601371927"
+    "customEmojiId": "5199798166601371927",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/jewel.png"
+    }
   },
   {
     "name": "UFC Gloves",
-    "customEmojiId": "5305545037432519390"
+    "customEmojiId": "5305545037432519390",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/ufc-gloves.png"
+    }
   },
   {
     "name": "Royal Crown",
-    "customEmojiId": "5199769278651342343"
+    "customEmojiId": "5199769278651342343",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/royal-crown.png"
+    }
   },
   {
     "name": "Hersir",
-    "customEmojiId": "5199923815869616574"
+    "customEmojiId": "5199923815869616574",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/hersir.png"
+    }
   },
   {
     "name": "Round Four",
-    "customEmojiId": "5305308960260130855"
+    "customEmojiId": "5305308960260130855",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/round-four.png"
+    }
   },
   {
     "name": "Nordic Wolf",
-    "customEmojiId": "5199895056768603137"
+    "customEmojiId": "5199895056768603137",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/nordic-wolf.png"
+    }
   },
   {
     "name": "Flower Sun",
-    "customEmojiId": "5199422558826431486"
+    "customEmojiId": "5199422558826431486",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/flower-sun.png"
+    }
   },
   {
     "name": "Imperial Lion",
-    "customEmojiId": "5199687841776437832"
+    "customEmojiId": "5199687841776437832",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/imperial-lion.png"
+    }
   },
   {
     "name": "Bastet",
-    "customEmojiId": "5199520204907910380"
+    "customEmojiId": "5199520204907910380",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/bastet.png"
+    }
   },
   {
     "name": "Sports Bag",
-    "customEmojiId": "5303415004236649130"
+    "customEmojiId": "5303415004236649130",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/sports-bag.png"
+    }
   },
   {
     "name": "Pereira",
-    "customEmojiId": "5305556775578143449"
+    "customEmojiId": "5305556775578143449",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/pereira.png"
+    }
   },
   {
     "name": "Fleur-de-lis",
-    "customEmojiId": "5199655573687140713"
+    "customEmojiId": "5199655573687140713",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/fleur-de-lis.png"
+    }
   },
   {
     "name": "Cash",
-    "customEmojiId": "5199583108998922344"
+    "customEmojiId": "5199583108998922344",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/cash.png"
+    }
   },
   {
     "name": "Diamond",
-    "customEmojiId": "5199628004292067329"
+    "customEmojiId": "5199628004292067329",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/diamond.png"
+    }
   },
   {
     "name": "Sakura",
-    "customEmojiId": "5199856934638878837"
+    "customEmojiId": "5199856934638878837",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/sakura.png"
+    }
   },
   {
     "name": "The Octagon",
-    "customEmojiId": "5305267389271674589"
+    "customEmojiId": "5305267389271674589",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/the-octagon.png"
+    }
   },
   {
     "name": "Geisha Fan",
-    "customEmojiId": "5199432901107683017"
+    "customEmojiId": "5199432901107683017",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/geisha-fan.png"
+    }
   },
   {
     "name": "Bascinet",
-    "customEmojiId": "5199688421597022189"
+    "customEmojiId": "5199688421597022189",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/bascinet.png"
+    }
   },
   {
     "name": "Spirit Impala",
-    "customEmojiId": "5199800047797046538"
+    "customEmojiId": "5199800047797046538",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/spirit-impala.png"
+    }
   },
   {
     "name": "Cicada",
-    "customEmojiId": "5199501453080693075"
+    "customEmojiId": "5199501453080693075",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/cicada.png"
+    }
   },
   {
     "name": "Greek Helmet",
-    "customEmojiId": "5199497274077514887"
+    "customEmojiId": "5199497274077514887",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/greek-helmet.png"
+    }
   },
   {
     "name": "Twin Koi",
-    "customEmojiId": "5199691170376093717"
+    "customEmojiId": "5199691170376093717",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/twin-koi.png"
+    }
   },
   {
     "name": "Viper",
-    "customEmojiId": "5199937503930385823"
+    "customEmojiId": "5199937503930385823",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/viper.png"
+    }
   },
   {
     "name": "Money Bag",
-    "customEmojiId": "5199426943988044271"
+    "customEmojiId": "5199426943988044271",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/money-bag.png"
+    }
   },
   {
     "name": "Divine Falcon",
-    "customEmojiId": "5199678478747732305"
+    "customEmojiId": "5199678478747732305",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/divine-falcon.png"
+    }
   },
   {
     "name": "Speed Bag",
-    "customEmojiId": "5303307471140456697"
+    "customEmojiId": "5303307471140456697",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/speed-bag.png"
+    }
   },
   {
     "name": "Star",
-    "customEmojiId": "5199425320490407263"
+    "customEmojiId": "5199425320490407263",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/star.png"
+    }
   },
   {
     "name": "Round Five",
-    "customEmojiId": "5305288451791291997"
+    "customEmojiId": "5305288451791291997",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/round-five.png"
+    }
   },
   {
     "name": "UFC Shorts",
-    "customEmojiId": "5305471000786272839"
+    "customEmojiId": "5305471000786272839",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/ufc-shorts.png"
+    }
   },
   {
     "name": "UFC Logo",
-    "customEmojiId": "5305588051529990734"
+    "customEmojiId": "5305588051529990734",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/ufc-logo.png"
+    }
   },
   {
     "name": "Anchor",
-    "customEmojiId": "5199524130508019696"
+    "customEmojiId": "5199524130508019696",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/anchor.png"
+    }
   },
   {
     "name": "Cocktail",
-    "customEmojiId": "5199925405007515741"
+    "customEmojiId": "5199925405007515741",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/cocktail.png"
+    }
   },
   {
     "name": "Eye of Horus",
-    "customEmojiId": "5199790332581021201"
+    "customEmojiId": "5199790332581021201",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/eye-of-horus.png"
+    }
   },
   {
     "name": "War Tiger",
-    "customEmojiId": "5199588829895364674"
+    "customEmojiId": "5199588829895364674",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/war-tiger.png"
+    }
   },
   {
     "name": "Moon Cross",
-    "customEmojiId": "5199926568943652086"
+    "customEmojiId": "5199926568943652086",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/moon-cross.png"
+    }
   },
   {
     "name": "Gem",
-    "customEmojiId": "5199568523289988128"
+    "customEmojiId": "5199568523289988128",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/gem.png"
+    }
   },
   {
     "name": "Thor Hammer",
-    "customEmojiId": "5199857621833649230"
+    "customEmojiId": "5199857621833649230",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/thor-hammer.png"
+    }
   },
   {
     "name": "Moon",
-    "customEmojiId": "5199499052193973671"
+    "customEmojiId": "5199499052193973671",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/moon.png"
+    }
   },
   {
     "name": "Hand of God",
-    "customEmojiId": "5199440739422996762"
+    "customEmojiId": "5199440739422996762",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/hand-of-god.png"
+    }
   },
   {
     "name": "Venetian Mask",
-    "customEmojiId": "5199793845864267822"
+    "customEmojiId": "5199793845864267822",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/venetian-mask.png"
+    }
   },
   {
     "name": "Punching Bag",
-    "customEmojiId": "5303152044863950355"
+    "customEmojiId": "5303152044863950355",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/punching-bag.png"
+    }
   },
   {
     "name": "Silver Ibis",
-    "customEmojiId": "5199513981500297130"
+    "customEmojiId": "5199513981500297130",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/silver-ibis.png"
+    }
   },
   {
     "name": "Topuria",
-    "customEmojiId": "5303262597322149486"
+    "customEmojiId": "5303262597322149486",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/topuria.png"
+    }
   },
   {
     "name": "All-Seeing Eye",
-    "customEmojiId": "5199922359875701200"
+    "customEmojiId": "5199922359875701200",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/all-seeing-eye.png"
+    }
   },
   {
     "name": "Mustang",
-    "customEmojiId": "5199436757988311690"
+    "customEmojiId": "5199436757988311690",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/mustang.png"
+    }
   },
   {
     "name": "Tsunami",
-    "customEmojiId": "5199500714346319781"
+    "customEmojiId": "5199500714346319781",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/tsunami.png"
+    }
   },
   {
     "name": "Owl",
-    "customEmojiId": "5199736804403612865"
+    "customEmojiId": "5199736804403612865",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/owl.png"
+    }
   },
   {
     "name": "Trophy",
-    "customEmojiId": "5199543874472675475"
+    "customEmojiId": "5199543874472675475",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/trophy.png"
+    }
   },
   {
     "name": "Round Three",
-    "customEmojiId": null
+    "customEmojiId": null,
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/round-three.png"
+    }
   },
   {
     "name": "Genie Lamp",
-    "customEmojiId": "5199760491148248638"
+    "customEmojiId": "5199760491148248638",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/genie-lamp.png"
+    }
   },
   {
     "name": "Crystal",
-    "customEmojiId": "5199505833947336625"
+    "customEmojiId": "5199505833947336625",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/crystal.png"
+    }
   },
   {
     "name": "Shield",
-    "customEmojiId": "5199474497865945550"
+    "customEmojiId": "5199474497865945550",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/shield.png"
+    }
   },
   {
     "name": "Ram of Amun",
-    "customEmojiId": "5199770601501268034"
+    "customEmojiId": "5199770601501268034",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/ram-of-amun.png"
+    }
   },
   {
     "name": "Yogi Shaman",
-    "customEmojiId": "5199445571261203846"
+    "customEmojiId": "5199445571261203846",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/yogi-shaman.png"
+    }
   },
   {
     "name": "Coconut",
-    "customEmojiId": "5199939960651680778"
+    "customEmojiId": "5199939960651680778",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/coconut.png"
+    }
   },
   {
     "name": "Lotus Flower",
-    "customEmojiId": "5199764283604373260"
+    "customEmojiId": "5199764283604373260",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/lotus-flower.png"
+    }
   },
   {
     "name": "Ouroboros",
-    "customEmojiId": "5199428661974962024"
+    "customEmojiId": "5199428661974962024",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/ouroboros.png"
+    }
   },
   {
     "name": "Wolf Rage",
-    "customEmojiId": "5199809844617447088"
+    "customEmojiId": "5199809844617447088",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/wolf-rage.png"
+    }
   },
   {
     "name": "Heraldic Lily",
-    "customEmojiId": "5199447267773286405"
+    "customEmojiId": "5199447267773286405",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/heraldic-lily.png"
+    }
   },
   {
     "name": "Thunderbird",
-    "customEmojiId": "5199756144641346567"
+    "customEmojiId": "5199756144641346567",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/thunderbird.png"
+    }
   },
   {
     "name": "The Eye",
-    "customEmojiId": "5199464073980313985"
+    "customEmojiId": "5199464073980313985",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/the-eye.png"
+    }
   },
   {
     "name": "Oxen of Fire",
-    "customEmojiId": "5199717897957573867"
+    "customEmojiId": "5199717897957573867",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/oxen-of-fire.png"
+    }
   },
   {
     "name": "Aztec Falcon",
-    "customEmojiId": "5199675880292517991"
+    "customEmojiId": "5199675880292517991",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/aztec-falcon.png"
+    }
   },
   {
     "name": "Double Axe",
-    "customEmojiId": "5199414905194712818"
+    "customEmojiId": "5199414905194712818",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/double-axe.png"
+    }
   },
   {
     "name": "Baphomet",
-    "customEmojiId": "5199603441374108638"
+    "customEmojiId": "5199603441374108638",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/baphomet.png"
+    }
   },
   {
     "name": "Golden Scarab",
-    "customEmojiId": "5199515630767736867"
+    "customEmojiId": "5199515630767736867",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/golden-scarab.png"
+    }
   },
   {
     "name": "Shinto Shrine",
-    "customEmojiId": "5199478432055988373"
+    "customEmojiId": "5199478432055988373",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/shinto-shrine.png"
+    }
   },
   {
     "name": "Nemean Lion",
-    "customEmojiId": "5199957797650858913"
+    "customEmojiId": "5199957797650858913",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/nemean-lion.png"
+    }
   },
   {
     "name": "Sakura Flower",
-    "customEmojiId": "5199826225622713630"
+    "customEmojiId": "5199826225622713630",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/sakura-flower.png"
+    }
   },
   {
     "name": "Eikthyrnir",
-    "customEmojiId": "5199875514667404240"
+    "customEmojiId": "5199875514667404240",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/eikthyrnir.png"
+    }
   },
   {
     "name": "Crown",
-    "customEmojiId": "5199763085308495651"
+    "customEmojiId": "5199763085308495651",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/crown.png"
+    }
   },
   {
     "name": "Greek Sun",
-    "customEmojiId": "5199681906131637748"
+    "customEmojiId": "5199681906131637748",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/greek-sun.png"
+    }
   },
   {
     "name": "Cap",
-    "customEmojiId": "5199697466798143755"
+    "customEmojiId": "5199697466798143755",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/cap.png"
+    }
   },
   {
     "name": "Mouthguard",
-    "customEmojiId": "5305285436724251655"
+    "customEmojiId": "5305285436724251655",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/mouthguard.png"
+    }
   },
   {
     "name": "Chest",
-    "customEmojiId": "5199799017004894591"
+    "customEmojiId": "5199799017004894591",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/chest.png"
+    }
   },
   {
     "name": "Dvalishvili",
-    "customEmojiId": "5303007437610059993"
+    "customEmojiId": "5303007437610059993",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/dvalishvili.png"
+    }
   },
   {
     "name": "Fehu Rune",
-    "customEmojiId": "5201658535980598965"
+    "customEmojiId": "5201658535980598965",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/fehu-rune.png"
+    }
   },
   {
     "name": "Sun Mountain",
-    "customEmojiId": "5199464829894562233"
+    "customEmojiId": "5199464829894562233",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/sun-mountain.png"
+    }
   },
   {
     "name": "Oliveira",
-    "customEmojiId": "5305730842012713068"
+    "customEmojiId": "5305730842012713068",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/oliveira.png"
+    }
   },
   {
     "name": "Round Two",
-    "customEmojiId": "5303198134158002032"
+    "customEmojiId": "5303198134158002032",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/round-two.png"
+    }
   },
   {
     "name": "Trickster Fox",
-    "customEmojiId": "5199707800489464034"
+    "customEmojiId": "5199707800489464034",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/trickster-fox.png"
+    }
   },
   {
     "name": "Ring",
-    "customEmojiId": "5199821179036142060"
+    "customEmojiId": "5199821179036142060",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/ring.png"
+    }
   },
   {
     "name": "Griffon",
-    "customEmojiId": "5199733754976831104"
+    "customEmojiId": "5199733754976831104",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/griffon.png"
+    }
   },
   {
     "name": "Eagle",
-    "customEmojiId": "5199844350384703801"
+    "customEmojiId": "5199844350384703801",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/eagle.png"
+    }
   },
   {
     "name": "Aztec Totem",
-    "customEmojiId": "5199726925978831254"
+    "customEmojiId": "5199726925978831254",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/aztec-totem.png"
+    }
   },
   {
     "name": "Adesanya",
-    "customEmojiId": "5303289226119383573"
+    "customEmojiId": "5303289226119383573",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/adesanya.png"
+    }
   },
   {
     "name": "Totem Bear",
-    "customEmojiId": "5199656939486742424"
+    "customEmojiId": "5199656939486742424",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/totem-bear.png"
+    }
   },
   {
     "name": "Kitsune Mask",
-    "customEmojiId": "5199633360116285741"
+    "customEmojiId": "5199633360116285741",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/kitsune-mask.png"
+    }
   },
   {
     "name": "Watching Sun",
-    "customEmojiId": "5199594327453501292"
+    "customEmojiId": "5199594327453501292",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/watching-sun.png"
+    }
   },
   {
     "name": "Tribal Shield",
-    "customEmojiId": "5199940531882326218"
+    "customEmojiId": "5199940531882326218",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/tribal-shield.png"
+    }
   },
   {
     "name": "Unicorn Head",
-    "customEmojiId": "5199885517646234797"
+    "customEmojiId": "5199885517646234797",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/unicorn-head.png"
+    }
   },
   {
     "name": "Wepwawet",
-    "customEmojiId": "5199485793629930536"
+    "customEmojiId": "5199485793629930536",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/wepwawet.png"
+    }
   },
   {
     "name": "UFC Belt",
-    "customEmojiId": "5305606275076230734"
+    "customEmojiId": "5305606275076230734",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/ufc-belt.png"
+    }
   },
   {
     "name": "Knight",
-    "customEmojiId": "5199568179692599944"
+    "customEmojiId": "5199568179692599944",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/knight.png"
+    }
   },
   {
     "name": "Mountain Goat",
-    "customEmojiId": "5199689319245190164"
+    "customEmojiId": "5199689319245190164",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/mountain-goat.png"
+    }
   },
   {
     "name": "Pearl",
-    "customEmojiId": "5199540305354854917"
+    "customEmojiId": "5199540305354854917",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/pearl.png"
+    }
   },
   {
     "name": "Pyramid",
-    "customEmojiId": "5199649565027895118"
+    "customEmojiId": "5199649565027895118",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/pyramid.png"
+    }
   },
   {
     "name": "Illuminati",
-    "customEmojiId": "5199959970904312871"
+    "customEmojiId": "5199959970904312871",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/illuminati.png"
+    }
   },
   {
     "name": "White Deer",
-    "customEmojiId": "5199804858160416090"
+    "customEmojiId": "5199804858160416090",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/white-deer.png"
+    }
   },
   {
     "name": "Arabian Horse",
-    "customEmojiId": "5199442384395467198"
+    "customEmojiId": "5199442384395467198",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/arabian-horse.png"
+    }
   },
   {
     "name": "Serpent",
-    "customEmojiId": "5199799880293323047"
+    "customEmojiId": "5199799880293323047",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/serpent.png"
+    }
   },
   {
     "name": "Rook",
-    "customEmojiId": "5199812241209201867"
+    "customEmojiId": "5199812241209201867",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/rook.png"
+    }
   },
   {
     "name": "Strong Arm",
-    "customEmojiId": "5303232463831600401"
+    "customEmojiId": "5303232463831600401",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/strong-arm.png"
+    }
   },
   {
     "name": "Mafdet",
-    "customEmojiId": "5199698669388988419"
+    "customEmojiId": "5199698669388988419",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/mafdet.png"
+    }
   },
   {
     "name": "Winged Helm",
-    "customEmojiId": "5202028006247268831"
+    "customEmojiId": "5202028006247268831",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/winged-helm.png"
+    }
   },
   {
     "name": "Lion Head",
-    "customEmojiId": "5199655049701172498"
+    "customEmojiId": "5199655049701172498",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/lion-head.png"
+    }
   },
   {
     "name": "Chimaev",
-    "customEmojiId": "5303309197717311717"
+    "customEmojiId": "5303309197717311717",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/chimaev.png"
+    }
   },
   {
     "name": "Jones",
-    "customEmojiId": "5303107703621585641"
+    "customEmojiId": "5303107703621585641",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/jones.png"
+    }
   },
   {
     "name": "Jörmungandr",
-    "customEmojiId": "5199764777525611986"
+    "customEmojiId": "5199764777525611986",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/jormungandr.png"
+    }
   },
   {
     "name": "Yin-Yang",
-    "customEmojiId": "5199579720269730289"
+    "customEmojiId": "5199579720269730289",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/yin-yang.png"
+    }
   },
   {
     "name": "Rhino Warrior",
-    "customEmojiId": "5199722768450487484"
+    "customEmojiId": "5199722768450487484",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/rhino-warrior.png"
+    }
   },
   {
     "name": "Moon Face",
-    "customEmojiId": "5199410219385393618"
+    "customEmojiId": "5199410219385393618",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/moon-face.png"
+    }
   },
   {
     "name": "Sumerian Bird",
-    "customEmojiId": "5199797367737452718"
+    "customEmojiId": "5199797367737452718",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/sumerian-bird.png"
+    }
   },
   {
     "name": "Sun Lion",
-    "customEmojiId": "5199909337534861617"
+    "customEmojiId": "5199909337534861617",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/sun-lion.png"
+    }
   },
   {
     "name": "Jolly Roger",
-    "customEmojiId": "5199466333133113018"
+    "customEmojiId": "5199466333133113018",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/jolly-roger.png"
+    }
   },
   {
     "name": "Anubis",
-    "customEmojiId": "5199800163761162785"
+    "customEmojiId": "5199800163761162785",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/anubis.png"
+    }
   },
   {
     "name": "Two Katanas",
-    "customEmojiId": "5199814255548864362"
+    "customEmojiId": "5199814255548864362",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/two-katanas.png"
+    }
   },
   {
     "name": "Car",
-    "customEmojiId": "5199704214191765603"
+    "customEmojiId": "5199704214191765603",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/car.png"
+    }
   },
   {
     "name": "Training Helmet",
-    "customEmojiId": "5305795794803130578"
+    "customEmojiId": "5305795794803130578",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/training-helmet.png"
+    }
   },
   {
     "name": "Cow Skull",
-    "customEmojiId": "5199674639046968689"
+    "customEmojiId": "5199674639046968689",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/cow-skull.png"
+    }
   },
   {
     "name": "Champagne",
-    "customEmojiId": "5199679432230471443"
+    "customEmojiId": "5199679432230471443",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/champagne.png"
+    }
   },
   {
     "name": "Squeeze Bottle",
-    "customEmojiId": "5303023483607880661"
+    "customEmojiId": "5303023483607880661",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/squeeze-bottle.png"
+    }
   },
   {
     "name": "Warhorse",
-    "customEmojiId": "5199428060679541926"
+    "customEmojiId": "5199428060679541926",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/warhorse.png"
+    }
   },
   {
     "name": "Coat of Arms",
-    "customEmojiId": "5199543926012283083"
+    "customEmojiId": "5199543926012283083",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/coat-of-arms.png"
+    }
   },
   {
     "name": "Kitsune",
-    "customEmojiId": "5199625959887635892"
+    "customEmojiId": "5199625959887635892",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/kitsune.png"
+    }
   },
   {
     "name": "Flower Cross",
-    "customEmojiId": "5199741412903518768"
+    "customEmojiId": "5199741412903518768",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/flower-cross.png"
+    }
   },
   {
     "name": "Volkanovski",
-    "customEmojiId": "5303462807222654891"
+    "customEmojiId": "5303462807222654891",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/volkanovski.png"
+    }
   },
   {
     "name": "Inca Sun",
-    "customEmojiId": "5199572075227940967"
+    "customEmojiId": "5199572075227940967",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/inca-sun.png"
+    }
   },
   {
     "name": "Fight Glove",
-    "customEmojiId": "5303033873133768822"
+    "customEmojiId": "5303033873133768822",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/fight-glove.png"
+    }
   },
   {
     "name": "Ink Pen",
-    "customEmojiId": "5199514776069247457"
+    "customEmojiId": "5199514776069247457",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/ink-pen.png"
+    }
   },
   {
     "name": "Cobra",
-    "customEmojiId": "5199726195834392948"
+    "customEmojiId": "5199726195834392948",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/cobra.png"
+    }
   },
   {
     "name": "La Corona",
-    "customEmojiId": "5201947986711578027"
+    "customEmojiId": "5201947986711578027",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/la-corona.png"
+    }
   },
   {
     "name": "Coin Purse",
-    "customEmojiId": "5199421974710879091"
+    "customEmojiId": "5199421974710879091",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/coin-purse.png"
+    }
   },
   {
     "name": "Morgenstern",
-    "customEmojiId": "5199655161370280611"
+    "customEmojiId": "5199655161370280611",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/morgenstern.png"
+    }
   },
   {
     "name": "Glasses",
-    "customEmojiId": "5199843323887519152"
+    "customEmojiId": "5199843323887519152",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/glasses.png"
+    }
   },
   {
     "name": "Pantoja",
-    "customEmojiId": "5303473256878085400"
+    "customEmojiId": "5303473256878085400",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/pantoja.png"
+    }
   },
   {
     "name": "O’Malley",
-    "customEmojiId": null
+    "customEmojiId": null,
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/o-malley.png"
+    }
   },
   {
     "name": "Heater Shield",
-    "customEmojiId": "5199906721899780489"
+    "customEmojiId": "5199906721899780489",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/heater-shield.png"
+    }
   },
   {
     "name": "Gold",
-    "customEmojiId": "5199529048245569871"
+    "customEmojiId": "5199529048245569871",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/gold.png"
+    }
   },
   {
     "name": "Bishop",
-    "customEmojiId": "5199551953306157566"
+    "customEmojiId": "5199551953306157566",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/bishop.png"
+    }
   },
   {
     "name": "Alert Serpent",
-    "customEmojiId": "5199488392085146030"
+    "customEmojiId": "5199488392085146030",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/alert-serpent.png"
+    }
   },
   {
     "name": "Celtic Wolf",
-    "customEmojiId": "5199434919742310645"
+    "customEmojiId": "5199434919742310645",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/celtic-wolf.png"
+    }
   },
   {
     "name": "Scorpion",
-    "customEmojiId": "5199940630666579018"
+    "customEmojiId": "5199940630666579018",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/scorpion.png"
+    }
   },
   {
     "name": "Mountain Lion",
-    "customEmojiId": "5199456879910094088"
+    "customEmojiId": "5199456879910094088",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/mountain-lion.png"
+    }
   },
   {
     "name": "Oculus",
-    "customEmojiId": "5199618645558330282"
+    "customEmojiId": "5199618645558330282",
+    "assets": {
+      "png": "gifts/ufcstrike/assets/patterns/oculus.png"
+    }
   }
 ] satisfies readonly GiftPattern[];
 

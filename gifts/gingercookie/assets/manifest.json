@@ -1,0 +1,1523 @@
+{
+  "slug": "gingercookie",
+  "models": [
+    {
+      "name": "Universe",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/universe.svg",
+        "tgs": "gifts/gingercookie/assets/models/universe.tgs"
+      }
+    },
+    {
+      "name": "Sugar Star",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/sugar-star.svg",
+        "tgs": "gifts/gingercookie/assets/models/sugar-star.tgs"
+      }
+    },
+    {
+      "name": "Telegram",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/telegram.svg",
+        "tgs": "gifts/gingercookie/assets/models/telegram.tgs"
+      }
+    },
+    {
+      "name": "Frostbite",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/frostbite.svg",
+        "tgs": "gifts/gingercookie/assets/models/frostbite.tgs"
+      }
+    },
+    {
+      "name": "Tied Up",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/tied-up.svg",
+        "tgs": "gifts/gingercookie/assets/models/tied-up.tgs"
+      }
+    },
+    {
+      "name": "Brand New",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/brand-new.svg",
+        "tgs": "gifts/gingercookie/assets/models/brand-new.tgs"
+      }
+    },
+    {
+      "name": "Pika Pika",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/pika-pika.svg",
+        "tgs": "gifts/gingercookie/assets/models/pika-pika.tgs"
+      }
+    },
+    {
+      "name": "Golden Boy",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/golden-boy.svg",
+        "tgs": "gifts/gingercookie/assets/models/golden-boy.tgs"
+      }
+    },
+    {
+      "name": "Hello Cookie",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/hello-cookie.svg",
+        "tgs": "gifts/gingercookie/assets/models/hello-cookie.tgs"
+      }
+    },
+    {
+      "name": "Rose Gold",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/rose-gold.svg",
+        "tgs": "gifts/gingercookie/assets/models/rose-gold.tgs"
+      }
+    },
+    {
+      "name": "Pun-Cake",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/pun-cake.svg",
+        "tgs": "gifts/gingercookie/assets/models/pun-cake.tgs"
+      }
+    },
+    {
+      "name": "White Gold",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/white-gold.svg",
+        "tgs": "gifts/gingercookie/assets/models/white-gold.tgs"
+      }
+    },
+    {
+      "name": "Platinum",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/platinum.svg",
+        "tgs": "gifts/gingercookie/assets/models/platinum.tgs"
+      }
+    },
+    {
+      "name": "Cookie Claus",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/cookie-claus.svg",
+        "tgs": "gifts/gingercookie/assets/models/cookie-claus.tgs"
+      }
+    },
+    {
+      "name": "Headless",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/headless.svg",
+        "tgs": "gifts/gingercookie/assets/models/headless.tgs"
+      }
+    },
+    {
+      "name": "Shortbread",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/shortbread.svg",
+        "tgs": "gifts/gingercookie/assets/models/shortbread.tgs"
+      }
+    },
+    {
+      "name": "Sprinkles",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/sprinkles.svg",
+        "tgs": "gifts/gingercookie/assets/models/sprinkles.tgs"
+      }
+    },
+    {
+      "name": "Paprika",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/paprika.svg",
+        "tgs": "gifts/gingercookie/assets/models/paprika.tgs"
+      }
+    },
+    {
+      "name": "Beach Party",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/beach-party.svg",
+        "tgs": "gifts/gingercookie/assets/models/beach-party.tgs"
+      }
+    },
+    {
+      "name": "Dracula",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/dracula.svg",
+        "tgs": "gifts/gingercookie/assets/models/dracula.tgs"
+      }
+    },
+    {
+      "name": "Lebkuchen",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/lebkuchen.svg",
+        "tgs": "gifts/gingercookie/assets/models/lebkuchen.tgs"
+      }
+    },
+    {
+      "name": "Eve",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/eve.svg",
+        "tgs": "gifts/gingercookie/assets/models/eve.tgs"
+      }
+    },
+    {
+      "name": "Galleta",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/galleta.svg",
+        "tgs": "gifts/gingercookie/assets/models/galleta.tgs"
+      }
+    },
+    {
+      "name": "Bronze",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/bronze.svg",
+        "tgs": "gifts/gingercookie/assets/models/bronze.tgs"
+      }
+    },
+    {
+      "name": "Black Beard",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/black-beard.svg",
+        "tgs": "gifts/gingercookie/assets/models/black-beard.tgs"
+      }
+    },
+    {
+      "name": "Bone Appétit",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/bone-appetit.svg",
+        "tgs": "gifts/gingercookie/assets/models/bone-appetit.tgs"
+      }
+    },
+    {
+      "name": "Cop Cake",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/cop-cake.svg",
+        "tgs": "gifts/gingercookie/assets/models/cop-cake.tgs"
+      }
+    },
+    {
+      "name": "Adam",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/adam.svg",
+        "tgs": "gifts/gingercookie/assets/models/adam.tgs"
+      }
+    },
+    {
+      "name": "Pepe Pryanik",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/pepe-pryanik.svg",
+        "tgs": "gifts/gingercookie/assets/models/pepe-pryanik.tgs"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/jolly-roger.svg",
+        "tgs": "gifts/gingercookie/assets/models/jolly-roger.tgs"
+      }
+    },
+    {
+      "name": "Shanker",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/shanker.svg",
+        "tgs": "gifts/gingercookie/assets/models/shanker.tgs"
+      }
+    },
+    {
+      "name": "Le Biscuit",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/le-biscuit.svg",
+        "tgs": "gifts/gingercookie/assets/models/le-biscuit.tgs"
+      }
+    },
+    {
+      "name": "Silver",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/silver.svg",
+        "tgs": "gifts/gingercookie/assets/models/silver.tgs"
+      }
+    },
+    {
+      "name": "Amaretto",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/amaretto.svg",
+        "tgs": "gifts/gingercookie/assets/models/amaretto.tgs"
+      }
+    },
+    {
+      "name": "Santa Claus",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/santa-claus.svg",
+        "tgs": "gifts/gingercookie/assets/models/santa-claus.tgs"
+      }
+    },
+    {
+      "name": "Candy Cane",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/candy-cane.svg",
+        "tgs": "gifts/gingercookie/assets/models/candy-cane.tgs"
+      }
+    },
+    {
+      "name": "Berry Button",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/berry-button.svg",
+        "tgs": "gifts/gingercookie/assets/models/berry-button.tgs"
+      }
+    },
+    {
+      "name": "Crunched",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/crunched.svg",
+        "tgs": "gifts/gingercookie/assets/models/crunched.tgs"
+      }
+    },
+    {
+      "name": "Coffee Break",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/coffee-break.svg",
+        "tgs": "gifts/gingercookie/assets/models/coffee-break.tgs"
+      }
+    },
+    {
+      "name": "Hazel Bezel",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/hazel-bezel.svg",
+        "tgs": "gifts/gingercookie/assets/models/hazel-bezel.tgs"
+      }
+    },
+    {
+      "name": "Ginger Geek",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/ginger-geek.svg",
+        "tgs": "gifts/gingercookie/assets/models/ginger-geek.tgs"
+      }
+    },
+    {
+      "name": "Melonius",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/melonius.svg",
+        "tgs": "gifts/gingercookie/assets/models/melonius.tgs"
+      }
+    },
+    {
+      "name": "Reel Cookie",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/reel-cookie.svg",
+        "tgs": "gifts/gingercookie/assets/models/reel-cookie.tgs"
+      }
+    },
+    {
+      "name": "Red Scarf",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/red-scarf.svg",
+        "tgs": "gifts/gingercookie/assets/models/red-scarf.tgs"
+      }
+    },
+    {
+      "name": "Herb Garden",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/herb-garden.svg",
+        "tgs": "gifts/gingercookie/assets/models/herb-garden.tgs"
+      }
+    },
+    {
+      "name": "Dandy Candy",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/dandy-candy.svg",
+        "tgs": "gifts/gingercookie/assets/models/dandy-candy.tgs"
+      }
+    },
+    {
+      "name": "Lil Ginger",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/lil-ginger.svg",
+        "tgs": "gifts/gingercookie/assets/models/lil-ginger.tgs"
+      }
+    },
+    {
+      "name": "Choco Swirl",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/choco-swirl.svg",
+        "tgs": "gifts/gingercookie/assets/models/choco-swirl.tgs"
+      }
+    },
+    {
+      "name": "Bavarian",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/bavarian.svg",
+        "tgs": "gifts/gingercookie/assets/models/bavarian.tgs"
+      }
+    },
+    {
+      "name": "Sweetheart",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/sweetheart.svg",
+        "tgs": "gifts/gingercookie/assets/models/sweetheart.tgs"
+      }
+    },
+    {
+      "name": "Mint Fringe",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/mint-fringe.svg",
+        "tgs": "gifts/gingercookie/assets/models/mint-fringe.tgs"
+      }
+    },
+    {
+      "name": "Cooking...",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/cooking.svg",
+        "tgs": "gifts/gingercookie/assets/models/cooking.tgs"
+      }
+    },
+    {
+      "name": "Pink Molasses",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/pink-molasses.svg",
+        "tgs": "gifts/gingercookie/assets/models/pink-molasses.tgs"
+      }
+    },
+    {
+      "name": "Bio Glow",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/bio-glow.svg",
+        "tgs": "gifts/gingercookie/assets/models/bio-glow.tgs"
+      }
+    },
+    {
+      "name": "Toblerone",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/toblerone.svg",
+        "tgs": "gifts/gingercookie/assets/models/toblerone.tgs"
+      }
+    },
+    {
+      "name": "Madagascar",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/madagascar.svg",
+        "tgs": "gifts/gingercookie/assets/models/madagascar.tgs"
+      }
+    },
+    {
+      "name": "Choco Glazed",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/choco-glazed.svg",
+        "tgs": "gifts/gingercookie/assets/models/choco-glazed.tgs"
+      }
+    },
+    {
+      "name": "Brownie",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/brownie.svg",
+        "tgs": "gifts/gingercookie/assets/models/brownie.tgs"
+      }
+    },
+    {
+      "name": "Raspberry",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/raspberry.svg",
+        "tgs": "gifts/gingercookie/assets/models/raspberry.tgs"
+      }
+    },
+    {
+      "name": "Royal Sundae",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/royal-sundae.svg",
+        "tgs": "gifts/gingercookie/assets/models/royal-sundae.tgs"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/unicorn.svg",
+        "tgs": "gifts/gingercookie/assets/models/unicorn.tgs"
+      }
+    },
+    {
+      "name": "Cocoa Powder",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/cocoa-powder.svg",
+        "tgs": "gifts/gingercookie/assets/models/cocoa-powder.tgs"
+      }
+    },
+    {
+      "name": "Red Velvet",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/red-velvet.svg",
+        "tgs": "gifts/gingercookie/assets/models/red-velvet.tgs"
+      }
+    },
+    {
+      "name": "Dark Almond",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/dark-almond.svg",
+        "tgs": "gifts/gingercookie/assets/models/dark-almond.tgs"
+      }
+    },
+    {
+      "name": "Eskimo",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/eskimo.svg",
+        "tgs": "gifts/gingercookie/assets/models/eskimo.tgs"
+      }
+    },
+    {
+      "name": "Matrix",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/matrix.svg",
+        "tgs": "gifts/gingercookie/assets/models/matrix.tgs"
+      }
+    },
+    {
+      "name": "Opposite",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/opposite.svg",
+        "tgs": "gifts/gingercookie/assets/models/opposite.tgs"
+      }
+    },
+    {
+      "name": "Faint Blush",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/faint-blush.svg",
+        "tgs": "gifts/gingercookie/assets/models/faint-blush.tgs"
+      }
+    },
+    {
+      "name": "Waffle",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/waffle.svg",
+        "tgs": "gifts/gingercookie/assets/models/waffle.tgs"
+      }
+    },
+    {
+      "name": "Glowberry",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/glowberry.svg",
+        "tgs": "gifts/gingercookie/assets/models/glowberry.tgs"
+      }
+    },
+    {
+      "name": "Frosty",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/frosty.svg",
+        "tgs": "gifts/gingercookie/assets/models/frosty.tgs"
+      }
+    },
+    {
+      "name": "Marshmallow",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/marshmallow.svg",
+        "tgs": "gifts/gingercookie/assets/models/marshmallow.tgs"
+      }
+    },
+    {
+      "name": "Template",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/template.svg",
+        "tgs": "gifts/gingercookie/assets/models/template.tgs"
+      }
+    },
+    {
+      "name": "Johnny Ash",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/johnny-ash.svg",
+        "tgs": "gifts/gingercookie/assets/models/johnny-ash.tgs"
+      }
+    },
+    {
+      "name": "Icing Sugar",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/icing-sugar.svg",
+        "tgs": "gifts/gingercookie/assets/models/icing-sugar.tgs"
+      }
+    },
+    {
+      "name": "Banana Bread",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/banana-bread.svg",
+        "tgs": "gifts/gingercookie/assets/models/banana-bread.tgs"
+      }
+    },
+    {
+      "name": "Gentleman",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/gentleman.svg",
+        "tgs": "gifts/gingercookie/assets/models/gentleman.tgs"
+      }
+    },
+    {
+      "name": "Moon Dust",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/moon-dust.svg",
+        "tgs": "gifts/gingercookie/assets/models/moon-dust.tgs"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/champagne.svg",
+        "tgs": "gifts/gingercookie/assets/models/champagne.tgs"
+      }
+    },
+    {
+      "name": "Frozen Dough",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/frozen-dough.svg",
+        "tgs": "gifts/gingercookie/assets/models/frozen-dough.tgs"
+      }
+    },
+    {
+      "name": "Cardamom",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/cardamom.svg",
+        "tgs": "gifts/gingercookie/assets/models/cardamom.tgs"
+      }
+    },
+    {
+      "name": "Periwinkle",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/periwinkle.svg",
+        "tgs": "gifts/gingercookie/assets/models/periwinkle.tgs"
+      }
+    },
+    {
+      "name": "Hulking",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/hulking.svg",
+        "tgs": "gifts/gingercookie/assets/models/hulking.tgs"
+      }
+    },
+    {
+      "name": "Ginger Grape",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/ginger-grape.svg",
+        "tgs": "gifts/gingercookie/assets/models/ginger-grape.tgs"
+      }
+    },
+    {
+      "name": "Marzipan",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/marzipan.svg",
+        "tgs": "gifts/gingercookie/assets/models/marzipan.tgs"
+      }
+    },
+    {
+      "name": "Truffle",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/truffle.svg",
+        "tgs": "gifts/gingercookie/assets/models/truffle.tgs"
+      }
+    },
+    {
+      "name": "Mr. Biscuit",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/mr-biscuit.svg",
+        "tgs": "gifts/gingercookie/assets/models/mr-biscuit.tgs"
+      }
+    },
+    {
+      "name": "Ice Latte",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/ice-latte.svg",
+        "tgs": "gifts/gingercookie/assets/models/ice-latte.tgs"
+      }
+    },
+    {
+      "name": "Toffee",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/toffee.svg",
+        "tgs": "gifts/gingercookie/assets/models/toffee.tgs"
+      }
+    },
+    {
+      "name": "Candy Bar",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/candy-bar.svg",
+        "tgs": "gifts/gingercookie/assets/models/candy-bar.tgs"
+      }
+    },
+    {
+      "name": "Vanilla",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/vanilla.svg",
+        "tgs": "gifts/gingercookie/assets/models/vanilla.tgs"
+      }
+    },
+    {
+      "name": "Cinnamon",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/cinnamon.svg",
+        "tgs": "gifts/gingercookie/assets/models/cinnamon.tgs"
+      }
+    },
+    {
+      "name": "Snowman",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/snowman.svg",
+        "tgs": "gifts/gingercookie/assets/models/snowman.tgs"
+      }
+    },
+    {
+      "name": "Cheesecake",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/cheesecake.svg",
+        "tgs": "gifts/gingercookie/assets/models/cheesecake.tgs"
+      }
+    },
+    {
+      "name": "Pistachio",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/pistachio.svg",
+        "tgs": "gifts/gingercookie/assets/models/pistachio.tgs"
+      }
+    },
+    {
+      "name": "Rubber Duck",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/rubber-duck.svg",
+        "tgs": "gifts/gingercookie/assets/models/rubber-duck.tgs"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/strawberry.svg",
+        "tgs": "gifts/gingercookie/assets/models/strawberry.tgs"
+      }
+    },
+    {
+      "name": "Bordeaux",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/bordeaux.svg",
+        "tgs": "gifts/gingercookie/assets/models/bordeaux.tgs"
+      }
+    },
+    {
+      "name": "Sunspot",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/sunspot.svg",
+        "tgs": "gifts/gingercookie/assets/models/sunspot.tgs"
+      }
+    },
+    {
+      "name": "Rose Water",
+      "assets": {
+        "svg": "gifts/gingercookie/assets/models/rose-water.svg",
+        "tgs": "gifts/gingercookie/assets/models/rose-water.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Ice Skates",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/ice-skates.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Snow Angel",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/snow-angel.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Winter House",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/winter-house.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "New Year’s Eve",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/new-year-s-eve.png"
+      }
+    },
+    {
+      "name": "Snowman",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/snowman.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Festive Wreath",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/festive-wreath.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Bowtie",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/bowtie.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Snowflake",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/snowflake.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Hot Drink",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/hot-drink.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Rudolph",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/rudolph.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Mittens",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/mittens.png"
+      }
+    },
+    {
+      "name": "Cookie",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/cookie.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Stocking",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/stocking.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Santa Hat",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/santa-hat.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Christmas Tree",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/christmas-tree.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Ornament",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/ornament.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Jingle Bell",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/jingle-bell.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Fireworks",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/fireworks.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Mistletoe",
+      "assets": {
+        "png": "gifts/gingercookie/assets/patterns/mistletoe.png"
+      }
+    }
+  ]
+}

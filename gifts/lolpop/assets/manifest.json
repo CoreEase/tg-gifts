@@ -1,0 +1,2243 @@
+{
+  "slug": "lolpop",
+  "models": [
+    {
+      "name": "Celestia",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/celestia.svg",
+        "tgs": "gifts/lolpop/assets/models/celestia.tgs"
+      }
+    },
+    {
+      "name": "Glowstick",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/glowstick.svg",
+        "tgs": "gifts/lolpop/assets/models/glowstick.tgs"
+      }
+    },
+    {
+      "name": "Andromeda",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/andromeda.svg",
+        "tgs": "gifts/lolpop/assets/models/andromeda.tgs"
+      }
+    },
+    {
+      "name": "Cookie Dip",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cookie-dip.svg",
+        "tgs": "gifts/lolpop/assets/models/cookie-dip.tgs"
+      }
+    },
+    {
+      "name": "Satellite",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/satellite.svg",
+        "tgs": "gifts/lolpop/assets/models/satellite.tgs"
+      }
+    },
+    {
+      "name": "Pumpkin",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/pumpkin.svg",
+        "tgs": "gifts/lolpop/assets/models/pumpkin.tgs"
+      }
+    },
+    {
+      "name": "Sweetheart",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/sweetheart.svg",
+        "tgs": "gifts/lolpop/assets/models/sweetheart.tgs"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/watermelon.svg",
+        "tgs": "gifts/lolpop/assets/models/watermelon.tgs"
+      }
+    },
+    {
+      "name": "Rosebud",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/rosebud.svg",
+        "tgs": "gifts/lolpop/assets/models/rosebud.tgs"
+      }
+    },
+    {
+      "name": "Doodle Art",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/doodle-art.svg",
+        "tgs": "gifts/lolpop/assets/models/doodle-art.tgs"
+      }
+    },
+    {
+      "name": "Dark Sky",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/dark-sky.svg",
+        "tgs": "gifts/lolpop/assets/models/dark-sky.tgs"
+      }
+    },
+    {
+      "name": "Milky Way",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/milky-way.svg",
+        "tgs": "gifts/lolpop/assets/models/milky-way.tgs"
+      }
+    },
+    {
+      "name": "Blood Sucker",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/blood-sucker.svg",
+        "tgs": "gifts/lolpop/assets/models/blood-sucker.tgs"
+      }
+    },
+    {
+      "name": "Mortal Sin",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/mortal-sin.svg",
+        "tgs": "gifts/lolpop/assets/models/mortal-sin.tgs"
+      }
+    },
+    {
+      "name": "Cobweb",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cobweb.svg",
+        "tgs": "gifts/lolpop/assets/models/cobweb.tgs"
+      }
+    },
+    {
+      "name": "Icicle",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/icicle.svg",
+        "tgs": "gifts/lolpop/assets/models/icicle.tgs"
+      }
+    },
+    {
+      "name": "Einstein",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/einstein.svg",
+        "tgs": "gifts/lolpop/assets/models/einstein.tgs"
+      }
+    },
+    {
+      "name": "Sick Leave",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/sick-leave.svg",
+        "tgs": "gifts/lolpop/assets/models/sick-leave.tgs"
+      }
+    },
+    {
+      "name": "Angelina",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/angelina.svg",
+        "tgs": "gifts/lolpop/assets/models/angelina.tgs"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/jolly-roger.svg",
+        "tgs": "gifts/lolpop/assets/models/jolly-roger.tgs"
+      }
+    },
+    {
+      "name": "Comic Crunch",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/comic-crunch.svg",
+        "tgs": "gifts/lolpop/assets/models/comic-crunch.tgs"
+      }
+    },
+    {
+      "name": "Liquid Lime",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/liquid-lime.svg",
+        "tgs": "gifts/lolpop/assets/models/liquid-lime.tgs"
+      }
+    },
+    {
+      "name": "Plastic Ice",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/plastic-ice.svg",
+        "tgs": "gifts/lolpop/assets/models/plastic-ice.tgs"
+      }
+    },
+    {
+      "name": "Portable Pop",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/portable-pop.svg",
+        "tgs": "gifts/lolpop/assets/models/portable-pop.tgs"
+      }
+    },
+    {
+      "name": "Pink Foil",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/pink-foil.svg",
+        "tgs": "gifts/lolpop/assets/models/pink-foil.tgs"
+      }
+    },
+    {
+      "name": "Soap Bubbles",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/soap-bubbles.svg",
+        "tgs": "gifts/lolpop/assets/models/soap-bubbles.tgs"
+      }
+    },
+    {
+      "name": "Jinxed",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/jinxed.svg",
+        "tgs": "gifts/lolpop/assets/models/jinxed.tgs"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/magic-wand.svg",
+        "tgs": "gifts/lolpop/assets/models/magic-wand.tgs"
+      }
+    },
+    {
+      "name": "Nostalgia",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/nostalgia.svg",
+        "tgs": "gifts/lolpop/assets/models/nostalgia.tgs"
+      }
+    },
+    {
+      "name": "Hollywood",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/hollywood.svg",
+        "tgs": "gifts/lolpop/assets/models/hollywood.tgs"
+      }
+    },
+    {
+      "name": "Shock Wave",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/shock-wave.svg",
+        "tgs": "gifts/lolpop/assets/models/shock-wave.tgs"
+      }
+    },
+    {
+      "name": "Heart Pop",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/heart-pop.svg",
+        "tgs": "gifts/lolpop/assets/models/heart-pop.tgs"
+      }
+    },
+    {
+      "name": "Blue Goo",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/blue-goo.svg",
+        "tgs": "gifts/lolpop/assets/models/blue-goo.tgs"
+      }
+    },
+    {
+      "name": "Rising Star",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/rising-star.svg",
+        "tgs": "gifts/lolpop/assets/models/rising-star.tgs"
+      }
+    },
+    {
+      "name": "Blood Ember",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/blood-ember.svg",
+        "tgs": "gifts/lolpop/assets/models/blood-ember.tgs"
+      }
+    },
+    {
+      "name": "Crystal Comet",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/crystal-comet.svg",
+        "tgs": "gifts/lolpop/assets/models/crystal-comet.tgs"
+      }
+    },
+    {
+      "name": "Cosmic Green",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cosmic-green.svg",
+        "tgs": "gifts/lolpop/assets/models/cosmic-green.tgs"
+      }
+    },
+    {
+      "name": "Gold Star",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/gold-star.svg",
+        "tgs": "gifts/lolpop/assets/models/gold-star.tgs"
+      }
+    },
+    {
+      "name": "Icy Touch",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/icy-touch.svg",
+        "tgs": "gifts/lolpop/assets/models/icy-touch.tgs"
+      }
+    },
+    {
+      "name": "Red Shift",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/red-shift.svg",
+        "tgs": "gifts/lolpop/assets/models/red-shift.tgs"
+      }
+    },
+    {
+      "name": "Romance",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/romance.svg",
+        "tgs": "gifts/lolpop/assets/models/romance.tgs"
+      }
+    },
+    {
+      "name": "Sailor Moon",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/sailor-moon.svg",
+        "tgs": "gifts/lolpop/assets/models/sailor-moon.tgs"
+      }
+    },
+    {
+      "name": "Lagoon",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/lagoon.svg",
+        "tgs": "gifts/lolpop/assets/models/lagoon.tgs"
+      }
+    },
+    {
+      "name": "Love Bubbles",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/love-bubbles.svg",
+        "tgs": "gifts/lolpop/assets/models/love-bubbles.tgs"
+      }
+    },
+    {
+      "name": "Dark Portal",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/dark-portal.svg",
+        "tgs": "gifts/lolpop/assets/models/dark-portal.tgs"
+      }
+    },
+    {
+      "name": "Hexed Helix",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/hexed-helix.svg",
+        "tgs": "gifts/lolpop/assets/models/hexed-helix.tgs"
+      }
+    },
+    {
+      "name": "Fire Vortex",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/fire-vortex.svg",
+        "tgs": "gifts/lolpop/assets/models/fire-vortex.tgs"
+      }
+    },
+    {
+      "name": "Golden Amber",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/golden-amber.svg",
+        "tgs": "gifts/lolpop/assets/models/golden-amber.tgs"
+      }
+    },
+    {
+      "name": "Wonka Berry",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/wonka-berry.svg",
+        "tgs": "gifts/lolpop/assets/models/wonka-berry.tgs"
+      }
+    },
+    {
+      "name": "Crystalline",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/crystalline.svg",
+        "tgs": "gifts/lolpop/assets/models/crystalline.tgs"
+      }
+    },
+    {
+      "name": "Mandarin",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/mandarin.svg",
+        "tgs": "gifts/lolpop/assets/models/mandarin.tgs"
+      }
+    },
+    {
+      "name": "Citrone",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/citrone.svg",
+        "tgs": "gifts/lolpop/assets/models/citrone.tgs"
+      }
+    },
+    {
+      "name": "Mirage",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/mirage.svg",
+        "tgs": "gifts/lolpop/assets/models/mirage.tgs"
+      }
+    },
+    {
+      "name": "Lychee Mint",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/lychee-mint.svg",
+        "tgs": "gifts/lolpop/assets/models/lychee-mint.tgs"
+      }
+    },
+    {
+      "name": "Bitter Lemon",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/bitter-lemon.svg",
+        "tgs": "gifts/lolpop/assets/models/bitter-lemon.tgs"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/pineapple.svg",
+        "tgs": "gifts/lolpop/assets/models/pineapple.tgs"
+      }
+    },
+    {
+      "name": "Spearmint",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/spearmint.svg",
+        "tgs": "gifts/lolpop/assets/models/spearmint.tgs"
+      }
+    },
+    {
+      "name": "Red Grape",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/red-grape.svg",
+        "tgs": "gifts/lolpop/assets/models/red-grape.tgs"
+      }
+    },
+    {
+      "name": "Plum Candy",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/plum-candy.svg",
+        "tgs": "gifts/lolpop/assets/models/plum-candy.tgs"
+      }
+    },
+    {
+      "name": "Cappuccino",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cappuccino.svg",
+        "tgs": "gifts/lolpop/assets/models/cappuccino.tgs"
+      }
+    },
+    {
+      "name": "Grape Gin",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/grape-gin.svg",
+        "tgs": "gifts/lolpop/assets/models/grape-gin.tgs"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/tsunami.svg",
+        "tgs": "gifts/lolpop/assets/models/tsunami.tgs"
+      }
+    },
+    {
+      "name": "Gobstopper",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/gobstopper.svg",
+        "tgs": "gifts/lolpop/assets/models/gobstopper.tgs"
+      }
+    },
+    {
+      "name": "Old Liqueur",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/old-liqueur.svg",
+        "tgs": "gifts/lolpop/assets/models/old-liqueur.tgs"
+      }
+    },
+    {
+      "name": "Holidaze",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/holidaze.svg",
+        "tgs": "gifts/lolpop/assets/models/holidaze.tgs"
+      }
+    },
+    {
+      "name": "Cotton Candy",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cotton-candy.svg",
+        "tgs": "gifts/lolpop/assets/models/cotton-candy.tgs"
+      }
+    },
+    {
+      "name": "Refresh",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/refresh.svg",
+        "tgs": "gifts/lolpop/assets/models/refresh.tgs"
+      }
+    },
+    {
+      "name": "Vanilla Swirl",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/vanilla-swirl.svg",
+        "tgs": "gifts/lolpop/assets/models/vanilla-swirl.tgs"
+      }
+    },
+    {
+      "name": "Pina Colada",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/pina-colada.svg",
+        "tgs": "gifts/lolpop/assets/models/pina-colada.tgs"
+      }
+    },
+    {
+      "name": "Spicy Tequila",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/spicy-tequila.svg",
+        "tgs": "gifts/lolpop/assets/models/spicy-tequila.tgs"
+      }
+    },
+    {
+      "name": "Dark Delight",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/dark-delight.svg",
+        "tgs": "gifts/lolpop/assets/models/dark-delight.tgs"
+      }
+    },
+    {
+      "name": "Melon Spin",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/melon-spin.svg",
+        "tgs": "gifts/lolpop/assets/models/melon-spin.tgs"
+      }
+    },
+    {
+      "name": "Lavender Ice",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/lavender-ice.svg",
+        "tgs": "gifts/lolpop/assets/models/lavender-ice.tgs"
+      }
+    },
+    {
+      "name": "Choco Pop",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/choco-pop.svg",
+        "tgs": "gifts/lolpop/assets/models/choco-pop.tgs"
+      }
+    },
+    {
+      "name": "Sweet Yogurt",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/sweet-yogurt.svg",
+        "tgs": "gifts/lolpop/assets/models/sweet-yogurt.tgs"
+      }
+    },
+    {
+      "name": "Prisma",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/prisma.svg",
+        "tgs": "gifts/lolpop/assets/models/prisma.tgs"
+      }
+    },
+    {
+      "name": "Sugar Free",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/sugar-free.svg",
+        "tgs": "gifts/lolpop/assets/models/sugar-free.tgs"
+      }
+    },
+    {
+      "name": "Choco Mint",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/choco-mint.svg",
+        "tgs": "gifts/lolpop/assets/models/choco-mint.tgs"
+      }
+    },
+    {
+      "name": "Delusion",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/delusion.svg",
+        "tgs": "gifts/lolpop/assets/models/delusion.tgs"
+      }
+    },
+    {
+      "name": "Cherry Berry",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cherry-berry.svg",
+        "tgs": "gifts/lolpop/assets/models/cherry-berry.tgs"
+      }
+    },
+    {
+      "name": "Milkshake",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/milkshake.svg",
+        "tgs": "gifts/lolpop/assets/models/milkshake.tgs"
+      }
+    },
+    {
+      "name": "Vanilla Jam",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/vanilla-jam.svg",
+        "tgs": "gifts/lolpop/assets/models/vanilla-jam.tgs"
+      }
+    },
+    {
+      "name": "Honey Bee",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/honey-bee.svg",
+        "tgs": "gifts/lolpop/assets/models/honey-bee.tgs"
+      }
+    },
+    {
+      "name": "Sunset Blue",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/sunset-blue.svg",
+        "tgs": "gifts/lolpop/assets/models/sunset-blue.tgs"
+      }
+    },
+    {
+      "name": "Iced Latte",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/iced-latte.svg",
+        "tgs": "gifts/lolpop/assets/models/iced-latte.tgs"
+      }
+    },
+    {
+      "name": "Blueberry Pie",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/blueberry-pie.svg",
+        "tgs": "gifts/lolpop/assets/models/blueberry-pie.tgs"
+      }
+    },
+    {
+      "name": "Caramel",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/caramel.svg",
+        "tgs": "gifts/lolpop/assets/models/caramel.tgs"
+      }
+    },
+    {
+      "name": "Orangery",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/orangery.svg",
+        "tgs": "gifts/lolpop/assets/models/orangery.tgs"
+      }
+    },
+    {
+      "name": "Cucumber",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cucumber.svg",
+        "tgs": "gifts/lolpop/assets/models/cucumber.tgs"
+      }
+    },
+    {
+      "name": "Rose Wine",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/rose-wine.svg",
+        "tgs": "gifts/lolpop/assets/models/rose-wine.tgs"
+      }
+    },
+    {
+      "name": "Mint Lemon",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/mint-lemon.svg",
+        "tgs": "gifts/lolpop/assets/models/mint-lemon.tgs"
+      }
+    },
+    {
+      "name": "Pumpkin Latte",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/pumpkin-latte.svg",
+        "tgs": "gifts/lolpop/assets/models/pumpkin-latte.tgs"
+      }
+    },
+    {
+      "name": "Blender",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/blender.svg",
+        "tgs": "gifts/lolpop/assets/models/blender.tgs"
+      }
+    },
+    {
+      "name": "Spectrum",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/spectrum.svg",
+        "tgs": "gifts/lolpop/assets/models/spectrum.tgs"
+      }
+    },
+    {
+      "name": "Cherry Milk",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cherry-milk.svg",
+        "tgs": "gifts/lolpop/assets/models/cherry-milk.tgs"
+      }
+    },
+    {
+      "name": "Cherry Cola",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/cherry-cola.svg",
+        "tgs": "gifts/lolpop/assets/models/cherry-cola.tgs"
+      }
+    },
+    {
+      "name": "Mandarin Ice",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/mandarin-ice.svg",
+        "tgs": "gifts/lolpop/assets/models/mandarin-ice.tgs"
+      }
+    },
+    {
+      "name": "Bubblegum",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/bubblegum.svg",
+        "tgs": "gifts/lolpop/assets/models/bubblegum.tgs"
+      }
+    },
+    {
+      "name": "Rainbow Dash",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/rainbow-dash.svg",
+        "tgs": "gifts/lolpop/assets/models/rainbow-dash.tgs"
+      }
+    },
+    {
+      "name": "Wild Mango",
+      "assets": {
+        "svg": "gifts/lolpop/assets/models/wild-mango.svg",
+        "tgs": "gifts/lolpop/assets/models/wild-mango.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Ribeye Steak",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ribeye-steak.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Arcane Mirror",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/arcane-mirror.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Iron Helmet",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/iron-helmet.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Ancient Urn",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ancient-urn.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Tamagotchi",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/tamagotchi.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Monarch",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/monarch.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Flag",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/flag.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Wontons",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/wontons.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Piranha",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/piranha.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Wepwawet",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/wepwawet.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/lolpop/assets/patterns/apple.png"
+      }
+    }
+  ]
+}

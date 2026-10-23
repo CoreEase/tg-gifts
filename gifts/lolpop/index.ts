@@ -3,1430 +3,2598 @@ import type { GiftModel, GiftPattern, Backdrop, GiftCollection } from '../../typ
 export const models = [
   {
     "name": "Celestia",
-    "customEmojiId": "5265051836657724929"
+    "customEmojiId": "5265051836657724929",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/celestia.svg",
+      "tgs": "gifts/lolpop/assets/models/celestia.tgs"
+    }
   },
   {
     "name": "Glowstick",
-    "customEmojiId": "5262584944881855065"
+    "customEmojiId": "5262584944881855065",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/glowstick.svg",
+      "tgs": "gifts/lolpop/assets/models/glowstick.tgs"
+    }
   },
   {
     "name": "Andromeda",
-    "customEmojiId": "5263002484422502634"
+    "customEmojiId": "5263002484422502634",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/andromeda.svg",
+      "tgs": "gifts/lolpop/assets/models/andromeda.tgs"
+    }
   },
   {
     "name": "Cookie Dip",
-    "customEmojiId": "5262930019734286289"
+    "customEmojiId": "5262930019734286289",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cookie-dip.svg",
+      "tgs": "gifts/lolpop/assets/models/cookie-dip.tgs"
+    }
   },
   {
     "name": "Satellite",
-    "customEmojiId": "5265113825920705198"
+    "customEmojiId": "5265113825920705198",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/satellite.svg",
+      "tgs": "gifts/lolpop/assets/models/satellite.tgs"
+    }
   },
   {
     "name": "Pumpkin",
-    "customEmojiId": "5264956548513293975"
+    "customEmojiId": "5264956548513293975",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/pumpkin.svg",
+      "tgs": "gifts/lolpop/assets/models/pumpkin.tgs"
+    }
   },
   {
     "name": "Sweetheart",
-    "customEmojiId": "5262693362741308140"
+    "customEmojiId": "5262693362741308140",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/sweetheart.svg",
+      "tgs": "gifts/lolpop/assets/models/sweetheart.tgs"
+    }
   },
   {
     "name": "Watermelon",
-    "customEmojiId": "5264712207823823392"
+    "customEmojiId": "5264712207823823392",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/watermelon.svg",
+      "tgs": "gifts/lolpop/assets/models/watermelon.tgs"
+    }
   },
   {
     "name": "Rosebud",
-    "customEmojiId": "5262829281276358059"
+    "customEmojiId": "5262829281276358059",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/rosebud.svg",
+      "tgs": "gifts/lolpop/assets/models/rosebud.tgs"
+    }
   },
   {
     "name": "Doodle Art",
-    "customEmojiId": "5262533473993780145"
+    "customEmojiId": "5262533473993780145",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/doodle-art.svg",
+      "tgs": "gifts/lolpop/assets/models/doodle-art.tgs"
+    }
   },
   {
     "name": "Dark Sky",
-    "customEmojiId": "5262738300984127739"
+    "customEmojiId": "5262738300984127739",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/dark-sky.svg",
+      "tgs": "gifts/lolpop/assets/models/dark-sky.tgs"
+    }
   },
   {
     "name": "Milky Way",
-    "customEmojiId": "5262759170230217046"
+    "customEmojiId": "5262759170230217046",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/milky-way.svg",
+      "tgs": "gifts/lolpop/assets/models/milky-way.tgs"
+    }
   },
   {
     "name": "Blood Sucker",
-    "customEmojiId": "5262573550333619650"
+    "customEmojiId": "5262573550333619650",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/blood-sucker.svg",
+      "tgs": "gifts/lolpop/assets/models/blood-sucker.tgs"
+    }
   },
   {
     "name": "Mortal Sin",
-    "customEmojiId": "5262890441610655160"
+    "customEmojiId": "5262890441610655160",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/mortal-sin.svg",
+      "tgs": "gifts/lolpop/assets/models/mortal-sin.tgs"
+    }
   },
   {
     "name": "Cobweb",
-    "customEmojiId": "5262897790299697379"
+    "customEmojiId": "5262897790299697379",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cobweb.svg",
+      "tgs": "gifts/lolpop/assets/models/cobweb.tgs"
+    }
   },
   {
     "name": "Icicle",
-    "customEmojiId": "5264719724016591590"
+    "customEmojiId": "5264719724016591590",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/icicle.svg",
+      "tgs": "gifts/lolpop/assets/models/icicle.tgs"
+    }
   },
   {
     "name": "Einstein",
-    "customEmojiId": "5265121681415887561"
+    "customEmojiId": "5265121681415887561",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/einstein.svg",
+      "tgs": "gifts/lolpop/assets/models/einstein.tgs"
+    }
   },
   {
     "name": "Sick Leave",
-    "customEmojiId": "5262952263369910356"
+    "customEmojiId": "5262952263369910356",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/sick-leave.svg",
+      "tgs": "gifts/lolpop/assets/models/sick-leave.tgs"
+    }
   },
   {
     "name": "Angelina",
-    "customEmojiId": "5262770659267735289"
+    "customEmojiId": "5262770659267735289",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/angelina.svg",
+      "tgs": "gifts/lolpop/assets/models/angelina.tgs"
+    }
   },
   {
     "name": "Jolly Roger",
-    "customEmojiId": "5262461812464447001"
+    "customEmojiId": "5262461812464447001",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/jolly-roger.svg",
+      "tgs": "gifts/lolpop/assets/models/jolly-roger.tgs"
+    }
   },
   {
     "name": "Comic Crunch",
-    "customEmojiId": "5265210415440223958"
+    "customEmojiId": "5265210415440223958",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/comic-crunch.svg",
+      "tgs": "gifts/lolpop/assets/models/comic-crunch.tgs"
+    }
   },
   {
     "name": "Liquid Lime",
-    "customEmojiId": "5262843042351577914"
+    "customEmojiId": "5262843042351577914",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/liquid-lime.svg",
+      "tgs": "gifts/lolpop/assets/models/liquid-lime.tgs"
+    }
   },
   {
     "name": "Plastic Ice",
-    "customEmojiId": "5262670565054898795"
+    "customEmojiId": "5262670565054898795",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/plastic-ice.svg",
+      "tgs": "gifts/lolpop/assets/models/plastic-ice.tgs"
+    }
   },
   {
     "name": "Portable Pop",
-    "customEmojiId": "5264987970494031811"
+    "customEmojiId": "5264987970494031811",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/portable-pop.svg",
+      "tgs": "gifts/lolpop/assets/models/portable-pop.tgs"
+    }
   },
   {
     "name": "Pink Foil",
-    "customEmojiId": "5264757304980431294"
+    "customEmojiId": "5264757304980431294",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/pink-foil.svg",
+      "tgs": "gifts/lolpop/assets/models/pink-foil.tgs"
+    }
   },
   {
     "name": "Soap Bubbles",
-    "customEmojiId": "5262987808519251195"
+    "customEmojiId": "5262987808519251195",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/soap-bubbles.svg",
+      "tgs": "gifts/lolpop/assets/models/soap-bubbles.tgs"
+    }
   },
   {
     "name": "Jinxed",
-    "customEmojiId": "5262916177054689123"
+    "customEmojiId": "5262916177054689123",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/jinxed.svg",
+      "tgs": "gifts/lolpop/assets/models/jinxed.tgs"
+    }
   },
   {
     "name": "Magic Wand",
-    "customEmojiId": "5262958246259353111"
+    "customEmojiId": "5262958246259353111",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/magic-wand.svg",
+      "tgs": "gifts/lolpop/assets/models/magic-wand.tgs"
+    }
   },
   {
     "name": "Nostalgia",
-    "customEmojiId": "5262560008301734703"
+    "customEmojiId": "5262560008301734703",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/nostalgia.svg",
+      "tgs": "gifts/lolpop/assets/models/nostalgia.tgs"
+    }
   },
   {
     "name": "Hollywood",
-    "customEmojiId": "5262850580019178872"
+    "customEmojiId": "5262850580019178872",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/hollywood.svg",
+      "tgs": "gifts/lolpop/assets/models/hollywood.tgs"
+    }
   },
   {
     "name": "Shock Wave",
-    "customEmojiId": "5262862000337218926"
+    "customEmojiId": "5262862000337218926",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/shock-wave.svg",
+      "tgs": "gifts/lolpop/assets/models/shock-wave.tgs"
+    }
   },
   {
     "name": "Heart Pop",
-    "customEmojiId": "5262896480334670138"
+    "customEmojiId": "5262896480334670138",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/heart-pop.svg",
+      "tgs": "gifts/lolpop/assets/models/heart-pop.tgs"
+    }
   },
   {
     "name": "Blue Goo",
-    "customEmojiId": "5262676178577157719"
+    "customEmojiId": "5262676178577157719",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/blue-goo.svg",
+      "tgs": "gifts/lolpop/assets/models/blue-goo.tgs"
+    }
   },
   {
     "name": "Rising Star",
-    "customEmojiId": "5262816203100940244"
+    "customEmojiId": "5262816203100940244",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/rising-star.svg",
+      "tgs": "gifts/lolpop/assets/models/rising-star.tgs"
+    }
   },
   {
     "name": "Blood Ember",
-    "customEmojiId": "5263003734257986627"
+    "customEmojiId": "5263003734257986627",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/blood-ember.svg",
+      "tgs": "gifts/lolpop/assets/models/blood-ember.tgs"
+    }
   },
   {
     "name": "Crystal Comet",
-    "customEmojiId": "5262871883056966961"
+    "customEmojiId": "5262871883056966961",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/crystal-comet.svg",
+      "tgs": "gifts/lolpop/assets/models/crystal-comet.tgs"
+    }
   },
   {
     "name": "Cosmic Green",
-    "customEmojiId": "5262751173001112062"
+    "customEmojiId": "5262751173001112062",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cosmic-green.svg",
+      "tgs": "gifts/lolpop/assets/models/cosmic-green.tgs"
+    }
   },
   {
     "name": "Gold Star",
-    "customEmojiId": "5262861162818595892"
+    "customEmojiId": "5262861162818595892",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/gold-star.svg",
+      "tgs": "gifts/lolpop/assets/models/gold-star.tgs"
+    }
   },
   {
     "name": "Icy Touch",
-    "customEmojiId": "5262507145844255634"
+    "customEmojiId": "5262507145844255634",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/icy-touch.svg",
+      "tgs": "gifts/lolpop/assets/models/icy-touch.tgs"
+    }
   },
   {
     "name": "Red Shift",
-    "customEmojiId": "5263016129533602885"
+    "customEmojiId": "5263016129533602885",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/red-shift.svg",
+      "tgs": "gifts/lolpop/assets/models/red-shift.tgs"
+    }
   },
   {
     "name": "Romance",
-    "customEmojiId": "5262551787734329813"
+    "customEmojiId": "5262551787734329813",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/romance.svg",
+      "tgs": "gifts/lolpop/assets/models/romance.tgs"
+    }
   },
   {
     "name": "Sailor Moon",
-    "customEmojiId": "5264739854528307597"
+    "customEmojiId": "5264739854528307597",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/sailor-moon.svg",
+      "tgs": "gifts/lolpop/assets/models/sailor-moon.tgs"
+    }
   },
   {
     "name": "Lagoon",
-    "customEmojiId": "5262803747695780383"
+    "customEmojiId": "5262803747695780383",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/lagoon.svg",
+      "tgs": "gifts/lolpop/assets/models/lagoon.tgs"
+    }
   },
   {
     "name": "Love Bubbles",
-    "customEmojiId": "5265118829557605455"
+    "customEmojiId": "5265118829557605455",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/love-bubbles.svg",
+      "tgs": "gifts/lolpop/assets/models/love-bubbles.tgs"
+    }
   },
   {
     "name": "Dark Portal",
-    "customEmojiId": "5262752220973133388"
+    "customEmojiId": "5262752220973133388",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/dark-portal.svg",
+      "tgs": "gifts/lolpop/assets/models/dark-portal.tgs"
+    }
   },
   {
     "name": "Hexed Helix",
-    "customEmojiId": "5265077765375286666"
+    "customEmojiId": "5265077765375286666",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/hexed-helix.svg",
+      "tgs": "gifts/lolpop/assets/models/hexed-helix.tgs"
+    }
   },
   {
     "name": "Fire Vortex",
-    "customEmojiId": "5262499024061096759"
+    "customEmojiId": "5262499024061096759",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/fire-vortex.svg",
+      "tgs": "gifts/lolpop/assets/models/fire-vortex.tgs"
+    }
   },
   {
     "name": "Golden Amber",
-    "customEmojiId": "5262494827878049639"
+    "customEmojiId": "5262494827878049639",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/golden-amber.svg",
+      "tgs": "gifts/lolpop/assets/models/golden-amber.tgs"
+    }
   },
   {
     "name": "Wonka Berry",
-    "customEmojiId": "5262750889533271421"
+    "customEmojiId": "5262750889533271421",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/wonka-berry.svg",
+      "tgs": "gifts/lolpop/assets/models/wonka-berry.tgs"
+    }
   },
   {
     "name": "Crystalline",
-    "customEmojiId": "5262504019108066632"
+    "customEmojiId": "5262504019108066632",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/crystalline.svg",
+      "tgs": "gifts/lolpop/assets/models/crystalline.tgs"
+    }
   },
   {
     "name": "Mandarin",
-    "customEmojiId": "5262782397413354032"
+    "customEmojiId": "5262782397413354032",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/mandarin.svg",
+      "tgs": "gifts/lolpop/assets/models/mandarin.tgs"
+    }
   },
   {
     "name": "Citrone",
-    "customEmojiId": "5262991734119361117"
+    "customEmojiId": "5262991734119361117",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/citrone.svg",
+      "tgs": "gifts/lolpop/assets/models/citrone.tgs"
+    }
   },
   {
     "name": "Mirage",
-    "customEmojiId": "5262611848556995734"
+    "customEmojiId": "5262611848556995734",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/mirage.svg",
+      "tgs": "gifts/lolpop/assets/models/mirage.tgs"
+    }
   },
   {
     "name": "Lychee Mint",
-    "customEmojiId": "5262639237563445180"
+    "customEmojiId": "5262639237563445180",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/lychee-mint.svg",
+      "tgs": "gifts/lolpop/assets/models/lychee-mint.tgs"
+    }
   },
   {
     "name": "Bitter Lemon",
-    "customEmojiId": "5262501850149580074"
+    "customEmojiId": "5262501850149580074",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/bitter-lemon.svg",
+      "tgs": "gifts/lolpop/assets/models/bitter-lemon.tgs"
+    }
   },
   {
     "name": "Pineapple",
-    "customEmojiId": "5262866488578039895"
+    "customEmojiId": "5262866488578039895",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/pineapple.svg",
+      "tgs": "gifts/lolpop/assets/models/pineapple.tgs"
+    }
   },
   {
     "name": "Spearmint",
-    "customEmojiId": "5262599294367590567"
+    "customEmojiId": "5262599294367590567",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/spearmint.svg",
+      "tgs": "gifts/lolpop/assets/models/spearmint.tgs"
+    }
   },
   {
     "name": "Red Grape",
-    "customEmojiId": "5262864573022626796"
+    "customEmojiId": "5262864573022626796",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/red-grape.svg",
+      "tgs": "gifts/lolpop/assets/models/red-grape.tgs"
+    }
   },
   {
     "name": "Plum Candy",
-    "customEmojiId": "5265023309484942338"
+    "customEmojiId": "5265023309484942338",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/plum-candy.svg",
+      "tgs": "gifts/lolpop/assets/models/plum-candy.tgs"
+    }
   },
   {
     "name": "Cappuccino",
-    "customEmojiId": "5262706488161364869"
+    "customEmojiId": "5262706488161364869",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cappuccino.svg",
+      "tgs": "gifts/lolpop/assets/models/cappuccino.tgs"
+    }
   },
   {
     "name": "Grape Gin",
-    "customEmojiId": "5265234866689039779"
+    "customEmojiId": "5265234866689039779",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/grape-gin.svg",
+      "tgs": "gifts/lolpop/assets/models/grape-gin.tgs"
+    }
   },
   {
     "name": "Tsunami",
-    "customEmojiId": "5262579726496591573"
+    "customEmojiId": "5262579726496591573",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/tsunami.svg",
+      "tgs": "gifts/lolpop/assets/models/tsunami.tgs"
+    }
   },
   {
     "name": "Gobstopper",
-    "customEmojiId": "5265127535456317012"
+    "customEmojiId": "5265127535456317012",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/gobstopper.svg",
+      "tgs": "gifts/lolpop/assets/models/gobstopper.tgs"
+    }
   },
   {
     "name": "Old Liqueur",
-    "customEmojiId": "5262859414766906654"
+    "customEmojiId": "5262859414766906654",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/old-liqueur.svg",
+      "tgs": "gifts/lolpop/assets/models/old-liqueur.tgs"
+    }
   },
   {
     "name": "Holidaze",
-    "customEmojiId": "5262666682404466393"
+    "customEmojiId": "5262666682404466393",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/holidaze.svg",
+      "tgs": "gifts/lolpop/assets/models/holidaze.tgs"
+    }
   },
   {
     "name": "Cotton Candy",
-    "customEmojiId": "5262526980003229189"
+    "customEmojiId": "5262526980003229189",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cotton-candy.svg",
+      "tgs": "gifts/lolpop/assets/models/cotton-candy.tgs"
+    }
   },
   {
     "name": "Refresh",
-    "customEmojiId": "5262848578564420802"
+    "customEmojiId": "5262848578564420802",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/refresh.svg",
+      "tgs": "gifts/lolpop/assets/models/refresh.tgs"
+    }
   },
   {
     "name": "Vanilla Swirl",
-    "customEmojiId": "5262783346601130690"
+    "customEmojiId": "5262783346601130690",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/vanilla-swirl.svg",
+      "tgs": "gifts/lolpop/assets/models/vanilla-swirl.tgs"
+    }
   },
   {
     "name": "Pina Colada",
-    "customEmojiId": "5262881499488741199"
+    "customEmojiId": "5262881499488741199",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/pina-colada.svg",
+      "tgs": "gifts/lolpop/assets/models/pina-colada.tgs"
+    }
   },
   {
     "name": "Spicy Tequila",
-    "customEmojiId": "5265094730496106249"
+    "customEmojiId": "5265094730496106249",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/spicy-tequila.svg",
+      "tgs": "gifts/lolpop/assets/models/spicy-tequila.tgs"
+    }
   },
   {
     "name": "Dark Delight",
-    "customEmojiId": "5264832771850791150"
+    "customEmojiId": "5264832771850791150",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/dark-delight.svg",
+      "tgs": "gifts/lolpop/assets/models/dark-delight.tgs"
+    }
   },
   {
     "name": "Melon Spin",
-    "customEmojiId": "5262709670732131406"
+    "customEmojiId": "5262709670732131406",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/melon-spin.svg",
+      "tgs": "gifts/lolpop/assets/models/melon-spin.tgs"
+    }
   },
   {
     "name": "Lavender Ice",
-    "customEmojiId": "5262686434959061702"
+    "customEmojiId": "5262686434959061702",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/lavender-ice.svg",
+      "tgs": "gifts/lolpop/assets/models/lavender-ice.tgs"
+    }
   },
   {
     "name": "Choco Pop",
-    "customEmojiId": "5264721785600894591"
+    "customEmojiId": "5264721785600894591",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/choco-pop.svg",
+      "tgs": "gifts/lolpop/assets/models/choco-pop.tgs"
+    }
   },
   {
     "name": "Sweet Yogurt",
-    "customEmojiId": "5262775259177707644"
+    "customEmojiId": "5262775259177707644",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/sweet-yogurt.svg",
+      "tgs": "gifts/lolpop/assets/models/sweet-yogurt.tgs"
+    }
   },
   {
     "name": "Prisma",
-    "customEmojiId": "5263003180207205016"
+    "customEmojiId": "5263003180207205016",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/prisma.svg",
+      "tgs": "gifts/lolpop/assets/models/prisma.tgs"
+    }
   },
   {
     "name": "Sugar Free",
-    "customEmojiId": "5262902119626727664"
+    "customEmojiId": "5262902119626727664",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/sugar-free.svg",
+      "tgs": "gifts/lolpop/assets/models/sugar-free.tgs"
+    }
   },
   {
     "name": "Choco Mint",
-    "customEmojiId": "5263018852542869735"
+    "customEmojiId": "5263018852542869735",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/choco-mint.svg",
+      "tgs": "gifts/lolpop/assets/models/choco-mint.tgs"
+    }
   },
   {
     "name": "Delusion",
-    "customEmojiId": "5262913093268170059"
+    "customEmojiId": "5262913093268170059",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/delusion.svg",
+      "tgs": "gifts/lolpop/assets/models/delusion.tgs"
+    }
   },
   {
     "name": "Cherry Berry",
-    "customEmojiId": "5262992425609097280"
+    "customEmojiId": "5262992425609097280",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cherry-berry.svg",
+      "tgs": "gifts/lolpop/assets/models/cherry-berry.tgs"
+    }
   },
   {
     "name": "Milkshake",
-    "customEmojiId": "5262960745930319560"
+    "customEmojiId": "5262960745930319560",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/milkshake.svg",
+      "tgs": "gifts/lolpop/assets/models/milkshake.tgs"
+    }
   },
   {
     "name": "Vanilla Jam",
-    "customEmojiId": "5262830440917527414"
+    "customEmojiId": "5262830440917527414",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/vanilla-jam.svg",
+      "tgs": "gifts/lolpop/assets/models/vanilla-jam.tgs"
+    }
   },
   {
     "name": "Honey Bee",
-    "customEmojiId": "5262682625323068574"
+    "customEmojiId": "5262682625323068574",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/honey-bee.svg",
+      "tgs": "gifts/lolpop/assets/models/honey-bee.tgs"
+    }
   },
   {
     "name": "Sunset Blue",
-    "customEmojiId": "5262859393292071327"
+    "customEmojiId": "5262859393292071327",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/sunset-blue.svg",
+      "tgs": "gifts/lolpop/assets/models/sunset-blue.tgs"
+    }
   },
   {
     "name": "Iced Latte",
-    "customEmojiId": "5262495244489883057"
+    "customEmojiId": "5262495244489883057",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/iced-latte.svg",
+      "tgs": "gifts/lolpop/assets/models/iced-latte.tgs"
+    }
   },
   {
     "name": "Blueberry Pie",
-    "customEmojiId": "5262767798819516242"
+    "customEmojiId": "5262767798819516242",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/blueberry-pie.svg",
+      "tgs": "gifts/lolpop/assets/models/blueberry-pie.tgs"
+    }
   },
   {
     "name": "Caramel",
-    "customEmojiId": "5264887283575709587"
+    "customEmojiId": "5264887283575709587",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/caramel.svg",
+      "tgs": "gifts/lolpop/assets/models/caramel.tgs"
+    }
   },
   {
     "name": "Orangery",
-    "customEmojiId": "5262526876924013147"
+    "customEmojiId": "5262526876924013147",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/orangery.svg",
+      "tgs": "gifts/lolpop/assets/models/orangery.tgs"
+    }
   },
   {
     "name": "Cucumber",
-    "customEmojiId": "5262811199464040488"
+    "customEmojiId": "5262811199464040488",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cucumber.svg",
+      "tgs": "gifts/lolpop/assets/models/cucumber.tgs"
+    }
   },
   {
     "name": "Rose Wine",
-    "customEmojiId": "5262561687633947069"
+    "customEmojiId": "5262561687633947069",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/rose-wine.svg",
+      "tgs": "gifts/lolpop/assets/models/rose-wine.tgs"
+    }
   },
   {
     "name": "Mint Lemon",
-    "customEmojiId": "5262829796672434170"
+    "customEmojiId": "5262829796672434170",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/mint-lemon.svg",
+      "tgs": "gifts/lolpop/assets/models/mint-lemon.tgs"
+    }
   },
   {
     "name": "Pumpkin Latte",
-    "customEmojiId": "5264729400577909562"
+    "customEmojiId": "5264729400577909562",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/pumpkin-latte.svg",
+      "tgs": "gifts/lolpop/assets/models/pumpkin-latte.tgs"
+    }
   },
   {
     "name": "Blender",
-    "customEmojiId": "5262639344937625258"
+    "customEmojiId": "5262639344937625258",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/blender.svg",
+      "tgs": "gifts/lolpop/assets/models/blender.tgs"
+    }
   },
   {
     "name": "Spectrum",
-    "customEmojiId": "5262906315809776582"
+    "customEmojiId": "5262906315809776582",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/spectrum.svg",
+      "tgs": "gifts/lolpop/assets/models/spectrum.tgs"
+    }
   },
   {
     "name": "Cherry Milk",
-    "customEmojiId": "5262598285050276065"
+    "customEmojiId": "5262598285050276065",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cherry-milk.svg",
+      "tgs": "gifts/lolpop/assets/models/cherry-milk.tgs"
+    }
   },
   {
     "name": "Cherry Cola",
-    "customEmojiId": "5262679399802626957"
+    "customEmojiId": "5262679399802626957",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/cherry-cola.svg",
+      "tgs": "gifts/lolpop/assets/models/cherry-cola.tgs"
+    }
   },
   {
     "name": "Mandarin Ice",
-    "customEmojiId": "5262804018278719808"
+    "customEmojiId": "5262804018278719808",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/mandarin-ice.svg",
+      "tgs": "gifts/lolpop/assets/models/mandarin-ice.tgs"
+    }
   },
   {
     "name": "Bubblegum",
-    "customEmojiId": "5262981378953210289"
+    "customEmojiId": "5262981378953210289",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/bubblegum.svg",
+      "tgs": "gifts/lolpop/assets/models/bubblegum.tgs"
+    }
   },
   {
     "name": "Rainbow Dash",
-    "customEmojiId": "5262530059494781359"
+    "customEmojiId": "5262530059494781359",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/rainbow-dash.svg",
+      "tgs": "gifts/lolpop/assets/models/rainbow-dash.tgs"
+    }
   },
   {
     "name": "Wild Mango",
-    "customEmojiId": "5265031392613391182"
+    "customEmojiId": "5265031392613391182",
+    "assets": {
+      "svg": "gifts/lolpop/assets/models/wild-mango.svg",
+      "tgs": "gifts/lolpop/assets/models/wild-mango.tgs"
+    }
   }
 ] satisfies readonly GiftModel[];
 
 export const patterns = [
   {
     "name": "Bee",
-    "customEmojiId": "5199604974677428405"
+    "customEmojiId": "5199604974677428405",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bee.png"
+    }
   },
   {
     "name": "Origami",
-    "customEmojiId": "5199778723284421527"
+    "customEmojiId": "5199778723284421527",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/origami.png"
+    }
   },
   {
     "name": "Light Bulb",
-    "customEmojiId": "5199494031377208082"
+    "customEmojiId": "5199494031377208082",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/light-bulb.png"
+    }
   },
   {
     "name": "Anchor",
-    "customEmojiId": "5199524130508019696"
+    "customEmojiId": "5199524130508019696",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/anchor.png"
+    }
   },
   {
     "name": "Greek Sun",
-    "customEmojiId": "5199681906131637748"
+    "customEmojiId": "5199681906131637748",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/greek-sun.png"
+    }
   },
   {
     "name": "Tooth",
-    "customEmojiId": "5199462351698429183"
+    "customEmojiId": "5199462351698429183",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/tooth.png"
+    }
   },
   {
     "name": "Galaxy",
-    "customEmojiId": "5199493898233219049"
+    "customEmojiId": "5199493898233219049",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/galaxy.png"
+    }
   },
   {
     "name": "Onigiri",
-    "customEmojiId": "5199752717257444302"
+    "customEmojiId": "5199752717257444302",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/onigiri.png"
+    }
   },
   {
     "name": "Golden Scarab",
-    "customEmojiId": "5199515630767736867"
+    "customEmojiId": "5199515630767736867",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/golden-scarab.png"
+    }
   },
   {
     "name": "Takoyaki",
-    "customEmojiId": "5199446662182899439"
+    "customEmojiId": "5199446662182899439",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/takoyaki.png"
+    }
   },
   {
     "name": "Crescent",
-    "customEmojiId": "5199777439089200573"
+    "customEmojiId": "5199777439089200573",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/crescent.png"
+    }
   },
   {
     "name": "Maple",
-    "customEmojiId": "5199893351666582880"
+    "customEmojiId": "5199893351666582880",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/maple.png"
+    }
   },
   {
     "name": "Flower Sun",
-    "customEmojiId": "5199422558826431486"
+    "customEmojiId": "5199422558826431486",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/flower-sun.png"
+    }
   },
   {
     "name": "Two Katanas",
-    "customEmojiId": "5199814255548864362"
+    "customEmojiId": "5199814255548864362",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/two-katanas.png"
+    }
   },
   {
     "name": "Handset",
-    "customEmojiId": "5199548491562517801"
+    "customEmojiId": "5199548491562517801",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/handset.png"
+    }
   },
   {
     "name": "Shooting Star",
-    "customEmojiId": "5199756398044416521"
+    "customEmojiId": "5199756398044416521",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/shooting-star.png"
+    }
   },
   {
     "name": "Cursor",
-    "customEmojiId": "5199454088181354831"
+    "customEmojiId": "5199454088181354831",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cursor.png"
+    }
   },
   {
     "name": "Ring",
-    "customEmojiId": "5199821179036142060"
+    "customEmojiId": "5199821179036142060",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ring.png"
+    }
   },
   {
     "name": "Pawn",
-    "customEmojiId": "5199596131339765368"
+    "customEmojiId": "5199596131339765368",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pawn.png"
+    }
   },
   {
     "name": "Jörmungandr",
-    "customEmojiId": "5199764777525611986"
+    "customEmojiId": "5199764777525611986",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/jormungandr.png"
+    }
   },
   {
     "name": "Alert Serpent",
-    "customEmojiId": "5199488392085146030"
+    "customEmojiId": "5199488392085146030",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/alert-serpent.png"
+    }
   },
   {
     "name": "Lion King",
-    "customEmojiId": "5199514870558527530"
+    "customEmojiId": "5199514870558527530",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/lion-king.png"
+    }
   },
   {
     "name": "Teru Bōzu",
-    "customEmojiId": "5199948172629150385"
+    "customEmojiId": "5199948172629150385",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/teru-bozu.png"
+    }
   },
   {
     "name": "Watching Sun",
-    "customEmojiId": "5199594327453501292"
+    "customEmojiId": "5199594327453501292",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/watching-sun.png"
+    }
   },
   {
     "name": "Melon",
-    "customEmojiId": "5199664507219118426"
+    "customEmojiId": "5199664507219118426",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/melon.png"
+    }
   },
   {
     "name": "Gold",
-    "customEmojiId": "5199529048245569871"
+    "customEmojiId": "5199529048245569871",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/gold.png"
+    }
   },
   {
     "name": "Leaf",
-    "customEmojiId": "5199589658824052117"
+    "customEmojiId": "5199589658824052117",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/leaf.png"
+    }
   },
   {
     "name": "Sakura",
-    "customEmojiId": "5199856934638878837"
+    "customEmojiId": "5199856934638878837",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sakura.png"
+    }
   },
   {
     "name": "Aztec Totem",
-    "customEmojiId": "5199726925978831254"
+    "customEmojiId": "5199726925978831254",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/aztec-totem.png"
+    }
   },
   {
     "name": "Lily",
-    "customEmojiId": "5199594718295526169"
+    "customEmojiId": "5199594718295526169",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/lily.png"
+    }
   },
   {
     "name": "Sun Lion",
-    "customEmojiId": "5199909337534861617"
+    "customEmojiId": "5199909337534861617",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sun-lion.png"
+    }
   },
   {
     "name": "Cobra",
-    "customEmojiId": "5199726195834392948"
+    "customEmojiId": "5199726195834392948",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cobra.png"
+    }
   },
   {
     "name": "Seahorse",
-    "customEmojiId": "5199707001625546696"
+    "customEmojiId": "5199707001625546696",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/seahorse.png"
+    }
   },
   {
     "name": "Gift Box",
-    "customEmojiId": "5199854971838826197"
+    "customEmojiId": "5199854971838826197",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/gift-box.png"
+    }
   },
   {
     "name": "Pumpkin Coach",
-    "customEmojiId": "5199890607182480707"
+    "customEmojiId": "5199890607182480707",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pumpkin-coach.png"
+    }
   },
   {
     "name": "Unicorn Head",
-    "customEmojiId": "5199885517646234797"
+    "customEmojiId": "5199885517646234797",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/unicorn-head.png"
+    }
   },
   {
     "name": "Shuriken",
-    "customEmojiId": "5199657373278441561"
+    "customEmojiId": "5199657373278441561",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/shuriken.png"
+    }
   },
   {
     "name": "UFO",
-    "customEmojiId": "5199788069133256359"
+    "customEmojiId": "5199788069133256359",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ufo.png"
+    }
   },
   {
     "name": "Corn",
-    "customEmojiId": "5199836340270695549"
+    "customEmojiId": "5199836340270695549",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/corn.png"
+    }
   },
   {
     "name": "Horn",
-    "customEmojiId": "5199723906616821437"
+    "customEmojiId": "5199723906616821437",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/horn.png"
+    }
   },
   {
     "name": "Pearl",
-    "customEmojiId": "5199540305354854917"
+    "customEmojiId": "5199540305354854917",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pearl.png"
+    }
   },
   {
     "name": "Heater Shield",
-    "customEmojiId": "5199906721899780489"
+    "customEmojiId": "5199906721899780489",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/heater-shield.png"
+    }
   },
   {
     "name": "Jellyfish",
-    "customEmojiId": "5199463842052082744"
+    "customEmojiId": "5199463842052082744",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/jellyfish.png"
+    }
   },
   {
     "name": "Unicorn",
-    "customEmojiId": "5199548367008467469"
+    "customEmojiId": "5199548367008467469",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/unicorn.png"
+    }
   },
   {
     "name": "Spider Web",
-    "customEmojiId": "5201766709026913537"
+    "customEmojiId": "5201766709026913537",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/spider-web.png"
+    }
   },
   {
     "name": "Hammerhead",
-    "customEmojiId": "5199846888710377808"
+    "customEmojiId": "5199846888710377808",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/hammerhead.png"
+    }
   },
   {
     "name": "Moon Cross",
-    "customEmojiId": "5199926568943652086"
+    "customEmojiId": "5199926568943652086",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/moon-cross.png"
+    }
   },
   {
     "name": "Coat of Arms",
-    "customEmojiId": "5199543926012283083"
+    "customEmojiId": "5199543926012283083",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/coat-of-arms.png"
+    }
   },
   {
     "name": "Aztec Falcon",
-    "customEmojiId": "5199675880292517991"
+    "customEmojiId": "5199675880292517991",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/aztec-falcon.png"
+    }
   },
   {
     "name": "Planet",
-    "customEmojiId": "5199952033804749816"
+    "customEmojiId": "5199952033804749816",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/planet.png"
+    }
   },
   {
     "name": "Turkey",
-    "customEmojiId": "5199906644590363463"
+    "customEmojiId": "5199906644590363463",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/turkey.png"
+    }
   },
   {
     "name": "Greek Helmet",
-    "customEmojiId": "5199497274077514887"
+    "customEmojiId": "5199497274077514887",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/greek-helmet.png"
+    }
   },
   {
     "name": "Ribeye Steak",
-    "customEmojiId": "5199881892693838705"
+    "customEmojiId": "5199881892693838705",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ribeye-steak.png"
+    }
   },
   {
     "name": "Inca Sun",
-    "customEmojiId": "5199572075227940967"
+    "customEmojiId": "5199572075227940967",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/inca-sun.png"
+    }
   },
   {
     "name": "Anubis",
-    "customEmojiId": "5199800163761162785"
+    "customEmojiId": "5199800163761162785",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/anubis.png"
+    }
   },
   {
     "name": "Pineapple",
-    "customEmojiId": "5199590977379009936"
+    "customEmojiId": "5199590977379009936",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pineapple.png"
+    }
   },
   {
     "name": "Holy Grail",
-    "customEmojiId": "5199865060717016269"
+    "customEmojiId": "5199865060717016269",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/holy-grail.png"
+    }
   },
   {
     "name": "Thief",
-    "customEmojiId": "5199501362886377899"
+    "customEmojiId": "5199501362886377899",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/thief.png"
+    }
   },
   {
     "name": "Cactus",
-    "customEmojiId": "5199664352600297564"
+    "customEmojiId": "5199664352600297564",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cactus.png"
+    }
   },
   {
     "name": "Crab",
-    "customEmojiId": "5199541684039353419"
+    "customEmojiId": "5199541684039353419",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/crab.png"
+    }
   },
   {
     "name": "Hippo",
-    "customEmojiId": "5199545558099857226"
+    "customEmojiId": "5199545558099857226",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/hippo.png"
+    }
   },
   {
     "name": "Flashlight",
-    "customEmojiId": "5199659250179147232"
+    "customEmojiId": "5199659250179147232",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/flashlight.png"
+    }
   },
   {
     "name": "Beer",
-    "customEmojiId": "5199920405665583833"
+    "customEmojiId": "5199920405665583833",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/beer.png"
+    }
   },
   {
     "name": "Lotus Flower",
-    "customEmojiId": "5199764283604373260"
+    "customEmojiId": "5199764283604373260",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/lotus-flower.png"
+    }
   },
   {
     "name": "Carrot",
-    "customEmojiId": "5199942498977352363"
+    "customEmojiId": "5199942498977352363",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/carrot.png"
+    }
   },
   {
     "name": "Bottlenose",
-    "customEmojiId": "5199797414982094107"
+    "customEmojiId": "5199797414982094107",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bottlenose.png"
+    }
   },
   {
     "name": "Cone",
-    "customEmojiId": "5199449329357589107"
+    "customEmojiId": "5199449329357589107",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cone.png"
+    }
   },
   {
     "name": "Yogi Shaman",
-    "customEmojiId": "5199445571261203846"
+    "customEmojiId": "5199445571261203846",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/yogi-shaman.png"
+    }
   },
   {
     "name": "Nemean Lion",
-    "customEmojiId": "5199957797650858913"
+    "customEmojiId": "5199957797650858913",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/nemean-lion.png"
+    }
   },
   {
     "name": "Inguz Rune",
-    "customEmojiId": "5199780557235455952"
+    "customEmojiId": "5199780557235455952",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/inguz-rune.png"
+    }
   },
   {
     "name": "Eikthyrnir",
-    "customEmojiId": "5199875514667404240"
+    "customEmojiId": "5199875514667404240",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/eikthyrnir.png"
+    }
   },
   {
     "name": "Mustang",
-    "customEmojiId": "5199436757988311690"
+    "customEmojiId": "5199436757988311690",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/mustang.png"
+    }
   },
   {
     "name": "Illuminati",
-    "customEmojiId": "5199959970904312871"
+    "customEmojiId": "5199959970904312871",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/illuminati.png"
+    }
   },
   {
     "name": "Fishing Hook",
-    "customEmojiId": "5199562218277996516"
+    "customEmojiId": "5199562218277996516",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/fishing-hook.png"
+    }
   },
   {
     "name": "Love Lock",
-    "customEmojiId": "5199543157213139030"
+    "customEmojiId": "5199543157213139030",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/love-lock.png"
+    }
   },
   {
     "name": "Imperial Lion",
-    "customEmojiId": "5199687841776437832"
+    "customEmojiId": "5199687841776437832",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/imperial-lion.png"
+    }
   },
   {
     "name": "Glasses",
-    "customEmojiId": "5199843323887519152"
+    "customEmojiId": "5199843323887519152",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/glasses.png"
+    }
   },
   {
     "name": "Cheese",
-    "customEmojiId": "5199949985105348813"
+    "customEmojiId": "5199949985105348813",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cheese.png"
+    }
   },
   {
     "name": "Tetsubin",
-    "customEmojiId": "5199641735302519273"
+    "customEmojiId": "5199641735302519273",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/tetsubin.png"
+    }
   },
   {
     "name": "Coin Purse",
-    "customEmojiId": "5199421974710879091"
+    "customEmojiId": "5199421974710879091",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/coin-purse.png"
+    }
   },
   {
     "name": "Sea Dragon",
-    "customEmojiId": "5201953540104291279"
+    "customEmojiId": "5201953540104291279",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sea-dragon.png"
+    }
   },
   {
     "name": "Legionary",
-    "customEmojiId": "5199428202413461386"
+    "customEmojiId": "5199428202413461386",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/legionary.png"
+    }
   },
   {
     "name": "Nigiri",
-    "customEmojiId": "5199706554948942813"
+    "customEmojiId": "5199706554948942813",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/nigiri.png"
+    }
   },
   {
     "name": "Lightning",
-    "customEmojiId": "5202201454206549813"
+    "customEmojiId": "5202201454206549813",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/lightning.png"
+    }
   },
   {
     "name": "Full Moon",
-    "customEmojiId": "5199549311901275297"
+    "customEmojiId": "5199549311901275297",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/full-moon.png"
+    }
   },
   {
     "name": "Bone",
-    "customEmojiId": "5199640352323047571"
+    "customEmojiId": "5199640352323047571",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bone.png"
+    }
   },
   {
     "name": "Blood Drop",
-    "customEmojiId": "5199450016552355691"
+    "customEmojiId": "5199450016552355691",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/blood-drop.png"
+    }
   },
   {
     "name": "War Tiger",
-    "customEmojiId": "5199588829895364674"
+    "customEmojiId": "5199588829895364674",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/war-tiger.png"
+    }
   },
   {
     "name": "Arcane Mirror",
-    "customEmojiId": "5199560770874018874"
+    "customEmojiId": "5199560770874018874",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/arcane-mirror.png"
+    }
   },
   {
     "name": "Evil Dragon",
-    "customEmojiId": "5199535271653181454"
+    "customEmojiId": "5199535271653181454",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/evil-dragon.png"
+    }
   },
   {
     "name": "Rocket",
-    "customEmojiId": "5199857192336916692"
+    "customEmojiId": "5199857192336916692",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/rocket.png"
+    }
   },
   {
     "name": "Pear",
-    "customEmojiId": "5199711558585845500"
+    "customEmojiId": "5199711558585845500",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pear.png"
+    }
   },
   {
     "name": "Shell",
-    "customEmojiId": "5199502470987945576"
+    "customEmojiId": "5199502470987945576",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/shell.png"
+    }
   },
   {
     "name": "Earth",
-    "customEmojiId": "5199963814900042040"
+    "customEmojiId": "5199963814900042040",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/earth.png"
+    }
   },
   {
     "name": "Feather",
-    "customEmojiId": "5199561191780815148"
+    "customEmojiId": "5199561191780815148",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/feather.png"
+    }
   },
   {
     "name": "Gingerbread",
-    "customEmojiId": "5199945376605439444"
+    "customEmojiId": "5199945376605439444",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/gingerbread.png"
+    }
   },
   {
     "name": "Jolly Roger",
-    "customEmojiId": "5199466333133113018"
+    "customEmojiId": "5199466333133113018",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/jolly-roger.png"
+    }
   },
   {
     "name": "Iron Helmet",
-    "customEmojiId": "5199857089257702611"
+    "customEmojiId": "5199857089257702611",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/iron-helmet.png"
+    }
   },
   {
     "name": "Brain",
-    "customEmojiId": "5199813422325207751"
+    "customEmojiId": "5199813422325207751",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/brain.png"
+    }
   },
   {
     "name": "Viper",
-    "customEmojiId": "5199937503930385823"
+    "customEmojiId": "5199937503930385823",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/viper.png"
+    }
   },
   {
     "name": "Kitsune",
-    "customEmojiId": "5199625959887635892"
+    "customEmojiId": "5199625959887635892",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/kitsune.png"
+    }
   },
   {
     "name": "Trickster Fox",
-    "customEmojiId": "5199707800489464034"
+    "customEmojiId": "5199707800489464034",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/trickster-fox.png"
+    }
   },
   {
     "name": "Wise Raven",
-    "customEmojiId": "5199774827749083086"
+    "customEmojiId": "5199774827749083086",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/wise-raven.png"
+    }
   },
   {
     "name": "Money Bag",
-    "customEmojiId": "5199426943988044271"
+    "customEmojiId": "5199426943988044271",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/money-bag.png"
+    }
   },
   {
     "name": "Rose",
-    "customEmojiId": "5199847348271877856"
+    "customEmojiId": "5199847348271877856",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/rose.png"
+    }
   },
   {
     "name": "Octopus",
-    "customEmojiId": "5199415742713335939"
+    "customEmojiId": "5199415742713335939",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/octopus.png"
+    }
   },
   {
     "name": "Wasp",
-    "customEmojiId": "5199841038964917820"
+    "customEmojiId": "5199841038964917820",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/wasp.png"
+    }
   },
   {
     "name": "Mask",
-    "customEmojiId": "5199413122783298258"
+    "customEmojiId": "5199413122783298258",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/mask.png"
+    }
   },
   {
     "name": "Hourglass",
-    "customEmojiId": "5199866430811571603"
+    "customEmojiId": "5199866430811571603",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/hourglass.png"
+    }
   },
   {
     "name": "Egg",
-    "customEmojiId": "5199786226592283587"
+    "customEmojiId": "5199786226592283587",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/egg.png"
+    }
   },
   {
     "name": "Tsunami",
-    "customEmojiId": "5199500714346319781"
+    "customEmojiId": "5199500714346319781",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/tsunami.png"
+    }
   },
   {
     "name": "Sea Jelly",
-    "customEmojiId": "5199917369123703634"
+    "customEmojiId": "5199917369123703634",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sea-jelly.png"
+    }
   },
   {
     "name": "Piggy Bank",
-    "customEmojiId": "5199476082708878264"
+    "customEmojiId": "5199476082708878264",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/piggy-bank.png"
+    }
   },
   {
     "name": "Ancient Urn",
-    "customEmojiId": "5199861697757609491"
+    "customEmojiId": "5199861697757609491",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ancient-urn.png"
+    }
   },
   {
     "name": "Wreath",
-    "customEmojiId": "5199506340753473869"
+    "customEmojiId": "5199506340753473869",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/wreath.png"
+    }
   },
   {
     "name": "Dagger",
-    "customEmojiId": "5199675966191864697"
+    "customEmojiId": "5199675966191864697",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/dagger.png"
+    }
   },
   {
     "name": "Lemon Slice",
-    "customEmojiId": "5199964953066377215"
+    "customEmojiId": "5199964953066377215",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/lemon-slice.png"
+    }
   },
   {
     "name": "Crystal Ball",
-    "customEmojiId": "5199590410443328799"
+    "customEmojiId": "5199590410443328799",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/crystal-ball.png"
+    }
   },
   {
     "name": "Champagne",
-    "customEmojiId": "5199679432230471443"
+    "customEmojiId": "5199679432230471443",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/champagne.png"
+    }
   },
   {
     "name": "Grenade",
-    "customEmojiId": "5199860864533955715"
+    "customEmojiId": "5199860864533955715",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/grenade.png"
+    }
   },
   {
     "name": "Morgenstern",
-    "customEmojiId": "5199655161370280611"
+    "customEmojiId": "5199655161370280611",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/morgenstern.png"
+    }
   },
   {
     "name": "Maple Leaf",
-    "customEmojiId": "5199771361710473077"
+    "customEmojiId": "5199771361710473077",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/maple-leaf.png"
+    }
   },
   {
     "name": "Khinkali",
-    "customEmojiId": "5199559430844221150"
+    "customEmojiId": "5199559430844221150",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/khinkali.png"
+    }
   },
   {
     "name": "Lovely Kiss",
-    "customEmojiId": "5199851368361267380"
+    "customEmojiId": "5199851368361267380",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/lovely-kiss.png"
+    }
   },
   {
     "name": "Bottle",
-    "customEmojiId": "5199580759651813806"
+    "customEmojiId": "5199580759651813806",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bottle.png"
+    }
   },
   {
     "name": "Magic Wand",
-    "customEmojiId": "5199565744446145009"
+    "customEmojiId": "5199565744446145009",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/magic-wand.png"
+    }
   },
   {
     "name": "Thor Hammer",
-    "customEmojiId": "5199857621833649230"
+    "customEmojiId": "5199857621833649230",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/thor-hammer.png"
+    }
   },
   {
     "name": "Koala",
-    "customEmojiId": "5199786591664505620"
+    "customEmojiId": "5199786591664505620",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/koala.png"
+    }
   },
   {
     "name": "Conch",
-    "customEmojiId": "5199858635445929849"
+    "customEmojiId": "5199858635445929849",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/conch.png"
+    }
   },
   {
     "name": "Bunny",
-    "customEmojiId": "5199800120811489322"
+    "customEmojiId": "5199800120811489322",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bunny.png"
+    }
   },
   {
     "name": "Tamagotchi",
-    "customEmojiId": "5199853902391968563"
+    "customEmojiId": "5199853902391968563",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/tamagotchi.png"
+    }
   },
   {
     "name": "Ouroboros",
-    "customEmojiId": "5199428661974962024"
+    "customEmojiId": "5199428661974962024",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ouroboros.png"
+    }
   },
   {
     "name": "Old Candle",
-    "customEmojiId": "5199902654565747851"
+    "customEmojiId": "5199902654565747851",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/old-candle.png"
+    }
   },
   {
     "name": "Ice Cream",
-    "customEmojiId": "5199587451210861217"
+    "customEmojiId": "5199587451210861217",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ice-cream.png"
+    }
   },
   {
     "name": "Sushi Rolls",
-    "customEmojiId": "5199851312526692154"
+    "customEmojiId": "5199851312526692154",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sushi-rolls.png"
+    }
   },
   {
     "name": "White Deer",
-    "customEmojiId": "5199804858160416090"
+    "customEmojiId": "5199804858160416090",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/white-deer.png"
+    }
   },
   {
     "name": "Ghost",
-    "customEmojiId": "5199766383843378029"
+    "customEmojiId": "5199766383843378029",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ghost.png"
+    }
   },
   {
     "name": "Shinto Shrine",
-    "customEmojiId": "5199478432055988373"
+    "customEmojiId": "5199478432055988373",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/shinto-shrine.png"
+    }
   },
   {
     "name": "All-Seeing Eye",
-    "customEmojiId": "5199922359875701200"
+    "customEmojiId": "5199922359875701200",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/all-seeing-eye.png"
+    }
   },
   {
     "name": "Cow Skull",
-    "customEmojiId": "5199674639046968689"
+    "customEmojiId": "5199674639046968689",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cow-skull.png"
+    }
   },
   {
     "name": "Fish",
-    "customEmojiId": "5199862024175126001"
+    "customEmojiId": "5199862024175126001",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/fish.png"
+    }
   },
   {
     "name": "Fenrir",
-    "customEmojiId": "5199525530667354783"
+    "customEmojiId": "5199525530667354783",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/fenrir.png"
+    }
   },
   {
     "name": "Rhino Warrior",
-    "customEmojiId": "5199722768450487484"
+    "customEmojiId": "5199722768450487484",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/rhino-warrior.png"
+    }
   },
   {
     "name": "Sparks",
-    "customEmojiId": "5199534721897367416"
+    "customEmojiId": "5199534721897367416",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sparks.png"
+    }
   },
   {
     "name": "Piñata",
-    "customEmojiId": "5199490110072061851"
+    "customEmojiId": "5199490110072061851",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pinata.png"
+    }
   },
   {
     "name": "Elephant",
-    "customEmojiId": "5199694971422146836"
+    "customEmojiId": "5199694971422146836",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/elephant.png"
+    }
   },
   {
     "name": "Pizza Slice",
-    "customEmojiId": "5199578066707317639"
+    "customEmojiId": "5199578066707317639",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pizza-slice.png"
+    }
   },
   {
     "name": "Mannaz Rune",
-    "customEmojiId": "5199593631668799507"
+    "customEmojiId": "5199593631668799507",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/mannaz-rune.png"
+    }
   },
   {
     "name": "Flower",
-    "customEmojiId": "5199829013056490060"
+    "customEmojiId": "5199829013056490060",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/flower.png"
+    }
   },
   {
     "name": "Wagasa",
-    "customEmojiId": "5199688541856110192"
+    "customEmojiId": "5199688541856110192",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/wagasa.png"
+    }
   },
   {
     "name": "Pomegranate",
-    "customEmojiId": "5199497579020194190"
+    "customEmojiId": "5199497579020194190",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pomegranate.png"
+    }
   },
   {
     "name": "Gear",
-    "customEmojiId": "5199963565791939900"
+    "customEmojiId": "5199963565791939900",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/gear.png"
+    }
   },
   {
     "name": "Monarch",
-    "customEmojiId": "5199967568701462550"
+    "customEmojiId": "5199967568701462550",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/monarch.png"
+    }
   },
   {
     "name": "Skull",
-    "customEmojiId": "5199619431537348678"
+    "customEmojiId": "5199619431537348678",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/skull.png"
+    }
   },
   {
     "name": "Cocktail",
-    "customEmojiId": "5199925405007515741"
+    "customEmojiId": "5199925405007515741",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cocktail.png"
+    }
   },
   {
     "name": "Breeze",
-    "customEmojiId": "5199658631703859803"
+    "customEmojiId": "5199658631703859803",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/breeze.png"
+    }
   },
   {
     "name": "Eggplant",
-    "customEmojiId": "5199864798724001703"
+    "customEmojiId": "5199864798724001703",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/eggplant.png"
+    }
   },
   {
     "name": "Sleepy Unicorn",
-    "customEmojiId": "5199466646665722804"
+    "customEmojiId": "5199466646665722804",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sleepy-unicorn.png"
+    }
   },
   {
     "name": "Guitar",
-    "customEmojiId": "5199926040662672669"
+    "customEmojiId": "5199926040662672669",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/guitar.png"
+    }
   },
   {
     "name": "Rain Drop",
-    "customEmojiId": "5199596200059239228"
+    "customEmojiId": "5199596200059239228",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/rain-drop.png"
+    }
   },
   {
     "name": "Kite",
-    "customEmojiId": "5199550252499111740"
+    "customEmojiId": "5199550252499111740",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/kite.png"
+    }
   },
   {
     "name": "Jewel",
-    "customEmojiId": "5199798166601371927"
+    "customEmojiId": "5199798166601371927",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/jewel.png"
+    }
   },
   {
     "name": "Doghouse",
-    "customEmojiId": "5199765365936130864"
+    "customEmojiId": "5199765365936130864",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/doghouse.png"
+    }
   },
   {
     "name": "Winged Helm",
-    "customEmojiId": "5202028006247268831"
+    "customEmojiId": "5202028006247268831",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/winged-helm.png"
+    }
   },
   {
     "name": "Bread",
-    "customEmojiId": "5199525547847224334"
+    "customEmojiId": "5199525547847224334",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bread.png"
+    }
   },
   {
     "name": "Paper Crane",
-    "customEmojiId": "5199459267911913743"
+    "customEmojiId": "5199459267911913743",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/paper-crane.png"
+    }
   },
   {
     "name": "Garden Pot",
-    "customEmojiId": "5199961336703914826"
+    "customEmojiId": "5199961336703914826",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/garden-pot.png"
+    }
   },
   {
     "name": "Radar",
-    "customEmojiId": "5199811519654695383"
+    "customEmojiId": "5199811519654695383",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/radar.png"
+    }
   },
   {
     "name": "Narcissus",
-    "customEmojiId": "5199732805789058517"
+    "customEmojiId": "5199732805789058517",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/narcissus.png"
+    }
   },
   {
     "name": "Dice",
-    "customEmojiId": "5199905927330827651"
+    "customEmojiId": "5199905927330827651",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/dice.png"
+    }
   },
   {
     "name": "Vortex",
-    "customEmojiId": "5199813753037687817"
+    "customEmojiId": "5199813753037687817",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/vortex.png"
+    }
   },
   {
     "name": "Flag",
-    "customEmojiId": "5199874462400414430"
+    "customEmojiId": "5199874462400414430",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/flag.png"
+    }
   },
   {
     "name": "Double Axe",
-    "customEmojiId": "5199414905194712818"
+    "customEmojiId": "5199414905194712818",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/double-axe.png"
+    }
   },
   {
     "name": "Oxen of Fire",
-    "customEmojiId": "5199717897957573867"
+    "customEmojiId": "5199717897957573867",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/oxen-of-fire.png"
+    }
   },
   {
     "name": "Burger",
-    "customEmojiId": "5199576765332229212"
+    "customEmojiId": "5199576765332229212",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/burger.png"
+    }
   },
   {
     "name": "Wontons",
-    "customEmojiId": "5199961989538942623"
+    "customEmojiId": "5199961989538942623",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/wontons.png"
+    }
   },
   {
     "name": "Banner",
-    "customEmojiId": "5199763055243726900"
+    "customEmojiId": "5199763055243726900",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/banner.png"
+    }
   },
   {
     "name": "Pickaxe",
-    "customEmojiId": "5199445292088328237"
+    "customEmojiId": "5199445292088328237",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/pickaxe.png"
+    }
   },
   {
     "name": "Piranha",
-    "customEmojiId": "5199947034462818715"
+    "customEmojiId": "5199947034462818715",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/piranha.png"
+    }
   },
   {
     "name": "Mayan Moth",
-    "customEmojiId": "5199778452701480675"
+    "customEmojiId": "5199778452701480675",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/mayan-moth.png"
+    }
   },
   {
     "name": "Chest",
-    "customEmojiId": "5199799017004894591"
+    "customEmojiId": "5199799017004894591",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/chest.png"
+    }
   },
   {
     "name": "Twin Peaks",
-    "customEmojiId": "5199548495857482960"
+    "customEmojiId": "5199548495857482960",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/twin-peaks.png"
+    }
   },
   {
     "name": "Sprout",
-    "customEmojiId": "5199705945063589397"
+    "customEmojiId": "5199705945063589397",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sprout.png"
+    }
   },
   {
     "name": "Ramen",
-    "customEmojiId": "5199591943746650619"
+    "customEmojiId": "5199591943746650619",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ramen.png"
+    }
   },
   {
     "name": "Birthday Cake",
-    "customEmojiId": "5199528562914267487"
+    "customEmojiId": "5199528562914267487",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/birthday-cake.png"
+    }
   },
   {
     "name": "Spider",
-    "customEmojiId": "5199675867407617007"
+    "customEmojiId": "5199675867407617007",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/spider.png"
+    }
   },
   {
     "name": "Top Hat",
-    "customEmojiId": "5199704811192221997"
+    "customEmojiId": "5199704811192221997",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/top-hat.png"
+    }
   },
   {
     "name": "Celtic Cross",
-    "customEmojiId": "5199560126628923287"
+    "customEmojiId": "5199560126628923287",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/celtic-cross.png"
+    }
   },
   {
     "name": "Puzzle",
-    "customEmojiId": "5199967783449824573"
+    "customEmojiId": "5199967783449824573",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/puzzle.png"
+    }
   },
   {
     "name": "Book",
-    "customEmojiId": "5199463541404373712"
+    "customEmojiId": "5199463541404373712",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/book.png"
+    }
   },
   {
     "name": "Hermit Shell",
-    "customEmojiId": "5199762329394253336"
+    "customEmojiId": "5199762329394253336",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/hermit-shell.png"
+    }
   },
   {
     "name": "Plume",
-    "customEmojiId": "5199642800454407125"
+    "customEmojiId": "5199642800454407125",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/plume.png"
+    }
   },
   {
     "name": "Coin",
-    "customEmojiId": "5199414832180268714"
+    "customEmojiId": "5199414832180268714",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/coin.png"
+    }
   },
   {
     "name": "Moon",
-    "customEmojiId": "5199499052193973671"
+    "customEmojiId": "5199499052193973671",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/moon.png"
+    }
   },
   {
     "name": "Kitsune Mask",
-    "customEmojiId": "5199633360116285741"
+    "customEmojiId": "5199633360116285741",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/kitsune-mask.png"
+    }
   },
   {
     "name": "Duck Face",
-    "customEmojiId": "5199541576665173998"
+    "customEmojiId": "5199541576665173998",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/duck-face.png"
+    }
   },
   {
     "name": "Lion Head",
-    "customEmojiId": "5199655049701172498"
+    "customEmojiId": "5199655049701172498",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/lion-head.png"
+    }
   },
   {
     "name": "Kudu Totem",
-    "customEmojiId": "5199943018668394204"
+    "customEmojiId": "5199943018668394204",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/kudu-totem.png"
+    }
   },
   {
     "name": "Moon Eagle",
-    "customEmojiId": "5199513281420625625"
+    "customEmojiId": "5199513281420625625",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/moon-eagle.png"
+    }
   },
   {
     "name": "The Eye",
-    "customEmojiId": "5199464073980313985"
+    "customEmojiId": "5199464073980313985",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/the-eye.png"
+    }
   },
   {
     "name": "Mushroom",
-    "customEmojiId": "5199901374665492419"
+    "customEmojiId": "5199901374665492419",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/mushroom.png"
+    }
   },
   {
     "name": "Hedgehog",
-    "customEmojiId": "5199443440957426886"
+    "customEmojiId": "5199443440957426886",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/hedgehog.png"
+    }
   },
   {
     "name": "Wepwawet",
-    "customEmojiId": "5199485793629930536"
+    "customEmojiId": "5199485793629930536",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/wepwawet.png"
+    }
   },
   {
     "name": "Royal Crown",
-    "customEmojiId": "5199769278651342343"
+    "customEmojiId": "5199769278651342343",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/royal-crown.png"
+    }
   },
   {
     "name": "Telescope",
-    "customEmojiId": "5199588391808698998"
+    "customEmojiId": "5199588391808698998",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/telescope.png"
+    }
   },
   {
     "name": "Shield",
-    "customEmojiId": "5199474497865945550"
+    "customEmojiId": "5199474497865945550",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/shield.png"
+    }
   },
   {
     "name": "Candy",
-    "customEmojiId": "5199911012572105730"
+    "customEmojiId": "5199911012572105730",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/candy.png"
+    }
   },
   {
     "name": "Gamepad",
-    "customEmojiId": "5199672727786522651"
+    "customEmojiId": "5199672727786522651",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/gamepad.png"
+    }
   },
   {
     "name": "Cat Mask",
-    "customEmojiId": "5199751016450395261"
+    "customEmojiId": "5199751016450395261",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cat-mask.png"
+    }
   },
   {
     "name": "Genie Lamp",
-    "customEmojiId": "5199760491148248638"
+    "customEmojiId": "5199760491148248638",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/genie-lamp.png"
+    }
   },
   {
     "name": "Carambola",
-    "customEmojiId": "5199563687156815774"
+    "customEmojiId": "5199563687156815774",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/carambola.png"
+    }
   },
   {
     "name": "Crusader Cross",
-    "customEmojiId": "5199468566516105305"
+    "customEmojiId": "5199468566516105305",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/crusader-cross.png"
+    }
   },
   {
     "name": "Acorn",
-    "customEmojiId": "5199500774475870841"
+    "customEmojiId": "5199500774475870841",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/acorn.png"
+    }
   },
   {
     "name": "Palette",
-    "customEmojiId": "5199833587196661886"
+    "customEmojiId": "5199833587196661886",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/palette.png"
+    }
   },
   {
     "name": "Sun Mountain",
-    "customEmojiId": "5199464829894562233"
+    "customEmojiId": "5199464829894562233",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sun-mountain.png"
+    }
   },
   {
     "name": "Griffon",
-    "customEmojiId": "5199733754976831104"
+    "customEmojiId": "5199733754976831104",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/griffon.png"
+    }
   },
   {
     "name": "Crown",
-    "customEmojiId": "5199763085308495651"
+    "customEmojiId": "5199763085308495651",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/crown.png"
+    }
   },
   {
     "name": "Coconut",
-    "customEmojiId": "5199939960651680778"
+    "customEmojiId": "5199939960651680778",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/coconut.png"
+    }
   },
   {
     "name": "Polar Bear",
-    "customEmojiId": "5199407315987502006"
+    "customEmojiId": "5199407315987502006",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/polar-bear.png"
+    }
   },
   {
     "name": "Bell Pepper",
-    "customEmojiId": "5199683718607834440"
+    "customEmojiId": "5199683718607834440",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bell-pepper.png"
+    }
   },
   {
     "name": "Horseshoe",
-    "customEmojiId": "5199843530045950060"
+    "customEmojiId": "5199843530045950060",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/horseshoe.png"
+    }
   },
   {
     "name": "Trinity Knot",
-    "customEmojiId": "5199449449616675994"
+    "customEmojiId": "5199449449616675994",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/trinity-knot.png"
+    }
   },
   {
     "name": "Bow Tie",
-    "customEmojiId": "5199652756188594205"
+    "customEmojiId": "5199652756188594205",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bow-tie.png"
+    }
   },
   {
     "name": "Turtle",
-    "customEmojiId": "5199802964079839347"
+    "customEmojiId": "5199802964079839347",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/turtle.png"
+    }
   },
   {
     "name": "Moon Face",
-    "customEmojiId": "5199410219385393618"
+    "customEmojiId": "5199410219385393618",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/moon-face.png"
+    }
   },
   {
     "name": "Boat",
-    "customEmojiId": "5199564713653997766"
+    "customEmojiId": "5199564713653997766",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/boat.png"
+    }
   },
   {
     "name": "Crusader",
-    "customEmojiId": "5199701096045512582"
+    "customEmojiId": "5199701096045512582",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/crusader.png"
+    }
   },
   {
     "name": "Chili Pepper",
-    "customEmojiId": "5199643277195772037"
+    "customEmojiId": "5199643277195772037",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/chili-pepper.png"
+    }
   },
   {
     "name": "Baby Bottle",
-    "customEmojiId": "5199867139481178799"
+    "customEmojiId": "5199867139481178799",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/baby-bottle.png"
+    }
   },
   {
     "name": "Moose Head",
-    "customEmojiId": "5199916278202010569"
+    "customEmojiId": "5199916278202010569",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/moose-head.png"
+    }
   },
   {
     "name": "Worker Ant",
-    "customEmojiId": "5199496204630661208"
+    "customEmojiId": "5199496204630661208",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/worker-ant.png"
+    }
   },
   {
     "name": "Cupcake",
-    "customEmojiId": "5199460788330335122"
+    "customEmojiId": "5199460788330335122",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/cupcake.png"
+    }
   },
   {
     "name": "Ball",
-    "customEmojiId": "5199921152989891702"
+    "customEmojiId": "5199921152989891702",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/ball.png"
+    }
   },
   {
     "name": "Thunderbird",
-    "customEmojiId": "5199756144641346567"
+    "customEmojiId": "5199756144641346567",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/thunderbird.png"
+    }
   },
   {
     "name": "Diamonds",
-    "customEmojiId": "5199700121087937827"
+    "customEmojiId": "5199700121087937827",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/diamonds.png"
+    }
   },
   {
     "name": "Totem Bear",
-    "customEmojiId": "5199656939486742424"
+    "customEmojiId": "5199656939486742424",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/totem-bear.png"
+    }
   },
   {
     "name": "Gem",
-    "customEmojiId": "5199568523289988128"
+    "customEmojiId": "5199568523289988128",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/gem.png"
+    }
   },
   {
     "name": "Spades",
-    "customEmojiId": "5199913155760783674"
+    "customEmojiId": "5199913155760783674",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/spades.png"
+    }
   },
   {
     "name": "Mafdet",
-    "customEmojiId": "5199698669388988419"
+    "customEmojiId": "5199698669388988419",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/mafdet.png"
+    }
   },
   {
     "name": "Tree of Life",
-    "customEmojiId": "5199597209376558882"
+    "customEmojiId": "5199597209376558882",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/tree-of-life.png"
+    }
   },
   {
     "name": "Flower Tulip",
-    "customEmojiId": "5199785517922683567"
+    "customEmojiId": "5199785517922683567",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/flower-tulip.png"
+    }
   },
   {
     "name": "Toilet",
-    "customEmojiId": "5199426501606409252"
+    "customEmojiId": "5199426501606409252",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/toilet.png"
+    }
   },
   {
     "name": "Sword",
-    "customEmojiId": "5199810643481365864"
+    "customEmojiId": "5199810643481365864",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/sword.png"
+    }
   },
   {
     "name": "Grape",
-    "customEmojiId": "5199618417925067376"
+    "customEmojiId": "5199618417925067376",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/grape.png"
+    }
   },
   {
     "name": "Snail",
-    "customEmojiId": "5199427729967062308"
+    "customEmojiId": "5199427729967062308",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/snail.png"
+    }
   },
   {
     "name": "Viking Shield",
-    "customEmojiId": "5199415012568896891"
+    "customEmojiId": "5199415012568896891",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/viking-shield.png"
+    }
   },
   {
     "name": "Magic Vial",
-    "customEmojiId": "5199608535205315973"
+    "customEmojiId": "5199608535205315973",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/magic-vial.png"
+    }
   },
   {
     "name": "Bastet",
-    "customEmojiId": "5199520204907910380"
+    "customEmojiId": "5199520204907910380",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/bastet.png"
+    }
   },
   {
     "name": "Star Crown",
-    "customEmojiId": "5199486442169993955"
+    "customEmojiId": "5199486442169993955",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/star-crown.png"
+    }
   },
   {
     "name": "Calm Wolf",
-    "customEmojiId": "5199642521281532199"
+    "customEmojiId": "5199642521281532199",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/calm-wolf.png"
+    }
   },
   {
     "name": "Doberman",
-    "customEmojiId": "5199561689997017519"
+    "customEmojiId": "5199561689997017519",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/doberman.png"
+    }
   },
   {
     "name": "Viking",
-    "customEmojiId": "5199809080113267301"
+    "customEmojiId": "5199809080113267301",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/viking.png"
+    }
   },
   {
     "name": "Eagle",
-    "customEmojiId": "5199844350384703801"
+    "customEmojiId": "5199844350384703801",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/eagle.png"
+    }
   },
   {
     "name": "Firebird",
-    "customEmojiId": "5199747116620088950"
+    "customEmojiId": "5199747116620088950",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/firebird.png"
+    }
   },
   {
     "name": "Venetian Mask",
-    "customEmojiId": "5199793845864267822"
+    "customEmojiId": "5199793845864267822",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/venetian-mask.png"
+    }
   },
   {
     "name": "Apple",
-    "customEmojiId": "5199834806967375335"
+    "customEmojiId": "5199834806967375335",
+    "assets": {
+      "png": "gifts/lolpop/assets/patterns/apple.png"
+    }
   }
 ] satisfies readonly GiftPattern[];
 

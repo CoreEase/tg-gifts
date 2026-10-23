@@ -1,0 +1,1383 @@
+{
+  "slug": "eternalcandle",
+  "models": [
+    {
+      "name": "Cherry Burn",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/cherry-burn.svg",
+        "tgs": "gifts/eternalcandle/assets/models/cherry-burn.tgs"
+      }
+    },
+    {
+      "name": "Hot Cocoa",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/hot-cocoa.svg",
+        "tgs": "gifts/eternalcandle/assets/models/hot-cocoa.tgs"
+      }
+    },
+    {
+      "name": "Bubble Bath",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/bubble-bath.svg",
+        "tgs": "gifts/eternalcandle/assets/models/bubble-bath.tgs"
+      }
+    },
+    {
+      "name": "Little Star",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/little-star.svg",
+        "tgs": "gifts/eternalcandle/assets/models/little-star.tgs"
+      }
+    },
+    {
+      "name": "Wildflowers",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/wildflowers.svg",
+        "tgs": "gifts/eternalcandle/assets/models/wildflowers.tgs"
+      }
+    },
+    {
+      "name": "Healing Mist",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/healing-mist.svg",
+        "tgs": "gifts/eternalcandle/assets/models/healing-mist.tgs"
+      }
+    },
+    {
+      "name": "Rare Jewels",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/rare-jewels.svg",
+        "tgs": "gifts/eternalcandle/assets/models/rare-jewels.tgs"
+      }
+    },
+    {
+      "name": "Satin Bow",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/satin-bow.svg",
+        "tgs": "gifts/eternalcandle/assets/models/satin-bow.tgs"
+      }
+    },
+    {
+      "name": "Snake Skin",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/snake-skin.svg",
+        "tgs": "gifts/eternalcandle/assets/models/snake-skin.tgs"
+      }
+    },
+    {
+      "name": "Sequin",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/sequin.svg",
+        "tgs": "gifts/eternalcandle/assets/models/sequin.tgs"
+      }
+    },
+    {
+      "name": "Gruyere",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/gruyere.svg",
+        "tgs": "gifts/eternalcandle/assets/models/gruyere.tgs"
+      }
+    },
+    {
+      "name": "Gold Stars",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/gold-stars.svg",
+        "tgs": "gifts/eternalcandle/assets/models/gold-stars.tgs"
+      }
+    },
+    {
+      "name": "Rose Tea",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/rose-tea.svg",
+        "tgs": "gifts/eternalcandle/assets/models/rose-tea.tgs"
+      }
+    },
+    {
+      "name": "Poison Ivy",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/poison-ivy.svg",
+        "tgs": "gifts/eternalcandle/assets/models/poison-ivy.tgs"
+      }
+    },
+    {
+      "name": "Horoscope",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/horoscope.svg",
+        "tgs": "gifts/eternalcandle/assets/models/horoscope.tgs"
+      }
+    },
+    {
+      "name": "Cult Candle",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/cult-candle.svg",
+        "tgs": "gifts/eternalcandle/assets/models/cult-candle.tgs"
+      }
+    },
+    {
+      "name": "Floral Scent",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/floral-scent.svg",
+        "tgs": "gifts/eternalcandle/assets/models/floral-scent.tgs"
+      }
+    },
+    {
+      "name": "Sugar Skull",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/sugar-skull.svg",
+        "tgs": "gifts/eternalcandle/assets/models/sugar-skull.tgs"
+      }
+    },
+    {
+      "name": "Tortuga",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/tortuga.svg",
+        "tgs": "gifts/eternalcandle/assets/models/tortuga.tgs"
+      }
+    },
+    {
+      "name": "Sacred Lotus",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/sacred-lotus.svg",
+        "tgs": "gifts/eternalcandle/assets/models/sacred-lotus.tgs"
+      }
+    },
+    {
+      "name": "Mirkwood",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/mirkwood.svg",
+        "tgs": "gifts/eternalcandle/assets/models/mirkwood.tgs"
+      }
+    },
+    {
+      "name": "Pearl Clam",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/pearl-clam.svg",
+        "tgs": "gifts/eternalcandle/assets/models/pearl-clam.tgs"
+      }
+    },
+    {
+      "name": "Hot Kiss",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/hot-kiss.svg",
+        "tgs": "gifts/eternalcandle/assets/models/hot-kiss.tgs"
+      }
+    },
+    {
+      "name": "Iceberg",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/iceberg.svg",
+        "tgs": "gifts/eternalcandle/assets/models/iceberg.tgs"
+      }
+    },
+    {
+      "name": "Proposal",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/proposal.svg",
+        "tgs": "gifts/eternalcandle/assets/models/proposal.tgs"
+      }
+    },
+    {
+      "name": "Love Dreams",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/love-dreams.svg",
+        "tgs": "gifts/eternalcandle/assets/models/love-dreams.tgs"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/baphomet.svg",
+        "tgs": "gifts/eternalcandle/assets/models/baphomet.tgs"
+      }
+    },
+    {
+      "name": "Krakatoa",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/krakatoa.svg",
+        "tgs": "gifts/eternalcandle/assets/models/krakatoa.tgs"
+      }
+    },
+    {
+      "name": "Honeycomb",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/honeycomb.svg",
+        "tgs": "gifts/eternalcandle/assets/models/honeycomb.tgs"
+      }
+    },
+    {
+      "name": "Spring Bloom",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/spring-bloom.svg",
+        "tgs": "gifts/eternalcandle/assets/models/spring-bloom.tgs"
+      }
+    },
+    {
+      "name": "Carnation",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/carnation.svg",
+        "tgs": "gifts/eternalcandle/assets/models/carnation.tgs"
+      }
+    },
+    {
+      "name": "Late Dusk",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/late-dusk.svg",
+        "tgs": "gifts/eternalcandle/assets/models/late-dusk.tgs"
+      }
+    },
+    {
+      "name": "Ephemeral",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/ephemeral.svg",
+        "tgs": "gifts/eternalcandle/assets/models/ephemeral.tgs"
+      }
+    },
+    {
+      "name": "White Ash",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/white-ash.svg",
+        "tgs": "gifts/eternalcandle/assets/models/white-ash.tgs"
+      }
+    },
+    {
+      "name": "Winter Mist",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/winter-mist.svg",
+        "tgs": "gifts/eternalcandle/assets/models/winter-mist.tgs"
+      }
+    },
+    {
+      "name": "Pop Art",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/pop-art.svg",
+        "tgs": "gifts/eternalcandle/assets/models/pop-art.tgs"
+      }
+    },
+    {
+      "name": "Burnt Amber",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/burnt-amber.svg",
+        "tgs": "gifts/eternalcandle/assets/models/burnt-amber.tgs"
+      }
+    },
+    {
+      "name": "Citrus Burst",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/citrus-burst.svg",
+        "tgs": "gifts/eternalcandle/assets/models/citrus-burst.tgs"
+      }
+    },
+    {
+      "name": "Hydrangea",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/hydrangea.svg",
+        "tgs": "gifts/eternalcandle/assets/models/hydrangea.tgs"
+      }
+    },
+    {
+      "name": "Toxic Smoke",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/toxic-smoke.svg",
+        "tgs": "gifts/eternalcandle/assets/models/toxic-smoke.tgs"
+      }
+    },
+    {
+      "name": "Warm Embrace",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/warm-embrace.svg",
+        "tgs": "gifts/eternalcandle/assets/models/warm-embrace.tgs"
+      }
+    },
+    {
+      "name": "Two-Tone",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/two-tone.svg",
+        "tgs": "gifts/eternalcandle/assets/models/two-tone.tgs"
+      }
+    },
+    {
+      "name": "Twilight",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/twilight.svg",
+        "tgs": "gifts/eternalcandle/assets/models/twilight.tgs"
+      }
+    },
+    {
+      "name": "Sunrise",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/sunrise.svg",
+        "tgs": "gifts/eternalcandle/assets/models/sunrise.tgs"
+      }
+    },
+    {
+      "name": "Purple Wave",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/purple-wave.svg",
+        "tgs": "gifts/eternalcandle/assets/models/purple-wave.tgs"
+      }
+    },
+    {
+      "name": "My Precious",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/my-precious.svg",
+        "tgs": "gifts/eternalcandle/assets/models/my-precious.tgs"
+      }
+    },
+    {
+      "name": "Red Melter",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/red-melter.svg",
+        "tgs": "gifts/eternalcandle/assets/models/red-melter.tgs"
+      }
+    },
+    {
+      "name": "Evening Star",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/evening-star.svg",
+        "tgs": "gifts/eternalcandle/assets/models/evening-star.tgs"
+      }
+    },
+    {
+      "name": "Jasmine",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/jasmine.svg",
+        "tgs": "gifts/eternalcandle/assets/models/jasmine.tgs"
+      }
+    },
+    {
+      "name": "Neroli Noir",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/neroli-noir.svg",
+        "tgs": "gifts/eternalcandle/assets/models/neroli-noir.tgs"
+      }
+    },
+    {
+      "name": "Hot Emerald",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/hot-emerald.svg",
+        "tgs": "gifts/eternalcandle/assets/models/hot-emerald.tgs"
+      }
+    },
+    {
+      "name": "Spiced Apple",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/spiced-apple.svg",
+        "tgs": "gifts/eternalcandle/assets/models/spiced-apple.tgs"
+      }
+    },
+    {
+      "name": "Wolfsbane",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/wolfsbane.svg",
+        "tgs": "gifts/eternalcandle/assets/models/wolfsbane.tgs"
+      }
+    },
+    {
+      "name": "Frosted Glass",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/frosted-glass.svg",
+        "tgs": "gifts/eternalcandle/assets/models/frosted-glass.tgs"
+      }
+    },
+    {
+      "name": "Pinstripe",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/pinstripe.svg",
+        "tgs": "gifts/eternalcandle/assets/models/pinstripe.tgs"
+      }
+    },
+    {
+      "name": "Supernova",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/supernova.svg",
+        "tgs": "gifts/eternalcandle/assets/models/supernova.tgs"
+      }
+    },
+    {
+      "name": "First Dawn",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/first-dawn.svg",
+        "tgs": "gifts/eternalcandle/assets/models/first-dawn.tgs"
+      }
+    },
+    {
+      "name": "Half Moon",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/half-moon.svg",
+        "tgs": "gifts/eternalcandle/assets/models/half-moon.tgs"
+      }
+    },
+    {
+      "name": "Cool Metal",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/cool-metal.svg",
+        "tgs": "gifts/eternalcandle/assets/models/cool-metal.tgs"
+      }
+    },
+    {
+      "name": "Candyman",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/candyman.svg",
+        "tgs": "gifts/eternalcandle/assets/models/candyman.tgs"
+      }
+    },
+    {
+      "name": "Coastal Cove",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/coastal-cove.svg",
+        "tgs": "gifts/eternalcandle/assets/models/coastal-cove.tgs"
+      }
+    },
+    {
+      "name": "Thick Honey",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/thick-honey.svg",
+        "tgs": "gifts/eternalcandle/assets/models/thick-honey.tgs"
+      }
+    },
+    {
+      "name": "Witch’s Candle",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/witch-s-candle.svg",
+        "tgs": "gifts/eternalcandle/assets/models/witch-s-candle.tgs"
+      }
+    },
+    {
+      "name": "Saturated",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/saturated.svg",
+        "tgs": "gifts/eternalcandle/assets/models/saturated.tgs"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/unicorn.svg",
+        "tgs": "gifts/eternalcandle/assets/models/unicorn.tgs"
+      }
+    },
+    {
+      "name": "Deep Sea",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/deep-sea.svg",
+        "tgs": "gifts/eternalcandle/assets/models/deep-sea.tgs"
+      }
+    },
+    {
+      "name": "Yellow Gold",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/yellow-gold.svg",
+        "tgs": "gifts/eternalcandle/assets/models/yellow-gold.tgs"
+      }
+    },
+    {
+      "name": "Blue Steel",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/blue-steel.svg",
+        "tgs": "gifts/eternalcandle/assets/models/blue-steel.tgs"
+      }
+    },
+    {
+      "name": "Cranberry",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/cranberry.svg",
+        "tgs": "gifts/eternalcandle/assets/models/cranberry.tgs"
+      }
+    },
+    {
+      "name": "Vanilla Oasis",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/vanilla-oasis.svg",
+        "tgs": "gifts/eternalcandle/assets/models/vanilla-oasis.tgs"
+      }
+    },
+    {
+      "name": "Silver Spark",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/silver-spark.svg",
+        "tgs": "gifts/eternalcandle/assets/models/silver-spark.tgs"
+      }
+    },
+    {
+      "name": "Indiglow",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/indiglow.svg",
+        "tgs": "gifts/eternalcandle/assets/models/indiglow.tgs"
+      }
+    },
+    {
+      "name": "Blue Beam",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/blue-beam.svg",
+        "tgs": "gifts/eternalcandle/assets/models/blue-beam.tgs"
+      }
+    },
+    {
+      "name": "Dreamscape",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/dreamscape.svg",
+        "tgs": "gifts/eternalcandle/assets/models/dreamscape.tgs"
+      }
+    },
+    {
+      "name": "Rainbow",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/rainbow.svg",
+        "tgs": "gifts/eternalcandle/assets/models/rainbow.tgs"
+      }
+    },
+    {
+      "name": "Dark Desire",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/dark-desire.svg",
+        "tgs": "gifts/eternalcandle/assets/models/dark-desire.tgs"
+      }
+    },
+    {
+      "name": "Bronze Rose",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/bronze-rose.svg",
+        "tgs": "gifts/eternalcandle/assets/models/bronze-rose.tgs"
+      }
+    },
+    {
+      "name": "Mermaid",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/mermaid.svg",
+        "tgs": "gifts/eternalcandle/assets/models/mermaid.tgs"
+      }
+    },
+    {
+      "name": "Serenity",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/serenity.svg",
+        "tgs": "gifts/eternalcandle/assets/models/serenity.tgs"
+      }
+    },
+    {
+      "name": "Gradient Wax",
+      "assets": {
+        "svg": "gifts/eternalcandle/assets/models/gradient-wax.svg",
+        "tgs": "gifts/eternalcandle/assets/models/gradient-wax.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Voodoo Doll",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/voodoo-doll.png"
+      }
+    },
+    {
+      "name": "Cauldron",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/cauldron.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Autumn Leaves",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/autumn-leaves.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Half Moon",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/half-moon.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Crow",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/crow.png"
+      }
+    },
+    {
+      "name": "Eyeball",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/eyeball.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Poison Drop",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/poison-drop.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Nice Ghost",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/nice-ghost.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Happy Smile",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/happy-smile.png"
+      }
+    },
+    {
+      "name": "Scarecrow",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/scarecrow.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Grim Reaper",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/grim-reaper.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Severed Hand",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/severed-hand.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Human Scull",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/human-scull.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Coffin",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/coffin.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Spooky Cat",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/spooky-cat.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Gravestone",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/gravestone.png"
+      }
+    },
+    {
+      "name": "Treats",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/treats.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Flying Witch",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/flying-witch.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Night Bats",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/night-bats.png"
+      }
+    },
+    {
+      "name": "Bloody Axe",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/bloody-axe.png"
+      }
+    },
+    {
+      "name": "Jaws",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/jaws.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Lollipop",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/lollipop.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Evil Pumpkin",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/evil-pumpkin.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Black Widow",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/black-widow.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Witch’s Hat",
+      "assets": {
+        "png": "gifts/eternalcandle/assets/patterns/witch-s-hat.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1557 @@
+{
+  "slug": "mightyarm",
+  "models": [
+    {
+      "name": "Best Muscles",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/best-muscles.svg",
+        "tgs": "gifts/mightyarm/assets/models/best-muscles.tgs"
+      }
+    },
+    {
+      "name": "Colossus",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/colossus.svg",
+        "tgs": "gifts/mightyarm/assets/models/colossus.tgs"
+      }
+    },
+    {
+      "name": "Icebreaker",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/icebreaker.svg",
+        "tgs": "gifts/mightyarm/assets/models/icebreaker.tgs"
+      }
+    },
+    {
+      "name": "Champion",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/champion.svg",
+        "tgs": "gifts/mightyarm/assets/models/champion.tgs"
+      }
+    },
+    {
+      "name": "Crystal Fist",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/crystal-fist.svg",
+        "tgs": "gifts/mightyarm/assets/models/crystal-fist.tgs"
+      }
+    },
+    {
+      "name": "Gladiator",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/gladiator.svg",
+        "tgs": "gifts/mightyarm/assets/models/gladiator.tgs"
+      }
+    },
+    {
+      "name": "Infinity",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/infinity.svg",
+        "tgs": "gifts/mightyarm/assets/models/infinity.tgs"
+      }
+    },
+    {
+      "name": "Jade Titan",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/jade-titan.svg",
+        "tgs": "gifts/mightyarm/assets/models/jade-titan.tgs"
+      }
+    },
+    {
+      "name": "Night Bat",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/night-bat.svg",
+        "tgs": "gifts/mightyarm/assets/models/night-bat.tgs"
+      }
+    },
+    {
+      "name": "Overlord",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/overlord.svg",
+        "tgs": "gifts/mightyarm/assets/models/overlord.tgs"
+      }
+    },
+    {
+      "name": "Predator",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/predator.svg",
+        "tgs": "gifts/mightyarm/assets/models/predator.tgs"
+      }
+    },
+    {
+      "name": "Bicep Curls",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/bicep-curls.svg",
+        "tgs": "gifts/mightyarm/assets/models/bicep-curls.tgs"
+      }
+    },
+    {
+      "name": "Cratos",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/cratos.svg",
+        "tgs": "gifts/mightyarm/assets/models/cratos.tgs"
+      }
+    },
+    {
+      "name": "Dragonborn",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/dragonborn.svg",
+        "tgs": "gifts/mightyarm/assets/models/dragonborn.tgs"
+      }
+    },
+    {
+      "name": "Gem Brawler",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/gem-brawler.svg",
+        "tgs": "gifts/mightyarm/assets/models/gem-brawler.tgs"
+      }
+    },
+    {
+      "name": "Genie",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/genie.svg",
+        "tgs": "gifts/mightyarm/assets/models/genie.tgs"
+      }
+    },
+    {
+      "name": "Gymhotep",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/gymhotep.svg",
+        "tgs": "gifts/mightyarm/assets/models/gymhotep.tgs"
+      }
+    },
+    {
+      "name": "Magma Man",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/magma-man.svg",
+        "tgs": "gifts/mightyarm/assets/models/magma-man.tgs"
+      }
+    },
+    {
+      "name": "Silver Knight",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/silver-knight.svg",
+        "tgs": "gifts/mightyarm/assets/models/silver-knight.tgs"
+      }
+    },
+    {
+      "name": "We Can Do It!",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/we-can-do-it.svg",
+        "tgs": "gifts/mightyarm/assets/models/we-can-do-it.tgs"
+      }
+    },
+    {
+      "name": "Bone Warrior",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/bone-warrior.svg",
+        "tgs": "gifts/mightyarm/assets/models/bone-warrior.tgs"
+      }
+    },
+    {
+      "name": "Ex Machina",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/ex-machina.svg",
+        "tgs": "gifts/mightyarm/assets/models/ex-machina.tgs"
+      }
+    },
+    {
+      "name": "Frostbite",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/frostbite.svg",
+        "tgs": "gifts/mightyarm/assets/models/frostbite.tgs"
+      }
+    },
+    {
+      "name": "Gold Dragon",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/gold-dragon.svg",
+        "tgs": "gifts/mightyarm/assets/models/gold-dragon.tgs"
+      }
+    },
+    {
+      "name": "Liberator",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/liberator.svg",
+        "tgs": "gifts/mightyarm/assets/models/liberator.tgs"
+      }
+    },
+    {
+      "name": "Paladin",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/paladin.svg",
+        "tgs": "gifts/mightyarm/assets/models/paladin.tgs"
+      }
+    },
+    {
+      "name": "Petrified",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/petrified.svg",
+        "tgs": "gifts/mightyarm/assets/models/petrified.tgs"
+      }
+    },
+    {
+      "name": "Valhalla",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/valhalla.svg",
+        "tgs": "gifts/mightyarm/assets/models/valhalla.tgs"
+      }
+    },
+    {
+      "name": "Body Builder",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/body-builder.svg",
+        "tgs": "gifts/mightyarm/assets/models/body-builder.tgs"
+      }
+    },
+    {
+      "name": "Heavy Metal",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/heavy-metal.svg",
+        "tgs": "gifts/mightyarm/assets/models/heavy-metal.tgs"
+      }
+    },
+    {
+      "name": "Heisenberg",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/heisenberg.svg",
+        "tgs": "gifts/mightyarm/assets/models/heisenberg.tgs"
+      }
+    },
+    {
+      "name": "Hercules",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/hercules.svg",
+        "tgs": "gifts/mightyarm/assets/models/hercules.tgs"
+      }
+    },
+    {
+      "name": "Homer",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/homer.svg",
+        "tgs": "gifts/mightyarm/assets/models/homer.tgs"
+      }
+    },
+    {
+      "name": "Paramedic",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/paramedic.svg",
+        "tgs": "gifts/mightyarm/assets/models/paramedic.tgs"
+      }
+    },
+    {
+      "name": "Pizza Pump",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/pizza-pump.svg",
+        "tgs": "gifts/mightyarm/assets/models/pizza-pump.tgs"
+      }
+    },
+    {
+      "name": "Salted Flex",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/salted-flex.svg",
+        "tgs": "gifts/mightyarm/assets/models/salted-flex.tgs"
+      }
+    },
+    {
+      "name": "Werewolf",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/werewolf.svg",
+        "tgs": "gifts/mightyarm/assets/models/werewolf.tgs"
+      }
+    },
+    {
+      "name": "Xeno Grip",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/xeno-grip.svg",
+        "tgs": "gifts/mightyarm/assets/models/xeno-grip.tgs"
+      }
+    },
+    {
+      "name": "Cat Power",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/cat-power.svg",
+        "tgs": "gifts/mightyarm/assets/models/cat-power.tgs"
+      }
+    },
+    {
+      "name": "Crab Crusher",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/crab-crusher.svg",
+        "tgs": "gifts/mightyarm/assets/models/crab-crusher.tgs"
+      }
+    },
+    {
+      "name": "Fatality",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/fatality.svg",
+        "tgs": "gifts/mightyarm/assets/models/fatality.tgs"
+      }
+    },
+    {
+      "name": "Frankenstein",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/frankenstein.svg",
+        "tgs": "gifts/mightyarm/assets/models/frankenstein.tgs"
+      }
+    },
+    {
+      "name": "Iron Hook",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/iron-hook.svg",
+        "tgs": "gifts/mightyarm/assets/models/iron-hook.tgs"
+      }
+    },
+    {
+      "name": "Knockout",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/knockout.svg",
+        "tgs": "gifts/mightyarm/assets/models/knockout.tgs"
+      }
+    },
+    {
+      "name": "Poor Yorick",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/poor-yorick.svg",
+        "tgs": "gifts/mightyarm/assets/models/poor-yorick.tgs"
+      }
+    },
+    {
+      "name": "Popeye",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/popeye.svg",
+        "tgs": "gifts/mightyarm/assets/models/popeye.tgs"
+      }
+    },
+    {
+      "name": "Robocop",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/robocop.svg",
+        "tgs": "gifts/mightyarm/assets/models/robocop.tgs"
+      }
+    },
+    {
+      "name": "Snake Charmer",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/snake-charmer.svg",
+        "tgs": "gifts/mightyarm/assets/models/snake-charmer.tgs"
+      }
+    },
+    {
+      "name": "Squeaker",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/squeaker.svg",
+        "tgs": "gifts/mightyarm/assets/models/squeaker.tgs"
+      }
+    },
+    {
+      "name": "T800",
+      "assets": {
+        "svg": "gifts/mightyarm/assets/models/t800.svg",
+        "tgs": "gifts/mightyarm/assets/models/t800.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Jester Hat",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/jester-hat.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Visor",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/visor.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Wepwawet",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/wepwawet.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/mightyarm/assets/patterns/cicada.png"
+      }
+    }
+  ]
+}

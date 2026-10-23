@@ -1,0 +1,2243 @@
+{
+  "slug": "bdaycandle",
+  "models": [
+    {
+      "name": "On Fire",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/on-fire.svg",
+        "tgs": "gifts/bdaycandle/assets/models/on-fire.tgs"
+      }
+    },
+    {
+      "name": "Shocker",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/shocker.svg",
+        "tgs": "gifts/bdaycandle/assets/models/shocker.tgs"
+      }
+    },
+    {
+      "name": "Final Boss",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/final-boss.svg",
+        "tgs": "gifts/bdaycandle/assets/models/final-boss.tgs"
+      }
+    },
+    {
+      "name": "Kaboom!",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/kaboom.svg",
+        "tgs": "gifts/bdaycandle/assets/models/kaboom.tgs"
+      }
+    },
+    {
+      "name": "Pixel Wish",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/pixel-wish.svg",
+        "tgs": "gifts/bdaycandle/assets/models/pixel-wish.tgs"
+      }
+    },
+    {
+      "name": "Cherrific",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/cherrific.svg",
+        "tgs": "gifts/bdaycandle/assets/models/cherrific.tgs"
+      }
+    },
+    {
+      "name": "Small Gifts",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/small-gifts.svg",
+        "tgs": "gifts/bdaycandle/assets/models/small-gifts.tgs"
+      }
+    },
+    {
+      "name": "Payday",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/payday.svg",
+        "tgs": "gifts/bdaycandle/assets/models/payday.tgs"
+      }
+    },
+    {
+      "name": "Winter Fun",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/winter-fun.svg",
+        "tgs": "gifts/bdaycandle/assets/models/winter-fun.tgs"
+      }
+    },
+    {
+      "name": "Melted Butter",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/melted-butter.svg",
+        "tgs": "gifts/bdaycandle/assets/models/melted-butter.tgs"
+      }
+    },
+    {
+      "name": "Crunchy",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/crunchy.svg",
+        "tgs": "gifts/bdaycandle/assets/models/crunchy.tgs"
+      }
+    },
+    {
+      "name": "Duck Attack",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/duck-attack.svg",
+        "tgs": "gifts/bdaycandle/assets/models/duck-attack.tgs"
+      }
+    },
+    {
+      "name": "Bubbly",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/bubbly.svg",
+        "tgs": "gifts/bdaycandle/assets/models/bubbly.tgs"
+      }
+    },
+    {
+      "name": "Eggcellent",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/eggcellent.svg",
+        "tgs": "gifts/bdaycandle/assets/models/eggcellent.tgs"
+      }
+    },
+    {
+      "name": "Happy Meows",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/happy-meows.svg",
+        "tgs": "gifts/bdaycandle/assets/models/happy-meows.tgs"
+      }
+    },
+    {
+      "name": "Purr Magic",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/purr-magic.svg",
+        "tgs": "gifts/bdaycandle/assets/models/purr-magic.tgs"
+      }
+    },
+    {
+      "name": "Mouse Brunch",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/mouse-brunch.svg",
+        "tgs": "gifts/bdaycandle/assets/models/mouse-brunch.tgs"
+      }
+    },
+    {
+      "name": "Valentine",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/valentine.svg",
+        "tgs": "gifts/bdaycandle/assets/models/valentine.tgs"
+      }
+    },
+    {
+      "name": "You Rock!",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/you-rock.svg",
+        "tgs": "gifts/bdaycandle/assets/models/you-rock.tgs"
+      }
+    },
+    {
+      "name": "Party Hard",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/party-hard.svg",
+        "tgs": "gifts/bdaycandle/assets/models/party-hard.tgs"
+      }
+    },
+    {
+      "name": "Stay Cool",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/stay-cool.svg",
+        "tgs": "gifts/bdaycandle/assets/models/stay-cool.tgs"
+      }
+    },
+    {
+      "name": "Neon Lights",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/neon-lights.svg",
+        "tgs": "gifts/bdaycandle/assets/models/neon-lights.tgs"
+      }
+    },
+    {
+      "name": "Neon Sign",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/neon-sign.svg",
+        "tgs": "gifts/bdaycandle/assets/models/neon-sign.tgs"
+      }
+    },
+    {
+      "name": "Crazy Frog",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/crazy-frog.svg",
+        "tgs": "gifts/bdaycandle/assets/models/crazy-frog.tgs"
+      }
+    },
+    {
+      "name": "Backyard",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/backyard.svg",
+        "tgs": "gifts/bdaycandle/assets/models/backyard.tgs"
+      }
+    },
+    {
+      "name": "Broadway",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/broadway.svg",
+        "tgs": "gifts/bdaycandle/assets/models/broadway.tgs"
+      }
+    },
+    {
+      "name": "Glitch",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/glitch.svg",
+        "tgs": "gifts/bdaycandle/assets/models/glitch.tgs"
+      }
+    },
+    {
+      "name": "Firecracker",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/firecracker.svg",
+        "tgs": "gifts/bdaycandle/assets/models/firecracker.tgs"
+      }
+    },
+    {
+      "name": "Red Ribbon",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/red-ribbon.svg",
+        "tgs": "gifts/bdaycandle/assets/models/red-ribbon.tgs"
+      }
+    },
+    {
+      "name": "Forecast",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/forecast.svg",
+        "tgs": "gifts/bdaycandle/assets/models/forecast.tgs"
+      }
+    },
+    {
+      "name": "Superstar",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/superstar.svg",
+        "tgs": "gifts/bdaycandle/assets/models/superstar.tgs"
+      }
+    },
+    {
+      "name": "Wait a Minute",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/wait-a-minute.svg",
+        "tgs": "gifts/bdaycandle/assets/models/wait-a-minute.tgs"
+      }
+    },
+    {
+      "name": "Anniversary",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/anniversary.svg",
+        "tgs": "gifts/bdaycandle/assets/models/anniversary.tgs"
+      }
+    },
+    {
+      "name": "Sparkler",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/sparkler.svg",
+        "tgs": "gifts/bdaycandle/assets/models/sparkler.tgs"
+      }
+    },
+    {
+      "name": "Festive Day",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/festive-day.svg",
+        "tgs": "gifts/bdaycandle/assets/models/festive-day.tgs"
+      }
+    },
+    {
+      "name": "Donut Cream",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/donut-cream.svg",
+        "tgs": "gifts/bdaycandle/assets/models/donut-cream.tgs"
+      }
+    },
+    {
+      "name": "Jelly Bubble",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/jelly-bubble.svg",
+        "tgs": "gifts/bdaycandle/assets/models/jelly-bubble.tgs"
+      }
+    },
+    {
+      "name": "Jelly Desert",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/jelly-desert.svg",
+        "tgs": "gifts/bdaycandle/assets/models/jelly-desert.tgs"
+      }
+    },
+    {
+      "name": "Silver Year",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/silver-year.svg",
+        "tgs": "gifts/bdaycandle/assets/models/silver-year.tgs"
+      }
+    },
+    {
+      "name": "Golden Age",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/golden-age.svg",
+        "tgs": "gifts/bdaycandle/assets/models/golden-age.tgs"
+      }
+    },
+    {
+      "name": "Black Ink",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/black-ink.svg",
+        "tgs": "gifts/bdaycandle/assets/models/black-ink.tgs"
+      }
+    },
+    {
+      "name": "Poltergeist",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/poltergeist.svg",
+        "tgs": "gifts/bdaycandle/assets/models/poltergeist.tgs"
+      }
+    },
+    {
+      "name": "Old Cartoon",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/old-cartoon.svg",
+        "tgs": "gifts/bdaycandle/assets/models/old-cartoon.tgs"
+      }
+    },
+    {
+      "name": "Rainbow",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/rainbow.svg",
+        "tgs": "gifts/bdaycandle/assets/models/rainbow.tgs"
+      }
+    },
+    {
+      "name": "Shine On",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/shine-on.svg",
+        "tgs": "gifts/bdaycandle/assets/models/shine-on.tgs"
+      }
+    },
+    {
+      "name": "Steel Strong",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/steel-strong.svg",
+        "tgs": "gifts/bdaycandle/assets/models/steel-strong.tgs"
+      }
+    },
+    {
+      "name": "Pop Tart",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/pop-tart.svg",
+        "tgs": "gifts/bdaycandle/assets/models/pop-tart.tgs"
+      }
+    },
+    {
+      "name": "Bronze Age",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/bronze-age.svg",
+        "tgs": "gifts/bdaycandle/assets/models/bronze-age.tgs"
+      }
+    },
+    {
+      "name": "Choco Wax",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/choco-wax.svg",
+        "tgs": "gifts/bdaycandle/assets/models/choco-wax.tgs"
+      }
+    },
+    {
+      "name": "Pop Art",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/pop-art.svg",
+        "tgs": "gifts/bdaycandle/assets/models/pop-art.tgs"
+      }
+    },
+    {
+      "name": "Blue Caramel",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/blue-caramel.svg",
+        "tgs": "gifts/bdaycandle/assets/models/blue-caramel.tgs"
+      }
+    },
+    {
+      "name": "Magic Powers",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/magic-powers.svg",
+        "tgs": "gifts/bdaycandle/assets/models/magic-powers.tgs"
+      }
+    },
+    {
+      "name": "Dream Big",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/dream-big.svg",
+        "tgs": "gifts/bdaycandle/assets/models/dream-big.tgs"
+      }
+    },
+    {
+      "name": "Starry Night",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/starry-night.svg",
+        "tgs": "gifts/bdaycandle/assets/models/starry-night.tgs"
+      }
+    },
+    {
+      "name": "Jage Crystal",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/jage-crystal.svg",
+        "tgs": "gifts/bdaycandle/assets/models/jage-crystal.tgs"
+      }
+    },
+    {
+      "name": "Juicy Ginger",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/juicy-ginger.svg",
+        "tgs": "gifts/bdaycandle/assets/models/juicy-ginger.tgs"
+      }
+    },
+    {
+      "name": "Rose Mint",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/rose-mint.svg",
+        "tgs": "gifts/bdaycandle/assets/models/rose-mint.tgs"
+      }
+    },
+    {
+      "name": "Princess",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/princess.svg",
+        "tgs": "gifts/bdaycandle/assets/models/princess.tgs"
+      }
+    },
+    {
+      "name": "Wicked",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/wicked.svg",
+        "tgs": "gifts/bdaycandle/assets/models/wicked.tgs"
+      }
+    },
+    {
+      "name": "Fresh Mint",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/fresh-mint.svg",
+        "tgs": "gifts/bdaycandle/assets/models/fresh-mint.tgs"
+      }
+    },
+    {
+      "name": "Citrus Candy",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/citrus-candy.svg",
+        "tgs": "gifts/bdaycandle/assets/models/citrus-candy.tgs"
+      }
+    },
+    {
+      "name": "Glittery Day",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/glittery-day.svg",
+        "tgs": "gifts/bdaycandle/assets/models/glittery-day.tgs"
+      }
+    },
+    {
+      "name": "Warm Wick",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/warm-wick.svg",
+        "tgs": "gifts/bdaycandle/assets/models/warm-wick.tgs"
+      }
+    },
+    {
+      "name": "Peachy",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/peachy.svg",
+        "tgs": "gifts/bdaycandle/assets/models/peachy.tgs"
+      }
+    },
+    {
+      "name": "Pastel Spark",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/pastel-spark.svg",
+        "tgs": "gifts/bdaycandle/assets/models/pastel-spark.tgs"
+      }
+    },
+    {
+      "name": "Icy Pink",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/icy-pink.svg",
+        "tgs": "gifts/bdaycandle/assets/models/icy-pink.tgs"
+      }
+    },
+    {
+      "name": "Multicolor",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/multicolor.svg",
+        "tgs": "gifts/bdaycandle/assets/models/multicolor.tgs"
+      }
+    },
+    {
+      "name": "Pear Cocktail",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/pear-cocktail.svg",
+        "tgs": "gifts/bdaycandle/assets/models/pear-cocktail.tgs"
+      }
+    },
+    {
+      "name": "Pinky Dream",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/pinky-dream.svg",
+        "tgs": "gifts/bdaycandle/assets/models/pinky-dream.tgs"
+      }
+    },
+    {
+      "name": "Lolipop",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/lolipop.svg",
+        "tgs": "gifts/bdaycandle/assets/models/lolipop.tgs"
+      }
+    },
+    {
+      "name": "Tender Flame",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/tender-flame.svg",
+        "tgs": "gifts/bdaycandle/assets/models/tender-flame.tgs"
+      }
+    },
+    {
+      "name": "Midnight",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/midnight.svg",
+        "tgs": "gifts/bdaycandle/assets/models/midnight.tgs"
+      }
+    },
+    {
+      "name": "Tropicana",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/tropicana.svg",
+        "tgs": "gifts/bdaycandle/assets/models/tropicana.tgs"
+      }
+    },
+    {
+      "name": "Happy Flame",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/happy-flame.svg",
+        "tgs": "gifts/bdaycandle/assets/models/happy-flame.tgs"
+      }
+    },
+    {
+      "name": "Orange Mood",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/orange-mood.svg",
+        "tgs": "gifts/bdaycandle/assets/models/orange-mood.tgs"
+      }
+    },
+    {
+      "name": "Twilight Beam",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/twilight-beam.svg",
+        "tgs": "gifts/bdaycandle/assets/models/twilight-beam.tgs"
+      }
+    },
+    {
+      "name": "Forever Young",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/forever-young.svg",
+        "tgs": "gifts/bdaycandle/assets/models/forever-young.tgs"
+      }
+    },
+    {
+      "name": "Confetti",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/confetti.svg",
+        "tgs": "gifts/bdaycandle/assets/models/confetti.tgs"
+      }
+    },
+    {
+      "name": "Icicle",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/icicle.svg",
+        "tgs": "gifts/bdaycandle/assets/models/icicle.tgs"
+      }
+    },
+    {
+      "name": "Candy Message",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/candy-message.svg",
+        "tgs": "gifts/bdaycandle/assets/models/candy-message.tgs"
+      }
+    },
+    {
+      "name": "Golden Hour",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/golden-hour.svg",
+        "tgs": "gifts/bdaycandle/assets/models/golden-hour.tgs"
+      }
+    },
+    {
+      "name": "Festive",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/festive.svg",
+        "tgs": "gifts/bdaycandle/assets/models/festive.tgs"
+      }
+    },
+    {
+      "name": "Be Awesome!",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/be-awesome.svg",
+        "tgs": "gifts/bdaycandle/assets/models/be-awesome.tgs"
+      }
+    },
+    {
+      "name": "Sweet Glaze",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/sweet-glaze.svg",
+        "tgs": "gifts/bdaycandle/assets/models/sweet-glaze.tgs"
+      }
+    },
+    {
+      "name": "Moon Wish",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/moon-wish.svg",
+        "tgs": "gifts/bdaycandle/assets/models/moon-wish.tgs"
+      }
+    },
+    {
+      "name": "Ice Crackle",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/ice-crackle.svg",
+        "tgs": "gifts/bdaycandle/assets/models/ice-crackle.tgs"
+      }
+    },
+    {
+      "name": "Cheers",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/cheers.svg",
+        "tgs": "gifts/bdaycandle/assets/models/cheers.tgs"
+      }
+    },
+    {
+      "name": "Wax Glow",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/wax-glow.svg",
+        "tgs": "gifts/bdaycandle/assets/models/wax-glow.tgs"
+      }
+    },
+    {
+      "name": "Tropic Dream",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/tropic-dream.svg",
+        "tgs": "gifts/bdaycandle/assets/models/tropic-dream.tgs"
+      }
+    },
+    {
+      "name": "Wee Hours",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/wee-hours.svg",
+        "tgs": "gifts/bdaycandle/assets/models/wee-hours.tgs"
+      }
+    },
+    {
+      "name": "Cotton Candy",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/cotton-candy.svg",
+        "tgs": "gifts/bdaycandle/assets/models/cotton-candy.tgs"
+      }
+    },
+    {
+      "name": "Eternal Glow",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/eternal-glow.svg",
+        "tgs": "gifts/bdaycandle/assets/models/eternal-glow.tgs"
+      }
+    },
+    {
+      "name": "Spring Meadow",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/spring-meadow.svg",
+        "tgs": "gifts/bdaycandle/assets/models/spring-meadow.tgs"
+      }
+    },
+    {
+      "name": "Stardust",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/stardust.svg",
+        "tgs": "gifts/bdaycandle/assets/models/stardust.tgs"
+      }
+    },
+    {
+      "name": "Shine Bright",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/shine-bright.svg",
+        "tgs": "gifts/bdaycandle/assets/models/shine-bright.tgs"
+      }
+    },
+    {
+      "name": "Sugar Party",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/sugar-party.svg",
+        "tgs": "gifts/bdaycandle/assets/models/sugar-party.tgs"
+      }
+    },
+    {
+      "name": "Bright Side",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/bright-side.svg",
+        "tgs": "gifts/bdaycandle/assets/models/bright-side.tgs"
+      }
+    },
+    {
+      "name": "Summer Walk",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/summer-walk.svg",
+        "tgs": "gifts/bdaycandle/assets/models/summer-walk.tgs"
+      }
+    },
+    {
+      "name": "Best Wishes",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/best-wishes.svg",
+        "tgs": "gifts/bdaycandle/assets/models/best-wishes.tgs"
+      }
+    },
+    {
+      "name": "Winter Noon",
+      "assets": {
+        "svg": "gifts/bdaycandle/assets/models/winter-noon.svg",
+        "tgs": "gifts/bdaycandle/assets/models/winter-noon.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/bdaycandle/assets/patterns/star.png"
+      }
+    }
+  ]
+}

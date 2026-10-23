@@ -1,0 +1,2081 @@
+{
+  "slug": "toybear",
+  "models": [
+    {
+      "name": "Golden Cub",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/golden-cub.svg",
+        "tgs": "gifts/toybear/assets/models/golden-cub.tgs"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/diamond.svg",
+        "tgs": "gifts/toybear/assets/models/diamond.tgs"
+      }
+    },
+    {
+      "name": "Dark Knight",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/dark-knight.svg",
+        "tgs": "gifts/toybear/assets/models/dark-knight.tgs"
+      }
+    },
+    {
+      "name": "Deadpool",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/deadpool.svg",
+        "tgs": "gifts/toybear/assets/models/deadpool.tgs"
+      }
+    },
+    {
+      "name": "Ursa Major",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/ursa-major.svg",
+        "tgs": "gifts/toybear/assets/models/ursa-major.tgs"
+      }
+    },
+    {
+      "name": "Blueprint",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/blueprint.svg",
+        "tgs": "gifts/toybear/assets/models/blueprint.tgs"
+      }
+    },
+    {
+      "name": "Lunaris",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/lunaris.svg",
+        "tgs": "gifts/toybear/assets/models/lunaris.tgs"
+      }
+    },
+    {
+      "name": "Matrix",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/matrix.svg",
+        "tgs": "gifts/toybear/assets/models/matrix.tgs"
+      }
+    },
+    {
+      "name": "Copper",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/copper.svg",
+        "tgs": "gifts/toybear/assets/models/copper.tgs"
+      }
+    },
+    {
+      "name": "Lapis Lazuli",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/lapis-lazuli.svg",
+        "tgs": "gifts/toybear/assets/models/lapis-lazuli.tgs"
+      }
+    },
+    {
+      "name": "Wall Street",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/wall-street.svg",
+        "tgs": "gifts/toybear/assets/models/wall-street.tgs"
+      }
+    },
+    {
+      "name": "Chocolate",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/chocolate.svg",
+        "tgs": "gifts/toybear/assets/models/chocolate.tgs"
+      }
+    },
+    {
+      "name": "Dragon Ruby",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/dragon-ruby.svg",
+        "tgs": "gifts/toybear/assets/models/dragon-ruby.tgs"
+      }
+    },
+    {
+      "name": "Fazbear",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/fazbear.svg",
+        "tgs": "gifts/toybear/assets/models/fazbear.tgs"
+      }
+    },
+    {
+      "name": "Pooh",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/pooh.svg",
+        "tgs": "gifts/toybear/assets/models/pooh.tgs"
+      }
+    },
+    {
+      "name": "Kumamon",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/kumamon.svg",
+        "tgs": "gifts/toybear/assets/models/kumamon.tgs"
+      }
+    },
+    {
+      "name": "Angel",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/angel.svg",
+        "tgs": "gifts/toybear/assets/models/angel.tgs"
+      }
+    },
+    {
+      "name": "Rilakkuma",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/rilakkuma.svg",
+        "tgs": "gifts/toybear/assets/models/rilakkuma.tgs"
+      }
+    },
+    {
+      "name": "The Devil",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/the-devil.svg",
+        "tgs": "gifts/toybear/assets/models/the-devil.tgs"
+      }
+    },
+    {
+      "name": "Tiger",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/tiger.svg",
+        "tgs": "gifts/toybear/assets/models/tiger.tgs"
+      }
+    },
+    {
+      "name": "Winnie",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/winnie.svg",
+        "tgs": "gifts/toybear/assets/models/winnie.tgs"
+      }
+    },
+    {
+      "name": "Teddy-800",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/teddy-800.svg",
+        "tgs": "gifts/toybear/assets/models/teddy-800.tgs"
+      }
+    },
+    {
+      "name": "Bumblebear",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/bumblebear.svg",
+        "tgs": "gifts/toybear/assets/models/bumblebear.tgs"
+      }
+    },
+    {
+      "name": "Checkmate",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/checkmate.svg",
+        "tgs": "gifts/toybear/assets/models/checkmate.tgs"
+      }
+    },
+    {
+      "name": "Bearly Visible",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/bearly-visible.svg",
+        "tgs": "gifts/toybear/assets/models/bearly-visible.tgs"
+      }
+    },
+    {
+      "name": "Alter Ego",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/alter-ego.svg",
+        "tgs": "gifts/toybear/assets/models/alter-ego.tgs"
+      }
+    },
+    {
+      "name": "Cuddle",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/cuddle.svg",
+        "tgs": "gifts/toybear/assets/models/cuddle.tgs"
+      }
+    },
+    {
+      "name": "Little Pepe",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/little-pepe.svg",
+        "tgs": "gifts/toybear/assets/models/little-pepe.tgs"
+      }
+    },
+    {
+      "name": "Tricolor",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/tricolor.svg",
+        "tgs": "gifts/toybear/assets/models/tricolor.tgs"
+      }
+    },
+    {
+      "name": "Pajamas",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/pajamas.svg",
+        "tgs": "gifts/toybear/assets/models/pajamas.tgs"
+      }
+    },
+    {
+      "name": "Matroskin",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/matroskin.svg",
+        "tgs": "gifts/toybear/assets/models/matroskin.tgs"
+      }
+    },
+    {
+      "name": "Panda",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/panda.svg",
+        "tgs": "gifts/toybear/assets/models/panda.tgs"
+      }
+    },
+    {
+      "name": "Los Muertos",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/los-muertos.svg",
+        "tgs": "gifts/toybear/assets/models/los-muertos.tgs"
+      }
+    },
+    {
+      "name": "Cowboy",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/cowboy.svg",
+        "tgs": "gifts/toybear/assets/models/cowboy.tgs"
+      }
+    },
+    {
+      "name": "Cozy Boy",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/cozy-boy.svg",
+        "tgs": "gifts/toybear/assets/models/cozy-boy.tgs"
+      }
+    },
+    {
+      "name": "Contractor",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/contractor.svg",
+        "tgs": "gifts/toybear/assets/models/contractor.tgs"
+      }
+    },
+    {
+      "name": "Panda Cow",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/panda-cow.svg",
+        "tgs": "gifts/toybear/assets/models/panda-cow.tgs"
+      }
+    },
+    {
+      "name": "Toady Bear",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/toady-bear.svg",
+        "tgs": "gifts/toybear/assets/models/toady-bear.tgs"
+      }
+    },
+    {
+      "name": "Tuxedo",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/tuxedo.svg",
+        "tgs": "gifts/toybear/assets/models/tuxedo.tgs"
+      }
+    },
+    {
+      "name": "Color Switch",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/color-switch.svg",
+        "tgs": "gifts/toybear/assets/models/color-switch.tgs"
+      }
+    },
+    {
+      "name": "Graduate",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/graduate.svg",
+        "tgs": "gifts/toybear/assets/models/graduate.tgs"
+      }
+    },
+    {
+      "name": "Macchiato",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/macchiato.svg",
+        "tgs": "gifts/toybear/assets/models/macchiato.tgs"
+      }
+    },
+    {
+      "name": "Wizard",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/wizard.svg",
+        "tgs": "gifts/toybear/assets/models/wizard.tgs"
+      }
+    },
+    {
+      "name": "Froggo",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/froggo.svg",
+        "tgs": "gifts/toybear/assets/models/froggo.tgs"
+      }
+    },
+    {
+      "name": "Snowman",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/snowman.svg",
+        "tgs": "gifts/toybear/assets/models/snowman.tgs"
+      }
+    },
+    {
+      "name": "Zebra",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/zebra.svg",
+        "tgs": "gifts/toybear/assets/models/zebra.tgs"
+      }
+    },
+    {
+      "name": "Polygon",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/polygon.svg",
+        "tgs": "gifts/toybear/assets/models/polygon.tgs"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/watermelon.svg",
+        "tgs": "gifts/toybear/assets/models/watermelon.tgs"
+      }
+    },
+    {
+      "name": "Nurse",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/nurse.svg",
+        "tgs": "gifts/toybear/assets/models/nurse.tgs"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/polar-bear.svg",
+        "tgs": "gifts/toybear/assets/models/polar-bear.tgs"
+      }
+    },
+    {
+      "name": "Night Cub",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/night-cub.svg",
+        "tgs": "gifts/toybear/assets/models/night-cub.tgs"
+      }
+    },
+    {
+      "name": "Cotton",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/cotton.svg",
+        "tgs": "gifts/toybear/assets/models/cotton.tgs"
+      }
+    },
+    {
+      "name": "Citrus",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/citrus.svg",
+        "tgs": "gifts/toybear/assets/models/citrus.tgs"
+      }
+    },
+    {
+      "name": "Viola Pansy",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/viola-pansy.svg",
+        "tgs": "gifts/toybear/assets/models/viola-pansy.tgs"
+      }
+    },
+    {
+      "name": "Noir Et Rose",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/noir-et-rose.svg",
+        "tgs": "gifts/toybear/assets/models/noir-et-rose.tgs"
+      }
+    },
+    {
+      "name": "Pink Doodle",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/pink-doodle.svg",
+        "tgs": "gifts/toybear/assets/models/pink-doodle.tgs"
+      }
+    },
+    {
+      "name": "Blueberry",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/blueberry.svg",
+        "tgs": "gifts/toybear/assets/models/blueberry.tgs"
+      }
+    },
+    {
+      "name": "Purple Heart",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/purple-heart.svg",
+        "tgs": "gifts/toybear/assets/models/purple-heart.tgs"
+      }
+    },
+    {
+      "name": "El Rojo",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/el-rojo.svg",
+        "tgs": "gifts/toybear/assets/models/el-rojo.tgs"
+      }
+    },
+    {
+      "name": "Skittles",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/skittles.svg",
+        "tgs": "gifts/toybear/assets/models/skittles.tgs"
+      }
+    },
+    {
+      "name": "Circus Bear",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/circus-bear.svg",
+        "tgs": "gifts/toybear/assets/models/circus-bear.tgs"
+      }
+    },
+    {
+      "name": "Coral Reef",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/coral-reef.svg",
+        "tgs": "gifts/toybear/assets/models/coral-reef.tgs"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/cherry.svg",
+        "tgs": "gifts/toybear/assets/models/cherry.tgs"
+      }
+    },
+    {
+      "name": "Malibu",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/malibu.svg",
+        "tgs": "gifts/toybear/assets/models/malibu.tgs"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/pineapple.svg",
+        "tgs": "gifts/toybear/assets/models/pineapple.tgs"
+      }
+    },
+    {
+      "name": "Red Velvet",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/red-velvet.svg",
+        "tgs": "gifts/toybear/assets/models/red-velvet.tgs"
+      }
+    },
+    {
+      "name": "Blue Dandy",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/blue-dandy.svg",
+        "tgs": "gifts/toybear/assets/models/blue-dandy.tgs"
+      }
+    },
+    {
+      "name": "Pink Cactus",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/pink-cactus.svg",
+        "tgs": "gifts/toybear/assets/models/pink-cactus.tgs"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/carrot.svg",
+        "tgs": "gifts/toybear/assets/models/carrot.tgs"
+      }
+    },
+    {
+      "name": "Peanut",
+      "assets": {
+        "svg": "gifts/toybear/assets/models/peanut.svg",
+        "tgs": "gifts/toybear/assets/models/peanut.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Love Mug",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-mug.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Love",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Sweets Box",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/sweets-box.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Rabbit",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/rabbit.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Lovely Rain",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lovely-rain.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Handcuffs",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/handcuffs.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Love Daisy",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-daisy.png"
+      }
+    },
+    {
+      "name": "Loving Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/loving-heart.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Cute Paw",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cute-paw.png"
+      }
+    },
+    {
+      "name": "Lips",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lips.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Water Drops",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/water-drops.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Cupid",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cupid.png"
+      }
+    },
+    {
+      "name": "Headband",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/headband.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "February 14",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/february-14.png"
+      }
+    },
+    {
+      "name": "Blossom",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/blossom.png"
+      }
+    },
+    {
+      "name": "Flying Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/flying-heart.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Love Puzzle",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-puzzle.png"
+      }
+    },
+    {
+      "name": "Flaming Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/flaming-heart.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Neko Mask",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/neko-mask.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Padlock",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/padlock.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Spicy Chilli",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/spicy-chilli.png"
+      }
+    },
+    {
+      "name": "Heart Ring",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heart-ring.png"
+      }
+    },
+    {
+      "name": "Loveberry",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/loveberry.png"
+      }
+    },
+    {
+      "name": "Succubus",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/succubus.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Romantic Cake",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/romantic-cake.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Cute Bear",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cute-bear.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Tic-Tac-Toe",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/tic-tac-toe.png"
+      }
+    },
+    {
+      "name": "Love Scene",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-scene.png"
+      }
+    },
+    {
+      "name": "Love Cherry",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-cherry.png"
+      }
+    },
+    {
+      "name": "Heart Box",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heart-box.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Kitty Cat",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/kitty-cat.png"
+      }
+    },
+    {
+      "name": "Heart Shades",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heart-shades.png"
+      }
+    },
+    {
+      "name": "Lovely Rose",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lovely-rose.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Cupid’s Bow",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cupid-s-bow.png"
+      }
+    },
+    {
+      "name": "Wine Toast",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/wine-toast.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Shiny Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/shiny-heart.png"
+      }
+    },
+    {
+      "name": "Angelic Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/angelic-heart.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Lovebirds",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lovebirds.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Flag",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/flag.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Lingerie",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lingerie.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Heart Donut",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heart-donut.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Two Hearts",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/two-hearts.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Mars & Venus",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/mars-venus.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Aubergine",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/aubergine.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Rainbow",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/rainbow.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Patched Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/patched-heart.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Paw Print",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/paw-print.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Amour Scoops",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/amour-scoops.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Butterfly",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/butterfly.png"
+      }
+    },
+    {
+      "name": "Balloon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/balloon.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Lovely Bra",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lovely-bra.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Valentine",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/valentine.png"
+      }
+    },
+    {
+      "name": "Pigeon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pigeon.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Love Berry",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-berry.png"
+      }
+    },
+    {
+      "name": "Fluffy Wolf",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/fluffy-wolf.png"
+      }
+    },
+    {
+      "name": "Heart Lock",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heart-lock.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Passion Latte",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/passion-latte.png"
+      }
+    },
+    {
+      "name": "Rabbit Mask",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/rabbit-mask.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Napkins",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/napkins.png"
+      }
+    },
+    {
+      "name": "Love Bulb",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-bulb.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Love Candy",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-candy.png"
+      }
+    },
+    {
+      "name": "Like Button",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/like-button.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Love Dove",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-dove.png"
+      }
+    },
+    {
+      "name": "Cupid Archer",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cupid-archer.png"
+      }
+    },
+    {
+      "name": "Hearts",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/hearts.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Heart Glasses",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heart-glasses.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Rose Blossom",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/rose-blossom.png"
+      }
+    },
+    {
+      "name": "Ace Of Hearts",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/ace-of-hearts.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Broken Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/broken-heart.png"
+      }
+    },
+    {
+      "name": "Pixel Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pixel-heart.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Tongue",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/tongue.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Double Bed",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/double-bed.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Party Popper",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/party-popper.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Little Cupid",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/little-cupid.png"
+      }
+    },
+    {
+      "name": "Lovely Key",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lovely-key.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Gift",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/gift.png"
+      }
+    },
+    {
+      "name": "Muffin",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/muffin.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Cunning Fox",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cunning-fox.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Love Potion",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-potion.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Cake",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cake.png"
+      }
+    },
+    {
+      "name": "Love Bell",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-bell.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Heartbeat",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heartbeat.png"
+      }
+    },
+    {
+      "name": "Bouquet",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bouquet.png"
+      }
+    },
+    {
+      "name": "Chocolate",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/chocolate.png"
+      }
+    },
+    {
+      "name": "Pierced Heart",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pierced-heart.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Panty",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/panty.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Heart Balloon",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/heart-balloon.png"
+      }
+    },
+    {
+      "name": "Mailbox",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/mailbox.png"
+      }
+    },
+    {
+      "name": "Monarch",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/monarch.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Stilettos",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/stilettos.png"
+      }
+    },
+    {
+      "name": "Cupid’s Arrow",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cupid-s-arrow.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Date Pin",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/date-pin.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Flirty Message",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/flirty-message.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Lovestruck",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/lovestruck.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Teddy Bear",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/teddy-bear.png"
+      }
+    },
+    {
+      "name": "Angel",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/angel.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/toybear/assets/patterns/cocktail.png"
+      }
+    }
+  ]
+}

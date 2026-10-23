@@ -1,0 +1,1407 @@
+{
+  "slug": "swagbag",
+  "models": [
+    {
+      "name": "Cashback",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/cashback.svg",
+        "tgs": "gifts/swagbag/assets/models/cashback.tgs"
+      }
+    },
+    {
+      "name": "Cookie Dude",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/cookie-dude.svg",
+        "tgs": "gifts/swagbag/assets/models/cookie-dude.tgs"
+      }
+    },
+    {
+      "name": "Gin & Jewels",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/gin-jewels.svg",
+        "tgs": "gifts/swagbag/assets/models/gin-jewels.tgs"
+      }
+    },
+    {
+      "name": "Happy Herbs",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/happy-herbs.svg",
+        "tgs": "gifts/swagbag/assets/models/happy-herbs.tgs"
+      }
+    },
+    {
+      "name": "Missionary",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/missionary.svg",
+        "tgs": "gifts/swagbag/assets/models/missionary.tgs"
+      }
+    },
+    {
+      "name": "Snoop Life",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/snoop-life.svg",
+        "tgs": "gifts/swagbag/assets/models/snoop-life.tgs"
+      }
+    },
+    {
+      "name": "Blind Bag",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/blind-bag.svg",
+        "tgs": "gifts/swagbag/assets/models/blind-bag.tgs"
+      }
+    },
+    {
+      "name": "Darkness",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/darkness.svg",
+        "tgs": "gifts/swagbag/assets/models/darkness.tgs"
+      }
+    },
+    {
+      "name": "Golden Nugs",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/golden-nugs.svg",
+        "tgs": "gifts/swagbag/assets/models/golden-nugs.tgs"
+      }
+    },
+    {
+      "name": "Leopard",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/leopard.svg",
+        "tgs": "gifts/swagbag/assets/models/leopard.tgs"
+      }
+    },
+    {
+      "name": "P.I.M.P.",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/p-i-m-p.svg",
+        "tgs": "gifts/swagbag/assets/models/p-i-m-p.tgs"
+      }
+    },
+    {
+      "name": "The Last Meal",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/the-last-meal.svg",
+        "tgs": "gifts/swagbag/assets/models/the-last-meal.tgs"
+      }
+    },
+    {
+      "name": "Doll Buttons",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/doll-buttons.svg",
+        "tgs": "gifts/swagbag/assets/models/doll-buttons.tgs"
+      }
+    },
+    {
+      "name": "Snoop S",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/snoop-s.svg",
+        "tgs": "gifts/swagbag/assets/models/snoop-s.tgs"
+      }
+    },
+    {
+      "name": "Stack Pack",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/stack-pack.svg",
+        "tgs": "gifts/swagbag/assets/models/stack-pack.tgs"
+      }
+    },
+    {
+      "name": "April 20th",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/april-20th.svg",
+        "tgs": "gifts/swagbag/assets/models/april-20th.tgs"
+      }
+    },
+    {
+      "name": "Aviators",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/aviators.svg",
+        "tgs": "gifts/swagbag/assets/models/aviators.tgs"
+      }
+    },
+    {
+      "name": "Baggy Bag",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/baggy-bag.svg",
+        "tgs": "gifts/swagbag/assets/models/baggy-bag.tgs"
+      }
+    },
+    {
+      "name": "Boiling Hot",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/boiling-hot.svg",
+        "tgs": "gifts/swagbag/assets/models/boiling-hot.tgs"
+      }
+    },
+    {
+      "name": "Bulk Order",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/bulk-order.svg",
+        "tgs": "gifts/swagbag/assets/models/bulk-order.tgs"
+      }
+    },
+    {
+      "name": "Candy Shop",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/candy-shop.svg",
+        "tgs": "gifts/swagbag/assets/models/candy-shop.tgs"
+      }
+    },
+    {
+      "name": "Doggy Doggs",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/doggy-doggs.svg",
+        "tgs": "gifts/swagbag/assets/models/doggy-doggs.tgs"
+      }
+    },
+    {
+      "name": "Doggystyle",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/doggystyle.svg",
+        "tgs": "gifts/swagbag/assets/models/doggystyle.tgs"
+      }
+    },
+    {
+      "name": "Fish Hat",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/fish-hat.svg",
+        "tgs": "gifts/swagbag/assets/models/fish-hat.tgs"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/money-bag.svg",
+        "tgs": "gifts/swagbag/assets/models/money-bag.tgs"
+      }
+    },
+    {
+      "name": "Muffins",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/muffins.svg",
+        "tgs": "gifts/swagbag/assets/models/muffins.tgs"
+      }
+    },
+    {
+      "name": "Platinum 8",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/platinum-8.svg",
+        "tgs": "gifts/swagbag/assets/models/platinum-8.tgs"
+      }
+    },
+    {
+      "name": "Shuffle",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/shuffle.svg",
+        "tgs": "gifts/swagbag/assets/models/shuffle.tgs"
+      }
+    },
+    {
+      "name": "Take It Easy",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/take-it-easy.svg",
+        "tgs": "gifts/swagbag/assets/models/take-it-easy.tgs"
+      }
+    },
+    {
+      "name": "Walk Of Fame",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/walk-of-fame.svg",
+        "tgs": "gifts/swagbag/assets/models/walk-of-fame.tgs"
+      }
+    },
+    {
+      "name": "West Toast",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/west-toast.svg",
+        "tgs": "gifts/swagbag/assets/models/west-toast.tgs"
+      }
+    },
+    {
+      "name": "Bark & Tag",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/bark-tag.svg",
+        "tgs": "gifts/swagbag/assets/models/bark-tag.tgs"
+      }
+    },
+    {
+      "name": "Crook To Cook",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/crook-to-cook.svg",
+        "tgs": "gifts/swagbag/assets/models/crook-to-cook.tgs"
+      }
+    },
+    {
+      "name": "Purple Smoke",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/purple-smoke.svg",
+        "tgs": "gifts/swagbag/assets/models/purple-smoke.tgs"
+      }
+    },
+    {
+      "name": "Rastafari",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/rastafari.svg",
+        "tgs": "gifts/swagbag/assets/models/rastafari.tgs"
+      }
+    },
+    {
+      "name": "Serious Dude",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/serious-dude.svg",
+        "tgs": "gifts/swagbag/assets/models/serious-dude.tgs"
+      }
+    },
+    {
+      "name": "Tag Bag",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/tag-bag.svg",
+        "tgs": "gifts/swagbag/assets/models/tag-bag.tgs"
+      }
+    },
+    {
+      "name": "Choco Doggs",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/choco-doggs.svg",
+        "tgs": "gifts/swagbag/assets/models/choco-doggs.tgs"
+      }
+    },
+    {
+      "name": "Choco Kush",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/choco-kush.svg",
+        "tgs": "gifts/swagbag/assets/models/choco-kush.tgs"
+      }
+    },
+    {
+      "name": "Dogg Treats",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/dogg-treats.svg",
+        "tgs": "gifts/swagbag/assets/models/dogg-treats.tgs"
+      }
+    },
+    {
+      "name": "Dogg’s Loot",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/dogg-s-loot.svg",
+        "tgs": "gifts/swagbag/assets/models/dogg-s-loot.tgs"
+      }
+    },
+    {
+      "name": "Gin and Juice",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/gin-and-juice.svg",
+        "tgs": "gifts/swagbag/assets/models/gin-and-juice.tgs"
+      }
+    },
+    {
+      "name": "Gummies",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/gummies.svg",
+        "tgs": "gifts/swagbag/assets/models/gummies.tgs"
+      }
+    },
+    {
+      "name": "Hop Corn",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/hop-corn.svg",
+        "tgs": "gifts/swagbag/assets/models/hop-corn.tgs"
+      }
+    },
+    {
+      "name": "Lollipops",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/lollipops.svg",
+        "tgs": "gifts/swagbag/assets/models/lollipops.tgs"
+      }
+    },
+    {
+      "name": "Platinum Drip",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/platinum-drip.svg",
+        "tgs": "gifts/swagbag/assets/models/platinum-drip.tgs"
+      }
+    },
+    {
+      "name": "Smokefest",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/smokefest.svg",
+        "tgs": "gifts/swagbag/assets/models/smokefest.tgs"
+      }
+    },
+    {
+      "name": "Snoopcoins",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/snoopcoins.svg",
+        "tgs": "gifts/swagbag/assets/models/snoopcoins.tgs"
+      }
+    },
+    {
+      "name": "Spicy Onion",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/spicy-onion.svg",
+        "tgs": "gifts/swagbag/assets/models/spicy-onion.tgs"
+      }
+    },
+    {
+      "name": "Lemon Pepper",
+      "assets": {
+        "svg": "gifts/swagbag/assets/models/lemon-pepper.svg",
+        "tgs": "gifts/swagbag/assets/models/lemon-pepper.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Swag Bandana",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/swag-bandana.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Doctor Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/doctor-hat.png"
+      }
+    },
+    {
+      "name": "Boombox",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/boombox.png"
+      }
+    },
+    {
+      "name": "Head Scarf",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/head-scarf.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Los Angeles",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/los-angeles.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Revolver",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/revolver.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Paw Print",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/paw-print.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Blunt",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/blunt.png"
+      }
+    },
+    {
+      "name": "Palm Trees",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/palm-trees.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Winter Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/winter-hat.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Wepwawet",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/wepwawet.png"
+      }
+    },
+    {
+      "name": "Wontons",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/wontons.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "213",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/213.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Beanie",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/beanie.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/pilot-hat.png"
+      }
+    },
+    {
+      "name": "Rap Sign",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/rap-sign.png"
+      }
+    },
+    {
+      "name": "Snoop Collar",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/snoop-collar.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Cute Paw",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cute-paw.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Headphones",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/headphones.png"
+      }
+    },
+    {
+      "name": "Spray Paint",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/spray-paint.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Panty",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/panty.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Arcane Mirror",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/arcane-mirror.png"
+      }
+    },
+    {
+      "name": "Ushanka",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/ushanka.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Chef Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/chef-hat.png"
+      }
+    },
+    {
+      "name": "Westside Hand",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/westside-hand.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Black Bandana",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/black-bandana.png"
+      }
+    },
+    {
+      "name": "Rap Mic",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/rap-mic.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Beretta",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/beretta.png"
+      }
+    },
+    {
+      "name": "Bong",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/bong.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Ancient Urn",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/ancient-urn.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Low Rider",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/low-rider.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Hip-Hop",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/hip-hop.png"
+      }
+    },
+    {
+      "name": "Loudspeaker",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/loudspeaker.png"
+      }
+    },
+    {
+      "name": "Music Skull",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/music-skull.png"
+      }
+    },
+    {
+      "name": "Cash Cap",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cash-cap.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Snoop Leaf",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/snoop-leaf.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Brass Knuckles",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/brass-knuckles.png"
+      }
+    },
+    {
+      "name": "Desert Eagle",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/desert-eagle.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Royal Turban",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/royal-turban.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Easter Bunny",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/easter-bunny.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "UZI",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/uzi.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Vinyl Record",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/vinyl-record.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Snoop Logo",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/snoop-logo.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Dollar Graffiti",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/dollar-graffiti.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Yo Sign",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/yo-sign.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Paisley",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/paisley.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Pro Headphones",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/pro-headphones.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/swagbag/assets/patterns/gold.png"
+      }
+    }
+  ]
+}

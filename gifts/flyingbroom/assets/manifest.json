@@ -1,0 +1,1185 @@
+{
+  "slug": "flyingbroom",
+  "models": [
+    {
+      "name": "Slytherin",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/slytherin.svg",
+        "tgs": "gifts/flyingbroom/assets/models/slytherin.tgs"
+      }
+    },
+    {
+      "name": "Gryffindor",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/gryffindor.svg",
+        "tgs": "gifts/flyingbroom/assets/models/gryffindor.tgs"
+      }
+    },
+    {
+      "name": "Thunder",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/thunder.svg",
+        "tgs": "gifts/flyingbroom/assets/models/thunder.tgs"
+      }
+    },
+    {
+      "name": "Hulk Juice",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/hulk-juice.svg",
+        "tgs": "gifts/flyingbroom/assets/models/hulk-juice.tgs"
+      }
+    },
+    {
+      "name": "Hufflepuff",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/hufflepuff.svg",
+        "tgs": "gifts/flyingbroom/assets/models/hufflepuff.tgs"
+      }
+    },
+    {
+      "name": "Unreliable",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/unreliable.svg",
+        "tgs": "gifts/flyingbroom/assets/models/unreliable.tgs"
+      }
+    },
+    {
+      "name": "Fire Flight",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/fire-flight.svg",
+        "tgs": "gifts/flyingbroom/assets/models/fire-flight.tgs"
+      }
+    },
+    {
+      "name": "Bunsen Burner",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/bunsen-burner.svg",
+        "tgs": "gifts/flyingbroom/assets/models/bunsen-burner.tgs"
+      }
+    },
+    {
+      "name": "Zippy Hearts",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/zippy-hearts.svg",
+        "tgs": "gifts/flyingbroom/assets/models/zippy-hearts.tgs"
+      }
+    },
+    {
+      "name": "Emergency",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/emergency.svg",
+        "tgs": "gifts/flyingbroom/assets/models/emergency.tgs"
+      }
+    },
+    {
+      "name": "Butterflight",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/butterflight.svg",
+        "tgs": "gifts/flyingbroom/assets/models/butterflight.tgs"
+      }
+    },
+    {
+      "name": "Ravenclaw",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/ravenclaw.svg",
+        "tgs": "gifts/flyingbroom/assets/models/ravenclaw.tgs"
+      }
+    },
+    {
+      "name": "Sub-Zero",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/sub-zero.svg",
+        "tgs": "gifts/flyingbroom/assets/models/sub-zero.tgs"
+      }
+    },
+    {
+      "name": "Lightspeed",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/lightspeed.svg",
+        "tgs": "gifts/flyingbroom/assets/models/lightspeed.tgs"
+      }
+    },
+    {
+      "name": "Visionary",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/visionary.svg",
+        "tgs": "gifts/flyingbroom/assets/models/visionary.tgs"
+      }
+    },
+    {
+      "name": "Red Rotation",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/red-rotation.svg",
+        "tgs": "gifts/flyingbroom/assets/models/red-rotation.tgs"
+      }
+    },
+    {
+      "name": "Bubble Broom",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/bubble-broom.svg",
+        "tgs": "gifts/flyingbroom/assets/models/bubble-broom.tgs"
+      }
+    },
+    {
+      "name": "Berry Blaster",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/berry-blaster.svg",
+        "tgs": "gifts/flyingbroom/assets/models/berry-blaster.tgs"
+      }
+    },
+    {
+      "name": "Bunny Broom",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/bunny-broom.svg",
+        "tgs": "gifts/flyingbroom/assets/models/bunny-broom.tgs"
+      }
+    },
+    {
+      "name": "Santa’s Stick",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/santa-s-stick.svg",
+        "tgs": "gifts/flyingbroom/assets/models/santa-s-stick.tgs"
+      }
+    },
+    {
+      "name": "Sleep Sweeper",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/sleep-sweeper.svg",
+        "tgs": "gifts/flyingbroom/assets/models/sleep-sweeper.tgs"
+      }
+    },
+    {
+      "name": "Finish Line",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/finish-line.svg",
+        "tgs": "gifts/flyingbroom/assets/models/finish-line.tgs"
+      }
+    },
+    {
+      "name": "Glitch Witch",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/glitch-witch.svg",
+        "tgs": "gifts/flyingbroom/assets/models/glitch-witch.tgs"
+      }
+    },
+    {
+      "name": "Green Dragon",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/green-dragon.svg",
+        "tgs": "gifts/flyingbroom/assets/models/green-dragon.tgs"
+      }
+    },
+    {
+      "name": "RGB Branch",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/rgb-branch.svg",
+        "tgs": "gifts/flyingbroom/assets/models/rgb-branch.tgs"
+      }
+    },
+    {
+      "name": "Scribbler",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/scribbler.svg",
+        "tgs": "gifts/flyingbroom/assets/models/scribbler.tgs"
+      }
+    },
+    {
+      "name": "Vineyard",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/vineyard.svg",
+        "tgs": "gifts/flyingbroom/assets/models/vineyard.tgs"
+      }
+    },
+    {
+      "name": "Chroma",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/chroma.svg",
+        "tgs": "gifts/flyingbroom/assets/models/chroma.tgs"
+      }
+    },
+    {
+      "name": "Zig-Zag",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/zig-zag.svg",
+        "tgs": "gifts/flyingbroom/assets/models/zig-zag.tgs"
+      }
+    },
+    {
+      "name": "Graveyard",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/graveyard.svg",
+        "tgs": "gifts/flyingbroom/assets/models/graveyard.tgs"
+      }
+    },
+    {
+      "name": "Mint Sprint",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/mint-sprint.svg",
+        "tgs": "gifts/flyingbroom/assets/models/mint-sprint.tgs"
+      }
+    },
+    {
+      "name": "Slime Time",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/slime-time.svg",
+        "tgs": "gifts/flyingbroom/assets/models/slime-time.tgs"
+      }
+    },
+    {
+      "name": "Pop Art",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/pop-art.svg",
+        "tgs": "gifts/flyingbroom/assets/models/pop-art.tgs"
+      }
+    },
+    {
+      "name": "Rosy Rocket",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/rosy-rocket.svg",
+        "tgs": "gifts/flyingbroom/assets/models/rosy-rocket.tgs"
+      }
+    },
+    {
+      "name": "Dusk Duster",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/dusk-duster.svg",
+        "tgs": "gifts/flyingbroom/assets/models/dusk-duster.tgs"
+      }
+    },
+    {
+      "name": "Nimbus",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/nimbus.svg",
+        "tgs": "gifts/flyingbroom/assets/models/nimbus.tgs"
+      }
+    },
+    {
+      "name": "Warm Oak",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/warm-oak.svg",
+        "tgs": "gifts/flyingbroom/assets/models/warm-oak.tgs"
+      }
+    },
+    {
+      "name": "Dark Pine",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/dark-pine.svg",
+        "tgs": "gifts/flyingbroom/assets/models/dark-pine.tgs"
+      }
+    },
+    {
+      "name": "Color Shift",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/color-shift.svg",
+        "tgs": "gifts/flyingbroom/assets/models/color-shift.tgs"
+      }
+    },
+    {
+      "name": "Colorless",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/colorless.svg",
+        "tgs": "gifts/flyingbroom/assets/models/colorless.tgs"
+      }
+    },
+    {
+      "name": "Pearl Whirl",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/pearl-whirl.svg",
+        "tgs": "gifts/flyingbroom/assets/models/pearl-whirl.tgs"
+      }
+    },
+    {
+      "name": "Yellowtail",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/yellowtail.svg",
+        "tgs": "gifts/flyingbroom/assets/models/yellowtail.tgs"
+      }
+    },
+    {
+      "name": "Tokyo Torch",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/tokyo-torch.svg",
+        "tgs": "gifts/flyingbroom/assets/models/tokyo-torch.tgs"
+      }
+    },
+    {
+      "name": "Pink Plume",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/pink-plume.svg",
+        "tgs": "gifts/flyingbroom/assets/models/pink-plume.tgs"
+      }
+    },
+    {
+      "name": "Bronze Dash",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/bronze-dash.svg",
+        "tgs": "gifts/flyingbroom/assets/models/bronze-dash.tgs"
+      }
+    },
+    {
+      "name": "Hextech",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/hextech.svg",
+        "tgs": "gifts/flyingbroom/assets/models/hextech.tgs"
+      }
+    },
+    {
+      "name": "Magic Mop",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/magic-mop.svg",
+        "tgs": "gifts/flyingbroom/assets/models/magic-mop.tgs"
+      }
+    },
+    {
+      "name": "Green Machine",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/green-machine.svg",
+        "tgs": "gifts/flyingbroom/assets/models/green-machine.tgs"
+      }
+    },
+    {
+      "name": "Stealth Sweep",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/stealth-sweep.svg",
+        "tgs": "gifts/flyingbroom/assets/models/stealth-sweep.tgs"
+      }
+    },
+    {
+      "name": "Emoji Engine",
+      "assets": {
+        "svg": "gifts/flyingbroom/assets/models/emoji-engine.svg",
+        "tgs": "gifts/flyingbroom/assets/models/emoji-engine.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Eyeball",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/eyeball.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Crow",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/crow.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Nice Ghost",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/nice-ghost.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Treats",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/treats.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Jaws",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/jaws.png"
+      }
+    },
+    {
+      "name": "Gravestone",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/gravestone.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Witch’s Hat",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/witch-s-hat.png"
+      }
+    },
+    {
+      "name": "Night Bats",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/night-bats.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Grim Reaper",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/grim-reaper.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Flying Witch",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/flying-witch.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Scarecrow",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/scarecrow.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Bloody Axe",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/bloody-axe.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Human Scull",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/human-scull.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Voodoo Doll",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/voodoo-doll.png"
+      }
+    },
+    {
+      "name": "Cauldron",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/cauldron.png"
+      }
+    },
+    {
+      "name": "Autumn Leaves",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/autumn-leaves.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Evil Pumpkin",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/evil-pumpkin.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Poison Drop",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/poison-drop.png"
+      }
+    },
+    {
+      "name": "Happy Smile",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/happy-smile.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Black Widow",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/black-widow.png"
+      }
+    },
+    {
+      "name": "Severed Hand",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/severed-hand.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Spooky Cat",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/spooky-cat.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Half Moon",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/half-moon.png"
+      }
+    },
+    {
+      "name": "Coffin",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/coffin.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Lollipop",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/lollipop.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/flyingbroom/assets/patterns/musical-note.png"
+      }
+    }
+  ]
+}

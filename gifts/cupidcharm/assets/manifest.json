@@ -1,0 +1,1557 @@
+{
+  "slug": "cupidcharm",
+  "models": [
+    {
+      "name": "Antique",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/antique.svg",
+        "tgs": "gifts/cupidcharm/assets/models/antique.tgs"
+      }
+    },
+    {
+      "name": "Cogwheel",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/cogwheel.svg",
+        "tgs": "gifts/cupidcharm/assets/models/cogwheel.tgs"
+      }
+    },
+    {
+      "name": "Dryad Heart",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/dryad-heart.svg",
+        "tgs": "gifts/cupidcharm/assets/models/dryad-heart.tgs"
+      }
+    },
+    {
+      "name": "Ice Glass",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/ice-glass.svg",
+        "tgs": "gifts/cupidcharm/assets/models/ice-glass.tgs"
+      }
+    },
+    {
+      "name": "Moon Prism",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/moon-prism.svg",
+        "tgs": "gifts/cupidcharm/assets/models/moon-prism.tgs"
+      }
+    },
+    {
+      "name": "Faerie",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/faerie.svg",
+        "tgs": "gifts/cupidcharm/assets/models/faerie.tgs"
+      }
+    },
+    {
+      "name": "Golden Lace",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/golden-lace.svg",
+        "tgs": "gifts/cupidcharm/assets/models/golden-lace.tgs"
+      }
+    },
+    {
+      "name": "Gothic Core",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/gothic-core.svg",
+        "tgs": "gifts/cupidcharm/assets/models/gothic-core.tgs"
+      }
+    },
+    {
+      "name": "Pepe Love",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/pepe-love.svg",
+        "tgs": "gifts/cupidcharm/assets/models/pepe-love.tgs"
+      }
+    },
+    {
+      "name": "Sorceress",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/sorceress.svg",
+        "tgs": "gifts/cupidcharm/assets/models/sorceress.tgs"
+      }
+    },
+    {
+      "name": "Blossom",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/blossom.svg",
+        "tgs": "gifts/cupidcharm/assets/models/blossom.tgs"
+      }
+    },
+    {
+      "name": "Cursed Room",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/cursed-room.svg",
+        "tgs": "gifts/cupidcharm/assets/models/cursed-room.tgs"
+      }
+    },
+    {
+      "name": "Jewels",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/jewels.svg",
+        "tgs": "gifts/cupidcharm/assets/models/jewels.tgs"
+      }
+    },
+    {
+      "name": "Lockpicking",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/lockpicking.svg",
+        "tgs": "gifts/cupidcharm/assets/models/lockpicking.tgs"
+      }
+    },
+    {
+      "name": "Mistress",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/mistress.svg",
+        "tgs": "gifts/cupidcharm/assets/models/mistress.tgs"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/puzzle.svg",
+        "tgs": "gifts/cupidcharm/assets/models/puzzle.tgs"
+      }
+    },
+    {
+      "name": "Titanic",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/titanic.svg",
+        "tgs": "gifts/cupidcharm/assets/models/titanic.tgs"
+      }
+    },
+    {
+      "name": "Broken Heart",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/broken-heart.svg",
+        "tgs": "gifts/cupidcharm/assets/models/broken-heart.tgs"
+      }
+    },
+    {
+      "name": "Burning Love",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/burning-love.svg",
+        "tgs": "gifts/cupidcharm/assets/models/burning-love.tgs"
+      }
+    },
+    {
+      "name": "Comics",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/comics.svg",
+        "tgs": "gifts/cupidcharm/assets/models/comics.tgs"
+      }
+    },
+    {
+      "name": "Cupid Pay",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/cupid-pay.svg",
+        "tgs": "gifts/cupidcharm/assets/models/cupid-pay.tgs"
+      }
+    },
+    {
+      "name": "Filigree",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/filigree.svg",
+        "tgs": "gifts/cupidcharm/assets/models/filigree.tgs"
+      }
+    },
+    {
+      "name": "Moulin Rouge",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/moulin-rouge.svg",
+        "tgs": "gifts/cupidcharm/assets/models/moulin-rouge.tgs"
+      }
+    },
+    {
+      "name": "Purple Glow",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/purple-glow.svg",
+        "tgs": "gifts/cupidcharm/assets/models/purple-glow.tgs"
+      }
+    },
+    {
+      "name": "Ribbons",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/ribbons.svg",
+        "tgs": "gifts/cupidcharm/assets/models/ribbons.tgs"
+      }
+    },
+    {
+      "name": "Surgery",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/surgery.svg",
+        "tgs": "gifts/cupidcharm/assets/models/surgery.tgs"
+      }
+    },
+    {
+      "name": "Vault",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/vault.svg",
+        "tgs": "gifts/cupidcharm/assets/models/vault.tgs"
+      }
+    },
+    {
+      "name": "Web Locket",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/web-locket.svg",
+        "tgs": "gifts/cupidcharm/assets/models/web-locket.tgs"
+      }
+    },
+    {
+      "name": "Azure Gem",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/azure-gem.svg",
+        "tgs": "gifts/cupidcharm/assets/models/azure-gem.tgs"
+      }
+    },
+    {
+      "name": "Cheetah",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/cheetah.svg",
+        "tgs": "gifts/cupidcharm/assets/models/cheetah.tgs"
+      }
+    },
+    {
+      "name": "Crystal Clear",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/crystal-clear.svg",
+        "tgs": "gifts/cupidcharm/assets/models/crystal-clear.tgs"
+      }
+    },
+    {
+      "name": "Emerald",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/emerald.svg",
+        "tgs": "gifts/cupidcharm/assets/models/emerald.tgs"
+      }
+    },
+    {
+      "name": "Gift Wrap",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/gift-wrap.svg",
+        "tgs": "gifts/cupidcharm/assets/models/gift-wrap.tgs"
+      }
+    },
+    {
+      "name": "Lindon",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/lindon.svg",
+        "tgs": "gifts/cupidcharm/assets/models/lindon.tgs"
+      }
+    },
+    {
+      "name": "Lorien",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/lorien.svg",
+        "tgs": "gifts/cupidcharm/assets/models/lorien.tgs"
+      }
+    },
+    {
+      "name": "Padlock",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/padlock.svg",
+        "tgs": "gifts/cupidcharm/assets/models/padlock.tgs"
+      }
+    },
+    {
+      "name": "Ruby Red",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/ruby-red.svg",
+        "tgs": "gifts/cupidcharm/assets/models/ruby-red.tgs"
+      }
+    },
+    {
+      "name": "Ruby Whisper",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/ruby-whisper.svg",
+        "tgs": "gifts/cupidcharm/assets/models/ruby-whisper.tgs"
+      }
+    },
+    {
+      "name": "Snow Queen",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/snow-queen.svg",
+        "tgs": "gifts/cupidcharm/assets/models/snow-queen.tgs"
+      }
+    },
+    {
+      "name": "Starlight",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/starlight.svg",
+        "tgs": "gifts/cupidcharm/assets/models/starlight.tgs"
+      }
+    },
+    {
+      "name": "Blood Gem",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/blood-gem.svg",
+        "tgs": "gifts/cupidcharm/assets/models/blood-gem.tgs"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/bubbles.svg",
+        "tgs": "gifts/cupidcharm/assets/models/bubbles.tgs"
+      }
+    },
+    {
+      "name": "Gemstones",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/gemstones.svg",
+        "tgs": "gifts/cupidcharm/assets/models/gemstones.tgs"
+      }
+    },
+    {
+      "name": "Glamour",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/glamour.svg",
+        "tgs": "gifts/cupidcharm/assets/models/glamour.tgs"
+      }
+    },
+    {
+      "name": "Golden Grasp",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/golden-grasp.svg",
+        "tgs": "gifts/cupidcharm/assets/models/golden-grasp.tgs"
+      }
+    },
+    {
+      "name": "Obsidian",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/obsidian.svg",
+        "tgs": "gifts/cupidcharm/assets/models/obsidian.tgs"
+      }
+    },
+    {
+      "name": "Pink Glass",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/pink-glass.svg",
+        "tgs": "gifts/cupidcharm/assets/models/pink-glass.tgs"
+      }
+    },
+    {
+      "name": "Pink Zebra",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/pink-zebra.svg",
+        "tgs": "gifts/cupidcharm/assets/models/pink-zebra.tgs"
+      }
+    },
+    {
+      "name": "Soft Touch",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/soft-touch.svg",
+        "tgs": "gifts/cupidcharm/assets/models/soft-touch.tgs"
+      }
+    },
+    {
+      "name": "White Claws",
+      "assets": {
+        "svg": "gifts/cupidcharm/assets/models/white-claws.svg",
+        "tgs": "gifts/cupidcharm/assets/models/white-claws.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Pussy Willow",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pussy-willow.png"
+      }
+    },
+    {
+      "name": "Violet",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/violet.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Mining Helmet",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/mining-helmet.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Jasmin",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/jasmin.png"
+      }
+    },
+    {
+      "name": "Piranha",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/piranha.png"
+      }
+    },
+    {
+      "name": "Keffiyeh",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/keffiyeh.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Tongue",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/tongue.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Ancient Urn",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/ancient-urn.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Rose Blossom",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/rose-blossom.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Chrysanthe",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/chrysanthe.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Turban",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/turban.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Valentine",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/valentine.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Lovely Bra",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/lovely-bra.png"
+      }
+    },
+    {
+      "name": "Stilettos",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/stilettos.png"
+      }
+    },
+    {
+      "name": "Iris",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/iris.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Hearts",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/hearts.png"
+      }
+    },
+    {
+      "name": "Gift",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/gift.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Tulip Bloom",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/tulip-bloom.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Paschal Lamb",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/paschal-lamb.png"
+      }
+    },
+    {
+      "name": "Cupid’s Arrow",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/cupid-s-arrow.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Plumeria",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/plumeria.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Sombrero",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sombrero.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Balloon",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/balloon.png"
+      }
+    },
+    {
+      "name": "Rabbit Mask",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/rabbit-mask.png"
+      }
+    },
+    {
+      "name": "Neko Mask",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/neko-mask.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/banana.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Dandelion",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/dandelion.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Flying Heart",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/flying-heart.png"
+      }
+    },
+    {
+      "name": "Romantic Cake",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/romantic-cake.png"
+      }
+    },
+    {
+      "name": "Blooms",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/blooms.png"
+      }
+    },
+    {
+      "name": "Fuchsia",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/fuchsia.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Broken Heart",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/broken-heart.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Jester Hat",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/jester-hat.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Clematis",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/clematis.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Wine Toast",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/wine-toast.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Pixel Heart",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pixel-heart.png"
+      }
+    },
+    {
+      "name": "Cactus Bloom",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/cactus-bloom.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Sweets Box",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sweets-box.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Coonskin Cap",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/coonskin-cap.png"
+      }
+    },
+    {
+      "name": "Kitty Cat",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/kitty-cat.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "Muffin",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/muffin.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Lingerie",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/lingerie.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Rainbow",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/rainbow.png"
+      }
+    },
+    {
+      "name": "Love Berry",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/love-berry.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Angel",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/angel.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Succubus",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/succubus.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Cute Bear",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/cute-bear.png"
+      }
+    },
+    {
+      "name": "Gentian",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/gentian.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "February 14",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/february-14.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Teddy Bear",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/teddy-bear.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pilot-hat.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Flaming Heart",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/flaming-heart.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Bouquet",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/bouquet.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Amour Scoops",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/amour-scoops.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Fluffy Wolf",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/fluffy-wolf.png"
+      }
+    },
+    {
+      "name": "Pierced Heart",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pierced-heart.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Rabbit",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/rabbit.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Neptune",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/neptune.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Shiny Heart",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/shiny-heart.png"
+      }
+    },
+    {
+      "name": "Orchid",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/orchid.png"
+      }
+    },
+    {
+      "name": "Loveberry",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/loveberry.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Flag",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/flag.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/cupidcharm/assets/patterns/carrot.png"
+      }
+    }
+  ]
+}

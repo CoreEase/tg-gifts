@@ -3,1014 +3,1820 @@ import type { GiftModel, GiftPattern, Backdrop, GiftCollection } from '../../typ
 export const models = [
   {
     "name": "Gold Dust",
-    "customEmojiId": "5269340395862520400"
+    "customEmojiId": "5269340395862520400",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/gold-dust.svg",
+      "tgs": "gifts/holidaydrink/assets/models/gold-dust.tgs"
+    }
   },
   {
     "name": "Cyber Mix",
-    "customEmojiId": "5269573406428266717"
+    "customEmojiId": "5269573406428266717",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/cyber-mix.svg",
+      "tgs": "gifts/holidaydrink/assets/models/cyber-mix.tgs"
+    }
   },
   {
     "name": "Brain Gum",
-    "customEmojiId": "5267502553586758923"
+    "customEmojiId": "5267502553586758923",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/brain-gum.svg",
+      "tgs": "gifts/holidaydrink/assets/models/brain-gum.tgs"
+    }
   },
   {
     "name": "Depresso",
-    "customEmojiId": "5269397450208078614"
+    "customEmojiId": "5269397450208078614",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/depresso.svg",
+      "tgs": "gifts/holidaydrink/assets/models/depresso.tgs"
+    }
   },
   {
     "name": "Honolulu",
-    "customEmojiId": "5269215622767606205"
+    "customEmojiId": "5269215622767606205",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/honolulu.svg",
+      "tgs": "gifts/holidaydrink/assets/models/honolulu.tgs"
+    }
   },
   {
     "name": "Ogre Latte",
-    "customEmojiId": "5267244954333253124"
+    "customEmojiId": "5267244954333253124",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/ogre-latte.svg",
+      "tgs": "gifts/holidaydrink/assets/models/ogre-latte.tgs"
+    }
   },
   {
     "name": "Pumpkin Juice",
-    "customEmojiId": "5269694180908624962"
+    "customEmojiId": "5269694180908624962",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/pumpkin-juice.svg",
+      "tgs": "gifts/holidaydrink/assets/models/pumpkin-juice.tgs"
+    }
   },
   {
     "name": "Mermaid",
-    "customEmojiId": "5269660078868295020"
+    "customEmojiId": "5269660078868295020",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/mermaid.svg",
+      "tgs": "gifts/holidaydrink/assets/models/mermaid.tgs"
+    }
   },
   {
     "name": "Darkside",
-    "customEmojiId": "5266966159416129661"
+    "customEmojiId": "5266966159416129661",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/darkside.svg",
+      "tgs": "gifts/holidaydrink/assets/models/darkside.tgs"
+    }
   },
   {
     "name": "Fish Basket",
-    "customEmojiId": "5269657965744385817"
+    "customEmojiId": "5269657965744385817",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/fish-basket.svg",
+      "tgs": "gifts/holidaydrink/assets/models/fish-basket.tgs"
+    }
   },
   {
     "name": "Lizard Blood",
-    "customEmojiId": "5269680797790536838"
+    "customEmojiId": "5269680797790536838",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/lizard-blood.svg",
+      "tgs": "gifts/holidaydrink/assets/models/lizard-blood.tgs"
+    }
   },
   {
     "name": "Milky Way",
-    "customEmojiId": "5267373910726310340"
+    "customEmojiId": "5267373910726310340",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/milky-way.svg",
+      "tgs": "gifts/holidaydrink/assets/models/milky-way.tgs"
+    }
   },
   {
     "name": "Emo Drip",
-    "customEmojiId": "5269330143775581761"
+    "customEmojiId": "5269330143775581761",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/emo-drip.svg",
+      "tgs": "gifts/holidaydrink/assets/models/emo-drip.tgs"
+    }
   },
   {
     "name": "Leprechaun",
-    "customEmojiId": "5267076759118970787"
+    "customEmojiId": "5267076759118970787",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/leprechaun.svg",
+      "tgs": "gifts/holidaydrink/assets/models/leprechaun.tgs"
+    }
   },
   {
     "name": "Checkmate",
-    "customEmojiId": "5269736782689238253"
+    "customEmojiId": "5269736782689238253",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/checkmate.svg",
+      "tgs": "gifts/holidaydrink/assets/models/checkmate.tgs"
+    }
   },
   {
     "name": "Toxic Waste",
-    "customEmojiId": "5269760692772173809"
+    "customEmojiId": "5269760692772173809",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/toxic-waste.svg",
+      "tgs": "gifts/holidaydrink/assets/models/toxic-waste.tgs"
+    }
   },
   {
     "name": "Area 51",
-    "customEmojiId": "5267138434849342387"
+    "customEmojiId": "5267138434849342387",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/area-51.svg",
+      "tgs": "gifts/holidaydrink/assets/models/area-51.tgs"
+    }
   },
   {
     "name": "Blue Taser",
-    "customEmojiId": "5269563596722962280"
+    "customEmojiId": "5269563596722962280",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/blue-taser.svg",
+      "tgs": "gifts/holidaydrink/assets/models/blue-taser.tgs"
+    }
   },
   {
     "name": "Bowser Brew",
-    "customEmojiId": "5267363345106763684"
+    "customEmojiId": "5267363345106763684",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/bowser-brew.svg",
+      "tgs": "gifts/holidaydrink/assets/models/bowser-brew.tgs"
+    }
   },
   {
     "name": "Mr. Freeze",
-    "customEmojiId": "5269694971182610428"
+    "customEmojiId": "5269694971182610428",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/mr-freeze.svg",
+      "tgs": "gifts/holidaydrink/assets/models/mr-freeze.tgs"
+    }
   },
   {
     "name": "Crystal Shot",
-    "customEmojiId": "5269423142702445845"
+    "customEmojiId": "5269423142702445845",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/crystal-shot.svg",
+      "tgs": "gifts/holidaydrink/assets/models/crystal-shot.tgs"
+    }
   },
   {
     "name": "Cubism",
-    "customEmojiId": "5269682266669347979"
+    "customEmojiId": "5269682266669347979",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/cubism.svg",
+      "tgs": "gifts/holidaydrink/assets/models/cubism.tgs"
+    }
   },
   {
     "name": "Fire Chariot",
-    "customEmojiId": "5269740115583860199"
+    "customEmojiId": "5269740115583860199",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/fire-chariot.svg",
+      "tgs": "gifts/holidaydrink/assets/models/fire-chariot.tgs"
+    }
   },
   {
     "name": "Flaming B-52",
-    "customEmojiId": "5269403428802559105"
+    "customEmojiId": "5269403428802559105",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/flaming-b-52.svg",
+      "tgs": "gifts/holidaydrink/assets/models/flaming-b-52.tgs"
+    }
   },
   {
     "name": "Love Potion",
-    "customEmojiId": "5269419298706715713"
+    "customEmojiId": "5269419298706715713",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/love-potion.svg",
+      "tgs": "gifts/holidaydrink/assets/models/love-potion.tgs"
+    }
   },
   {
     "name": "Lucid Roast",
-    "customEmojiId": "5269490135602325283"
+    "customEmojiId": "5269490135602325283",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/lucid-roast.svg",
+      "tgs": "gifts/holidaydrink/assets/models/lucid-roast.tgs"
+    }
   },
   {
     "name": "Candyman",
-    "customEmojiId": "5267075900125510234"
+    "customEmojiId": "5267075900125510234",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/candyman.svg",
+      "tgs": "gifts/holidaydrink/assets/models/candyman.tgs"
+    }
   },
   {
     "name": "Berry Pixel",
-    "customEmojiId": "5267160150203987646"
+    "customEmojiId": "5267160150203987646",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/berry-pixel.svg",
+      "tgs": "gifts/holidaydrink/assets/models/berry-pixel.tgs"
+    }
   },
   {
     "name": "Peach Latte",
-    "customEmojiId": "5269756372035072686"
+    "customEmojiId": "5269756372035072686",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/peach-latte.svg",
+      "tgs": "gifts/holidaydrink/assets/models/peach-latte.tgs"
+    }
   },
   {
     "name": "Low Poly",
-    "customEmojiId": "5267233804598148550"
+    "customEmojiId": "5267233804598148550",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/low-poly.svg",
+      "tgs": "gifts/holidaydrink/assets/models/low-poly.tgs"
+    }
   },
   {
     "name": "Kiwi Box",
-    "customEmojiId": "5269697530983115685"
+    "customEmojiId": "5269697530983115685",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/kiwi-box.svg",
+      "tgs": "gifts/holidaydrink/assets/models/kiwi-box.tgs"
+    }
   },
   {
     "name": "Orange Ghost",
-    "customEmojiId": "5266965029839731083"
+    "customEmojiId": "5266965029839731083",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/orange-ghost.svg",
+      "tgs": "gifts/holidaydrink/assets/models/orange-ghost.tgs"
+    }
   },
   {
     "name": "Hot Fuchsia",
-    "customEmojiId": "5269693016972487081"
+    "customEmojiId": "5269693016972487081",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/hot-fuchsia.svg",
+      "tgs": "gifts/holidaydrink/assets/models/hot-fuchsia.tgs"
+    }
   },
   {
     "name": "Cotton Candy",
-    "customEmojiId": "5267463319060511567"
+    "customEmojiId": "5267463319060511567",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/cotton-candy.svg",
+      "tgs": "gifts/holidaydrink/assets/models/cotton-candy.tgs"
+    }
   },
   {
     "name": "Honeyfire",
-    "customEmojiId": "5267312398204699458"
+    "customEmojiId": "5267312398204699458",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/honeyfire.svg",
+      "tgs": "gifts/holidaydrink/assets/models/honeyfire.tgs"
+    }
   },
   {
     "name": "Ginger Joker",
-    "customEmojiId": "5269477173391029102"
+    "customEmojiId": "5269477173391029102",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/ginger-joker.svg",
+      "tgs": "gifts/holidaydrink/assets/models/ginger-joker.tgs"
+    }
   },
   {
     "name": "Matcha",
-    "customEmojiId": "5269769944131728569"
+    "customEmojiId": "5269769944131728569",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/matcha.svg",
+      "tgs": "gifts/holidaydrink/assets/models/matcha.tgs"
+    }
   },
   {
     "name": "Hibiscus Tea",
-    "customEmojiId": "5269262742853810364"
+    "customEmojiId": "5269262742853810364",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/hibiscus-tea.svg",
+      "tgs": "gifts/holidaydrink/assets/models/hibiscus-tea.tgs"
+    }
   },
   {
     "name": "Lavender Tea",
-    "customEmojiId": "5267100643432102521"
+    "customEmojiId": "5267100643432102521",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/lavender-tea.svg",
+      "tgs": "gifts/holidaydrink/assets/models/lavender-tea.tgs"
+    }
   },
   {
     "name": "Moonberry",
-    "customEmojiId": "5269440099233330242"
+    "customEmojiId": "5269440099233330242",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/moonberry.svg",
+      "tgs": "gifts/holidaydrink/assets/models/moonberry.tgs"
+    }
   },
   {
     "name": "Marigold",
-    "customEmojiId": "5267026958973174940"
+    "customEmojiId": "5267026958973174940",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/marigold.svg",
+      "tgs": "gifts/holidaydrink/assets/models/marigold.tgs"
+    }
   },
   {
     "name": "Citrus",
-    "customEmojiId": "5267234006461609610"
+    "customEmojiId": "5267234006461609610",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/citrus.svg",
+      "tgs": "gifts/holidaydrink/assets/models/citrus.tgs"
+    }
   },
   {
     "name": "Bubblegum",
-    "customEmojiId": "5267017329656493677"
+    "customEmojiId": "5267017329656493677",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/bubblegum.svg",
+      "tgs": "gifts/holidaydrink/assets/models/bubblegum.tgs"
+    }
   },
   {
     "name": "Choco Mint",
-    "customEmojiId": "5269300053234712159"
+    "customEmojiId": "5269300053234712159",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/choco-mint.svg",
+      "tgs": "gifts/holidaydrink/assets/models/choco-mint.tgs"
+    }
   },
   {
     "name": "Black Russian",
-    "customEmojiId": "5267485262048426365"
+    "customEmojiId": "5267485262048426365",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/black-russian.svg",
+      "tgs": "gifts/holidaydrink/assets/models/black-russian.tgs"
+    }
   },
   {
     "name": "Rose Velvet",
-    "customEmojiId": "5269425298776025077"
+    "customEmojiId": "5269425298776025077",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/rose-velvet.svg",
+      "tgs": "gifts/holidaydrink/assets/models/rose-velvet.tgs"
+    }
   },
   {
     "name": "Banana Split",
-    "customEmojiId": "5269536216306447589"
+    "customEmojiId": "5269536216306447589",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/banana-split.svg",
+      "tgs": "gifts/holidaydrink/assets/models/banana-split.tgs"
+    }
   },
   {
     "name": "Mango Blast",
-    "customEmojiId": "5267421894100941882"
+    "customEmojiId": "5267421894100941882",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/mango-blast.svg",
+      "tgs": "gifts/holidaydrink/assets/models/mango-blast.tgs"
+    }
   },
   {
     "name": "Apple Mousse",
-    "customEmojiId": "5267100875360336185"
+    "customEmojiId": "5267100875360336185",
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/apple-mousse.svg",
+      "tgs": "gifts/holidaydrink/assets/models/apple-mousse.tgs"
+    }
   },
   {
     "name": "Stickers",
-    "customEmojiId": null
+    "customEmojiId": null,
+    "assets": {
+      "svg": "gifts/holidaydrink/assets/models/stickers.svg",
+      "tgs": "gifts/holidaydrink/assets/models/stickers.tgs"
+    }
   }
 ] satisfies readonly GiftModel[];
 
 export const patterns = [
   {
     "name": "Moon Cross",
-    "customEmojiId": "5199926568943652086"
+    "customEmojiId": "5199926568943652086",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/moon-cross.png"
+    }
   },
   {
     "name": "Keffiyeh",
-    "customEmojiId": "5199444398735132234"
+    "customEmojiId": "5199444398735132234",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/keffiyeh.png"
+    }
   },
   {
     "name": "Coonskin Cap",
-    "customEmojiId": "5199711867823495459"
+    "customEmojiId": "5199711867823495459",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/coonskin-cap.png"
+    }
   },
   {
     "name": "Sun",
-    "customEmojiId": "5199964983131145958"
+    "customEmojiId": "5199964983131145958",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/sun.png"
+    }
   },
   {
     "name": "Flipper",
-    "customEmojiId": "5199562548990477877"
+    "customEmojiId": "5199562548990477877",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/flipper.png"
+    }
   },
   {
     "name": "Cocktail",
-    "customEmojiId": "5199925405007515741"
+    "customEmojiId": "5199925405007515741",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/cocktail.png"
+    }
   },
   {
     "name": "Pawn",
-    "customEmojiId": "5199596131339765368"
+    "customEmojiId": "5199596131339765368",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/pawn.png"
+    }
   },
   {
     "name": "Fedora",
-    "customEmojiId": "5199413530805178187"
+    "customEmojiId": "5199413530805178187",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/fedora.png"
+    }
   },
   {
     "name": "Trickster Fox",
-    "customEmojiId": "5199707800489464034"
+    "customEmojiId": "5199707800489464034",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/trickster-fox.png"
+    }
   },
   {
     "name": "Guitar",
-    "customEmojiId": "5199926040662672669"
+    "customEmojiId": "5199926040662672669",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/guitar.png"
+    }
   },
   {
     "name": "Ornament",
-    "customEmojiId": "5199660508604566307"
+    "customEmojiId": "5199660508604566307",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/ornament.png"
+    }
   },
   {
     "name": "Diamond",
-    "customEmojiId": "5199628004292067329"
+    "customEmojiId": "5199628004292067329",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/diamond.png"
+    }
   },
   {
     "name": "Sumerian Bird",
-    "customEmojiId": "5199797367737452718"
+    "customEmojiId": "5199797367737452718",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/sumerian-bird.png"
+    }
   },
   {
     "name": "Pickaxe",
-    "customEmojiId": "5199445292088328237"
+    "customEmojiId": "5199445292088328237",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/pickaxe.png"
+    }
   },
   {
     "name": "Lion Head",
-    "customEmojiId": "5199655049701172498"
+    "customEmojiId": "5199655049701172498",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/lion-head.png"
+    }
   },
   {
     "name": "Cookie",
-    "customEmojiId": "5199706417509992965"
+    "customEmojiId": "5199706417509992965",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/cookie.png"
+    }
   },
   {
     "name": "Sparks",
-    "customEmojiId": "5199534721897367416"
+    "customEmojiId": "5199534721897367416",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/sparks.png"
+    }
   },
   {
     "name": "Cactus",
-    "customEmojiId": "5199664352600297564"
+    "customEmojiId": "5199664352600297564",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/cactus.png"
+    }
   },
   {
     "name": "Calm Wolf",
-    "customEmojiId": "5199642521281532199"
+    "customEmojiId": "5199642521281532199",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/calm-wolf.png"
+    }
   },
   {
     "name": "Bicorne",
-    "customEmojiId": "5199462042460782106"
+    "customEmojiId": "5199462042460782106",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bicorne.png"
+    }
   },
   {
     "name": "White Deer",
-    "customEmojiId": "5199804858160416090"
+    "customEmojiId": "5199804858160416090",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/white-deer.png"
+    }
   },
   {
     "name": "Double Axe",
-    "customEmojiId": "5199414905194712818"
+    "customEmojiId": "5199414905194712818",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/double-axe.png"
+    }
   },
   {
     "name": "Wreath",
-    "customEmojiId": "5199506340753473869"
+    "customEmojiId": "5199506340753473869",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/wreath.png"
+    }
   },
   {
     "name": "Hedgehog",
-    "customEmojiId": "5199443440957426886"
+    "customEmojiId": "5199443440957426886",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/hedgehog.png"
+    }
   },
   {
     "name": "Tetsubin",
-    "customEmojiId": "5199641735302519273"
+    "customEmojiId": "5199641735302519273",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/tetsubin.png"
+    }
   },
   {
     "name": "Viking",
-    "customEmojiId": "5199809080113267301"
+    "customEmojiId": "5199809080113267301",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/viking.png"
+    }
   },
   {
     "name": "Morgenstern",
-    "customEmojiId": "5199655161370280611"
+    "customEmojiId": "5199655161370280611",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/morgenstern.png"
+    }
   },
   {
     "name": "Bee",
-    "customEmojiId": "5199604974677428405"
+    "customEmojiId": "5199604974677428405",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bee.png"
+    }
   },
   {
     "name": "Bow Tie",
-    "customEmojiId": "5199652756188594205"
+    "customEmojiId": "5199652756188594205",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bow-tie.png"
+    }
   },
   {
     "name": "Pearl",
-    "customEmojiId": "5199540305354854917"
+    "customEmojiId": "5199540305354854917",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/pearl.png"
+    }
   },
   {
     "name": "Baseball Cap",
-    "customEmojiId": "5199873423018329022"
+    "customEmojiId": "5199873423018329022",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/baseball-cap.png"
+    }
   },
   {
     "name": "Candy",
-    "customEmojiId": "5199911012572105730"
+    "customEmojiId": "5199911012572105730",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/candy.png"
+    }
   },
   {
     "name": "Thunderbird",
-    "customEmojiId": "5199756144641346567"
+    "customEmojiId": "5199756144641346567",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/thunderbird.png"
+    }
   },
   {
     "name": "Piranha",
-    "customEmojiId": "5199947034462818715"
+    "customEmojiId": "5199947034462818715",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/piranha.png"
+    }
   },
   {
     "name": "Clubs",
-    "customEmojiId": "5199913752761238667"
+    "customEmojiId": "5199913752761238667",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/clubs.png"
+    }
   },
   {
     "name": "Wagasa",
-    "customEmojiId": "5199688541856110192"
+    "customEmojiId": "5199688541856110192",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/wagasa.png"
+    }
   },
   {
     "name": "Aztec Falcon",
-    "customEmojiId": "5199675880292517991"
+    "customEmojiId": "5199675880292517991",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/aztec-falcon.png"
+    }
   },
   {
     "name": "Red Deer",
-    "customEmojiId": "5199967207924207004"
+    "customEmojiId": "5199967207924207004",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/red-deer.png"
+    }
   },
   {
     "name": "Maple",
-    "customEmojiId": "5199893351666582880"
+    "customEmojiId": "5199893351666582880",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/maple.png"
+    }
   },
   {
     "name": "Mittens",
-    "customEmojiId": "5199968565133871696"
+    "customEmojiId": "5199968565133871696",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/mittens.png"
+    }
   },
   {
     "name": "Bubble Tea",
-    "customEmojiId": "5199799150148883131"
+    "customEmojiId": "5199799150148883131",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bubble-tea.png"
+    }
   },
   {
     "name": "Sea Horse",
-    "customEmojiId": "5199693631392352882"
+    "customEmojiId": "5199693631392352882",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/sea-horse.png"
+    }
   },
   {
     "name": "Piñata",
-    "customEmojiId": "5199490110072061851"
+    "customEmojiId": "5199490110072061851",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/pinata.png"
+    }
   },
   {
     "name": "Wolf Rage",
-    "customEmojiId": "5199809844617447088"
+    "customEmojiId": "5199809844617447088",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/wolf-rage.png"
+    }
   },
   {
     "name": "Shooting Star",
-    "customEmojiId": "5199756398044416521"
+    "customEmojiId": "5199756398044416521",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/shooting-star.png"
+    }
   },
   {
     "name": "Galaxy",
-    "customEmojiId": "5199493898233219049"
+    "customEmojiId": "5199493898233219049",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/galaxy.png"
+    }
   },
   {
     "name": "Feather",
-    "customEmojiId": "5199561191780815148"
+    "customEmojiId": "5199561191780815148",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/feather.png"
+    }
   },
   {
     "name": "Celtic Cross",
-    "customEmojiId": "5199560126628923287"
+    "customEmojiId": "5199560126628923287",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/celtic-cross.png"
+    }
   },
   {
     "name": "Moon Eagle",
-    "customEmojiId": "5199513281420625625"
+    "customEmojiId": "5199513281420625625",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/moon-eagle.png"
+    }
   },
   {
     "name": "Jingle Bell",
-    "customEmojiId": "5199776322397706499"
+    "customEmojiId": "5199776322397706499",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/jingle-bell.png"
+    }
   },
   {
     "name": "Crystal",
-    "customEmojiId": "5199505833947336625"
+    "customEmojiId": "5199505833947336625",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/crystal.png"
+    }
   },
   {
     "name": "Golden Scarab",
-    "customEmojiId": "5199515630767736867"
+    "customEmojiId": "5199515630767736867",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/golden-scarab.png"
+    }
   },
   {
     "name": "Bowtie",
-    "customEmojiId": "5199828179832835125"
+    "customEmojiId": "5199828179832835125",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bowtie.png"
+    }
   },
   {
     "name": "Festive Wreath",
-    "customEmojiId": "5199830851302495542"
+    "customEmojiId": "5199830851302495542",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/festive-wreath.png"
+    }
   },
   {
     "name": "Magic Hat",
-    "customEmojiId": "5199903041112803502"
+    "customEmojiId": "5199903041112803502",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/magic-hat.png"
+    }
   },
   {
     "name": "Shield",
-    "customEmojiId": "5199474497865945550"
+    "customEmojiId": "5199474497865945550",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/shield.png"
+    }
   },
   {
     "name": "Drug",
-    "customEmojiId": "5199963359633511195"
+    "customEmojiId": "5199963359633511195",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/drug.png"
+    }
   },
   {
     "name": "Chest",
-    "customEmojiId": "5199799017004894591"
+    "customEmojiId": "5199799017004894591",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/chest.png"
+    }
   },
   {
     "name": "Basketball",
-    "customEmojiId": "5199728789994637327"
+    "customEmojiId": "5199728789994637327",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/basketball.png"
+    }
   },
   {
     "name": "Pear",
-    "customEmojiId": "5199711558585845500"
+    "customEmojiId": "5199711558585845500",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/pear.png"
+    }
   },
   {
     "name": "Rain Drop",
-    "customEmojiId": "5199596200059239228"
+    "customEmojiId": "5199596200059239228",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/rain-drop.png"
+    }
   },
   {
     "name": "War Bonnet",
-    "customEmojiId": "5199865125141516619"
+    "customEmojiId": "5199865125141516619",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/war-bonnet.png"
+    }
   },
   {
     "name": "Mistletoe",
-    "customEmojiId": "5199936279864708293"
+    "customEmojiId": "5199936279864708293",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/mistletoe.png"
+    }
   },
   {
     "name": "Wise Raven",
-    "customEmojiId": "5199774827749083086"
+    "customEmojiId": "5199774827749083086",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/wise-raven.png"
+    }
   },
   {
     "name": "Top Hat",
-    "customEmojiId": "5199704811192221997"
+    "customEmojiId": "5199704811192221997",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/top-hat.png"
+    }
   },
   {
     "name": "Moon",
-    "customEmojiId": "5199499052193973671"
+    "customEmojiId": "5199499052193973671",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/moon.png"
+    }
   },
   {
     "name": "Toilet Paper",
-    "customEmojiId": "5199519908555163902"
+    "customEmojiId": "5199519908555163902",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/toilet-paper.png"
+    }
   },
   {
     "name": "Fishing Hook",
-    "customEmojiId": "5199562218277996516"
+    "customEmojiId": "5199562218277996516",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/fishing-hook.png"
+    }
   },
   {
     "name": "Nemes",
-    "customEmojiId": "5199898990958646583"
+    "customEmojiId": "5199898990958646583",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/nemes.png"
+    }
   },
   {
     "name": "Nordic Wolf",
-    "customEmojiId": "5199895056768603137"
+    "customEmojiId": "5199895056768603137",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/nordic-wolf.png"
+    }
   },
   {
     "name": "Mustang",
-    "customEmojiId": "5199436757988311690"
+    "customEmojiId": "5199436757988311690",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/mustang.png"
+    }
   },
   {
     "name": "Horn",
-    "customEmojiId": "5199723906616821437"
+    "customEmojiId": "5199723906616821437",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/horn.png"
+    }
   },
   {
     "name": "Eikthyrnir",
-    "customEmojiId": "5199875514667404240"
+    "customEmojiId": "5199875514667404240",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/eikthyrnir.png"
+    }
   },
   {
     "name": "Sprout",
-    "customEmojiId": "5199705945063589397"
+    "customEmojiId": "5199705945063589397",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/sprout.png"
+    }
   },
   {
     "name": "Jewel",
-    "customEmojiId": "5199798166601371927"
+    "customEmojiId": "5199798166601371927",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/jewel.png"
+    }
   },
   {
     "name": "Flower Tulip",
-    "customEmojiId": "5199785517922683567"
+    "customEmojiId": "5199785517922683567",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/flower-tulip.png"
+    }
   },
   {
     "name": "Spring Chick",
-    "customEmojiId": "5199834257211559421"
+    "customEmojiId": "5199834257211559421",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/spring-chick.png"
+    }
   },
   {
     "name": "Firebird",
-    "customEmojiId": "5199747116620088950"
+    "customEmojiId": "5199747116620088950",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/firebird.png"
+    }
   },
   {
     "name": "Flying Dragon",
-    "customEmojiId": "5199467896501208139"
+    "customEmojiId": "5199467896501208139",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/flying-dragon.png"
+    }
   },
   {
     "name": "Gingerbread",
-    "customEmojiId": "5199945376605439444"
+    "customEmojiId": "5199945376605439444",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/gingerbread.png"
+    }
   },
   {
     "name": "Musical Note",
-    "customEmojiId": "5199763458970653234"
+    "customEmojiId": "5199763458970653234",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/musical-note.png"
+    }
   },
   {
     "name": "Handset",
-    "customEmojiId": "5199548491562517801"
+    "customEmojiId": "5199548491562517801",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/handset.png"
+    }
   },
   {
     "name": "Like",
-    "customEmojiId": "5199438957011572772"
+    "customEmojiId": "5199438957011572772",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/like.png"
+    }
   },
   {
     "name": "Sun Lion",
-    "customEmojiId": "5199909337534861617"
+    "customEmojiId": "5199909337534861617",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/sun-lion.png"
+    }
   },
   {
     "name": "Hand of God",
-    "customEmojiId": "5199440739422996762"
+    "customEmojiId": "5199440739422996762",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/hand-of-god.png"
+    }
   },
   {
     "name": "Gold",
-    "customEmojiId": "5199529048245569871"
+    "customEmojiId": "5199529048245569871",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/gold.png"
+    }
   },
   {
     "name": "Manta Ray",
-    "customEmojiId": "5199852231649690419"
+    "customEmojiId": "5199852231649690419",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/manta-ray.png"
+    }
   },
   {
     "name": "Shortsword",
-    "customEmojiId": "5199699219144807756"
+    "customEmojiId": "5199699219144807756",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/shortsword.png"
+    }
   },
   {
     "name": "Flat Cap",
-    "customEmojiId": "5199424302583155767"
+    "customEmojiId": "5199424302583155767",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/flat-cap.png"
+    }
   },
   {
     "name": "Hot Drink",
-    "customEmojiId": "5199502050081148019"
+    "customEmojiId": "5199502050081148019",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/hot-drink.png"
+    }
   },
   {
     "name": "New Year’s Eve",
-    "customEmojiId": null
+    "customEmojiId": null,
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/new-year-s-eve.png"
+    }
   },
   {
     "name": "Coffee Bean",
-    "customEmojiId": "5199617662010820206"
+    "customEmojiId": "5199617662010820206",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/coffee-bean.png"
+    }
   },
   {
     "name": "Coin Purse",
-    "customEmojiId": "5199421974710879091"
+    "customEmojiId": "5199421974710879091",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/coin-purse.png"
+    }
   },
   {
     "name": "Winter House",
-    "customEmojiId": "5199701675866098449"
+    "customEmojiId": "5199701675866098449",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/winter-house.png"
+    }
   },
   {
     "name": "Shako",
-    "customEmojiId": "5199855955386337078"
+    "customEmojiId": "5199855955386337078",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/shako.png"
+    }
   },
   {
     "name": "Santa Hat",
-    "customEmojiId": "5199534056177437209"
+    "customEmojiId": "5199534056177437209",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/santa-hat.png"
+    }
   },
   {
     "name": "Rocket",
-    "customEmojiId": "5199857192336916692"
+    "customEmojiId": "5199857192336916692",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/rocket.png"
+    }
   },
   {
     "name": "Cupcake",
-    "customEmojiId": "5199460788330335122"
+    "customEmojiId": "5199460788330335122",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/cupcake.png"
+    }
   },
   {
     "name": "Snowflake",
-    "customEmojiId": "5199610674099031923"
+    "customEmojiId": "5199610674099031923",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/snowflake.png"
+    }
   },
   {
     "name": "Snow Angel",
-    "customEmojiId": "5199879135324836933"
+    "customEmojiId": "5199879135324836933",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/snow-angel.png"
+    }
   },
   {
     "name": "Hourglass",
-    "customEmojiId": "5199866430811571603"
+    "customEmojiId": "5199866430811571603",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/hourglass.png"
+    }
   },
   {
     "name": "Christmas Tree",
-    "customEmojiId": "5201690116875126303"
+    "customEmojiId": "5201690116875126303",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/christmas-tree.png"
+    }
   },
   {
     "name": "Crown",
-    "customEmojiId": "5199763085308495651"
+    "customEmojiId": "5199763085308495651",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/crown.png"
+    }
   },
   {
     "name": "Oculus",
-    "customEmojiId": "5199618645558330282"
+    "customEmojiId": "5199618645558330282",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/oculus.png"
+    }
   },
   {
     "name": "Press Hat",
-    "customEmojiId": "5199819379444842683"
+    "customEmojiId": "5199819379444842683",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/press-hat.png"
+    }
   },
   {
     "name": "Novus Ordo",
-    "customEmojiId": "5199450368739677084"
+    "customEmojiId": "5199450368739677084",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/novus-ordo.png"
+    }
   },
   {
     "name": "Lion King",
-    "customEmojiId": "5199514870558527530"
+    "customEmojiId": "5199514870558527530",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/lion-king.png"
+    }
   },
   {
     "name": "Duck Face",
-    "customEmojiId": "5199541576665173998"
+    "customEmojiId": "5199541576665173998",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/duck-face.png"
+    }
   },
   {
     "name": "Wizard Hat",
-    "customEmojiId": "5199659452042611516"
+    "customEmojiId": "5199659452042611516",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/wizard-hat.png"
+    }
   },
   {
     "name": "Money Bag",
-    "customEmojiId": "5199426943988044271"
+    "customEmojiId": "5199426943988044271",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/money-bag.png"
+    }
   },
   {
     "name": "Crusader Cross",
-    "customEmojiId": "5199468566516105305"
+    "customEmojiId": "5199468566516105305",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/crusader-cross.png"
+    }
   },
   {
     "name": "Black Cat",
-    "customEmojiId": "5199686110904618188"
+    "customEmojiId": "5199686110904618188",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/black-cat.png"
+    }
   },
   {
     "name": "Maple Leaf",
-    "customEmojiId": "5199771361710473077"
+    "customEmojiId": "5199771361710473077",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/maple-leaf.png"
+    }
   },
   {
     "name": "Earth",
-    "customEmojiId": "5199963814900042040"
+    "customEmojiId": "5199963814900042040",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/earth.png"
+    }
   },
   {
     "name": "Book",
-    "customEmojiId": "5199463541404373712"
+    "customEmojiId": "5199463541404373712",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/book.png"
+    }
   },
   {
     "name": "Tsunami",
-    "customEmojiId": "5199500714346319781"
+    "customEmojiId": "5199500714346319781",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/tsunami.png"
+    }
   },
   {
     "name": "Bamboo",
-    "customEmojiId": "5199966902981528333"
+    "customEmojiId": "5199966902981528333",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bamboo.png"
+    }
   },
   {
     "name": "Beetle",
-    "customEmojiId": "5199410751961337105"
+    "customEmojiId": "5199410751961337105",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/beetle.png"
+    }
   },
   {
     "name": "Hamburger",
-    "customEmojiId": "5199558610505467372"
+    "customEmojiId": "5199558610505467372",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/hamburger.png"
+    }
   },
   {
     "name": "Dessert",
-    "customEmojiId": "5199456540607676981"
+    "customEmojiId": "5199456540607676981",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/dessert.png"
+    }
   },
   {
     "name": "Police Badge",
-    "customEmojiId": "5199500710051351632"
+    "customEmojiId": "5199500710051351632",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/police-badge.png"
+    }
   },
   {
     "name": "Bandage",
-    "customEmojiId": "5199488155861947055"
+    "customEmojiId": "5199488155861947055",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bandage.png"
+    }
   },
   {
     "name": "Turtle",
-    "customEmojiId": "5199802964079839347"
+    "customEmojiId": "5199802964079839347",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/turtle.png"
+    }
   },
   {
     "name": "Dragonfly",
-    "customEmojiId": "5199491647670355164"
+    "customEmojiId": "5199491647670355164",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/dragonfly.png"
+    }
   },
   {
     "name": "Spellbook",
-    "customEmojiId": "5199951127566647821"
+    "customEmojiId": "5199951127566647821",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/spellbook.png"
+    }
   },
   {
     "name": "Bunny",
-    "customEmojiId": "5199800120811489322"
+    "customEmojiId": "5199800120811489322",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bunny.png"
+    }
   },
   {
     "name": "Propeller Cap",
-    "customEmojiId": "5199861745002254248"
+    "customEmojiId": "5199861745002254248",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/propeller-cap.png"
+    }
   },
   {
     "name": "Evil Dragon",
-    "customEmojiId": "5199535271653181454"
+    "customEmojiId": "5199535271653181454",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/evil-dragon.png"
+    }
   },
   {
     "name": "Leprechaun",
-    "customEmojiId": "5199899240066749481"
+    "customEmojiId": "5199899240066749481",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/leprechaun.png"
+    }
   },
   {
     "name": "Croissant",
-    "customEmojiId": "5199706980150706028"
+    "customEmojiId": "5199706980150706028",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/croissant.png"
+    }
   },
   {
     "name": "Fireworks",
-    "customEmojiId": "5199661414842666249"
+    "customEmojiId": "5199661414842666249",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/fireworks.png"
+    }
   },
   {
     "name": "Rose",
-    "customEmojiId": "5199847348271877856"
+    "customEmojiId": "5199847348271877856",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/rose.png"
+    }
   },
   {
     "name": "Bell Pepper",
-    "customEmojiId": "5199683718607834440"
+    "customEmojiId": "5199683718607834440",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bell-pepper.png"
+    }
   },
   {
     "name": "Mayan Moth",
-    "customEmojiId": "5199778452701480675"
+    "customEmojiId": "5199778452701480675",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/mayan-moth.png"
+    }
   },
   {
     "name": "Bastet",
-    "customEmojiId": "5199520204907910380"
+    "customEmojiId": "5199520204907910380",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bastet.png"
+    }
   },
   {
     "name": "Yin-Yang",
-    "customEmojiId": "5199579720269730289"
+    "customEmojiId": "5199579720269730289",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/yin-yang.png"
+    }
   },
   {
     "name": "Beret",
-    "customEmojiId": "5199710124066771918"
+    "customEmojiId": "5199710124066771918",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/beret.png"
+    }
   },
   {
     "name": "Inguz Rune",
-    "customEmojiId": "5199780557235455952"
+    "customEmojiId": "5199780557235455952",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/inguz-rune.png"
+    }
   },
   {
     "name": "Silver Ibis",
-    "customEmojiId": "5199513981500297130"
+    "customEmojiId": "5199513981500297130",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/silver-ibis.png"
+    }
   },
   {
     "name": "Bull of Heaven",
-    "customEmojiId": "5199518259287723654"
+    "customEmojiId": "5199518259287723654",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bull-of-heaven.png"
+    }
   },
   {
     "name": "Sharp Sword",
-    "customEmojiId": "5199910510060932554"
+    "customEmojiId": "5199910510060932554",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/sharp-sword.png"
+    }
   },
   {
     "name": "Astronaut",
-    "customEmojiId": "5199581154788806855"
+    "customEmojiId": "5199581154788806855",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/astronaut.png"
+    }
   },
   {
     "name": "Elf Hat",
-    "customEmojiId": "5199596066915260460"
+    "customEmojiId": "5199596066915260460",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/elf-hat.png"
+    }
   },
   {
     "name": "Kudu Totem",
-    "customEmojiId": "5199943018668394204"
+    "customEmojiId": "5199943018668394204",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/kudu-totem.png"
+    }
   },
   {
     "name": "Chick",
-    "customEmojiId": "5199684294133452501"
+    "customEmojiId": "5199684294133452501",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/chick.png"
+    }
   },
   {
     "name": "Serpent",
-    "customEmojiId": "5199799880293323047"
+    "customEmojiId": "5199799880293323047",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/serpent.png"
+    }
   },
   {
     "name": "Magic Wand",
-    "customEmojiId": "5199565744446145009"
+    "customEmojiId": "5199565744446145009",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/magic-wand.png"
+    }
   },
   {
     "name": "Corn",
-    "customEmojiId": "5199836340270695549"
+    "customEmojiId": "5199836340270695549",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/corn.png"
+    }
   },
   {
     "name": "Twin Koi",
-    "customEmojiId": "5199691170376093717"
+    "customEmojiId": "5199691170376093717",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/twin-koi.png"
+    }
   },
   {
     "name": "Watching Sun",
-    "customEmojiId": "5199594327453501292"
+    "customEmojiId": "5199594327453501292",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/watching-sun.png"
+    }
   },
   {
     "name": "Ice Pop",
-    "customEmojiId": "5202206762786127395"
+    "customEmojiId": "5202206762786127395",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/ice-pop.png"
+    }
   },
   {
     "name": "Conical Hat",
-    "customEmojiId": "5199648817703584324"
+    "customEmojiId": "5199648817703584324",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/conical-hat.png"
+    }
   },
   {
     "name": "Shuriken",
-    "customEmojiId": "5199657373278441561"
+    "customEmojiId": "5199657373278441561",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/shuriken.png"
+    }
   },
   {
     "name": "Lovely Kiss",
-    "customEmojiId": "5199851368361267380"
+    "customEmojiId": "5199851368361267380",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/lovely-kiss.png"
+    }
   },
   {
     "name": "Pencil",
-    "customEmojiId": "5199649638042340721"
+    "customEmojiId": "5199649638042340721",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/pencil.png"
+    }
   },
   {
     "name": "Dolphin",
-    "customEmojiId": "5199801499495994058"
+    "customEmojiId": "5199801499495994058",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/dolphin.png"
+    }
   },
   {
     "name": "Bascinet",
-    "customEmojiId": "5199688421597022189"
+    "customEmojiId": "5199688421597022189",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bascinet.png"
+    }
   },
   {
     "name": "Pirate Scull",
-    "customEmojiId": "5199610403516089508"
+    "customEmojiId": "5199610403516089508",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/pirate-scull.png"
+    }
   },
   {
     "name": "Crusader",
-    "customEmojiId": "5199701096045512582"
+    "customEmojiId": "5199701096045512582",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/crusader.png"
+    }
   },
   {
     "name": "Donut",
-    "customEmojiId": "5199509415950058480"
+    "customEmojiId": "5199509415950058480",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/donut.png"
+    }
   },
   {
     "name": "Bottle",
-    "customEmojiId": "5199580759651813806"
+    "customEmojiId": "5199580759651813806",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bottle.png"
+    }
   },
   {
     "name": "Moto Helmet",
-    "customEmojiId": "5199939002873972654"
+    "customEmojiId": "5199939002873972654",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/moto-helmet.png"
+    }
   },
   {
     "name": "Party Hat",
-    "customEmojiId": "5199420192299454140"
+    "customEmojiId": "5199420192299454140",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/party-hat.png"
+    }
   },
   {
     "name": "Gamepad",
-    "customEmojiId": "5199672727786522651"
+    "customEmojiId": "5199672727786522651",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/gamepad.png"
+    }
   },
   {
     "name": "Plume",
-    "customEmojiId": "5199642800454407125"
+    "customEmojiId": "5199642800454407125",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/plume.png"
+    }
   },
   {
     "name": "Winter Hat",
-    "customEmojiId": "5199676112220754626"
+    "customEmojiId": "5199676112220754626",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/winter-hat.png"
+    }
   },
   {
     "name": "Apple",
-    "customEmojiId": "5199834806967375335"
+    "customEmojiId": "5199834806967375335",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/apple.png"
+    }
   },
   {
     "name": "Champagne",
-    "customEmojiId": "5199679432230471443"
+    "customEmojiId": "5199679432230471443",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/champagne.png"
+    }
   },
   {
     "name": "Plum",
-    "customEmojiId": "5199962951611612377"
+    "customEmojiId": "5199962951611612377",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/plum.png"
+    }
   },
   {
     "name": "Crescent",
-    "customEmojiId": "5199777439089200573"
+    "customEmojiId": "5199777439089200573",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/crescent.png"
+    }
   },
   {
     "name": "Hot Matcha",
-    "customEmojiId": "5199951325135144570"
+    "customEmojiId": "5199951325135144570",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/hot-matcha.png"
+    }
   },
   {
     "name": "Ghost",
-    "customEmojiId": "5199766383843378029"
+    "customEmojiId": "5199766383843378029",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/ghost.png"
+    }
   },
   {
     "name": "Pomegranate",
-    "customEmojiId": "5199497579020194190"
+    "customEmojiId": "5199497579020194190",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/pomegranate.png"
+    }
   },
   {
     "name": "Divine Falcon",
-    "customEmojiId": "5199678478747732305"
+    "customEmojiId": "5199678478747732305",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/divine-falcon.png"
+    }
   },
   {
     "name": "Wasp",
-    "customEmojiId": "5199841038964917820"
+    "customEmojiId": "5199841038964917820",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/wasp.png"
+    }
   },
   {
     "name": "Gift Box",
-    "customEmojiId": "5199854971838826197"
+    "customEmojiId": "5199854971838826197",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/gift-box.png"
+    }
   },
   {
     "name": "Snowman",
-    "customEmojiId": "5199936215440198936"
+    "customEmojiId": "5199936215440198936",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/snowman.png"
+    }
   },
   {
     "name": "Tulip",
-    "customEmojiId": "5199743169545146465"
+    "customEmojiId": "5199743169545146465",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/tulip.png"
+    }
   },
   {
     "name": "Stocking",
-    "customEmojiId": "5199503016448790503"
+    "customEmojiId": "5199503016448790503",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/stocking.png"
+    }
   },
   {
     "name": "Kitsune",
-    "customEmojiId": "5199625959887635892"
+    "customEmojiId": "5199625959887635892",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/kitsune.png"
+    }
   },
   {
     "name": "Rook",
-    "customEmojiId": "5199812241209201867"
+    "customEmojiId": "5199812241209201867",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/rook.png"
+    }
   },
   {
     "name": "Ram of Amun",
-    "customEmojiId": "5199770601501268034"
+    "customEmojiId": "5199770601501268034",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/ram-of-amun.png"
+    }
   },
   {
     "name": "Candle",
-    "customEmojiId": "5199639604998733687"
+    "customEmojiId": "5199639604998733687",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/candle.png"
+    }
   },
   {
     "name": "Rudolph",
-    "customEmojiId": "5199540056246747378"
+    "customEmojiId": "5199540056246747378",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/rudolph.png"
+    }
   },
   {
     "name": "Deerstalker",
-    "customEmojiId": "5199479669006568749"
+    "customEmojiId": "5199479669006568749",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/deerstalker.png"
+    }
   },
   {
     "name": "Turban",
-    "customEmojiId": "5199446709427536047"
+    "customEmojiId": "5199446709427536047",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/turban.png"
+    }
   },
   {
     "name": "Straw Hat",
-    "customEmojiId": "5199475953859857051"
+    "customEmojiId": "5199475953859857051",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/straw-hat.png"
+    }
   },
   {
     "name": "Grenade",
-    "customEmojiId": "5199860864533955715"
+    "customEmojiId": "5199860864533955715",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/grenade.png"
+    }
   },
   {
     "name": "Viking Shield",
-    "customEmojiId": "5199415012568896891"
+    "customEmojiId": "5199415012568896891",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/viking-shield.png"
+    }
   },
   {
     "name": "Radar",
-    "customEmojiId": "5199811519654695383"
+    "customEmojiId": "5199811519654695383",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/radar.png"
+    }
   },
   {
     "name": "Bowler Hat",
-    "customEmojiId": "5199745982748721353"
+    "customEmojiId": "5199745982748721353",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/bowler-hat.png"
+    }
   },
   {
     "name": "Ink Pen",
-    "customEmojiId": "5199514776069247457"
+    "customEmojiId": "5199514776069247457",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/ink-pen.png"
+    }
   },
   {
     "name": "Piggy Bank",
-    "customEmojiId": "5199476082708878264"
+    "customEmojiId": "5199476082708878264",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/piggy-bank.png"
+    }
   },
   {
     "name": "Doberman",
-    "customEmojiId": "5199561689997017519"
+    "customEmojiId": "5199561689997017519",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/doberman.png"
+    }
   },
   {
     "name": "Thor Hammer",
-    "customEmojiId": "5199857621833649230"
+    "customEmojiId": "5199857621833649230",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/thor-hammer.png"
+    }
   },
   {
     "name": "Sailor Hat",
-    "customEmojiId": "5199827045961471340"
+    "customEmojiId": "5199827045961471340",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/sailor-hat.png"
+    }
   },
   {
     "name": "Plume Shako",
-    "customEmojiId": "5199423851611589961"
+    "customEmojiId": "5199423851611589961",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/plume-shako.png"
+    }
   },
   {
     "name": "Ice Skates",
-    "customEmojiId": "5199870438016060797"
+    "customEmojiId": "5199870438016060797",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/ice-skates.png"
+    }
   },
   {
     "name": "Star",
-    "customEmojiId": "5199425320490407263"
+    "customEmojiId": "5199425320490407263",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/star.png"
+    }
   },
   {
     "name": "Cricket Helmet",
-    "customEmojiId": "5199841202173676889"
+    "customEmojiId": "5199841202173676889",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/cricket-helmet.png"
+    }
   },
   {
     "name": "Hermit Shell",
-    "customEmojiId": "5199762329394253336"
+    "customEmojiId": "5199762329394253336",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/hermit-shell.png"
+    }
   },
   {
     "name": "Coat of Arms",
-    "customEmojiId": "5199543926012283083"
+    "customEmojiId": "5199543926012283083",
+    "assets": {
+      "png": "gifts/holidaydrink/assets/patterns/coat-of-arms.png"
+    }
   }
 ] satisfies readonly GiftPattern[];
 

@@ -1,0 +1,1185 @@
+{
+  "slug": "magicpotion",
+  "models": [
+    {
+      "name": "Error Elixir",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/error-elixir.svg",
+        "tgs": "gifts/magicpotion/assets/models/error-elixir.tgs"
+      }
+    },
+    {
+      "name": "Spooky Juice",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/spooky-juice.svg",
+        "tgs": "gifts/magicpotion/assets/models/spooky-juice.tgs"
+      }
+    },
+    {
+      "name": "Overcharge",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/overcharge.svg",
+        "tgs": "gifts/magicpotion/assets/models/overcharge.tgs"
+      }
+    },
+    {
+      "name": "Deep Freeze",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/deep-freeze.svg",
+        "tgs": "gifts/magicpotion/assets/models/deep-freeze.tgs"
+      }
+    },
+    {
+      "name": "Fish Sauce",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/fish-sauce.svg",
+        "tgs": "gifts/magicpotion/assets/models/fish-sauce.tgs"
+      }
+    },
+    {
+      "name": "Goth Sweat",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/goth-sweat.svg",
+        "tgs": "gifts/magicpotion/assets/models/goth-sweat.tgs"
+      }
+    },
+    {
+      "name": "Gold Medal",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/gold-medal.svg",
+        "tgs": "gifts/magicpotion/assets/models/gold-medal.tgs"
+      }
+    },
+    {
+      "name": "Bloodlust",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/bloodlust.svg",
+        "tgs": "gifts/magicpotion/assets/models/bloodlust.tgs"
+      }
+    },
+    {
+      "name": "Moonlight",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/moonlight.svg",
+        "tgs": "gifts/magicpotion/assets/models/moonlight.tgs"
+      }
+    },
+    {
+      "name": "Emerald Elixir",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/emerald-elixir.svg",
+        "tgs": "gifts/magicpotion/assets/models/emerald-elixir.tgs"
+      }
+    },
+    {
+      "name": "Star Power",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/star-power.svg",
+        "tgs": "gifts/magicpotion/assets/models/star-power.tgs"
+      }
+    },
+    {
+      "name": "False Flight",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/false-flight.svg",
+        "tgs": "gifts/magicpotion/assets/models/false-flight.tgs"
+      }
+    },
+    {
+      "name": "Queen Bee",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/queen-bee.svg",
+        "tgs": "gifts/magicpotion/assets/models/queen-bee.tgs"
+      }
+    },
+    {
+      "name": "Anaglyph",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/anaglyph.svg",
+        "tgs": "gifts/magicpotion/assets/models/anaglyph.tgs"
+      }
+    },
+    {
+      "name": "On Pause",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/on-pause.svg",
+        "tgs": "gifts/magicpotion/assets/models/on-pause.tgs"
+      }
+    },
+    {
+      "name": "Vulnerability",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/vulnerability.svg",
+        "tgs": "gifts/magicpotion/assets/models/vulnerability.tgs"
+      }
+    },
+    {
+      "name": "Unicorn Blood",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/unicorn-blood.svg",
+        "tgs": "gifts/magicpotion/assets/models/unicorn-blood.tgs"
+      }
+    },
+    {
+      "name": "Verdant Vial",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/verdant-vial.svg",
+        "tgs": "gifts/magicpotion/assets/models/verdant-vial.tgs"
+      }
+    },
+    {
+      "name": "Tainted Love",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/tainted-love.svg",
+        "tgs": "gifts/magicpotion/assets/models/tainted-love.tgs"
+      }
+    },
+    {
+      "name": "Color Drain",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/color-drain.svg",
+        "tgs": "gifts/magicpotion/assets/models/color-drain.tgs"
+      }
+    },
+    {
+      "name": "Starsurge",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/starsurge.svg",
+        "tgs": "gifts/magicpotion/assets/models/starsurge.tgs"
+      }
+    },
+    {
+      "name": "Fool’s Gold",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/fool-s-gold.svg",
+        "tgs": "gifts/magicpotion/assets/models/fool-s-gold.tgs"
+      }
+    },
+    {
+      "name": "Quicksilver",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/quicksilver.svg",
+        "tgs": "gifts/magicpotion/assets/models/quicksilver.tgs"
+      }
+    },
+    {
+      "name": "Chromatica",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/chromatica.svg",
+        "tgs": "gifts/magicpotion/assets/models/chromatica.tgs"
+      }
+    },
+    {
+      "name": "Red Rum",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/red-rum.svg",
+        "tgs": "gifts/magicpotion/assets/models/red-rum.tgs"
+      }
+    },
+    {
+      "name": "Heartbreaker",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/heartbreaker.svg",
+        "tgs": "gifts/magicpotion/assets/models/heartbreaker.tgs"
+      }
+    },
+    {
+      "name": "Mummify",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/mummify.svg",
+        "tgs": "gifts/magicpotion/assets/models/mummify.tgs"
+      }
+    },
+    {
+      "name": "Hemlock",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/hemlock.svg",
+        "tgs": "gifts/magicpotion/assets/models/hemlock.tgs"
+      }
+    },
+    {
+      "name": "Rewind",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/rewind.svg",
+        "tgs": "gifts/magicpotion/assets/models/rewind.tgs"
+      }
+    },
+    {
+      "name": "Supernova",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/supernova.svg",
+        "tgs": "gifts/magicpotion/assets/models/supernova.tgs"
+      }
+    },
+    {
+      "name": "Poison Toad",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/poison-toad.svg",
+        "tgs": "gifts/magicpotion/assets/models/poison-toad.tgs"
+      }
+    },
+    {
+      "name": "Cold Night",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/cold-night.svg",
+        "tgs": "gifts/magicpotion/assets/models/cold-night.tgs"
+      }
+    },
+    {
+      "name": "Turning Blue",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/turning-blue.svg",
+        "tgs": "gifts/magicpotion/assets/models/turning-blue.tgs"
+      }
+    },
+    {
+      "name": "Dark Side",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/dark-side.svg",
+        "tgs": "gifts/magicpotion/assets/models/dark-side.tgs"
+      }
+    },
+    {
+      "name": "Liquid Death",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/liquid-death.svg",
+        "tgs": "gifts/magicpotion/assets/models/liquid-death.tgs"
+      }
+    },
+    {
+      "name": "Purple Rain",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/purple-rain.svg",
+        "tgs": "gifts/magicpotion/assets/models/purple-rain.tgs"
+      }
+    },
+    {
+      "name": "Agent Orange",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/agent-orange.svg",
+        "tgs": "gifts/magicpotion/assets/models/agent-orange.tgs"
+      }
+    },
+    {
+      "name": "Saltwater",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/saltwater.svg",
+        "tgs": "gifts/magicpotion/assets/models/saltwater.tgs"
+      }
+    },
+    {
+      "name": "Twilight",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/twilight.svg",
+        "tgs": "gifts/magicpotion/assets/models/twilight.tgs"
+      }
+    },
+    {
+      "name": "Angry Amethyst",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/angry-amethyst.svg",
+        "tgs": "gifts/magicpotion/assets/models/angry-amethyst.tgs"
+      }
+    },
+    {
+      "name": "Wicked Melon",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/wicked-melon.svg",
+        "tgs": "gifts/magicpotion/assets/models/wicked-melon.tgs"
+      }
+    },
+    {
+      "name": "Dimensional",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/dimensional.svg",
+        "tgs": "gifts/magicpotion/assets/models/dimensional.tgs"
+      }
+    },
+    {
+      "name": "Blue Lagoon",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/blue-lagoon.svg",
+        "tgs": "gifts/magicpotion/assets/models/blue-lagoon.tgs"
+      }
+    },
+    {
+      "name": "Dark Secret",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/dark-secret.svg",
+        "tgs": "gifts/magicpotion/assets/models/dark-secret.tgs"
+      }
+    },
+    {
+      "name": "Warm Embrace",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/warm-embrace.svg",
+        "tgs": "gifts/magicpotion/assets/models/warm-embrace.tgs"
+      }
+    },
+    {
+      "name": "Black Bile",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/black-bile.svg",
+        "tgs": "gifts/magicpotion/assets/models/black-bile.tgs"
+      }
+    },
+    {
+      "name": "Pink Poultice",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/pink-poultice.svg",
+        "tgs": "gifts/magicpotion/assets/models/pink-poultice.tgs"
+      }
+    },
+    {
+      "name": "Mad Magenta",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/mad-magenta.svg",
+        "tgs": "gifts/magicpotion/assets/models/mad-magenta.tgs"
+      }
+    },
+    {
+      "name": "The Blues",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/the-blues.svg",
+        "tgs": "gifts/magicpotion/assets/models/the-blues.tgs"
+      }
+    },
+    {
+      "name": "Green Goo",
+      "assets": {
+        "svg": "gifts/magicpotion/assets/models/green-goo.svg",
+        "tgs": "gifts/magicpotion/assets/models/green-goo.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Severed Hand",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/severed-hand.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Voodoo Doll",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/voodoo-doll.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Spooky Cat",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/spooky-cat.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Lollipop",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/lollipop.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Night Bats",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/night-bats.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Scarecrow",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/scarecrow.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Jaws",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/jaws.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Happy Smile",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/happy-smile.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Coffin",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/coffin.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Half Moon",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/half-moon.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Witch’s Hat",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/witch-s-hat.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Nice Ghost",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/nice-ghost.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Cauldron",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/cauldron.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Flying Witch",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/flying-witch.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Bloody Axe",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bloody-axe.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Crow",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/crow.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Gravestone",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/gravestone.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Poison Drop",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/poison-drop.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Eyeball",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/eyeball.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Treats",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/treats.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Evil Pumpkin",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/evil-pumpkin.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Black Widow",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/black-widow.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Autumn Leaves",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/autumn-leaves.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Grim Reaper",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/grim-reaper.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Human Scull",
+      "assets": {
+        "png": "gifts/magicpotion/assets/patterns/human-scull.png"
+      }
+    }
+  ]
+}

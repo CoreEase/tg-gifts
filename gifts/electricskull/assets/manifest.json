@@ -1,0 +1,1377 @@
+{
+  "slug": "electricskull",
+  "models": [
+    {
+      "name": "Nightmare",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/nightmare.svg",
+        "tgs": "gifts/electricskull/assets/models/nightmare.tgs"
+      }
+    },
+    {
+      "name": "Terminator",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/terminator.svg",
+        "tgs": "gifts/electricskull/assets/models/terminator.tgs"
+      }
+    },
+    {
+      "name": "Bad Fortune",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/bad-fortune.svg",
+        "tgs": "gifts/electricskull/assets/models/bad-fortune.tgs"
+      }
+    },
+    {
+      "name": "Calavera",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/calavera.svg",
+        "tgs": "gifts/electricskull/assets/models/calavera.tgs"
+      }
+    },
+    {
+      "name": "Clockwork",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/clockwork.svg",
+        "tgs": "gifts/electricskull/assets/models/clockwork.tgs"
+      }
+    },
+    {
+      "name": "Creeper Berry",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/creeper-berry.svg",
+        "tgs": "gifts/electricskull/assets/models/creeper-berry.tgs"
+      }
+    },
+    {
+      "name": "Sleepy Hollow",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/sleepy-hollow.svg",
+        "tgs": "gifts/electricskull/assets/models/sleepy-hollow.tgs"
+      }
+    },
+    {
+      "name": "Party Soul",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/party-soul.svg",
+        "tgs": "gifts/electricskull/assets/models/party-soul.tgs"
+      }
+    },
+    {
+      "name": "Cobweb",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/cobweb.svg",
+        "tgs": "gifts/electricskull/assets/models/cobweb.tgs"
+      }
+    },
+    {
+      "name": "Smiley",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/smiley.svg",
+        "tgs": "gifts/electricskull/assets/models/smiley.tgs"
+      }
+    },
+    {
+      "name": "Fiesta",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/fiesta.svg",
+        "tgs": "gifts/electricskull/assets/models/fiesta.tgs"
+      }
+    },
+    {
+      "name": "Divinity",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/divinity.svg",
+        "tgs": "gifts/electricskull/assets/models/divinity.tgs"
+      }
+    },
+    {
+      "name": "Starman",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/starman.svg",
+        "tgs": "gifts/electricskull/assets/models/starman.tgs"
+      }
+    },
+    {
+      "name": "Half Alive",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/half-alive.svg",
+        "tgs": "gifts/electricskull/assets/models/half-alive.tgs"
+      }
+    },
+    {
+      "name": "Starborn",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/starborn.svg",
+        "tgs": "gifts/electricskull/assets/models/starborn.tgs"
+      }
+    },
+    {
+      "name": "Ink Skull",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/ink-skull.svg",
+        "tgs": "gifts/electricskull/assets/models/ink-skull.tgs"
+      }
+    },
+    {
+      "name": "Wild Desire",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/wild-desire.svg",
+        "tgs": "gifts/electricskull/assets/models/wild-desire.tgs"
+      }
+    },
+    {
+      "name": "Gentleman",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/gentleman.svg",
+        "tgs": "gifts/electricskull/assets/models/gentleman.tgs"
+      }
+    },
+    {
+      "name": "Void Totem",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/void-totem.svg",
+        "tgs": "gifts/electricskull/assets/models/void-totem.tgs"
+      }
+    },
+    {
+      "name": "Dead Apple",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/dead-apple.svg",
+        "tgs": "gifts/electricskull/assets/models/dead-apple.tgs"
+      }
+    },
+    {
+      "name": "Twisted Heart",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/twisted-heart.svg",
+        "tgs": "gifts/electricskull/assets/models/twisted-heart.tgs"
+      }
+    },
+    {
+      "name": "Hellfire",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/hellfire.svg",
+        "tgs": "gifts/electricskull/assets/models/hellfire.tgs"
+      }
+    },
+    {
+      "name": "Polka Dead",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/polka-dead.svg",
+        "tgs": "gifts/electricskull/assets/models/polka-dead.tgs"
+      }
+    },
+    {
+      "name": "Dead Kitty",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/dead-kitty.svg",
+        "tgs": "gifts/electricskull/assets/models/dead-kitty.tgs"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/cactus.svg",
+        "tgs": "gifts/electricskull/assets/models/cactus.tgs"
+      }
+    },
+    {
+      "name": "Cute Monster",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/cute-monster.svg",
+        "tgs": "gifts/electricskull/assets/models/cute-monster.tgs"
+      }
+    },
+    {
+      "name": "Happy End",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/happy-end.svg",
+        "tgs": "gifts/electricskull/assets/models/happy-end.tgs"
+      }
+    },
+    {
+      "name": "Phantom",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/phantom.svg",
+        "tgs": "gifts/electricskull/assets/models/phantom.tgs"
+      }
+    },
+    {
+      "name": "Nightfall",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/nightfall.svg",
+        "tgs": "gifts/electricskull/assets/models/nightfall.tgs"
+      }
+    },
+    {
+      "name": "Sunset Veil",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/sunset-veil.svg",
+        "tgs": "gifts/electricskull/assets/models/sunset-veil.tgs"
+      }
+    },
+    {
+      "name": "Bubblegum",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/bubblegum.svg",
+        "tgs": "gifts/electricskull/assets/models/bubblegum.tgs"
+      }
+    },
+    {
+      "name": "Corpse Mint",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/corpse-mint.svg",
+        "tgs": "gifts/electricskull/assets/models/corpse-mint.tgs"
+      }
+    },
+    {
+      "name": "Deadly Sweet",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/deadly-sweet.svg",
+        "tgs": "gifts/electricskull/assets/models/deadly-sweet.tgs"
+      }
+    },
+    {
+      "name": "Chromatic",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/chromatic.svg",
+        "tgs": "gifts/electricskull/assets/models/chromatic.tgs"
+      }
+    },
+    {
+      "name": "Red Death",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/red-death.svg",
+        "tgs": "gifts/electricskull/assets/models/red-death.tgs"
+      }
+    },
+    {
+      "name": "Frost Wraith",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/frost-wraith.svg",
+        "tgs": "gifts/electricskull/assets/models/frost-wraith.tgs"
+      }
+    },
+    {
+      "name": "Radiant",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/radiant.svg",
+        "tgs": "gifts/electricskull/assets/models/radiant.tgs"
+      }
+    },
+    {
+      "name": "Neon Green",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/neon-green.svg",
+        "tgs": "gifts/electricskull/assets/models/neon-green.tgs"
+      }
+    },
+    {
+      "name": "Indigo Husk",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/indigo-husk.svg",
+        "tgs": "gifts/electricskull/assets/models/indigo-husk.tgs"
+      }
+    },
+    {
+      "name": "Metal Shade",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/metal-shade.svg",
+        "tgs": "gifts/electricskull/assets/models/metal-shade.tgs"
+      }
+    },
+    {
+      "name": "Solar Stone",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/solar-stone.svg",
+        "tgs": "gifts/electricskull/assets/models/solar-stone.tgs"
+      }
+    },
+    {
+      "name": "Diablo",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/diablo.svg",
+        "tgs": "gifts/electricskull/assets/models/diablo.tgs"
+      }
+    },
+    {
+      "name": "Herbal Glow",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/herbal-glow.svg",
+        "tgs": "gifts/electricskull/assets/models/herbal-glow.tgs"
+      }
+    },
+    {
+      "name": "Brass Fossil",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/brass-fossil.svg",
+        "tgs": "gifts/electricskull/assets/models/brass-fossil.tgs"
+      }
+    },
+    {
+      "name": "Tangerine",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/tangerine.svg",
+        "tgs": "gifts/electricskull/assets/models/tangerine.tgs"
+      }
+    },
+    {
+      "name": "Ruby Eyes",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/ruby-eyes.svg",
+        "tgs": "gifts/electricskull/assets/models/ruby-eyes.tgs"
+      }
+    },
+    {
+      "name": "Deadman",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/deadman.svg",
+        "tgs": "gifts/electricskull/assets/models/deadman.tgs"
+      }
+    },
+    {
+      "name": "Rose Quartz",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/rose-quartz.svg",
+        "tgs": "gifts/electricskull/assets/models/rose-quartz.tgs"
+      }
+    },
+    {
+      "name": "Bone White",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/bone-white.svg",
+        "tgs": "gifts/electricskull/assets/models/bone-white.tgs"
+      }
+    },
+    {
+      "name": "Zombie",
+      "assets": {
+        "svg": "gifts/electricskull/assets/models/zombie.svg",
+        "tgs": "gifts/electricskull/assets/models/zombie.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Crow",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/crow.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Jack-O-Lantern",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/jack-o-lantern.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Treats",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/treats.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Hex Pot",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/hex-pot.png"
+      }
+    },
+    {
+      "name": "Gravestone",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/gravestone.png"
+      }
+    },
+    {
+      "name": "Tarot Cards",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/tarot-cards.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Tombstone",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/tombstone.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Evil Pumpkin",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/evil-pumpkin.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Mortar",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/mortar.png"
+      }
+    },
+    {
+      "name": "Poison Drop",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/poison-drop.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Cauldron",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/cauldron.png"
+      }
+    },
+    {
+      "name": "Bloody Axe",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/bloody-axe.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Severed Hand",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/severed-hand.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Kashket",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/kashket.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Half Moon",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/half-moon.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Witch’s Hat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/witch-s-hat.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Happy Smile",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/happy-smile.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Voodoo",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/voodoo.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Haunted House",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/haunted-house.png"
+      }
+    },
+    {
+      "name": "Eyeball",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/eyeball.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Magic Elixir",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/magic-elixir.png"
+      }
+    },
+    {
+      "name": "Night Bats",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/night-bats.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Paw Print",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/paw-print.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Old Scull",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/old-scull.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Coffin",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/coffin.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Spooky Cat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/spooky-cat.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Jaws",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/jaws.png"
+      }
+    },
+    {
+      "name": "Vampire Bat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/vampire-bat.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Autumn Leaves",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/autumn-leaves.png"
+      }
+    },
+    {
+      "name": "Flying Witch",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/flying-witch.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Witch Hat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/witch-hat.png"
+      }
+    },
+    {
+      "name": "Creepy Eye",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/creepy-eye.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Neptune",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/neptune.png"
+      }
+    },
+    {
+      "name": "Scarecrow",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/scarecrow.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Lollipop",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/lollipop.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Zombie Hand",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/zombie-hand.png"
+      }
+    },
+    {
+      "name": "Grim Reaper",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/grim-reaper.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Conical Hat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/conical-hat.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Human Scull",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/human-scull.png"
+      }
+    },
+    {
+      "name": "Coonskin Cap",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/coonskin-cap.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Nice Ghost",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/nice-ghost.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Voodoo Doll",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/voodoo-doll.png"
+      }
+    },
+    {
+      "name": "Casket",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/casket.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Ushanka",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/ushanka.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Arcane Mirror",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/arcane-mirror.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Black Widow",
+      "assets": {
+        "png": "gifts/electricskull/assets/patterns/black-widow.png"
+      }
+    }
+  ]
+}

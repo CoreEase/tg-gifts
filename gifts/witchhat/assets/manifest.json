@@ -1,0 +1,1535 @@
+{
+  "slug": "witchhat",
+  "models": [
+    {
+      "name": "Alchemy",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/alchemy.svg",
+        "tgs": "gifts/witchhat/assets/models/alchemy.tgs"
+      }
+    },
+    {
+      "name": "Arctic",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/arctic.svg",
+        "tgs": "gifts/witchhat/assets/models/arctic.tgs"
+      }
+    },
+    {
+      "name": "Arts Major",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/arts-major.svg",
+        "tgs": "gifts/witchhat/assets/models/arts-major.tgs"
+      }
+    },
+    {
+      "name": "Banished",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/banished.svg",
+        "tgs": "gifts/witchhat/assets/models/banished.tgs"
+      }
+    },
+    {
+      "name": "Bat Swarm",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/bat-swarm.svg",
+        "tgs": "gifts/witchhat/assets/models/bat-swarm.tgs"
+      }
+    },
+    {
+      "name": "Black Magic",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/black-magic.svg",
+        "tgs": "gifts/witchhat/assets/models/black-magic.tgs"
+      }
+    },
+    {
+      "name": "Bouquet",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/bouquet.svg",
+        "tgs": "gifts/witchhat/assets/models/bouquet.tgs"
+      }
+    },
+    {
+      "name": "Candelabra",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/candelabra.svg",
+        "tgs": "gifts/witchhat/assets/models/candelabra.tgs"
+      }
+    },
+    {
+      "name": "Cat Familiar",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/cat-familiar.svg",
+        "tgs": "gifts/witchhat/assets/models/cat-familiar.tgs"
+      }
+    },
+    {
+      "name": "Cherub",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/cherub.svg",
+        "tgs": "gifts/witchhat/assets/models/cherub.tgs"
+      }
+    },
+    {
+      "name": "Christmas",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/christmas.svg",
+        "tgs": "gifts/witchhat/assets/models/christmas.tgs"
+      }
+    },
+    {
+      "name": "Circus",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/circus.svg",
+        "tgs": "gifts/witchhat/assets/models/circus.tgs"
+      }
+    },
+    {
+      "name": "Cobweb",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/cobweb.svg",
+        "tgs": "gifts/witchhat/assets/models/cobweb.tgs"
+      }
+    },
+    {
+      "name": "Cone of Cold",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/cone-of-cold.svg",
+        "tgs": "gifts/witchhat/assets/models/cone-of-cold.tgs"
+      }
+    },
+    {
+      "name": "Confetti",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/confetti.svg",
+        "tgs": "gifts/witchhat/assets/models/confetti.tgs"
+      }
+    },
+    {
+      "name": "Cthulhu",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/cthulhu.svg",
+        "tgs": "gifts/witchhat/assets/models/cthulhu.tgs"
+      }
+    },
+    {
+      "name": "Daphnaie",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/daphnaie.svg",
+        "tgs": "gifts/witchhat/assets/models/daphnaie.tgs"
+      }
+    },
+    {
+      "name": "Dark Side",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/dark-side.svg",
+        "tgs": "gifts/witchhat/assets/models/dark-side.tgs"
+      }
+    },
+    {
+      "name": "DJ Witch",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/dj-witch.svg",
+        "tgs": "gifts/witchhat/assets/models/dj-witch.tgs"
+      }
+    },
+    {
+      "name": "Fae Touched",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/fae-touched.svg",
+        "tgs": "gifts/witchhat/assets/models/fae-touched.tgs"
+      }
+    },
+    {
+      "name": "Freyja",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/freyja.svg",
+        "tgs": "gifts/witchhat/assets/models/freyja.tgs"
+      }
+    },
+    {
+      "name": "Green Flag",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/green-flag.svg",
+        "tgs": "gifts/witchhat/assets/models/green-flag.tgs"
+      }
+    },
+    {
+      "name": "Halftone",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/halftone.svg",
+        "tgs": "gifts/witchhat/assets/models/halftone.tgs"
+      }
+    },
+    {
+      "name": "Hat Shot",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/hat-shot.svg",
+        "tgs": "gifts/witchhat/assets/models/hat-shot.tgs"
+      }
+    },
+    {
+      "name": "Hatroulette",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/hatroulette.svg",
+        "tgs": "gifts/witchhat/assets/models/hatroulette.tgs"
+      }
+    },
+    {
+      "name": "Holiday",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/holiday.svg",
+        "tgs": "gifts/witchhat/assets/models/holiday.tgs"
+      }
+    },
+    {
+      "name": "Illusion",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/illusion.svg",
+        "tgs": "gifts/witchhat/assets/models/illusion.tgs"
+      }
+    },
+    {
+      "name": "Jumpscare",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/jumpscare.svg",
+        "tgs": "gifts/witchhat/assets/models/jumpscare.tgs"
+      }
+    },
+    {
+      "name": "Merlin",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/merlin.svg",
+        "tgs": "gifts/witchhat/assets/models/merlin.tgs"
+      }
+    },
+    {
+      "name": "Mine Time",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/mine-time.svg",
+        "tgs": "gifts/witchhat/assets/models/mine-time.tgs"
+      }
+    },
+    {
+      "name": "Mordor",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/mordor.svg",
+        "tgs": "gifts/witchhat/assets/models/mordor.tgs"
+      }
+    },
+    {
+      "name": "Necromancy",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/necromancy.svg",
+        "tgs": "gifts/witchhat/assets/models/necromancy.tgs"
+      }
+    },
+    {
+      "name": "Obi-Wan",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/obi-wan.svg",
+        "tgs": "gifts/witchhat/assets/models/obi-wan.tgs"
+      }
+    },
+    {
+      "name": "Observer",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/observer.svg",
+        "tgs": "gifts/witchhat/assets/models/observer.tgs"
+      }
+    },
+    {
+      "name": "Patchwork",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/patchwork.svg",
+        "tgs": "gifts/witchhat/assets/models/patchwork.tgs"
+      }
+    },
+    {
+      "name": "Phantom",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/phantom.svg",
+        "tgs": "gifts/witchhat/assets/models/phantom.tgs"
+      }
+    },
+    {
+      "name": "Polka Dot",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/polka-dot.svg",
+        "tgs": "gifts/witchhat/assets/models/polka-dot.tgs"
+      }
+    },
+    {
+      "name": "Radagast",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/radagast.svg",
+        "tgs": "gifts/witchhat/assets/models/radagast.tgs"
+      }
+    },
+    {
+      "name": "Rainbow",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/rainbow.svg",
+        "tgs": "gifts/witchhat/assets/models/rainbow.tgs"
+      }
+    },
+    {
+      "name": "Red Flag",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/red-flag.svg",
+        "tgs": "gifts/witchhat/assets/models/red-flag.tgs"
+      }
+    },
+    {
+      "name": "Sneak Attack",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/sneak-attack.svg",
+        "tgs": "gifts/witchhat/assets/models/sneak-attack.tgs"
+      }
+    },
+    {
+      "name": "Sorcière",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/sorciere.svg",
+        "tgs": "gifts/witchhat/assets/models/sorciere.tgs"
+      }
+    },
+    {
+      "name": "Sorting Cat",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/sorting-cat.svg",
+        "tgs": "gifts/witchhat/assets/models/sorting-cat.tgs"
+      }
+    },
+    {
+      "name": "Spyglass",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/spyglass.svg",
+        "tgs": "gifts/witchhat/assets/models/spyglass.tgs"
+      }
+    },
+    {
+      "name": "Sylvester",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/sylvester.svg",
+        "tgs": "gifts/witchhat/assets/models/sylvester.tgs"
+      }
+    },
+    {
+      "name": "Ultraviolet",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/ultraviolet.svg",
+        "tgs": "gifts/witchhat/assets/models/ultraviolet.tgs"
+      }
+    },
+    {
+      "name": "Canvas",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/canvas.svg",
+        "tgs": "gifts/witchhat/assets/models/canvas.tgs"
+      }
+    },
+    {
+      "name": "Downtown",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/downtown.svg",
+        "tgs": "gifts/witchhat/assets/models/downtown.tgs"
+      }
+    },
+    {
+      "name": "Hex Taxi",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/hex-taxi.svg",
+        "tgs": "gifts/witchhat/assets/models/hex-taxi.tgs"
+      }
+    },
+    {
+      "name": "Hypnosis",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/hypnosis.svg",
+        "tgs": "gifts/witchhat/assets/models/hypnosis.tgs"
+      }
+    },
+    {
+      "name": "Nebula Mist",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/nebula-mist.svg",
+        "tgs": "gifts/witchhat/assets/models/nebula-mist.tgs"
+      }
+    },
+    {
+      "name": "Pinstripe",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/pinstripe.svg",
+        "tgs": "gifts/witchhat/assets/models/pinstripe.tgs"
+      }
+    },
+    {
+      "name": "Striped",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/striped.svg",
+        "tgs": "gifts/witchhat/assets/models/striped.tgs"
+      }
+    },
+    {
+      "name": "Techno",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/techno.svg",
+        "tgs": "gifts/witchhat/assets/models/techno.tgs"
+      }
+    },
+    {
+      "name": "Aeromancy",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/aeromancy.svg",
+        "tgs": "gifts/witchhat/assets/models/aeromancy.tgs"
+      }
+    },
+    {
+      "name": "Baba Yaga",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/baba-yaga.svg",
+        "tgs": "gifts/witchhat/assets/models/baba-yaga.tgs"
+      }
+    },
+    {
+      "name": "Beetroot",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/beetroot.svg",
+        "tgs": "gifts/witchhat/assets/models/beetroot.tgs"
+      }
+    },
+    {
+      "name": "Blood Mage",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/blood-mage.svg",
+        "tgs": "gifts/witchhat/assets/models/blood-mage.tgs"
+      }
+    },
+    {
+      "name": "Cat’s Grasp",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/cat-s-grasp.svg",
+        "tgs": "gifts/witchhat/assets/models/cat-s-grasp.tgs"
+      }
+    },
+    {
+      "name": "Classic",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/classic.svg",
+        "tgs": "gifts/witchhat/assets/models/classic.tgs"
+      }
+    },
+    {
+      "name": "Color Spray",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/color-spray.svg",
+        "tgs": "gifts/witchhat/assets/models/color-spray.tgs"
+      }
+    },
+    {
+      "name": "Dragonfruit",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/dragonfruit.svg",
+        "tgs": "gifts/witchhat/assets/models/dragonfruit.tgs"
+      }
+    },
+    {
+      "name": "Ectoplasm",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/ectoplasm.svg",
+        "tgs": "gifts/witchhat/assets/models/ectoplasm.tgs"
+      }
+    },
+    {
+      "name": "Ember Touch",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/ember-touch.svg",
+        "tgs": "gifts/witchhat/assets/models/ember-touch.tgs"
+      }
+    },
+    {
+      "name": "Ethereal",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/ethereal.svg",
+        "tgs": "gifts/witchhat/assets/models/ethereal.tgs"
+      }
+    },
+    {
+      "name": "Folklore",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/folklore.svg",
+        "tgs": "gifts/witchhat/assets/models/folklore.tgs"
+      }
+    },
+    {
+      "name": "Guava",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/guava.svg",
+        "tgs": "gifts/witchhat/assets/models/guava.tgs"
+      }
+    },
+    {
+      "name": "Hallowed",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/hallowed.svg",
+        "tgs": "gifts/witchhat/assets/models/hallowed.tgs"
+      }
+    },
+    {
+      "name": "Harvest",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/harvest.svg",
+        "tgs": "gifts/witchhat/assets/models/harvest.tgs"
+      }
+    },
+    {
+      "name": "Hobbit",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/hobbit.svg",
+        "tgs": "gifts/witchhat/assets/models/hobbit.tgs"
+      }
+    },
+    {
+      "name": "Incense",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/incense.svg",
+        "tgs": "gifts/witchhat/assets/models/incense.tgs"
+      }
+    },
+    {
+      "name": "Junk Mage",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/junk-mage.svg",
+        "tgs": "gifts/witchhat/assets/models/junk-mage.tgs"
+      }
+    },
+    {
+      "name": "Lemon Aid",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/lemon-aid.svg",
+        "tgs": "gifts/witchhat/assets/models/lemon-aid.tgs"
+      }
+    },
+    {
+      "name": "Little Wizard",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/little-wizard.svg",
+        "tgs": "gifts/witchhat/assets/models/little-wizard.tgs"
+      }
+    },
+    {
+      "name": "Lorendale",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/lorendale.svg",
+        "tgs": "gifts/witchhat/assets/models/lorendale.tgs"
+      }
+    },
+    {
+      "name": "Luminous",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/luminous.svg",
+        "tgs": "gifts/witchhat/assets/models/luminous.tgs"
+      }
+    },
+    {
+      "name": "Mad Wizard",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/mad-wizard.svg",
+        "tgs": "gifts/witchhat/assets/models/mad-wizard.tgs"
+      }
+    },
+    {
+      "name": "Maleficar",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/maleficar.svg",
+        "tgs": "gifts/witchhat/assets/models/maleficar.tgs"
+      }
+    },
+    {
+      "name": "Manacost",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/manacost.svg",
+        "tgs": "gifts/witchhat/assets/models/manacost.tgs"
+      }
+    },
+    {
+      "name": "Martian Night",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/martian-night.svg",
+        "tgs": "gifts/witchhat/assets/models/martian-night.tgs"
+      }
+    },
+    {
+      "name": "Midnight",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/midnight.svg",
+        "tgs": "gifts/witchhat/assets/models/midnight.tgs"
+      }
+    },
+    {
+      "name": "Morgana",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/morgana.svg",
+        "tgs": "gifts/witchhat/assets/models/morgana.tgs"
+      }
+    },
+    {
+      "name": "Morrigan",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/morrigan.svg",
+        "tgs": "gifts/witchhat/assets/models/morrigan.tgs"
+      }
+    },
+    {
+      "name": "Narnia",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/narnia.svg",
+        "tgs": "gifts/witchhat/assets/models/narnia.tgs"
+      }
+    },
+    {
+      "name": "Old Ochre",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/old-ochre.svg",
+        "tgs": "gifts/witchhat/assets/models/old-ochre.tgs"
+      }
+    },
+    {
+      "name": "Orchard",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/orchard.svg",
+        "tgs": "gifts/witchhat/assets/models/orchard.tgs"
+      }
+    },
+    {
+      "name": "Picasso",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/picasso.svg",
+        "tgs": "gifts/witchhat/assets/models/picasso.tgs"
+      }
+    },
+    {
+      "name": "Pink Pixie",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/pink-pixie.svg",
+        "tgs": "gifts/witchhat/assets/models/pink-pixie.tgs"
+      }
+    },
+    {
+      "name": "Pyromancy",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/pyromancy.svg",
+        "tgs": "gifts/witchhat/assets/models/pyromancy.tgs"
+      }
+    },
+    {
+      "name": "Sanctuary",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/sanctuary.svg",
+        "tgs": "gifts/witchhat/assets/models/sanctuary.tgs"
+      }
+    },
+    {
+      "name": "Sand Cloak",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/sand-cloak.svg",
+        "tgs": "gifts/witchhat/assets/models/sand-cloak.tgs"
+      }
+    },
+    {
+      "name": "Seaside",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/seaside.svg",
+        "tgs": "gifts/witchhat/assets/models/seaside.tgs"
+      }
+    },
+    {
+      "name": "Smoke Veil",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/smoke-veil.svg",
+        "tgs": "gifts/witchhat/assets/models/smoke-veil.tgs"
+      }
+    },
+    {
+      "name": "Spellcaster",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/spellcaster.svg",
+        "tgs": "gifts/witchhat/assets/models/spellcaster.tgs"
+      }
+    },
+    {
+      "name": "Twilight",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/twilight.svg",
+        "tgs": "gifts/witchhat/assets/models/twilight.tgs"
+      }
+    },
+    {
+      "name": "Ube Tea",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/ube-tea.svg",
+        "tgs": "gifts/witchhat/assets/models/ube-tea.tgs"
+      }
+    },
+    {
+      "name": "Vintage",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/vintage.svg",
+        "tgs": "gifts/witchhat/assets/models/vintage.tgs"
+      }
+    },
+    {
+      "name": "Wild Magic",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/wild-magic.svg",
+        "tgs": "gifts/witchhat/assets/models/wild-magic.tgs"
+      }
+    },
+    {
+      "name": "Witch Hazel",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/witch-hazel.svg",
+        "tgs": "gifts/witchhat/assets/models/witch-hazel.tgs"
+      }
+    },
+    {
+      "name": "Young Witch",
+      "assets": {
+        "svg": "gifts/witchhat/assets/models/young-witch.svg",
+        "tgs": "gifts/witchhat/assets/models/young-witch.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Poison Drop",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/poison-drop.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Night Bats",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/night-bats.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Grim Reaper",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/grim-reaper.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Witch’s Hat",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/witch-s-hat.png"
+      }
+    },
+    {
+      "name": "Crow",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/crow.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Voodoo Doll",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/voodoo-doll.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Happy Smile",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/happy-smile.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Scarecrow",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/scarecrow.png"
+      }
+    },
+    {
+      "name": "Jaws",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/jaws.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Human Scull",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/human-scull.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Cauldron",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/cauldron.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Black Widow",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/black-widow.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Evil Pumpkin",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/evil-pumpkin.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Flying Witch",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/flying-witch.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Coffin",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/coffin.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Treats",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/treats.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Severed Hand",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/severed-hand.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Eyeball",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/eyeball.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Nice Ghost",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/nice-ghost.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Bloody Axe",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/bloody-axe.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Autumn Leaves",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/autumn-leaves.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Spooky Cat",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/spooky-cat.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Half Moon",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/half-moon.png"
+      }
+    },
+    {
+      "name": "Lollipop",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/lollipop.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Gravestone",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/gravestone.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/witchhat/assets/patterns/sun-mountain.png"
+      }
+    }
+  ]
+}

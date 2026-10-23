@@ -1,0 +1,2173 @@
+{
+  "slug": "tamagadget",
+  "models": [
+    {
+      "name": "Diamond Ton",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/diamond-ton.svg",
+        "tgs": "gifts/tamagadget/assets/models/diamond-ton.tgs"
+      }
+    },
+    {
+      "name": "Pepe Feels",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/pepe-feels.svg",
+        "tgs": "gifts/tamagadget/assets/models/pepe-feels.tgs"
+      }
+    },
+    {
+      "name": "Alien Attack",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/alien-attack.svg",
+        "tgs": "gifts/tamagadget/assets/models/alien-attack.tgs"
+      }
+    },
+    {
+      "name": "Nokia 3310",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/nokia-3310.svg",
+        "tgs": "gifts/tamagadget/assets/models/nokia-3310.tgs"
+      }
+    },
+    {
+      "name": "Underdog",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/underdog.svg",
+        "tgs": "gifts/tamagadget/assets/models/underdog.tgs"
+      }
+    },
+    {
+      "name": "Seraph",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/seraph.svg",
+        "tgs": "gifts/tamagadget/assets/models/seraph.tgs"
+      }
+    },
+    {
+      "name": "Nyan Cat",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/nyan-cat.svg",
+        "tgs": "gifts/tamagadget/assets/models/nyan-cat.tgs"
+      }
+    },
+    {
+      "name": "Egg Catch",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/egg-catch.svg",
+        "tgs": "gifts/tamagadget/assets/models/egg-catch.tgs"
+      }
+    },
+    {
+      "name": "Toxic Glitch",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/toxic-glitch.svg",
+        "tgs": "gifts/tamagadget/assets/models/toxic-glitch.tgs"
+      }
+    },
+    {
+      "name": "Heartbeat",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/heartbeat.svg",
+        "tgs": "gifts/tamagadget/assets/models/heartbeat.tgs"
+      }
+    },
+    {
+      "name": "Birthday",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/birthday.svg",
+        "tgs": "gifts/tamagadget/assets/models/birthday.tgs"
+      }
+    },
+    {
+      "name": "Water Rings",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/water-rings.svg",
+        "tgs": "gifts/tamagadget/assets/models/water-rings.tgs"
+      }
+    },
+    {
+      "name": "Lazy Egg",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/lazy-egg.svg",
+        "tgs": "gifts/tamagadget/assets/models/lazy-egg.tgs"
+      }
+    },
+    {
+      "name": "Puck Man",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/puck-man.svg",
+        "tgs": "gifts/tamagadget/assets/models/puck-man.tgs"
+      }
+    },
+    {
+      "name": "Doom",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/doom.svg",
+        "tgs": "gifts/tamagadget/assets/models/doom.tgs"
+      }
+    },
+    {
+      "name": "Poo Byte",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/poo-byte.svg",
+        "tgs": "gifts/tamagadget/assets/models/poo-byte.tgs"
+      }
+    },
+    {
+      "name": "Portal",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/portal.svg",
+        "tgs": "gifts/tamagadget/assets/models/portal.tgs"
+      }
+    },
+    {
+      "name": "R2D2",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/r2d2.svg",
+        "tgs": "gifts/tamagadget/assets/models/r2d2.tgs"
+      }
+    },
+    {
+      "name": "Mecha Fight",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/mecha-fight.svg",
+        "tgs": "gifts/tamagadget/assets/models/mecha-fight.tgs"
+      }
+    },
+    {
+      "name": "Furby",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/furby.svg",
+        "tgs": "gifts/tamagadget/assets/models/furby.tgs"
+      }
+    },
+    {
+      "name": "The Demon",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/the-demon.svg",
+        "tgs": "gifts/tamagadget/assets/models/the-demon.tgs"
+      }
+    },
+    {
+      "name": "Game Boy",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/game-boy.svg",
+        "tgs": "gifts/tamagadget/assets/models/game-boy.tgs"
+      }
+    },
+    {
+      "name": "Pixel Pink",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/pixel-pink.svg",
+        "tgs": "gifts/tamagadget/assets/models/pixel-pink.tgs"
+      }
+    },
+    {
+      "name": "Funky Stitch",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/funky-stitch.svg",
+        "tgs": "gifts/tamagadget/assets/models/funky-stitch.tgs"
+      }
+    },
+    {
+      "name": "Pastel Thread",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/pastel-thread.svg",
+        "tgs": "gifts/tamagadget/assets/models/pastel-thread.tgs"
+      }
+    },
+    {
+      "name": "Mono Patch",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/mono-patch.svg",
+        "tgs": "gifts/tamagadget/assets/models/mono-patch.tgs"
+      }
+    },
+    {
+      "name": "Pixel Bunny",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/pixel-bunny.svg",
+        "tgs": "gifts/tamagadget/assets/models/pixel-bunny.tgs"
+      }
+    },
+    {
+      "name": "Stone Kitty",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/stone-kitty.svg",
+        "tgs": "gifts/tamagadget/assets/models/stone-kitty.tgs"
+      }
+    },
+    {
+      "name": "BMO",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/bmo.svg",
+        "tgs": "gifts/tamagadget/assets/models/bmo.tgs"
+      }
+    },
+    {
+      "name": "Wooden Dog",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/wooden-dog.svg",
+        "tgs": "gifts/tamagadget/assets/models/wooden-dog.tgs"
+      }
+    },
+    {
+      "name": "Yellow",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/yellow.svg",
+        "tgs": "gifts/tamagadget/assets/models/yellow.tgs"
+      }
+    },
+    {
+      "name": "Classic Blue",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/classic-blue.svg",
+        "tgs": "gifts/tamagadget/assets/models/classic-blue.tgs"
+      }
+    },
+    {
+      "name": "Bunny Grid",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/bunny-grid.svg",
+        "tgs": "gifts/tamagadget/assets/models/bunny-grid.tgs"
+      }
+    },
+    {
+      "name": "Love Wish",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/love-wish.svg",
+        "tgs": "gifts/tamagadget/assets/models/love-wish.tgs"
+      }
+    },
+    {
+      "name": "Wish Granted",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/wish-granted.svg",
+        "tgs": "gifts/tamagadget/assets/models/wish-granted.tgs"
+      }
+    },
+    {
+      "name": "Money Wish",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/money-wish.svg",
+        "tgs": "gifts/tamagadget/assets/models/money-wish.tgs"
+      }
+    },
+    {
+      "name": "Lucky Wish",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/lucky-wish.svg",
+        "tgs": "gifts/tamagadget/assets/models/lucky-wish.tgs"
+      }
+    },
+    {
+      "name": "Health Wish",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/health-wish.svg",
+        "tgs": "gifts/tamagadget/assets/models/health-wish.tgs"
+      }
+    },
+    {
+      "name": "Laa-Laa-Lag",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/laa-laa-lag.svg",
+        "tgs": "gifts/tamagadget/assets/models/laa-laa-lag.tgs"
+      }
+    },
+    {
+      "name": "Error-Po",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/error-po.svg",
+        "tgs": "gifts/tamagadget/assets/models/error-po.tgs"
+      }
+    },
+    {
+      "name": "Dipsy",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/dipsy.svg",
+        "tgs": "gifts/tamagadget/assets/models/dipsy.tgs"
+      }
+    },
+    {
+      "name": "Icy Zebra",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/icy-zebra.svg",
+        "tgs": "gifts/tamagadget/assets/models/icy-zebra.tgs"
+      }
+    },
+    {
+      "name": "Golden Sun",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/golden-sun.svg",
+        "tgs": "gifts/tamagadget/assets/models/golden-sun.tgs"
+      }
+    },
+    {
+      "name": "Green Candy",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/green-candy.svg",
+        "tgs": "gifts/tamagadget/assets/models/green-candy.tgs"
+      }
+    },
+    {
+      "name": "Lush Stripe",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/lush-stripe.svg",
+        "tgs": "gifts/tamagadget/assets/models/lush-stripe.tgs"
+      }
+    },
+    {
+      "name": "Tropic Wave",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/tropic-wave.svg",
+        "tgs": "gifts/tamagadget/assets/models/tropic-wave.tgs"
+      }
+    },
+    {
+      "name": "Sapphire",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/sapphire.svg",
+        "tgs": "gifts/tamagadget/assets/models/sapphire.tgs"
+      }
+    },
+    {
+      "name": "Lime Chip",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/lime-chip.svg",
+        "tgs": "gifts/tamagadget/assets/models/lime-chip.tgs"
+      }
+    },
+    {
+      "name": "Ruby Glaze",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/ruby-glaze.svg",
+        "tgs": "gifts/tamagadget/assets/models/ruby-glaze.tgs"
+      }
+    },
+    {
+      "name": "Tinky Winky",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/tinky-winky.svg",
+        "tgs": "gifts/tamagadget/assets/models/tinky-winky.tgs"
+      }
+    },
+    {
+      "name": "Spectrum",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/spectrum.svg",
+        "tgs": "gifts/tamagadget/assets/models/spectrum.tgs"
+      }
+    },
+    {
+      "name": "Neon Mirage",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/neon-mirage.svg",
+        "tgs": "gifts/tamagadget/assets/models/neon-mirage.tgs"
+      }
+    },
+    {
+      "name": "Bondi Blue",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/bondi-blue.svg",
+        "tgs": "gifts/tamagadget/assets/models/bondi-blue.tgs"
+      }
+    },
+    {
+      "name": "Dalmatian",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/dalmatian.svg",
+        "tgs": "gifts/tamagadget/assets/models/dalmatian.tgs"
+      }
+    },
+    {
+      "name": "Shiny Pearl",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/shiny-pearl.svg",
+        "tgs": "gifts/tamagadget/assets/models/shiny-pearl.tgs"
+      }
+    },
+    {
+      "name": "Crystal View",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/crystal-view.svg",
+        "tgs": "gifts/tamagadget/assets/models/crystal-view.tgs"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/strawberry.svg",
+        "tgs": "gifts/tamagadget/assets/models/strawberry.tgs"
+      }
+    },
+    {
+      "name": "Dino Egg",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/dino-egg.svg",
+        "tgs": "gifts/tamagadget/assets/models/dino-egg.tgs"
+      }
+    },
+    {
+      "name": "Holo Shell",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/holo-shell.svg",
+        "tgs": "gifts/tamagadget/assets/models/holo-shell.tgs"
+      }
+    },
+    {
+      "name": "Wild Hunt",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/wild-hunt.svg",
+        "tgs": "gifts/tamagadget/assets/models/wild-hunt.tgs"
+      }
+    },
+    {
+      "name": "Peach",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/peach.svg",
+        "tgs": "gifts/tamagadget/assets/models/peach.tgs"
+      }
+    },
+    {
+      "name": "Shadow",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/shadow.svg",
+        "tgs": "gifts/tamagadget/assets/models/shadow.tgs"
+      }
+    },
+    {
+      "name": "Verdant",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/verdant.svg",
+        "tgs": "gifts/tamagadget/assets/models/verdant.tgs"
+      }
+    },
+    {
+      "name": "Cherry Milk",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/cherry-milk.svg",
+        "tgs": "gifts/tamagadget/assets/models/cherry-milk.tgs"
+      }
+    },
+    {
+      "name": "Bronze",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/bronze.svg",
+        "tgs": "gifts/tamagadget/assets/models/bronze.tgs"
+      }
+    },
+    {
+      "name": "Citrus Ice",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/citrus-ice.svg",
+        "tgs": "gifts/tamagadget/assets/models/citrus-ice.tgs"
+      }
+    },
+    {
+      "name": "Purple",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/purple.svg",
+        "tgs": "gifts/tamagadget/assets/models/purple.tgs"
+      }
+    },
+    {
+      "name": "Tangerine",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/tangerine.svg",
+        "tgs": "gifts/tamagadget/assets/models/tangerine.tgs"
+      }
+    },
+    {
+      "name": "Inferno",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/inferno.svg",
+        "tgs": "gifts/tamagadget/assets/models/inferno.tgs"
+      }
+    },
+    {
+      "name": "Yang",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/yang.svg",
+        "tgs": "gifts/tamagadget/assets/models/yang.tgs"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/clover.svg",
+        "tgs": "gifts/tamagadget/assets/models/clover.tgs"
+      }
+    },
+    {
+      "name": "Sunrise",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/sunrise.svg",
+        "tgs": "gifts/tamagadget/assets/models/sunrise.tgs"
+      }
+    },
+    {
+      "name": "Lime Shock",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/lime-shock.svg",
+        "tgs": "gifts/tamagadget/assets/models/lime-shock.tgs"
+      }
+    },
+    {
+      "name": "Argentum",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/argentum.svg",
+        "tgs": "gifts/tamagadget/assets/models/argentum.tgs"
+      }
+    },
+    {
+      "name": "Amber",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/amber.svg",
+        "tgs": "gifts/tamagadget/assets/models/amber.tgs"
+      }
+    },
+    {
+      "name": "Pearl White",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/pearl-white.svg",
+        "tgs": "gifts/tamagadget/assets/models/pearl-white.tgs"
+      }
+    },
+    {
+      "name": "Winter",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/winter.svg",
+        "tgs": "gifts/tamagadget/assets/models/winter.tgs"
+      }
+    },
+    {
+      "name": "Twilight",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/twilight.svg",
+        "tgs": "gifts/tamagadget/assets/models/twilight.tgs"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/grape.svg",
+        "tgs": "gifts/tamagadget/assets/models/grape.tgs"
+      }
+    },
+    {
+      "name": "Gold Rush",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/gold-rush.svg",
+        "tgs": "gifts/tamagadget/assets/models/gold-rush.tgs"
+      }
+    },
+    {
+      "name": "Vivid Sky",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/vivid-sky.svg",
+        "tgs": "gifts/tamagadget/assets/models/vivid-sky.tgs"
+      }
+    },
+    {
+      "name": "Melon Pop",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/melon-pop.svg",
+        "tgs": "gifts/tamagadget/assets/models/melon-pop.tgs"
+      }
+    },
+    {
+      "name": "Malachite",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/malachite.svg",
+        "tgs": "gifts/tamagadget/assets/models/malachite.tgs"
+      }
+    },
+    {
+      "name": "Orchid",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/orchid.svg",
+        "tgs": "gifts/tamagadget/assets/models/orchid.tgs"
+      }
+    },
+    {
+      "name": "Ocean",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/ocean.svg",
+        "tgs": "gifts/tamagadget/assets/models/ocean.tgs"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/sakura.svg",
+        "tgs": "gifts/tamagadget/assets/models/sakura.tgs"
+      }
+    },
+    {
+      "name": "Candy Cane",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/candy-cane.svg",
+        "tgs": "gifts/tamagadget/assets/models/candy-cane.tgs"
+      }
+    },
+    {
+      "name": "Lavender",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/lavender.svg",
+        "tgs": "gifts/tamagadget/assets/models/lavender.tgs"
+      }
+    },
+    {
+      "name": "Yin",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/yin.svg",
+        "tgs": "gifts/tamagadget/assets/models/yin.tgs"
+      }
+    },
+    {
+      "name": "Grayscale",
+      "assets": {
+        "svg": "gifts/tamagadget/assets/models/grayscale.svg",
+        "tgs": "gifts/tamagadget/assets/models/grayscale.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Chef Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/chef-hat.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Ribeye Steak",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/ribeye-steak.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "Steampunk Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/steampunk-hat.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Mining Helmet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/mining-helmet.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "Pirate Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pirate-hat.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Earflap Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/earflap-hat.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Arcane Mirror",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/arcane-mirror.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Wontons",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/wontons.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Beret",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/beret.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Sombrero",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sombrero.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Neptune",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/neptune.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Fedora",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/fedora.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Pith Helmet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pith-helmet.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Hard Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/hard-hat.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/banana.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Turban",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/turban.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Gua Pi Mao",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/gua-pi-mao.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/tamagadget/assets/patterns/pumpkin-coach.png"
+      }
+    }
+  ]
+}

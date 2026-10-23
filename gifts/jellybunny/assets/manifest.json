@@ -1,0 +1,2236 @@
+{
+  "slug": "jellybunny",
+  "models": [
+    {
+      "name": "Grape Glaze",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/grape-glaze.svg",
+        "tgs": "gifts/jellybunny/assets/models/grape-glaze.tgs"
+      }
+    },
+    {
+      "name": "Violet Swirl",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/violet-swirl.svg",
+        "tgs": "gifts/jellybunny/assets/models/violet-swirl.tgs"
+      }
+    },
+    {
+      "name": "Mint Fudge",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/mint-fudge.svg",
+        "tgs": "gifts/jellybunny/assets/models/mint-fudge.tgs"
+      }
+    },
+    {
+      "name": "Magic Mint",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/magic-mint.svg",
+        "tgs": "gifts/jellybunny/assets/models/magic-mint.tgs"
+      }
+    },
+    {
+      "name": "Melted Ice",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/melted-ice.svg",
+        "tgs": "gifts/jellybunny/assets/models/melted-ice.tgs"
+      }
+    },
+    {
+      "name": "Juicy Mint",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/juicy-mint.svg",
+        "tgs": "gifts/jellybunny/assets/models/juicy-mint.tgs"
+      }
+    },
+    {
+      "name": "Chilly",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/chilly.svg",
+        "tgs": "gifts/jellybunny/assets/models/chilly.tgs"
+      }
+    },
+    {
+      "name": "Artificial",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/artificial.svg",
+        "tgs": "gifts/jellybunny/assets/models/artificial.tgs"
+      }
+    },
+    {
+      "name": "Deep Dive",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/deep-dive.svg",
+        "tgs": "gifts/jellybunny/assets/models/deep-dive.tgs"
+      }
+    },
+    {
+      "name": "Lime Gelight",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/lime-gelight.svg",
+        "tgs": "gifts/jellybunny/assets/models/lime-gelight.tgs"
+      }
+    },
+    {
+      "name": "Juicy Blue",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/juicy-blue.svg",
+        "tgs": "gifts/jellybunny/assets/models/juicy-blue.tgs"
+      }
+    },
+    {
+      "name": "Tender Pink",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/tender-pink.svg",
+        "tgs": "gifts/jellybunny/assets/models/tender-pink.tgs"
+      }
+    },
+    {
+      "name": "Light Creme",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/light-creme.svg",
+        "tgs": "gifts/jellybunny/assets/models/light-creme.tgs"
+      }
+    },
+    {
+      "name": "Violet Joy",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/violet-joy.svg",
+        "tgs": "gifts/jellybunny/assets/models/violet-joy.tgs"
+      }
+    },
+    {
+      "name": "Guava Gel",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/guava-gel.svg",
+        "tgs": "gifts/jellybunny/assets/models/guava-gel.tgs"
+      }
+    },
+    {
+      "name": "Barbie",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/barbie.svg",
+        "tgs": "gifts/jellybunny/assets/models/barbie.tgs"
+      }
+    },
+    {
+      "name": "Indigo Fruit",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/indigo-fruit.svg",
+        "tgs": "gifts/jellybunny/assets/models/indigo-fruit.tgs"
+      }
+    },
+    {
+      "name": "Red Sponge",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/red-sponge.svg",
+        "tgs": "gifts/jellybunny/assets/models/red-sponge.tgs"
+      }
+    },
+    {
+      "name": "Vanilla",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/vanilla.svg",
+        "tgs": "gifts/jellybunny/assets/models/vanilla.tgs"
+      }
+    },
+    {
+      "name": "Winter",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/winter.svg",
+        "tgs": "gifts/jellybunny/assets/models/winter.tgs"
+      }
+    },
+    {
+      "name": "Sticky Red",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/sticky-red.svg",
+        "tgs": "gifts/jellybunny/assets/models/sticky-red.tgs"
+      }
+    },
+    {
+      "name": "Light Wobble",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/light-wobble.svg",
+        "tgs": "gifts/jellybunny/assets/models/light-wobble.tgs"
+      }
+    },
+    {
+      "name": "Ballet Slipper",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/ballet-slipper.svg",
+        "tgs": "gifts/jellybunny/assets/models/ballet-slipper.tgs"
+      }
+    },
+    {
+      "name": "Noble",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/noble.svg",
+        "tgs": "gifts/jellybunny/assets/models/noble.tgs"
+      }
+    },
+    {
+      "name": "Matcha Magic",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/matcha-magic.svg",
+        "tgs": "gifts/jellybunny/assets/models/matcha-magic.tgs"
+      }
+    },
+    {
+      "name": "Orchid",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/orchid.svg",
+        "tgs": "gifts/jellybunny/assets/models/orchid.tgs"
+      }
+    },
+    {
+      "name": "Violetta",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/violetta.svg",
+        "tgs": "gifts/jellybunny/assets/models/violetta.tgs"
+      }
+    },
+    {
+      "name": "Spring Day",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/spring-day.svg",
+        "tgs": "gifts/jellybunny/assets/models/spring-day.tgs"
+      }
+    },
+    {
+      "name": "Pudding",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/pudding.svg",
+        "tgs": "gifts/jellybunny/assets/models/pudding.tgs"
+      }
+    },
+    {
+      "name": "Pinkie Pie",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/pinkie-pie.svg",
+        "tgs": "gifts/jellybunny/assets/models/pinkie-pie.tgs"
+      }
+    },
+    {
+      "name": "Burnt Cream",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/burnt-cream.svg",
+        "tgs": "gifts/jellybunny/assets/models/burnt-cream.tgs"
+      }
+    },
+    {
+      "name": "Tropic Twist",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/tropic-twist.svg",
+        "tgs": "gifts/jellybunny/assets/models/tropic-twist.tgs"
+      }
+    },
+    {
+      "name": "Seaweed",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/seaweed.svg",
+        "tgs": "gifts/jellybunny/assets/models/seaweed.tgs"
+      }
+    },
+    {
+      "name": "Violet Wobble",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/violet-wobble.svg",
+        "tgs": "gifts/jellybunny/assets/models/violet-wobble.tgs"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/pomegranate.svg",
+        "tgs": "gifts/jellybunny/assets/models/pomegranate.tgs"
+      }
+    },
+    {
+      "name": "Frosted",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/frosted.svg",
+        "tgs": "gifts/jellybunny/assets/models/frosted.tgs"
+      }
+    },
+    {
+      "name": "Skyberry",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/skyberry.svg",
+        "tgs": "gifts/jellybunny/assets/models/skyberry.tgs"
+      }
+    },
+    {
+      "name": "Smoothy",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/smoothy.svg",
+        "tgs": "gifts/jellybunny/assets/models/smoothy.tgs"
+      }
+    },
+    {
+      "name": "Green Melt",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/green-melt.svg",
+        "tgs": "gifts/jellybunny/assets/models/green-melt.tgs"
+      }
+    },
+    {
+      "name": "Grass Gel",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/grass-gel.svg",
+        "tgs": "gifts/jellybunny/assets/models/grass-gel.tgs"
+      }
+    },
+    {
+      "name": "Avocado Awe",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/avocado-awe.svg",
+        "tgs": "gifts/jellybunny/assets/models/avocado-awe.tgs"
+      }
+    },
+    {
+      "name": "Blue Glaze",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/blue-glaze.svg",
+        "tgs": "gifts/jellybunny/assets/models/blue-glaze.tgs"
+      }
+    },
+    {
+      "name": "Blue Swirl",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/blue-swirl.svg",
+        "tgs": "gifts/jellybunny/assets/models/blue-swirl.tgs"
+      }
+    },
+    {
+      "name": "Gentle Touch",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/gentle-touch.svg",
+        "tgs": "gifts/jellybunny/assets/models/gentle-touch.tgs"
+      }
+    },
+    {
+      "name": "Firefruit",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/firefruit.svg",
+        "tgs": "gifts/jellybunny/assets/models/firefruit.tgs"
+      }
+    },
+    {
+      "name": "Soft Flavor",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/soft-flavor.svg",
+        "tgs": "gifts/jellybunny/assets/models/soft-flavor.tgs"
+      }
+    },
+    {
+      "name": "Squishy",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/squishy.svg",
+        "tgs": "gifts/jellybunny/assets/models/squishy.tgs"
+      }
+    },
+    {
+      "name": "Auburn",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/auburn.svg",
+        "tgs": "gifts/jellybunny/assets/models/auburn.tgs"
+      }
+    },
+    {
+      "name": "Kiwi Kuddle",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/kiwi-kuddle.svg",
+        "tgs": "gifts/jellybunny/assets/models/kiwi-kuddle.tgs"
+      }
+    },
+    {
+      "name": "Quicksilver",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/quicksilver.svg",
+        "tgs": "gifts/jellybunny/assets/models/quicksilver.tgs"
+      }
+    },
+    {
+      "name": "Sugar Kill",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/sugar-kill.svg",
+        "tgs": "gifts/jellybunny/assets/models/sugar-kill.tgs"
+      }
+    },
+    {
+      "name": "Vampire",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/vampire.svg",
+        "tgs": "gifts/jellybunny/assets/models/vampire.tgs"
+      }
+    },
+    {
+      "name": "Outline",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/outline.svg",
+        "tgs": "gifts/jellybunny/assets/models/outline.tgs"
+      }
+    },
+    {
+      "name": "Cycloppy",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/cycloppy.svg",
+        "tgs": "gifts/jellybunny/assets/models/cycloppy.tgs"
+      }
+    },
+    {
+      "name": "Thug Life",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/thug-life.svg",
+        "tgs": "gifts/jellybunny/assets/models/thug-life.tgs"
+      }
+    },
+    {
+      "name": "Meat Jelly",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/meat-jelly.svg",
+        "tgs": "gifts/jellybunny/assets/models/meat-jelly.tgs"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/jellyfish.svg",
+        "tgs": "gifts/jellybunny/assets/models/jellyfish.tgs"
+      }
+    },
+    {
+      "name": "Engineer",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/engineer.svg",
+        "tgs": "gifts/jellybunny/assets/models/engineer.tgs"
+      }
+    },
+    {
+      "name": "Sir Wobbleton",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/sir-wobbleton.svg",
+        "tgs": "gifts/jellybunny/assets/models/sir-wobbleton.tgs"
+      }
+    },
+    {
+      "name": "Snowman",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/snowman.svg",
+        "tgs": "gifts/jellybunny/assets/models/snowman.tgs"
+      }
+    },
+    {
+      "name": "Fruity",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/fruity.svg",
+        "tgs": "gifts/jellybunny/assets/models/fruity.tgs"
+      }
+    },
+    {
+      "name": "Reindeer",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/reindeer.svg",
+        "tgs": "gifts/jellybunny/assets/models/reindeer.tgs"
+      }
+    },
+    {
+      "name": "Jingle Jells",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/jingle-jells.svg",
+        "tgs": "gifts/jellybunny/assets/models/jingle-jells.tgs"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/mushroom.svg",
+        "tgs": "gifts/jellybunny/assets/models/mushroom.tgs"
+      }
+    },
+    {
+      "name": "Commando",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/commando.svg",
+        "tgs": "gifts/jellybunny/assets/models/commando.tgs"
+      }
+    },
+    {
+      "name": "Pirate",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/pirate.svg",
+        "tgs": "gifts/jellybunny/assets/models/pirate.tgs"
+      }
+    },
+    {
+      "name": "Liquid Metal",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/liquid-metal.svg",
+        "tgs": "gifts/jellybunny/assets/models/liquid-metal.tgs"
+      }
+    },
+    {
+      "name": "Majestic",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/majestic.svg",
+        "tgs": "gifts/jellybunny/assets/models/majestic.tgs"
+      }
+    },
+    {
+      "name": "Radioactive",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/radioactive.svg",
+        "tgs": "gifts/jellybunny/assets/models/radioactive.tgs"
+      }
+    },
+    {
+      "name": "Spreadable",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/spreadable.svg",
+        "tgs": "gifts/jellybunny/assets/models/spreadable.tgs"
+      }
+    },
+    {
+      "name": "Kawaii",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/kawaii.svg",
+        "tgs": "gifts/jellybunny/assets/models/kawaii.tgs"
+      }
+    },
+    {
+      "name": "Dad Joke",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/dad-joke.svg",
+        "tgs": "gifts/jellybunny/assets/models/dad-joke.tgs"
+      }
+    },
+    {
+      "name": "Dr. Jelly",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/dr-jelly.svg",
+        "tgs": "gifts/jellybunny/assets/models/dr-jelly.tgs"
+      }
+    },
+    {
+      "name": "Pale Squish",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/pale-squish.svg",
+        "tgs": "gifts/jellybunny/assets/models/pale-squish.tgs"
+      }
+    },
+    {
+      "name": "Jevil",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/jevil.svg",
+        "tgs": "gifts/jellybunny/assets/models/jevil.tgs"
+      }
+    },
+    {
+      "name": "Corporate",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/corporate.svg",
+        "tgs": "gifts/jellybunny/assets/models/corporate.tgs"
+      }
+    },
+    {
+      "name": "Ninjell",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/ninjell.svg",
+        "tgs": "gifts/jellybunny/assets/models/ninjell.tgs"
+      }
+    },
+    {
+      "name": "Zombie",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/zombie.svg",
+        "tgs": "gifts/jellybunny/assets/models/zombie.tgs"
+      }
+    },
+    {
+      "name": "Party Hard",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/party-hard.svg",
+        "tgs": "gifts/jellybunny/assets/models/party-hard.tgs"
+      }
+    },
+    {
+      "name": "Jaxy-Boy",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/jaxy-boy.svg",
+        "tgs": "gifts/jellybunny/assets/models/jaxy-boy.tgs"
+      }
+    },
+    {
+      "name": "Space Gel",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/space-gel.svg",
+        "tgs": "gifts/jellybunny/assets/models/space-gel.tgs"
+      }
+    },
+    {
+      "name": "Mutated",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/mutated.svg",
+        "tgs": "gifts/jellybunny/assets/models/mutated.tgs"
+      }
+    },
+    {
+      "name": "Diver",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/diver.svg",
+        "tgs": "gifts/jellybunny/assets/models/diver.tgs"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/ghost.svg",
+        "tgs": "gifts/jellybunny/assets/models/ghost.tgs"
+      }
+    },
+    {
+      "name": "Mummy",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/mummy.svg",
+        "tgs": "gifts/jellybunny/assets/models/mummy.tgs"
+      }
+    },
+    {
+      "name": "Snail Gel",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/snail-gel.svg",
+        "tgs": "gifts/jellybunny/assets/models/snail-gel.tgs"
+      }
+    },
+    {
+      "name": "Tortoise",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/tortoise.svg",
+        "tgs": "gifts/jellybunny/assets/models/tortoise.tgs"
+      }
+    },
+    {
+      "name": "Jellien",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/jellien.svg",
+        "tgs": "gifts/jellybunny/assets/models/jellien.tgs"
+      }
+    },
+    {
+      "name": "Jelly Tune",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/jelly-tune.svg",
+        "tgs": "gifts/jellybunny/assets/models/jelly-tune.tgs"
+      }
+    },
+    {
+      "name": "Sad Clown",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/sad-clown.svg",
+        "tgs": "gifts/jellybunny/assets/models/sad-clown.tgs"
+      }
+    },
+    {
+      "name": "First Bite",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/first-bite.svg",
+        "tgs": "gifts/jellybunny/assets/models/first-bite.tgs"
+      }
+    },
+    {
+      "name": "Gelatin Girl",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/gelatin-girl.svg",
+        "tgs": "gifts/jellybunny/assets/models/gelatin-girl.tgs"
+      }
+    },
+    {
+      "name": "Stiches",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/stiches.svg",
+        "tgs": "gifts/jellybunny/assets/models/stiches.tgs"
+      }
+    },
+    {
+      "name": "Smelly",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/smelly.svg",
+        "tgs": "gifts/jellybunny/assets/models/smelly.tgs"
+      }
+    },
+    {
+      "name": "Electric",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/electric.svg",
+        "tgs": "gifts/jellybunny/assets/models/electric.tgs"
+      }
+    },
+    {
+      "name": "Ballistics Gel",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/ballistics-gel.svg",
+        "tgs": "gifts/jellybunny/assets/models/ballistics-gel.tgs"
+      }
+    },
+    {
+      "name": "Spooky",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/spooky.svg",
+        "tgs": "gifts/jellybunny/assets/models/spooky.tgs"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/chili-pepper.svg",
+        "tgs": "gifts/jellybunny/assets/models/chili-pepper.tgs"
+      }
+    },
+    {
+      "name": "Red Hot",
+      "assets": {
+        "svg": "gifts/jellybunny/assets/models/red-hot.svg",
+        "tgs": "gifts/jellybunny/assets/models/red-hot.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/jellybunny/assets/patterns/light-bulb.png"
+      }
+    }
+  ]
+}

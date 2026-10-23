@@ -1,0 +1,1857 @@
+{
+  "slug": "snoopdogg",
+  "models": [
+    {
+      "name": "Doggfather",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/doggfather.svg",
+        "tgs": "gifts/snoopdogg/assets/models/doggfather.tgs"
+      }
+    },
+    {
+      "name": "Goldizzle",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/goldizzle.svg",
+        "tgs": "gifts/snoopdogg/assets/models/goldizzle.tgs"
+      }
+    },
+    {
+      "name": "King Snoop",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/king-snoop.svg",
+        "tgs": "gifts/snoopdogg/assets/models/king-snoop.tgs"
+      }
+    },
+    {
+      "name": "AI Dogg",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/ai-dogg.svg",
+        "tgs": "gifts/snoopdogg/assets/models/ai-dogg.tgs"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/doberman.svg",
+        "tgs": "gifts/snoopdogg/assets/models/doberman.tgs"
+      }
+    },
+    {
+      "name": "Horseman",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/horseman.svg",
+        "tgs": "gifts/snoopdogg/assets/models/horseman.tgs"
+      }
+    },
+    {
+      "name": "Label Lord",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/label-lord.svg",
+        "tgs": "gifts/snoopdogg/assets/models/label-lord.tgs"
+      }
+    },
+    {
+      "name": "Plastic Beach",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/plastic-beach.svg",
+        "tgs": "gifts/snoopdogg/assets/models/plastic-beach.tgs"
+      }
+    },
+    {
+      "name": "Red Fur Coat",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/red-fur-coat.svg",
+        "tgs": "gifts/snoopdogg/assets/models/red-fur-coat.tgs"
+      }
+    },
+    {
+      "name": "Afro Disco",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/afro-disco.svg",
+        "tgs": "gifts/snoopdogg/assets/models/afro-disco.tgs"
+      }
+    },
+    {
+      "name": "Backspin",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/backspin.svg",
+        "tgs": "gifts/snoopdogg/assets/models/backspin.tgs"
+      }
+    },
+    {
+      "name": "Black Gold",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/black-gold.svg",
+        "tgs": "gifts/snoopdogg/assets/models/black-gold.tgs"
+      }
+    },
+    {
+      "name": "Captain Mack",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/captain-mack.svg",
+        "tgs": "gifts/snoopdogg/assets/models/captain-mack.tgs"
+      }
+    },
+    {
+      "name": "Dapper Doggo",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/dapper-doggo.svg",
+        "tgs": "gifts/snoopdogg/assets/models/dapper-doggo.tgs"
+      }
+    },
+    {
+      "name": "Retro Vibe",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/retro-vibe.svg",
+        "tgs": "gifts/snoopdogg/assets/models/retro-vibe.tgs"
+      }
+    },
+    {
+      "name": "Barks A Locks",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/barks-a-locks.svg",
+        "tgs": "gifts/snoopdogg/assets/models/barks-a-locks.tgs"
+      }
+    },
+    {
+      "name": "Blonde",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/blonde.svg",
+        "tgs": "gifts/snoopdogg/assets/models/blonde.tgs"
+      }
+    },
+    {
+      "name": "Bollywood",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/bollywood.svg",
+        "tgs": "gifts/snoopdogg/assets/models/bollywood.tgs"
+      }
+    },
+    {
+      "name": "Bow Wizzle",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/bow-wizzle.svg",
+        "tgs": "gifts/snoopdogg/assets/models/bow-wizzle.tgs"
+      }
+    },
+    {
+      "name": "Chow Wow",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/chow-wow.svg",
+        "tgs": "gifts/snoopdogg/assets/models/chow-wow.tgs"
+      }
+    },
+    {
+      "name": "Chrome",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/chrome.svg",
+        "tgs": "gifts/snoopdogg/assets/models/chrome.tgs"
+      }
+    },
+    {
+      "name": "Cold Topaz",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/cold-topaz.svg",
+        "tgs": "gifts/snoopdogg/assets/models/cold-topaz.tgs"
+      }
+    },
+    {
+      "name": "Emerald",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/emerald.svg",
+        "tgs": "gifts/snoopdogg/assets/models/emerald.tgs"
+      }
+    },
+    {
+      "name": "Green Light",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/green-light.svg",
+        "tgs": "gifts/snoopdogg/assets/models/green-light.tgs"
+      }
+    },
+    {
+      "name": "King Ruby",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/king-ruby.svg",
+        "tgs": "gifts/snoopdogg/assets/models/king-ruby.tgs"
+      }
+    },
+    {
+      "name": "Old School",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/old-school.svg",
+        "tgs": "gifts/snoopdogg/assets/models/old-school.tgs"
+      }
+    },
+    {
+      "name": "Sapphire",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/sapphire.svg",
+        "tgs": "gifts/snoopdogg/assets/models/sapphire.tgs"
+      }
+    },
+    {
+      "name": "Silver",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/silver.svg",
+        "tgs": "gifts/snoopdogg/assets/models/silver.tgs"
+      }
+    },
+    {
+      "name": "Streetwise",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/streetwise.svg",
+        "tgs": "gifts/snoopdogg/assets/models/streetwise.tgs"
+      }
+    },
+    {
+      "name": "Woofee",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/woofee.svg",
+        "tgs": "gifts/snoopdogg/assets/models/woofee.tgs"
+      }
+    },
+    {
+      "name": "Y2K Skin",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/y2k-skin.svg",
+        "tgs": "gifts/snoopdogg/assets/models/y2k-skin.tgs"
+      }
+    },
+    {
+      "name": "Yap Yap",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/yap-yap.svg",
+        "tgs": "gifts/snoopdogg/assets/models/yap-yap.tgs"
+      }
+    },
+    {
+      "name": "Barks Lightyear",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/barks-lightyear.svg",
+        "tgs": "gifts/snoopdogg/assets/models/barks-lightyear.tgs"
+      }
+    },
+    {
+      "name": "Beanie",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/beanie.svg",
+        "tgs": "gifts/snoopdogg/assets/models/beanie.tgs"
+      }
+    },
+    {
+      "name": "Black Diamond",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/black-diamond.svg",
+        "tgs": "gifts/snoopdogg/assets/models/black-diamond.tgs"
+      }
+    },
+    {
+      "name": "Funky Homie",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/funky-homie.svg",
+        "tgs": "gifts/snoopdogg/assets/models/funky-homie.tgs"
+      }
+    },
+    {
+      "name": "Long Beach",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/long-beach.svg",
+        "tgs": "gifts/snoopdogg/assets/models/long-beach.tgs"
+      }
+    },
+    {
+      "name": "Olympics",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/olympics.svg",
+        "tgs": "gifts/snoopdogg/assets/models/olympics.tgs"
+      }
+    },
+    {
+      "name": "Purple Hoodie",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/purple-hoodie.svg",
+        "tgs": "gifts/snoopdogg/assets/models/purple-hoodie.tgs"
+      }
+    },
+    {
+      "name": "Shower Cap",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/shower-cap.svg",
+        "tgs": "gifts/snoopdogg/assets/models/shower-cap.tgs"
+      }
+    },
+    {
+      "name": "Team USA",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/team-usa.svg",
+        "tgs": "gifts/snoopdogg/assets/models/team-usa.tgs"
+      }
+    },
+    {
+      "name": "Chill Homie",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/chill-homie.svg",
+        "tgs": "gifts/snoopdogg/assets/models/chill-homie.tgs"
+      }
+    },
+    {
+      "name": "Club Dawg",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/club-dawg.svg",
+        "tgs": "gifts/snoopdogg/assets/models/club-dawg.tgs"
+      }
+    },
+    {
+      "name": "Double G",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/double-g.svg",
+        "tgs": "gifts/snoopdogg/assets/models/double-g.tgs"
+      }
+    },
+    {
+      "name": "Fish Hat",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/fish-hat.svg",
+        "tgs": "gifts/snoopdogg/assets/models/fish-hat.tgs"
+      }
+    },
+    {
+      "name": "Groove Pup",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/groove-pup.svg",
+        "tgs": "gifts/snoopdogg/assets/models/groove-pup.tgs"
+      }
+    },
+    {
+      "name": "Huggy Bear",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/huggy-bear.svg",
+        "tgs": "gifts/snoopdogg/assets/models/huggy-bear.tgs"
+      }
+    },
+    {
+      "name": "Iconic Dude",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/iconic-dude.svg",
+        "tgs": "gifts/snoopdogg/assets/models/iconic-dude.tgs"
+      }
+    },
+    {
+      "name": "Peach Mode",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/peach-mode.svg",
+        "tgs": "gifts/snoopdogg/assets/models/peach-mode.tgs"
+      }
+    },
+    {
+      "name": "Super Bowl",
+      "assets": {
+        "svg": "gifts/snoopdogg/assets/models/super-bowl.svg",
+        "tgs": "gifts/snoopdogg/assets/models/super-bowl.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Earflap Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/earflap-hat.png"
+      }
+    },
+    {
+      "name": "Brass Knuckles",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/brass-knuckles.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Los Angeles",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/los-angeles.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Snoop Logo",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/snoop-logo.png"
+      }
+    },
+    {
+      "name": "Cute Paw",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cute-paw.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/banana.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Beanie",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/beanie.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Pith Helmet",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/pith-helmet.png"
+      }
+    },
+    {
+      "name": "Pro Headphones",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/pro-headphones.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Keffiyeh",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/keffiyeh.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Spring Chick",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/spring-chick.png"
+      }
+    },
+    {
+      "name": "213",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/213.png"
+      }
+    },
+    {
+      "name": "Royal Turban",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/royal-turban.png"
+      }
+    },
+    {
+      "name": "Snoop Collar",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/snoop-collar.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Bobble Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bobble-hat.png"
+      }
+    },
+    {
+      "name": "High Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/high-hat.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Westside Hand",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/westside-hand.png"
+      }
+    },
+    {
+      "name": "Desert Eagle",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/desert-eagle.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Elf Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/elf-hat.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "Black Bandana",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/black-bandana.png"
+      }
+    },
+    {
+      "name": "Blunt",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/blunt.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Boombox",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/boombox.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Neptune",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/neptune.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Head Scarf",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/head-scarf.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Jester Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/jester-hat.png"
+      }
+    },
+    {
+      "name": "Snoop Leaf",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/snoop-leaf.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Loudspeaker",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/loudspeaker.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "UZI",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/uzi.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Low Rider",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/low-rider.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Rap Mic",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/rap-mic.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Vinyl Record",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/vinyl-record.png"
+      }
+    },
+    {
+      "name": "Bong",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bong.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Conical Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/conical-hat.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Music Skull",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/music-skull.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Panty",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/panty.png"
+      }
+    },
+    {
+      "name": "Swag Bandana",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/swag-bandana.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Beretta",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/beretta.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Headphones",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/headphones.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Dollar Graffiti",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/dollar-graffiti.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Cash Cap",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cash-cap.png"
+      }
+    },
+    {
+      "name": "Paisley",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/paisley.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Spray Paint",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/spray-paint.png"
+      }
+    },
+    {
+      "name": "Yo Sign",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/yo-sign.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Palm Trees",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/palm-trees.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Pirate Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/pirate-hat.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Hip-Hop",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/hip-hop.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Revolver",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/revolver.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Monarch",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/monarch.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Rap Sign",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/rap-sign.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/snoopdogg/assets/patterns/anubis.png"
+      }
+    }
+  ]
+}

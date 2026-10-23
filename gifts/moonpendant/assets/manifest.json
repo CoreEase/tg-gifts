@@ -1,0 +1,1323 @@
+{
+  "slug": "moonpendant",
+  "models": [
+    {
+      "name": "Jade Vines",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/jade-vines.svg",
+        "tgs": "gifts/moonpendant/assets/models/jade-vines.tgs"
+      }
+    },
+    {
+      "name": "Obsidian",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/obsidian.svg",
+        "tgs": "gifts/moonpendant/assets/models/obsidian.tgs"
+      }
+    },
+    {
+      "name": "Princess",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/princess.svg",
+        "tgs": "gifts/moonpendant/assets/models/princess.tgs"
+      }
+    },
+    {
+      "name": "Silver Tree",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/silver-tree.svg",
+        "tgs": "gifts/moonpendant/assets/models/silver-tree.tgs"
+      }
+    },
+    {
+      "name": "Starry Night",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/starry-night.svg",
+        "tgs": "gifts/moonpendant/assets/models/starry-night.tgs"
+      }
+    },
+    {
+      "name": "Azurite",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/azurite.svg",
+        "tgs": "gifts/moonpendant/assets/models/azurite.tgs"
+      }
+    },
+    {
+      "name": "Harmony",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/harmony.svg",
+        "tgs": "gifts/moonpendant/assets/models/harmony.tgs"
+      }
+    },
+    {
+      "name": "Rosethorn",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/rosethorn.svg",
+        "tgs": "gifts/moonpendant/assets/models/rosethorn.tgs"
+      }
+    },
+    {
+      "name": "Eternal Rose",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/eternal-rose.svg",
+        "tgs": "gifts/moonpendant/assets/models/eternal-rose.tgs"
+      }
+    },
+    {
+      "name": "Frosted Green",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/frosted-green.svg",
+        "tgs": "gifts/moonpendant/assets/models/frosted-green.tgs"
+      }
+    },
+    {
+      "name": "Moon Tears",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/moon-tears.svg",
+        "tgs": "gifts/moonpendant/assets/models/moon-tears.tgs"
+      }
+    },
+    {
+      "name": "Rosewood",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/rosewood.svg",
+        "tgs": "gifts/moonpendant/assets/models/rosewood.tgs"
+      }
+    },
+    {
+      "name": "Serenity",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/serenity.svg",
+        "tgs": "gifts/moonpendant/assets/models/serenity.tgs"
+      }
+    },
+    {
+      "name": "Shiny Sparks",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/shiny-sparks.svg",
+        "tgs": "gifts/moonpendant/assets/models/shiny-sparks.tgs"
+      }
+    },
+    {
+      "name": "Silver Lace",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/silver-lace.svg",
+        "tgs": "gifts/moonpendant/assets/models/silver-lace.tgs"
+      }
+    },
+    {
+      "name": "Sovereign",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/sovereign.svg",
+        "tgs": "gifts/moonpendant/assets/models/sovereign.tgs"
+      }
+    },
+    {
+      "name": "Starlit Silver",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/starlit-silver.svg",
+        "tgs": "gifts/moonpendant/assets/models/starlit-silver.tgs"
+      }
+    },
+    {
+      "name": "Twilight Wish",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/twilight-wish.svg",
+        "tgs": "gifts/moonpendant/assets/models/twilight-wish.tgs"
+      }
+    },
+    {
+      "name": "Calm Sunset",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/calm-sunset.svg",
+        "tgs": "gifts/moonpendant/assets/models/calm-sunset.tgs"
+      }
+    },
+    {
+      "name": "Carved Gold",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/carved-gold.svg",
+        "tgs": "gifts/moonpendant/assets/models/carved-gold.tgs"
+      }
+    },
+    {
+      "name": "Dawn Mirror",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/dawn-mirror.svg",
+        "tgs": "gifts/moonpendant/assets/models/dawn-mirror.tgs"
+      }
+    },
+    {
+      "name": "Eclipse",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/eclipse.svg",
+        "tgs": "gifts/moonpendant/assets/models/eclipse.tgs"
+      }
+    },
+    {
+      "name": "Golden Palace",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/golden-palace.svg",
+        "tgs": "gifts/moonpendant/assets/models/golden-palace.tgs"
+      }
+    },
+    {
+      "name": "Lunar Orbit",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/lunar-orbit.svg",
+        "tgs": "gifts/moonpendant/assets/models/lunar-orbit.tgs"
+      }
+    },
+    {
+      "name": "Mirage",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/mirage.svg",
+        "tgs": "gifts/moonpendant/assets/models/mirage.tgs"
+      }
+    },
+    {
+      "name": "Pearl Rose",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/pearl-rose.svg",
+        "tgs": "gifts/moonpendant/assets/models/pearl-rose.tgs"
+      }
+    },
+    {
+      "name": "Precious Pearl",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/precious-pearl.svg",
+        "tgs": "gifts/moonpendant/assets/models/precious-pearl.tgs"
+      }
+    },
+    {
+      "name": "Royal Purple",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/royal-purple.svg",
+        "tgs": "gifts/moonpendant/assets/models/royal-purple.tgs"
+      }
+    },
+    {
+      "name": "Sand Dune",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/sand-dune.svg",
+        "tgs": "gifts/moonpendant/assets/models/sand-dune.tgs"
+      }
+    },
+    {
+      "name": "Sea Jewel",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/sea-jewel.svg",
+        "tgs": "gifts/moonpendant/assets/models/sea-jewel.tgs"
+      }
+    },
+    {
+      "name": "Stained Glass",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/stained-glass.svg",
+        "tgs": "gifts/moonpendant/assets/models/stained-glass.tgs"
+      }
+    },
+    {
+      "name": "Circle Glare",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/circle-glare.svg",
+        "tgs": "gifts/moonpendant/assets/models/circle-glare.tgs"
+      }
+    },
+    {
+      "name": "Diamond Tear",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/diamond-tear.svg",
+        "tgs": "gifts/moonpendant/assets/models/diamond-tear.tgs"
+      }
+    },
+    {
+      "name": "Glass Rainbow",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/glass-rainbow.svg",
+        "tgs": "gifts/moonpendant/assets/models/glass-rainbow.tgs"
+      }
+    },
+    {
+      "name": "Gratitude",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/gratitude.svg",
+        "tgs": "gifts/moonpendant/assets/models/gratitude.tgs"
+      }
+    },
+    {
+      "name": "Little Star",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/little-star.svg",
+        "tgs": "gifts/moonpendant/assets/models/little-star.tgs"
+      }
+    },
+    {
+      "name": "Sapphires",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/sapphires.svg",
+        "tgs": "gifts/moonpendant/assets/models/sapphires.tgs"
+      }
+    },
+    {
+      "name": "Silver Blue",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/silver-blue.svg",
+        "tgs": "gifts/moonpendant/assets/models/silver-blue.tgs"
+      }
+    },
+    {
+      "name": "Amethyst",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/amethyst.svg",
+        "tgs": "gifts/moonpendant/assets/models/amethyst.tgs"
+      }
+    },
+    {
+      "name": "Copper Alloy",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/copper-alloy.svg",
+        "tgs": "gifts/moonpendant/assets/models/copper-alloy.tgs"
+      }
+    },
+    {
+      "name": "Desert Night",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/desert-night.svg",
+        "tgs": "gifts/moonpendant/assets/models/desert-night.tgs"
+      }
+    },
+    {
+      "name": "Emerald",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/emerald.svg",
+        "tgs": "gifts/moonpendant/assets/models/emerald.tgs"
+      }
+    },
+    {
+      "name": "Frozen Light",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/frozen-light.svg",
+        "tgs": "gifts/moonpendant/assets/models/frozen-light.tgs"
+      }
+    },
+    {
+      "name": "Golden Moon",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/golden-moon.svg",
+        "tgs": "gifts/moonpendant/assets/models/golden-moon.tgs"
+      }
+    },
+    {
+      "name": "Liquid Gold",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/liquid-gold.svg",
+        "tgs": "gifts/moonpendant/assets/models/liquid-gold.tgs"
+      }
+    },
+    {
+      "name": "Ruby Core",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/ruby-core.svg",
+        "tgs": "gifts/moonpendant/assets/models/ruby-core.tgs"
+      }
+    },
+    {
+      "name": "Silver Moon",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/silver-moon.svg",
+        "tgs": "gifts/moonpendant/assets/models/silver-moon.tgs"
+      }
+    },
+    {
+      "name": "Stellar Grace",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/stellar-grace.svg",
+        "tgs": "gifts/moonpendant/assets/models/stellar-grace.tgs"
+      }
+    },
+    {
+      "name": "Sunset Rose",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/sunset-rose.svg",
+        "tgs": "gifts/moonpendant/assets/models/sunset-rose.tgs"
+      }
+    },
+    {
+      "name": "Titanium",
+      "assets": {
+        "svg": "gifts/moonpendant/assets/models/titanium.svg",
+        "tgs": "gifts/moonpendant/assets/models/titanium.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/moonpendant/assets/patterns/scorpion.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1731 @@
+{
+  "slug": "trappedheart",
+  "models": [
+    {
+      "name": "Jinx",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/jinx.svg",
+        "tgs": "gifts/trappedheart/assets/models/jinx.tgs"
+      }
+    },
+    {
+      "name": "Jack-o-Love",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/jack-o-love.svg",
+        "tgs": "gifts/trappedheart/assets/models/jack-o-love.tgs"
+      }
+    },
+    {
+      "name": "Comic Book",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/comic-book.svg",
+        "tgs": "gifts/trappedheart/assets/models/comic-book.tgs"
+      }
+    },
+    {
+      "name": "Stardust",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/stardust.svg",
+        "tgs": "gifts/trappedheart/assets/models/stardust.tgs"
+      }
+    },
+    {
+      "name": "PXL PNK",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/pxl-pnk.svg",
+        "tgs": "gifts/trappedheart/assets/models/pxl-pnk.tgs"
+      }
+    },
+    {
+      "name": "Goldie",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/goldie.svg",
+        "tgs": "gifts/trappedheart/assets/models/goldie.tgs"
+      }
+    },
+    {
+      "name": "Zap Core",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/zap-core.svg",
+        "tgs": "gifts/trappedheart/assets/models/zap-core.tgs"
+      }
+    },
+    {
+      "name": "Glitch",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/glitch.svg",
+        "tgs": "gifts/trappedheart/assets/models/glitch.tgs"
+      }
+    },
+    {
+      "name": "Magic Kiss",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/magic-kiss.svg",
+        "tgs": "gifts/trappedheart/assets/models/magic-kiss.tgs"
+      }
+    },
+    {
+      "name": "Love Bomb",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/love-bomb.svg",
+        "tgs": "gifts/trappedheart/assets/models/love-bomb.tgs"
+      }
+    },
+    {
+      "name": "Cozy Season",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/cozy-season.svg",
+        "tgs": "gifts/trappedheart/assets/models/cozy-season.tgs"
+      }
+    },
+    {
+      "name": "Iron Pulse",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/iron-pulse.svg",
+        "tgs": "gifts/trappedheart/assets/models/iron-pulse.tgs"
+      }
+    },
+    {
+      "name": "Premium",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/premium.svg",
+        "tgs": "gifts/trappedheart/assets/models/premium.tgs"
+      }
+    },
+    {
+      "name": "Feline Fury",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/feline-fury.svg",
+        "tgs": "gifts/trappedheart/assets/models/feline-fury.tgs"
+      }
+    },
+    {
+      "name": "Love Potion",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/love-potion.svg",
+        "tgs": "gifts/trappedheart/assets/models/love-potion.tgs"
+      }
+    },
+    {
+      "name": "Silver",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/silver.svg",
+        "tgs": "gifts/trappedheart/assets/models/silver.tgs"
+      }
+    },
+    {
+      "name": "Bloodvine",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/bloodvine.svg",
+        "tgs": "gifts/trappedheart/assets/models/bloodvine.tgs"
+      }
+    },
+    {
+      "name": "Tattoo",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/tattoo.svg",
+        "tgs": "gifts/trappedheart/assets/models/tattoo.tgs"
+      }
+    },
+    {
+      "name": "Toxic Love",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/toxic-love.svg",
+        "tgs": "gifts/trappedheart/assets/models/toxic-love.tgs"
+      }
+    },
+    {
+      "name": "Vampie",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/vampie.svg",
+        "tgs": "gifts/trappedheart/assets/models/vampie.tgs"
+      }
+    },
+    {
+      "name": "Mystic Mark",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/mystic-mark.svg",
+        "tgs": "gifts/trappedheart/assets/models/mystic-mark.tgs"
+      }
+    },
+    {
+      "name": "Fire and Ice",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/fire-and-ice.svg",
+        "tgs": "gifts/trappedheart/assets/models/fire-and-ice.tgs"
+      }
+    },
+    {
+      "name": "Sweetheart",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/sweetheart.svg",
+        "tgs": "gifts/trappedheart/assets/models/sweetheart.tgs"
+      }
+    },
+    {
+      "name": "Silver Luxe",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/silver-luxe.svg",
+        "tgs": "gifts/trappedheart/assets/models/silver-luxe.tgs"
+      }
+    },
+    {
+      "name": "Sweet Wrap",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/sweet-wrap.svg",
+        "tgs": "gifts/trappedheart/assets/models/sweet-wrap.tgs"
+      }
+    },
+    {
+      "name": "Abyss Heart",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/abyss-heart.svg",
+        "tgs": "gifts/trappedheart/assets/models/abyss-heart.tgs"
+      }
+    },
+    {
+      "name": "Grey Ember",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/grey-ember.svg",
+        "tgs": "gifts/trappedheart/assets/models/grey-ember.tgs"
+      }
+    },
+    {
+      "name": "Lovesick",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/lovesick.svg",
+        "tgs": "gifts/trappedheart/assets/models/lovesick.tgs"
+      }
+    },
+    {
+      "name": "Patchwork",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/patchwork.svg",
+        "tgs": "gifts/trappedheart/assets/models/patchwork.tgs"
+      }
+    },
+    {
+      "name": "Orange Blaze",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/orange-blaze.svg",
+        "tgs": "gifts/trappedheart/assets/models/orange-blaze.tgs"
+      }
+    },
+    {
+      "name": "Faded Relic",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/faded-relic.svg",
+        "tgs": "gifts/trappedheart/assets/models/faded-relic.tgs"
+      }
+    },
+    {
+      "name": "Patched Up",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/patched-up.svg",
+        "tgs": "gifts/trappedheart/assets/models/patched-up.tgs"
+      }
+    },
+    {
+      "name": "Empty Silent",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/empty-silent.svg",
+        "tgs": "gifts/trappedheart/assets/models/empty-silent.tgs"
+      }
+    },
+    {
+      "name": "Bandaged",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/bandaged.svg",
+        "tgs": "gifts/trappedheart/assets/models/bandaged.tgs"
+      }
+    },
+    {
+      "name": "Blood Stains",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/blood-stains.svg",
+        "tgs": "gifts/trappedheart/assets/models/blood-stains.tgs"
+      }
+    },
+    {
+      "name": "Undead Beat",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/undead-beat.svg",
+        "tgs": "gifts/trappedheart/assets/models/undead-beat.tgs"
+      }
+    },
+    {
+      "name": "Bejeweled",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/bejeweled.svg",
+        "tgs": "gifts/trappedheart/assets/models/bejeweled.tgs"
+      }
+    },
+    {
+      "name": "Mended Love",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/mended-love.svg",
+        "tgs": "gifts/trappedheart/assets/models/mended-love.tgs"
+      }
+    },
+    {
+      "name": "Sandy Red",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/sandy-red.svg",
+        "tgs": "gifts/trappedheart/assets/models/sandy-red.tgs"
+      }
+    },
+    {
+      "name": "Purple Haze",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/purple-haze.svg",
+        "tgs": "gifts/trappedheart/assets/models/purple-haze.tgs"
+      }
+    },
+    {
+      "name": "Valentine",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/valentine.svg",
+        "tgs": "gifts/trappedheart/assets/models/valentine.tgs"
+      }
+    },
+    {
+      "name": "Meadow",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/meadow.svg",
+        "tgs": "gifts/trappedheart/assets/models/meadow.tgs"
+      }
+    },
+    {
+      "name": "Pink Twilight",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/pink-twilight.svg",
+        "tgs": "gifts/trappedheart/assets/models/pink-twilight.tgs"
+      }
+    },
+    {
+      "name": "Colorful Beats",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/colorful-beats.svg",
+        "tgs": "gifts/trappedheart/assets/models/colorful-beats.tgs"
+      }
+    },
+    {
+      "name": "Heartworm",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/heartworm.svg",
+        "tgs": "gifts/trappedheart/assets/models/heartworm.tgs"
+      }
+    },
+    {
+      "name": "Violet Shadow",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/violet-shadow.svg",
+        "tgs": "gifts/trappedheart/assets/models/violet-shadow.tgs"
+      }
+    },
+    {
+      "name": "Phantom",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/phantom.svg",
+        "tgs": "gifts/trappedheart/assets/models/phantom.tgs"
+      }
+    },
+    {
+      "name": "Crime Scene",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/crime-scene.svg",
+        "tgs": "gifts/trappedheart/assets/models/crime-scene.tgs"
+      }
+    },
+    {
+      "name": "Cold-Hearted",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/cold-hearted.svg",
+        "tgs": "gifts/trappedheart/assets/models/cold-hearted.tgs"
+      }
+    },
+    {
+      "name": "Blue Whisper",
+      "assets": {
+        "svg": "gifts/trappedheart/assets/models/blue-whisper.svg",
+        "tgs": "gifts/trappedheart/assets/models/blue-whisper.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Flying Witch",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/flying-witch.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Witch’s Hat",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/witch-s-hat.png"
+      }
+    },
+    {
+      "name": "Severed Hand",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/severed-hand.png"
+      }
+    },
+    {
+      "name": "Love Dove",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/love-dove.png"
+      }
+    },
+    {
+      "name": "Chocolate",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/chocolate.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Human Scull",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/human-scull.png"
+      }
+    },
+    {
+      "name": "Sweets Box",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/sweets-box.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Lollipop",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lollipop.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Aubergine",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/aubergine.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Lovebirds",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lovebirds.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Patched Heart",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/patched-heart.png"
+      }
+    },
+    {
+      "name": "Blossom",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/blossom.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Cunning Fox",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cunning-fox.png"
+      }
+    },
+    {
+      "name": "Lovely Bra",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lovely-bra.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Amour Scoops",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/amour-scoops.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Padlock",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/padlock.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Cauldron",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cauldron.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Grim Reaper",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/grim-reaper.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Fluffy Wolf",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/fluffy-wolf.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Heart Shades",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/heart-shades.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Shiny Heart",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/shiny-heart.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Lingerie",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lingerie.png"
+      }
+    },
+    {
+      "name": "Lovely Rain",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lovely-rain.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Lips",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lips.png"
+      }
+    },
+    {
+      "name": "Bloody Axe",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bloody-axe.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Eyeball",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/eyeball.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Passion Latte",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/passion-latte.png"
+      }
+    },
+    {
+      "name": "Cute Bear",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cute-bear.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Cupid’s Arrow",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cupid-s-arrow.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Spooky Cat",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/spooky-cat.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Black Widow",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/black-widow.png"
+      }
+    },
+    {
+      "name": "Voodoo Doll",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/voodoo-doll.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Heart Balloon",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/heart-balloon.png"
+      }
+    },
+    {
+      "name": "Flirty Message",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/flirty-message.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Treats",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/treats.png"
+      }
+    },
+    {
+      "name": "Loveberry",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/loveberry.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Romantic Cake",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/romantic-cake.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Evil Pumpkin",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/evil-pumpkin.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Flying Heart",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/flying-heart.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Heartbeat",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/heartbeat.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Night Bats",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/night-bats.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Autumn Leaves",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/autumn-leaves.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Lovely Key",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lovely-key.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Napkins",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/napkins.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Nice Ghost",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/nice-ghost.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Scarecrow",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/scarecrow.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Cupid",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cupid.png"
+      }
+    },
+    {
+      "name": "Water Drops",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/water-drops.png"
+      }
+    },
+    {
+      "name": "Broken Heart",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/broken-heart.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Coffin",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/coffin.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Jaws",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/jaws.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Crow",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/crow.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Poison Drop",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/poison-drop.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Lovely Rose",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/lovely-rose.png"
+      }
+    },
+    {
+      "name": "Double Bed",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/double-bed.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Stilettos",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/stilettos.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Half Moon",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/half-moon.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Happy Smile",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/happy-smile.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Loving Heart",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/loving-heart.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Kitty Cat",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/kitty-cat.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Butterfly",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/butterfly.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Gravestone",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/gravestone.png"
+      }
+    },
+    {
+      "name": "Rabbit",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/rabbit.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/trappedheart/assets/patterns/cocktail.png"
+      }
+    }
+  ]
+}

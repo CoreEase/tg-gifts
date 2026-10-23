@@ -1,0 +1,1557 @@
+{
+  "slug": "victorymedal",
+  "models": [
+    {
+      "name": "Aegis",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/aegis.svg",
+        "tgs": "gifts/victorymedal/assets/models/aegis.tgs"
+      }
+    },
+    {
+      "name": "First Finisher",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/first-finisher.svg",
+        "tgs": "gifts/victorymedal/assets/models/first-finisher.tgs"
+      }
+    },
+    {
+      "name": "King Troll",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/king-troll.svg",
+        "tgs": "gifts/victorymedal/assets/models/king-troll.tgs"
+      }
+    },
+    {
+      "name": "Noble Prize",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/noble-prize.svg",
+        "tgs": "gifts/victorymedal/assets/models/noble-prize.tgs"
+      }
+    },
+    {
+      "name": "The Founder",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/the-founder.svg",
+        "tgs": "gifts/victorymedal/assets/models/the-founder.tgs"
+      }
+    },
+    {
+      "name": "Crypto Whale",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/crypto-whale.svg",
+        "tgs": "gifts/victorymedal/assets/models/crypto-whale.tgs"
+      }
+    },
+    {
+      "name": "Gem Holder",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/gem-holder.svg",
+        "tgs": "gifts/victorymedal/assets/models/gem-holder.tgs"
+      }
+    },
+    {
+      "name": "Heartbreaker",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/heartbreaker.svg",
+        "tgs": "gifts/victorymedal/assets/models/heartbreaker.tgs"
+      }
+    },
+    {
+      "name": "High Roller",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/high-roller.svg",
+        "tgs": "gifts/victorymedal/assets/models/high-roller.tgs"
+      }
+    },
+    {
+      "name": "Master Gamer",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/master-gamer.svg",
+        "tgs": "gifts/victorymedal/assets/models/master-gamer.tgs"
+      }
+    },
+    {
+      "name": "Master Of Luck",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/master-of-luck.svg",
+        "tgs": "gifts/victorymedal/assets/models/master-of-luck.tgs"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/gold.svg",
+        "tgs": "gifts/victorymedal/assets/models/gold.tgs"
+      }
+    },
+    {
+      "name": "Good Boy",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/good-boy.svg",
+        "tgs": "gifts/victorymedal/assets/models/good-boy.tgs"
+      }
+    },
+    {
+      "name": "Illuminatus",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/illuminatus.svg",
+        "tgs": "gifts/victorymedal/assets/models/illuminatus.tgs"
+      }
+    },
+    {
+      "name": "Queen Bee",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/queen-bee.svg",
+        "tgs": "gifts/victorymedal/assets/models/queen-bee.tgs"
+      }
+    },
+    {
+      "name": "Crown of Grace",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/crown-of-grace.svg",
+        "tgs": "gifts/victorymedal/assets/models/crown-of-grace.tgs"
+      }
+    },
+    {
+      "name": "Eternal Glory",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/eternal-glory.svg",
+        "tgs": "gifts/victorymedal/assets/models/eternal-glory.tgs"
+      }
+    },
+    {
+      "name": "Grandmaster",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/grandmaster.svg",
+        "tgs": "gifts/victorymedal/assets/models/grandmaster.tgs"
+      }
+    },
+    {
+      "name": "Heart of Steel",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/heart-of-steel.svg",
+        "tgs": "gifts/victorymedal/assets/models/heart-of-steel.tgs"
+      }
+    },
+    {
+      "name": "Telecrafter",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/telecrafter.svg",
+        "tgs": "gifts/victorymedal/assets/models/telecrafter.tgs"
+      }
+    },
+    {
+      "name": "Brewmaster",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/brewmaster.svg",
+        "tgs": "gifts/victorymedal/assets/models/brewmaster.tgs"
+      }
+    },
+    {
+      "name": "Clown",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/clown.svg",
+        "tgs": "gifts/victorymedal/assets/models/clown.tgs"
+      }
+    },
+    {
+      "name": "Silver",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/silver.svg",
+        "tgs": "gifts/victorymedal/assets/models/silver.tgs"
+      }
+    },
+    {
+      "name": "Ton Titan",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/ton-titan.svg",
+        "tgs": "gifts/victorymedal/assets/models/ton-titan.tgs"
+      }
+    },
+    {
+      "name": "Crown Jewel",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/crown-jewel.svg",
+        "tgs": "gifts/victorymedal/assets/models/crown-jewel.tgs"
+      }
+    },
+    {
+      "name": "Princess",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/princess.svg",
+        "tgs": "gifts/victorymedal/assets/models/princess.tgs"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/viking.svg",
+        "tgs": "gifts/victorymedal/assets/models/viking.tgs"
+      }
+    },
+    {
+      "name": "Bronze",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/bronze.svg",
+        "tgs": "gifts/victorymedal/assets/models/bronze.tgs"
+      }
+    },
+    {
+      "name": "Candy King",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/candy-king.svg",
+        "tgs": "gifts/victorymedal/assets/models/candy-king.tgs"
+      }
+    },
+    {
+      "name": "Crystal Trophy",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/crystal-trophy.svg",
+        "tgs": "gifts/victorymedal/assets/models/crystal-trophy.tgs"
+      }
+    },
+    {
+      "name": "Dealmaker",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/dealmaker.svg",
+        "tgs": "gifts/victorymedal/assets/models/dealmaker.tgs"
+      }
+    },
+    {
+      "name": "Dunk Master",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/dunk-master.svg",
+        "tgs": "gifts/victorymedal/assets/models/dunk-master.tgs"
+      }
+    },
+    {
+      "name": "Finish Line",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/finish-line.svg",
+        "tgs": "gifts/victorymedal/assets/models/finish-line.tgs"
+      }
+    },
+    {
+      "name": "Genius",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/genius.svg",
+        "tgs": "gifts/victorymedal/assets/models/genius.tgs"
+      }
+    },
+    {
+      "name": "Glory Goal",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/glory-goal.svg",
+        "tgs": "gifts/victorymedal/assets/models/glory-goal.tgs"
+      }
+    },
+    {
+      "name": "Golden Puck",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/golden-puck.svg",
+        "tgs": "gifts/victorymedal/assets/models/golden-puck.tgs"
+      }
+    },
+    {
+      "name": "Great Athlete",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/great-athlete.svg",
+        "tgs": "gifts/victorymedal/assets/models/great-athlete.tgs"
+      }
+    },
+    {
+      "name": "Heroic Honor",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/heroic-honor.svg",
+        "tgs": "gifts/victorymedal/assets/models/heroic-honor.tgs"
+      }
+    },
+    {
+      "name": "Inventor",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/inventor.svg",
+        "tgs": "gifts/victorymedal/assets/models/inventor.tgs"
+      }
+    },
+    {
+      "name": "Lifesaver",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/lifesaver.svg",
+        "tgs": "gifts/victorymedal/assets/models/lifesaver.tgs"
+      }
+    },
+    {
+      "name": "Nice Try",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/nice-try.svg",
+        "tgs": "gifts/victorymedal/assets/models/nice-try.tgs"
+      }
+    },
+    {
+      "name": "Pathfinder",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/pathfinder.svg",
+        "tgs": "gifts/victorymedal/assets/models/pathfinder.tgs"
+      }
+    },
+    {
+      "name": "Racing Champ",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/racing-champ.svg",
+        "tgs": "gifts/victorymedal/assets/models/racing-champ.tgs"
+      }
+    },
+    {
+      "name": "Radiant Order",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/radiant-order.svg",
+        "tgs": "gifts/victorymedal/assets/models/radiant-order.tgs"
+      }
+    },
+    {
+      "name": "Rebel Award",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/rebel-award.svg",
+        "tgs": "gifts/victorymedal/assets/models/rebel-award.tgs"
+      }
+    },
+    {
+      "name": "Sharpshooter",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/sharpshooter.svg",
+        "tgs": "gifts/victorymedal/assets/models/sharpshooter.tgs"
+      }
+    },
+    {
+      "name": "Starbound",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/starbound.svg",
+        "tgs": "gifts/victorymedal/assets/models/starbound.tgs"
+      }
+    },
+    {
+      "name": "Sweet Reward",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/sweet-reward.svg",
+        "tgs": "gifts/victorymedal/assets/models/sweet-reward.tgs"
+      }
+    },
+    {
+      "name": "Top Swimmer",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/top-swimmer.svg",
+        "tgs": "gifts/victorymedal/assets/models/top-swimmer.tgs"
+      }
+    },
+    {
+      "name": "Veteran",
+      "assets": {
+        "svg": "gifts/victorymedal/assets/models/veteran.svg",
+        "tgs": "gifts/victorymedal/assets/models/veteran.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Fedora",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/fedora.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Ribeye Steak",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/ribeye-steak.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Easter Egg",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/easter-egg.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Conical Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/conical-hat.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Pith Helmet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/pith-helmet.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "High Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/high-hat.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Spring Chick",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/spring-chick.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Wepwawet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/wepwawet.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Flag",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flag.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "Steampunk Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/steampunk-hat.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/pilot-hat.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Sombrero",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sombrero.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Paschal Lamb",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/paschal-lamb.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Bandana",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bandana.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Robin Hood",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/robin-hood.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/victorymedal/assets/patterns/hazelnut.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1999 @@
+{
+  "slug": "nekohelmet",
+  "models": [
+    {
+      "name": "White Rabbit",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/white-rabbit.svg",
+        "tgs": "gifts/nekohelmet/assets/models/white-rabbit.tgs"
+      }
+    },
+    {
+      "name": "Turbo Frog",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/turbo-frog.svg",
+        "tgs": "gifts/nekohelmet/assets/models/turbo-frog.tgs"
+      }
+    },
+    {
+      "name": "Sky Diver",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/sky-diver.svg",
+        "tgs": "gifts/nekohelmet/assets/models/sky-diver.tgs"
+      }
+    },
+    {
+      "name": "Wild Cat",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/wild-cat.svg",
+        "tgs": "gifts/nekohelmet/assets/models/wild-cat.tgs"
+      }
+    },
+    {
+      "name": "Bulldog Bob",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/bulldog-bob.svg",
+        "tgs": "gifts/nekohelmet/assets/models/bulldog-bob.tgs"
+      }
+    },
+    {
+      "name": "Dalmatian",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/dalmatian.svg",
+        "tgs": "gifts/nekohelmet/assets/models/dalmatian.tgs"
+      }
+    },
+    {
+      "name": "Mad Clown",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/mad-clown.svg",
+        "tgs": "gifts/nekohelmet/assets/models/mad-clown.tgs"
+      }
+    },
+    {
+      "name": "Formula One",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/formula-one.svg",
+        "tgs": "gifts/nekohelmet/assets/models/formula-one.tgs"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/unicorn.svg",
+        "tgs": "gifts/nekohelmet/assets/models/unicorn.tgs"
+      }
+    },
+    {
+      "name": "Sonic Rave",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/sonic-rave.svg",
+        "tgs": "gifts/nekohelmet/assets/models/sonic-rave.tgs"
+      }
+    },
+    {
+      "name": "Retro-Future",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/retro-future.svg",
+        "tgs": "gifts/nekohelmet/assets/models/retro-future.tgs"
+      }
+    },
+    {
+      "name": "Dullahan",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/dullahan.svg",
+        "tgs": "gifts/nekohelmet/assets/models/dullahan.tgs"
+      }
+    },
+    {
+      "name": "Road Queen",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/road-queen.svg",
+        "tgs": "gifts/nekohelmet/assets/models/road-queen.tgs"
+      }
+    },
+    {
+      "name": "Kawaii",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/kawaii.svg",
+        "tgs": "gifts/nekohelmet/assets/models/kawaii.tgs"
+      }
+    },
+    {
+      "name": "Love Ghost",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/love-ghost.svg",
+        "tgs": "gifts/nekohelmet/assets/models/love-ghost.tgs"
+      }
+    },
+    {
+      "name": "Hell Rider",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/hell-rider.svg",
+        "tgs": "gifts/nekohelmet/assets/models/hell-rider.tgs"
+      }
+    },
+    {
+      "name": "Princess",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/princess.svg",
+        "tgs": "gifts/nekohelmet/assets/models/princess.tgs"
+      }
+    },
+    {
+      "name": "Queen Bee",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/queen-bee.svg",
+        "tgs": "gifts/nekohelmet/assets/models/queen-bee.tgs"
+      }
+    },
+    {
+      "name": "Maneki Neko",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/maneki-neko.svg",
+        "tgs": "gifts/nekohelmet/assets/models/maneki-neko.tgs"
+      }
+    },
+    {
+      "name": "Cookie Monster",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/cookie-monster.svg",
+        "tgs": "gifts/nekohelmet/assets/models/cookie-monster.tgs"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/astronaut.svg",
+        "tgs": "gifts/nekohelmet/assets/models/astronaut.tgs"
+      }
+    },
+    {
+      "name": "Frostbear",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/frostbear.svg",
+        "tgs": "gifts/nekohelmet/assets/models/frostbear.tgs"
+      }
+    },
+    {
+      "name": "Disco Ball",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/disco-ball.svg",
+        "tgs": "gifts/nekohelmet/assets/models/disco-ball.tgs"
+      }
+    },
+    {
+      "name": "Savage",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/savage.svg",
+        "tgs": "gifts/nekohelmet/assets/models/savage.tgs"
+      }
+    },
+    {
+      "name": "Glitch",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/glitch.svg",
+        "tgs": "gifts/nekohelmet/assets/models/glitch.tgs"
+      }
+    },
+    {
+      "name": "Wild Daisy",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/wild-daisy.svg",
+        "tgs": "gifts/nekohelmet/assets/models/wild-daisy.tgs"
+      }
+    },
+    {
+      "name": "Grey Shark",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/grey-shark.svg",
+        "tgs": "gifts/nekohelmet/assets/models/grey-shark.tgs"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/ladybug.svg",
+        "tgs": "gifts/nekohelmet/assets/models/ladybug.tgs"
+      }
+    },
+    {
+      "name": "Steampunk",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/steampunk.svg",
+        "tgs": "gifts/nekohelmet/assets/models/steampunk.tgs"
+      }
+    },
+    {
+      "name": "Gold Rush",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/gold-rush.svg",
+        "tgs": "gifts/nekohelmet/assets/models/gold-rush.tgs"
+      }
+    },
+    {
+      "name": "Starry Sky",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/starry-sky.svg",
+        "tgs": "gifts/nekohelmet/assets/models/starry-sky.tgs"
+      }
+    },
+    {
+      "name": "Twister",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/twister.svg",
+        "tgs": "gifts/nekohelmet/assets/models/twister.tgs"
+      }
+    },
+    {
+      "name": "Chrome",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/chrome.svg",
+        "tgs": "gifts/nekohelmet/assets/models/chrome.tgs"
+      }
+    },
+    {
+      "name": "Lightspeed",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/lightspeed.svg",
+        "tgs": "gifts/nekohelmet/assets/models/lightspeed.tgs"
+      }
+    },
+    {
+      "name": "Techno",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/techno.svg",
+        "tgs": "gifts/nekohelmet/assets/models/techno.tgs"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/strawberry.svg",
+        "tgs": "gifts/nekohelmet/assets/models/strawberry.tgs"
+      }
+    },
+    {
+      "name": "Biker Girl",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/biker-girl.svg",
+        "tgs": "gifts/nekohelmet/assets/models/biker-girl.tgs"
+      }
+    },
+    {
+      "name": "Poison Ivy",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/poison-ivy.svg",
+        "tgs": "gifts/nekohelmet/assets/models/poison-ivy.tgs"
+      }
+    },
+    {
+      "name": "Blackout",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/blackout.svg",
+        "tgs": "gifts/nekohelmet/assets/models/blackout.tgs"
+      }
+    },
+    {
+      "name": "Whiteout",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/whiteout.svg",
+        "tgs": "gifts/nekohelmet/assets/models/whiteout.tgs"
+      }
+    },
+    {
+      "name": "Night Race",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/night-race.svg",
+        "tgs": "gifts/nekohelmet/assets/models/night-race.tgs"
+      }
+    },
+    {
+      "name": "Cotton Drift",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/cotton-drift.svg",
+        "tgs": "gifts/nekohelmet/assets/models/cotton-drift.tgs"
+      }
+    },
+    {
+      "name": "Jade Breeze",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/jade-breeze.svg",
+        "tgs": "gifts/nekohelmet/assets/models/jade-breeze.tgs"
+      }
+    },
+    {
+      "name": "Databreak",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/databreak.svg",
+        "tgs": "gifts/nekohelmet/assets/models/databreak.tgs"
+      }
+    },
+    {
+      "name": "Tokyo Sunset",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/tokyo-sunset.svg",
+        "tgs": "gifts/nekohelmet/assets/models/tokyo-sunset.tgs"
+      }
+    },
+    {
+      "name": "Red Shift",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/red-shift.svg",
+        "tgs": "gifts/nekohelmet/assets/models/red-shift.tgs"
+      }
+    },
+    {
+      "name": "Lagoon",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/lagoon.svg",
+        "tgs": "gifts/nekohelmet/assets/models/lagoon.tgs"
+      }
+    },
+    {
+      "name": "Nebula",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/nebula.svg",
+        "tgs": "gifts/nekohelmet/assets/models/nebula.tgs"
+      }
+    },
+    {
+      "name": "Hornet",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/hornet.svg",
+        "tgs": "gifts/nekohelmet/assets/models/hornet.tgs"
+      }
+    },
+    {
+      "name": "Panther",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/panther.svg",
+        "tgs": "gifts/nekohelmet/assets/models/panther.tgs"
+      }
+    },
+    {
+      "name": "Ultravolt",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/ultravolt.svg",
+        "tgs": "gifts/nekohelmet/assets/models/ultravolt.tgs"
+      }
+    },
+    {
+      "name": "Optimus Prime",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/optimus-prime.svg",
+        "tgs": "gifts/nekohelmet/assets/models/optimus-prime.tgs"
+      }
+    },
+    {
+      "name": "Hothead",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/hothead.svg",
+        "tgs": "gifts/nekohelmet/assets/models/hothead.tgs"
+      }
+    },
+    {
+      "name": "Shockwave",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/shockwave.svg",
+        "tgs": "gifts/nekohelmet/assets/models/shockwave.tgs"
+      }
+    },
+    {
+      "name": "Lime Juice",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/lime-juice.svg",
+        "tgs": "gifts/nekohelmet/assets/models/lime-juice.tgs"
+      }
+    },
+    {
+      "name": "Copper Alloy",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/copper-alloy.svg",
+        "tgs": "gifts/nekohelmet/assets/models/copper-alloy.tgs"
+      }
+    },
+    {
+      "name": "Acid Punch",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/acid-punch.svg",
+        "tgs": "gifts/nekohelmet/assets/models/acid-punch.tgs"
+      }
+    },
+    {
+      "name": "Silver Surfer",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/silver-surfer.svg",
+        "tgs": "gifts/nekohelmet/assets/models/silver-surfer.tgs"
+      }
+    },
+    {
+      "name": "Caffeine",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/caffeine.svg",
+        "tgs": "gifts/nekohelmet/assets/models/caffeine.tgs"
+      }
+    },
+    {
+      "name": "Solar Glare",
+      "assets": {
+        "svg": "gifts/nekohelmet/assets/models/solar-glare.svg",
+        "tgs": "gifts/nekohelmet/assets/models/solar-glare.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Valentine",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/valentine.png"
+      }
+    },
+    {
+      "name": "Monarch",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/monarch.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Jasmin",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/jasmin.png"
+      }
+    },
+    {
+      "name": "Cupid’s Bow",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cupid-s-bow.png"
+      }
+    },
+    {
+      "name": "Two Hearts",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/two-hearts.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "February 14",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/february-14.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Rabbit Mask",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/rabbit-mask.png"
+      }
+    },
+    {
+      "name": "Butterfly",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/butterfly.png"
+      }
+    },
+    {
+      "name": "Love Puzzle",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-puzzle.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Pierced Heart",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pierced-heart.png"
+      }
+    },
+    {
+      "name": "Pigeon",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pigeon.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Winter Hat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/winter-hat.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Rabbit",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/rabbit.png"
+      }
+    },
+    {
+      "name": "Fluffy Wolf",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/fluffy-wolf.png"
+      }
+    },
+    {
+      "name": "Poppy",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/poppy.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Date Pin",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/date-pin.png"
+      }
+    },
+    {
+      "name": "Teddy Bear",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/teddy-bear.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Daisy",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/daisy.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "May Bells",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/may-bells.png"
+      }
+    },
+    {
+      "name": "Cunning Fox",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cunning-fox.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Spicy Chilli",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/spicy-chilli.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Wine Toast",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/wine-toast.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Carnation",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/carnation.png"
+      }
+    },
+    {
+      "name": "Mailbox",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mailbox.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Love",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love.png"
+      }
+    },
+    {
+      "name": "Blooms",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/blooms.png"
+      }
+    },
+    {
+      "name": "Neko Mask",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/neko-mask.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Daffodil",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/daffodil.png"
+      }
+    },
+    {
+      "name": "Petunia",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/petunia.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Rose Bud",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/rose-bud.png"
+      }
+    },
+    {
+      "name": "Fuchsia",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/fuchsia.png"
+      }
+    },
+    {
+      "name": "Little Cupid",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/little-cupid.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Calendula",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/calendula.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Mars & Venus",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mars-venus.png"
+      }
+    },
+    {
+      "name": "Love Berry",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-berry.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Plumeria",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/plumeria.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Cake",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cake.png"
+      }
+    },
+    {
+      "name": "Tongue",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/tongue.png"
+      }
+    },
+    {
+      "name": "Party Popper",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/party-popper.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Lovestruck",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/lovestruck.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Starflower",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/starflower.png"
+      }
+    },
+    {
+      "name": "Pansy",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pansy.png"
+      }
+    },
+    {
+      "name": "Love Daisy",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-daisy.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Heart Box",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/heart-box.png"
+      }
+    },
+    {
+      "name": "Puffball",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/puffball.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Clematis",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/clematis.png"
+      }
+    },
+    {
+      "name": "Flaming Heart",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/flaming-heart.png"
+      }
+    },
+    {
+      "name": "Bougainvillea",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bougainvillea.png"
+      }
+    },
+    {
+      "name": "Gift",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/gift.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Violet",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/violet.png"
+      }
+    },
+    {
+      "name": "Rainbow",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/rainbow.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Pixel Heart",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pixel-heart.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Tic-Tac-Toe",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/tic-tac-toe.png"
+      }
+    },
+    {
+      "name": "Flytrap",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/flytrap.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Heart Ring",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/heart-ring.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Tulip Bloom",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/tulip-bloom.png"
+      }
+    },
+    {
+      "name": "Lavender",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/lavender.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Kitty Cat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/kitty-cat.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Bandana",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bandana.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Iron Helmet",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/iron-helmet.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Rose Blossom",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/rose-blossom.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Dandelion",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/dandelion.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Love Mug",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-mug.png"
+      }
+    },
+    {
+      "name": "Handcuffs",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/handcuffs.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Succubus",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/succubus.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Lily Bloom",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/lily-bloom.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Love Potion",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-potion.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Orchid",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/orchid.png"
+      }
+    },
+    {
+      "name": "Headband",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/headband.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Belladonna",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/belladonna.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Heart Glasses",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/heart-glasses.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Paw Print",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/paw-print.png"
+      }
+    },
+    {
+      "name": "Strelitzia",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/strelitzia.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Anthurium",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/anthurium.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Pith Helmet",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pith-helmet.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Love Cherry",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-cherry.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Bobble Hat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bobble-hat.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Cute Paw",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cute-paw.png"
+      }
+    },
+    {
+      "name": "Sunbloom",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/sunbloom.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Like Button",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/like-button.png"
+      }
+    },
+    {
+      "name": "Chrysanthe",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/chrysanthe.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Muffin",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/muffin.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Bouquet",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bouquet.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Neptune",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/neptune.png"
+      }
+    },
+    {
+      "name": "Gentian",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/gentian.png"
+      }
+    },
+    {
+      "name": "Heart Lock",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/heart-lock.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Lotus",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/lotus.png"
+      }
+    },
+    {
+      "name": "Calla Lily",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/calla-lily.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Pussy Willow",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pussy-willow.png"
+      }
+    },
+    {
+      "name": "Ace Of Hearts",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/ace-of-hearts.png"
+      }
+    },
+    {
+      "name": "Love Scene",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-scene.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Love Bulb",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-bulb.png"
+      }
+    },
+    {
+      "name": "Snowdrop",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/snowdrop.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Hard Hat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/hard-hat.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Hearts",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/hearts.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Iris",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/iris.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Angel",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/angel.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Bellflower",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bellflower.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Panty",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/panty.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Balloon",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/balloon.png"
+      }
+    },
+    {
+      "name": "Love Candy",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-candy.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Love Bell",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/love-bell.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Spider Lily",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/spider-lily.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Cupid Archer",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cupid-archer.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Cyclamen",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cyclamen.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Cute Bear",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cute-bear.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Hibiscus",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/hibiscus.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Heart Donut",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/heart-donut.png"
+      }
+    },
+    {
+      "name": "Angelic Heart",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/angelic-heart.png"
+      }
+    },
+    {
+      "name": "Cactus Bloom",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/cactus-bloom.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/nekohelmet/assets/patterns/pilot-hat.png"
+      }
+    }
+  ]
+}

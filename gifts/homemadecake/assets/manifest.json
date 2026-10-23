@@ -1,0 +1,2243 @@
+{
+  "slug": "homemadecake",
+  "models": [
+    {
+      "name": "Fire Blast",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/fire-blast.svg",
+        "tgs": "gifts/homemadecake/assets/models/fire-blast.tgs"
+      }
+    },
+    {
+      "name": "Candy Cane",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/candy-cane.svg",
+        "tgs": "gifts/homemadecake/assets/models/candy-cane.tgs"
+      }
+    },
+    {
+      "name": "Interstellar",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/interstellar.svg",
+        "tgs": "gifts/homemadecake/assets/models/interstellar.tgs"
+      }
+    },
+    {
+      "name": "Toxicake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/toxicake.svg",
+        "tgs": "gifts/homemadecake/assets/models/toxicake.tgs"
+      }
+    },
+    {
+      "name": "Cherry Kiss",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cherry-kiss.svg",
+        "tgs": "gifts/homemadecake/assets/models/cherry-kiss.tgs"
+      }
+    },
+    {
+      "name": "Frosty",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/frosty.svg",
+        "tgs": "gifts/homemadecake/assets/models/frosty.tgs"
+      }
+    },
+    {
+      "name": "Volcano",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/volcano.svg",
+        "tgs": "gifts/homemadecake/assets/models/volcano.tgs"
+      }
+    },
+    {
+      "name": "Birthday",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/birthday.svg",
+        "tgs": "gifts/homemadecake/assets/models/birthday.tgs"
+      }
+    },
+    {
+      "name": "Blue Depth",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/blue-depth.svg",
+        "tgs": "gifts/homemadecake/assets/models/blue-depth.tgs"
+      }
+    },
+    {
+      "name": "Bonecake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/bonecake.svg",
+        "tgs": "gifts/homemadecake/assets/models/bonecake.tgs"
+      }
+    },
+    {
+      "name": "Naughty",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/naughty.svg",
+        "tgs": "gifts/homemadecake/assets/models/naughty.tgs"
+      }
+    },
+    {
+      "name": "Sugar Bows",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sugar-bows.svg",
+        "tgs": "gifts/homemadecake/assets/models/sugar-bows.tgs"
+      }
+    },
+    {
+      "name": "Mario Cake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/mario-cake.svg",
+        "tgs": "gifts/homemadecake/assets/models/mario-cake.tgs"
+      }
+    },
+    {
+      "name": "Telegram",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/telegram.svg",
+        "tgs": "gifts/homemadecake/assets/models/telegram.tgs"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/diamond.svg",
+        "tgs": "gifts/homemadecake/assets/models/diamond.tgs"
+      }
+    },
+    {
+      "name": "Jelly Fantasy",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/jelly-fantasy.svg",
+        "tgs": "gifts/homemadecake/assets/models/jelly-fantasy.tgs"
+      }
+    },
+    {
+      "name": "Cheesecake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cheesecake.svg",
+        "tgs": "gifts/homemadecake/assets/models/cheesecake.tgs"
+      }
+    },
+    {
+      "name": "Paradise",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/paradise.svg",
+        "tgs": "gifts/homemadecake/assets/models/paradise.tgs"
+      }
+    },
+    {
+      "name": "Premium",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/premium.svg",
+        "tgs": "gifts/homemadecake/assets/models/premium.tgs"
+      }
+    },
+    {
+      "name": "Sand Castle",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sand-castle.svg",
+        "tgs": "gifts/homemadecake/assets/models/sand-castle.tgs"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/strawberry.svg",
+        "tgs": "gifts/homemadecake/assets/models/strawberry.tgs"
+      }
+    },
+    {
+      "name": "Best Wishes",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/best-wishes.svg",
+        "tgs": "gifts/homemadecake/assets/models/best-wishes.tgs"
+      }
+    },
+    {
+      "name": "Starry Sky",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/starry-sky.svg",
+        "tgs": "gifts/homemadecake/assets/models/starry-sky.tgs"
+      }
+    },
+    {
+      "name": "Sweet  Lilac",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sweet-lilac.svg",
+        "tgs": "gifts/homemadecake/assets/models/sweet-lilac.tgs"
+      }
+    },
+    {
+      "name": "Cream Pie",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cream-pie.svg",
+        "tgs": "gifts/homemadecake/assets/models/cream-pie.tgs"
+      }
+    },
+    {
+      "name": "Cherry Cake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cherry-cake.svg",
+        "tgs": "gifts/homemadecake/assets/models/cherry-cake.tgs"
+      }
+    },
+    {
+      "name": "Meadow",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/meadow.svg",
+        "tgs": "gifts/homemadecake/assets/models/meadow.tgs"
+      }
+    },
+    {
+      "name": "Mistletoe",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/mistletoe.svg",
+        "tgs": "gifts/homemadecake/assets/models/mistletoe.tgs"
+      }
+    },
+    {
+      "name": "Berry Сrown",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/berry-rown.svg",
+        "tgs": "gifts/homemadecake/assets/models/berry-rown.tgs"
+      }
+    },
+    {
+      "name": "Red Velvet",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/red-velvet.svg",
+        "tgs": "gifts/homemadecake/assets/models/red-velvet.tgs"
+      }
+    },
+    {
+      "name": "Valentine",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/valentine.svg",
+        "tgs": "gifts/homemadecake/assets/models/valentine.tgs"
+      }
+    },
+    {
+      "name": "Honey Cake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/honey-cake.svg",
+        "tgs": "gifts/homemadecake/assets/models/honey-cake.tgs"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/ice-cream.svg",
+        "tgs": "gifts/homemadecake/assets/models/ice-cream.tgs"
+      }
+    },
+    {
+      "name": "Red Pearl",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/red-pearl.svg",
+        "tgs": "gifts/homemadecake/assets/models/red-pearl.tgs"
+      }
+    },
+    {
+      "name": "Rainbow Glow",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/rainbow-glow.svg",
+        "tgs": "gifts/homemadecake/assets/models/rainbow-glow.tgs"
+      }
+    },
+    {
+      "name": "Luigi Cake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/luigi-cake.svg",
+        "tgs": "gifts/homemadecake/assets/models/luigi-cake.tgs"
+      }
+    },
+    {
+      "name": "Just A Slice",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/just-a-slice.svg",
+        "tgs": "gifts/homemadecake/assets/models/just-a-slice.tgs"
+      }
+    },
+    {
+      "name": "Yours Only",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/yours-only.svg",
+        "tgs": "gifts/homemadecake/assets/models/yours-only.tgs"
+      }
+    },
+    {
+      "name": "Jellycious",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/jellycious.svg",
+        "tgs": "gifts/homemadecake/assets/models/jellycious.tgs"
+      }
+    },
+    {
+      "name": "Wishlist",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/wishlist.svg",
+        "tgs": "gifts/homemadecake/assets/models/wishlist.tgs"
+      }
+    },
+    {
+      "name": "Сhoco Сhips",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/hoco-hips.svg",
+        "tgs": "gifts/homemadecake/assets/models/hoco-hips.tgs"
+      }
+    },
+    {
+      "name": "Midsummer",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/midsummer.svg",
+        "tgs": "gifts/homemadecake/assets/models/midsummer.tgs"
+      }
+    },
+    {
+      "name": "Jam Layer",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/jam-layer.svg",
+        "tgs": "gifts/homemadecake/assets/models/jam-layer.tgs"
+      }
+    },
+    {
+      "name": "Pink Whirl",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/pink-whirl.svg",
+        "tgs": "gifts/homemadecake/assets/models/pink-whirl.tgs"
+      }
+    },
+    {
+      "name": "Cotton Candy",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cotton-candy.svg",
+        "tgs": "gifts/homemadecake/assets/models/cotton-candy.tgs"
+      }
+    },
+    {
+      "name": "Cocoa Cloud",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cocoa-cloud.svg",
+        "tgs": "gifts/homemadecake/assets/models/cocoa-cloud.tgs"
+      }
+    },
+    {
+      "name": "It’s My Party",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/it-s-my-party.svg",
+        "tgs": "gifts/homemadecake/assets/models/it-s-my-party.tgs"
+      }
+    },
+    {
+      "name": "Festive Mint",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/festive-mint.svg",
+        "tgs": "gifts/homemadecake/assets/models/festive-mint.tgs"
+      }
+    },
+    {
+      "name": "Toffee",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/toffee.svg",
+        "tgs": "gifts/homemadecake/assets/models/toffee.tgs"
+      }
+    },
+    {
+      "name": "Fondant Fancy",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/fondant-fancy.svg",
+        "tgs": "gifts/homemadecake/assets/models/fondant-fancy.tgs"
+      }
+    },
+    {
+      "name": "Noir Night",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/noir-night.svg",
+        "tgs": "gifts/homemadecake/assets/models/noir-night.tgs"
+      }
+    },
+    {
+      "name": "Candy Candle",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/candy-candle.svg",
+        "tgs": "gifts/homemadecake/assets/models/candy-candle.tgs"
+      }
+    },
+    {
+      "name": "Sprinkles",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sprinkles.svg",
+        "tgs": "gifts/homemadecake/assets/models/sprinkles.tgs"
+      }
+    },
+    {
+      "name": "Pinkie Pie",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/pinkie-pie.svg",
+        "tgs": "gifts/homemadecake/assets/models/pinkie-pie.tgs"
+      }
+    },
+    {
+      "name": "Mickey Mousse",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/mickey-mousse.svg",
+        "tgs": "gifts/homemadecake/assets/models/mickey-mousse.tgs"
+      }
+    },
+    {
+      "name": "Peachy Bloom",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/peachy-bloom.svg",
+        "tgs": "gifts/homemadecake/assets/models/peachy-bloom.tgs"
+      }
+    },
+    {
+      "name": "Lilac Splash",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/lilac-splash.svg",
+        "tgs": "gifts/homemadecake/assets/models/lilac-splash.tgs"
+      }
+    },
+    {
+      "name": "French Yogurt",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/french-yogurt.svg",
+        "tgs": "gifts/homemadecake/assets/models/french-yogurt.tgs"
+      }
+    },
+    {
+      "name": "Сitrus Matcha",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/itrus-matcha.svg",
+        "tgs": "gifts/homemadecake/assets/models/itrus-matcha.tgs"
+      }
+    },
+    {
+      "name": "Sponge Cake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sponge-cake.svg",
+        "tgs": "gifts/homemadecake/assets/models/sponge-cake.tgs"
+      }
+    },
+    {
+      "name": "Lemon Mint",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/lemon-mint.svg",
+        "tgs": "gifts/homemadecake/assets/models/lemon-mint.tgs"
+      }
+    },
+    {
+      "name": "Blush",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/blush.svg",
+        "tgs": "gifts/homemadecake/assets/models/blush.tgs"
+      }
+    },
+    {
+      "name": "Fantasy",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/fantasy.svg",
+        "tgs": "gifts/homemadecake/assets/models/fantasy.tgs"
+      }
+    },
+    {
+      "name": "Frosty Mocha",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/frosty-mocha.svg",
+        "tgs": "gifts/homemadecake/assets/models/frosty-mocha.tgs"
+      }
+    },
+    {
+      "name": "Candy Parade",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/candy-parade.svg",
+        "tgs": "gifts/homemadecake/assets/models/candy-parade.tgs"
+      }
+    },
+    {
+      "name": "Mint Kiss",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/mint-kiss.svg",
+        "tgs": "gifts/homemadecake/assets/models/mint-kiss.tgs"
+      }
+    },
+    {
+      "name": "Carrot Cake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/carrot-cake.svg",
+        "tgs": "gifts/homemadecake/assets/models/carrot-cake.tgs"
+      }
+    },
+    {
+      "name": "Cold Heaven",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cold-heaven.svg",
+        "tgs": "gifts/homemadecake/assets/models/cold-heaven.tgs"
+      }
+    },
+    {
+      "name": "Caramel Joy",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/caramel-joy.svg",
+        "tgs": "gifts/homemadecake/assets/models/caramel-joy.tgs"
+      }
+    },
+    {
+      "name": "Nutty Joy",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/nutty-joy.svg",
+        "tgs": "gifts/homemadecake/assets/models/nutty-joy.tgs"
+      }
+    },
+    {
+      "name": "Vanilla Sky",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/vanilla-sky.svg",
+        "tgs": "gifts/homemadecake/assets/models/vanilla-sky.tgs"
+      }
+    },
+    {
+      "name": "Spring Bloom",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/spring-bloom.svg",
+        "tgs": "gifts/homemadecake/assets/models/spring-bloom.tgs"
+      }
+    },
+    {
+      "name": "Choco Twist",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/choco-twist.svg",
+        "tgs": "gifts/homemadecake/assets/models/choco-twist.tgs"
+      }
+    },
+    {
+      "name": "Tropical Mist",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/tropical-mist.svg",
+        "tgs": "gifts/homemadecake/assets/models/tropical-mist.tgs"
+      }
+    },
+    {
+      "name": "Cinnamon",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cinnamon.svg",
+        "tgs": "gifts/homemadecake/assets/models/cinnamon.tgs"
+      }
+    },
+    {
+      "name": "Lilac Slice",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/lilac-slice.svg",
+        "tgs": "gifts/homemadecake/assets/models/lilac-slice.tgs"
+      }
+    },
+    {
+      "name": "Pistachio Sky",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/pistachio-sky.svg",
+        "tgs": "gifts/homemadecake/assets/models/pistachio-sky.tgs"
+      }
+    },
+    {
+      "name": "Cream Dream",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/cream-dream.svg",
+        "tgs": "gifts/homemadecake/assets/models/cream-dream.tgs"
+      }
+    },
+    {
+      "name": "Frosted Mint",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/frosted-mint.svg",
+        "tgs": "gifts/homemadecake/assets/models/frosted-mint.tgs"
+      }
+    },
+    {
+      "name": "Tender Peach",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/tender-peach.svg",
+        "tgs": "gifts/homemadecake/assets/models/tender-peach.tgs"
+      }
+    },
+    {
+      "name": "Rosy Frost",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/rosy-frost.svg",
+        "tgs": "gifts/homemadecake/assets/models/rosy-frost.tgs"
+      }
+    },
+    {
+      "name": "Golden Hour",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/golden-hour.svg",
+        "tgs": "gifts/homemadecake/assets/models/golden-hour.tgs"
+      }
+    },
+    {
+      "name": "Chocolate",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/chocolate.svg",
+        "tgs": "gifts/homemadecake/assets/models/chocolate.tgs"
+      }
+    },
+    {
+      "name": "Ocean Wave",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/ocean-wave.svg",
+        "tgs": "gifts/homemadecake/assets/models/ocean-wave.tgs"
+      }
+    },
+    {
+      "name": "Meringue",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/meringue.svg",
+        "tgs": "gifts/homemadecake/assets/models/meringue.tgs"
+      }
+    },
+    {
+      "name": "Pink Velvet",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/pink-velvet.svg",
+        "tgs": "gifts/homemadecake/assets/models/pink-velvet.tgs"
+      }
+    },
+    {
+      "name": "Pastel",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/pastel.svg",
+        "tgs": "gifts/homemadecake/assets/models/pastel.tgs"
+      }
+    },
+    {
+      "name": "Lil Princess",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/lil-princess.svg",
+        "tgs": "gifts/homemadecake/assets/models/lil-princess.tgs"
+      }
+    },
+    {
+      "name": "Mellow Gold",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/mellow-gold.svg",
+        "tgs": "gifts/homemadecake/assets/models/mellow-gold.tgs"
+      }
+    },
+    {
+      "name": "Sweet Dawn",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sweet-dawn.svg",
+        "tgs": "gifts/homemadecake/assets/models/sweet-dawn.tgs"
+      }
+    },
+    {
+      "name": "Opera Cake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/opera-cake.svg",
+        "tgs": "gifts/homemadecake/assets/models/opera-cake.tgs"
+      }
+    },
+    {
+      "name": "Pumpkin Pie",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/pumpkin-pie.svg",
+        "tgs": "gifts/homemadecake/assets/models/pumpkin-pie.tgs"
+      }
+    },
+    {
+      "name": "Pistachio",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/pistachio.svg",
+        "tgs": "gifts/homemadecake/assets/models/pistachio.tgs"
+      }
+    },
+    {
+      "name": "Angel Cake",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/angel-cake.svg",
+        "tgs": "gifts/homemadecake/assets/models/angel-cake.tgs"
+      }
+    },
+    {
+      "name": "Sugarstorm",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sugarstorm.svg",
+        "tgs": "gifts/homemadecake/assets/models/sugarstorm.tgs"
+      }
+    },
+    {
+      "name": "Velvet Cocoa",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/velvet-cocoa.svg",
+        "tgs": "gifts/homemadecake/assets/models/velvet-cocoa.tgs"
+      }
+    },
+    {
+      "name": "Sunset",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sunset.svg",
+        "tgs": "gifts/homemadecake/assets/models/sunset.tgs"
+      }
+    },
+    {
+      "name": "Sweet Bite",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/sweet-bite.svg",
+        "tgs": "gifts/homemadecake/assets/models/sweet-bite.tgs"
+      }
+    },
+    {
+      "name": "Red Layer",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/red-layer.svg",
+        "tgs": "gifts/homemadecake/assets/models/red-layer.tgs"
+      }
+    },
+    {
+      "name": "Choco Dream",
+      "assets": {
+        "svg": "gifts/homemadecake/assets/models/choco-dream.svg",
+        "tgs": "gifts/homemadecake/assets/models/choco-dream.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/homemadecake/assets/patterns/pomegranate.png"
+      }
+    }
+  ]
+}

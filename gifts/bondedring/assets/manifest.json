@@ -1,0 +1,1929 @@
+{
+  "slug": "bondedring",
+  "models": [
+    {
+      "name": "Ring of Roots",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/ring-of-roots.svg",
+        "tgs": "gifts/bondedring/assets/models/ring-of-roots.tgs"
+      }
+    },
+    {
+      "name": "Asteroid",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/asteroid.svg",
+        "tgs": "gifts/bondedring/assets/models/asteroid.tgs"
+      }
+    },
+    {
+      "name": "Goldsmith",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/goldsmith.svg",
+        "tgs": "gifts/bondedring/assets/models/goldsmith.tgs"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/hourglass.svg",
+        "tgs": "gifts/bondedring/assets/models/hourglass.tgs"
+      }
+    },
+    {
+      "name": "Neo Matrix",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/neo-matrix.svg",
+        "tgs": "gifts/bondedring/assets/models/neo-matrix.tgs"
+      }
+    },
+    {
+      "name": "Spatial Grid",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/spatial-grid.svg",
+        "tgs": "gifts/bondedring/assets/models/spatial-grid.tgs"
+      }
+    },
+    {
+      "name": "Fireball",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/fireball.svg",
+        "tgs": "gifts/bondedring/assets/models/fireball.tgs"
+      }
+    },
+    {
+      "name": "Highway",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/highway.svg",
+        "tgs": "gifts/bondedring/assets/models/highway.tgs"
+      }
+    },
+    {
+      "name": "Metal Forever",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/metal-forever.svg",
+        "tgs": "gifts/bondedring/assets/models/metal-forever.tgs"
+      }
+    },
+    {
+      "name": "Moon Dust",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/moon-dust.svg",
+        "tgs": "gifts/bondedring/assets/models/moon-dust.tgs"
+      }
+    },
+    {
+      "name": "Stratosphere",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/stratosphere.svg",
+        "tgs": "gifts/bondedring/assets/models/stratosphere.tgs"
+      }
+    },
+    {
+      "name": "Thunder Bolt",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/thunder-bolt.svg",
+        "tgs": "gifts/bondedring/assets/models/thunder-bolt.tgs"
+      }
+    },
+    {
+      "name": "Anaconda",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/anaconda.svg",
+        "tgs": "gifts/bondedring/assets/models/anaconda.tgs"
+      }
+    },
+    {
+      "name": "Cat Bed",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/cat-bed.svg",
+        "tgs": "gifts/bondedring/assets/models/cat-bed.tgs"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/cheese.svg",
+        "tgs": "gifts/bondedring/assets/models/cheese.tgs"
+      }
+    },
+    {
+      "name": "Duckling",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/duckling.svg",
+        "tgs": "gifts/bondedring/assets/models/duckling.tgs"
+      }
+    },
+    {
+      "name": "Froge Ring",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/froge-ring.svg",
+        "tgs": "gifts/bondedring/assets/models/froge-ring.tgs"
+      }
+    },
+    {
+      "name": "Golden Star",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/golden-star.svg",
+        "tgs": "gifts/bondedring/assets/models/golden-star.tgs"
+      }
+    },
+    {
+      "name": "Hamster Wheel",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/hamster-wheel.svg",
+        "tgs": "gifts/bondedring/assets/models/hamster-wheel.tgs"
+      }
+    },
+    {
+      "name": "Hot Wheel",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/hot-wheel.svg",
+        "tgs": "gifts/bondedring/assets/models/hot-wheel.tgs"
+      }
+    },
+    {
+      "name": "Kraken’s Grip",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/kraken-s-grip.svg",
+        "tgs": "gifts/bondedring/assets/models/kraken-s-grip.tgs"
+      }
+    },
+    {
+      "name": "Mouse Wheel",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/mouse-wheel.svg",
+        "tgs": "gifts/bondedring/assets/models/mouse-wheel.tgs"
+      }
+    },
+    {
+      "name": "Neon Pulse",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/neon-pulse.svg",
+        "tgs": "gifts/bondedring/assets/models/neon-pulse.tgs"
+      }
+    },
+    {
+      "name": "Pixel Loot",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/pixel-loot.svg",
+        "tgs": "gifts/bondedring/assets/models/pixel-loot.tgs"
+      }
+    },
+    {
+      "name": "Rainbow",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/rainbow.svg",
+        "tgs": "gifts/bondedring/assets/models/rainbow.tgs"
+      }
+    },
+    {
+      "name": "Soap Bubbles",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/soap-bubbles.svg",
+        "tgs": "gifts/bondedring/assets/models/soap-bubbles.tgs"
+      }
+    },
+    {
+      "name": "Space Inside",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/space-inside.svg",
+        "tgs": "gifts/bondedring/assets/models/space-inside.tgs"
+      }
+    },
+    {
+      "name": "Astro Silver",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/astro-silver.svg",
+        "tgs": "gifts/bondedring/assets/models/astro-silver.tgs"
+      }
+    },
+    {
+      "name": "Atomic Core",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/atomic-core.svg",
+        "tgs": "gifts/bondedring/assets/models/atomic-core.tgs"
+      }
+    },
+    {
+      "name": "Dalmatian",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/dalmatian.svg",
+        "tgs": "gifts/bondedring/assets/models/dalmatian.tgs"
+      }
+    },
+    {
+      "name": "Duo Vision",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/duo-vision.svg",
+        "tgs": "gifts/bondedring/assets/models/duo-vision.tgs"
+      }
+    },
+    {
+      "name": "Eclipse",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/eclipse.svg",
+        "tgs": "gifts/bondedring/assets/models/eclipse.tgs"
+      }
+    },
+    {
+      "name": "Ironwood",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/ironwood.svg",
+        "tgs": "gifts/bondedring/assets/models/ironwood.tgs"
+      }
+    },
+    {
+      "name": "Magic Runes",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/magic-runes.svg",
+        "tgs": "gifts/bondedring/assets/models/magic-runes.tgs"
+      }
+    },
+    {
+      "name": "Neo Tribe",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/neo-tribe.svg",
+        "tgs": "gifts/bondedring/assets/models/neo-tribe.tgs"
+      }
+    },
+    {
+      "name": "Rainbow Halo",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/rainbow-halo.svg",
+        "tgs": "gifts/bondedring/assets/models/rainbow-halo.tgs"
+      }
+    },
+    {
+      "name": "Runewood",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/runewood.svg",
+        "tgs": "gifts/bondedring/assets/models/runewood.tgs"
+      }
+    },
+    {
+      "name": "Solid Magma",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/solid-magma.svg",
+        "tgs": "gifts/bondedring/assets/models/solid-magma.tgs"
+      }
+    },
+    {
+      "name": "Tiger Amulet",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/tiger-amulet.svg",
+        "tgs": "gifts/bondedring/assets/models/tiger-amulet.tgs"
+      }
+    },
+    {
+      "name": "Zebra",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/zebra.svg",
+        "tgs": "gifts/bondedring/assets/models/zebra.tgs"
+      }
+    },
+    {
+      "name": "Black Hole",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/black-hole.svg",
+        "tgs": "gifts/bondedring/assets/models/black-hole.tgs"
+      }
+    },
+    {
+      "name": "Bloody Mary",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/bloody-mary.svg",
+        "tgs": "gifts/bondedring/assets/models/bloody-mary.tgs"
+      }
+    },
+    {
+      "name": "Frostband",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/frostband.svg",
+        "tgs": "gifts/bondedring/assets/models/frostband.tgs"
+      }
+    },
+    {
+      "name": "Leopard",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/leopard.svg",
+        "tgs": "gifts/bondedring/assets/models/leopard.tgs"
+      }
+    },
+    {
+      "name": "Lime Factory",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/lime-factory.svg",
+        "tgs": "gifts/bondedring/assets/models/lime-factory.tgs"
+      }
+    },
+    {
+      "name": "Line Art",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/line-art.svg",
+        "tgs": "gifts/bondedring/assets/models/line-art.tgs"
+      }
+    },
+    {
+      "name": "Love Whisper",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/love-whisper.svg",
+        "tgs": "gifts/bondedring/assets/models/love-whisper.tgs"
+      }
+    },
+    {
+      "name": "Miami Art",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/miami-art.svg",
+        "tgs": "gifts/bondedring/assets/models/miami-art.tgs"
+      }
+    },
+    {
+      "name": "Spectrum",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/spectrum.svg",
+        "tgs": "gifts/bondedring/assets/models/spectrum.tgs"
+      }
+    },
+    {
+      "name": "Yin Yang",
+      "assets": {
+        "svg": "gifts/bondedring/assets/models/yin-yang.svg",
+        "tgs": "gifts/bondedring/assets/models/yin-yang.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Turban",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/turban.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Arcane Mirror",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/arcane-mirror.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Gua Pi Mao",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/gua-pi-mao.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Earflap Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/earflap-hat.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Neptune",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/neptune.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "High Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/high-hat.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Winter Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/winter-hat.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Conical Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/conical-hat.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Bobble Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bobble-hat.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Keffiyeh",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/keffiyeh.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Elf Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/elf-hat.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Paw Print",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/paw-print.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Royal Turban",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/royal-turban.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Pirate Hat",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/pirate-hat.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Ancient Urn",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/ancient-urn.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/bondedring/assets/patterns/greek-sun.png"
+      }
+    }
+  ]
+}

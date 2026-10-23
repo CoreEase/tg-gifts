@@ -1,0 +1,2279 @@
+{
+  "slug": "minioscar",
+  "models": [
+    {
+      "name": "Boulevard",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/boulevard.svg",
+        "tgs": "gifts/minioscar/assets/models/boulevard.tgs"
+      }
+    },
+    {
+      "name": "Producer",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/producer.svg",
+        "tgs": "gifts/minioscar/assets/models/producer.tgs"
+      }
+    },
+    {
+      "name": "Solid Bronze",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/solid-bronze.svg",
+        "tgs": "gifts/minioscar/assets/models/solid-bronze.tgs"
+      }
+    },
+    {
+      "name": "Fiery-Hot",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/fiery-hot.svg",
+        "tgs": "gifts/minioscar/assets/models/fiery-hot.tgs"
+      }
+    },
+    {
+      "name": "Nightmare",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/nightmare.svg",
+        "tgs": "gifts/minioscar/assets/models/nightmare.tgs"
+      }
+    },
+    {
+      "name": "Nebula",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/nebula.svg",
+        "tgs": "gifts/minioscar/assets/models/nebula.tgs"
+      }
+    },
+    {
+      "name": "Silver Zebra",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/silver-zebra.svg",
+        "tgs": "gifts/minioscar/assets/models/silver-zebra.tgs"
+      }
+    },
+    {
+      "name": "Sunset Idol",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/sunset-idol.svg",
+        "tgs": "gifts/minioscar/assets/models/sunset-idol.tgs"
+      }
+    },
+    {
+      "name": "Red Carpet",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/red-carpet.svg",
+        "tgs": "gifts/minioscar/assets/models/red-carpet.tgs"
+      }
+    },
+    {
+      "name": "Makeup",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/makeup.svg",
+        "tgs": "gifts/minioscar/assets/models/makeup.tgs"
+      }
+    },
+    {
+      "name": "Grape Cola",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/grape-cola.svg",
+        "tgs": "gifts/minioscar/assets/models/grape-cola.tgs"
+      }
+    },
+    {
+      "name": "Trailer",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/trailer.svg",
+        "tgs": "gifts/minioscar/assets/models/trailer.tgs"
+      }
+    },
+    {
+      "name": "Golden Sky",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/golden-sky.svg",
+        "tgs": "gifts/minioscar/assets/models/golden-sky.tgs"
+      }
+    },
+    {
+      "name": "Violet",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/violet.svg",
+        "tgs": "gifts/minioscar/assets/models/violet.tgs"
+      }
+    },
+    {
+      "name": "Patina",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/patina.svg",
+        "tgs": "gifts/minioscar/assets/models/patina.tgs"
+      }
+    },
+    {
+      "name": "Cold Feet",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/cold-feet.svg",
+        "tgs": "gifts/minioscar/assets/models/cold-feet.tgs"
+      }
+    },
+    {
+      "name": "Hot Shots",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/hot-shots.svg",
+        "tgs": "gifts/minioscar/assets/models/hot-shots.tgs"
+      }
+    },
+    {
+      "name": "Fading Flare",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/fading-flare.svg",
+        "tgs": "gifts/minioscar/assets/models/fading-flare.tgs"
+      }
+    },
+    {
+      "name": "Zesty",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/zesty.svg",
+        "tgs": "gifts/minioscar/assets/models/zesty.tgs"
+      }
+    },
+    {
+      "name": "Nominee",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/nominee.svg",
+        "tgs": "gifts/minioscar/assets/models/nominee.tgs"
+      }
+    },
+    {
+      "name": "Silver Screen",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/silver-screen.svg",
+        "tgs": "gifts/minioscar/assets/models/silver-screen.tgs"
+      }
+    },
+    {
+      "name": "Blue Lagoon",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/blue-lagoon.svg",
+        "tgs": "gifts/minioscar/assets/models/blue-lagoon.tgs"
+      }
+    },
+    {
+      "name": "Emerald",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/emerald.svg",
+        "tgs": "gifts/minioscar/assets/models/emerald.tgs"
+      }
+    },
+    {
+      "name": "Regent",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/regent.svg",
+        "tgs": "gifts/minioscar/assets/models/regent.tgs"
+      }
+    },
+    {
+      "name": "Grenadine",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/grenadine.svg",
+        "tgs": "gifts/minioscar/assets/models/grenadine.tgs"
+      }
+    },
+    {
+      "name": "Radioactive",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/radioactive.svg",
+        "tgs": "gifts/minioscar/assets/models/radioactive.tgs"
+      }
+    },
+    {
+      "name": "Blue Sky",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/blue-sky.svg",
+        "tgs": "gifts/minioscar/assets/models/blue-sky.tgs"
+      }
+    },
+    {
+      "name": "Jokester",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/jokester.svg",
+        "tgs": "gifts/minioscar/assets/models/jokester.tgs"
+      }
+    },
+    {
+      "name": "Sour Gummy",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/sour-gummy.svg",
+        "tgs": "gifts/minioscar/assets/models/sour-gummy.tgs"
+      }
+    },
+    {
+      "name": "Starlight",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/starlight.svg",
+        "tgs": "gifts/minioscar/assets/models/starlight.tgs"
+      }
+    },
+    {
+      "name": "Prestige",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/prestige.svg",
+        "tgs": "gifts/minioscar/assets/models/prestige.tgs"
+      }
+    },
+    {
+      "name": "Giraffe",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/giraffe.svg",
+        "tgs": "gifts/minioscar/assets/models/giraffe.tgs"
+      }
+    },
+    {
+      "name": "Hobgoblin",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/hobgoblin.svg",
+        "tgs": "gifts/minioscar/assets/models/hobgoblin.tgs"
+      }
+    },
+    {
+      "name": "Spirulina",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/spirulina.svg",
+        "tgs": "gifts/minioscar/assets/models/spirulina.tgs"
+      }
+    },
+    {
+      "name": "Red Dream",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/red-dream.svg",
+        "tgs": "gifts/minioscar/assets/models/red-dream.tgs"
+      }
+    },
+    {
+      "name": "Cobalt",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/cobalt.svg",
+        "tgs": "gifts/minioscar/assets/models/cobalt.tgs"
+      }
+    },
+    {
+      "name": "Premiere",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/premiere.svg",
+        "tgs": "gifts/minioscar/assets/models/premiere.tgs"
+      }
+    },
+    {
+      "name": "Obsidian",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/obsidian.svg",
+        "tgs": "gifts/minioscar/assets/models/obsidian.tgs"
+      }
+    },
+    {
+      "name": "Woody Allen",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/woody-allen.svg",
+        "tgs": "gifts/minioscar/assets/models/woody-allen.tgs"
+      }
+    },
+    {
+      "name": "Leopard",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/leopard.svg",
+        "tgs": "gifts/minioscar/assets/models/leopard.tgs"
+      }
+    },
+    {
+      "name": "Neon Police",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/neon-police.svg",
+        "tgs": "gifts/minioscar/assets/models/neon-police.tgs"
+      }
+    },
+    {
+      "name": "Molten Gold",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/molten-gold.svg",
+        "tgs": "gifts/minioscar/assets/models/molten-gold.tgs"
+      }
+    },
+    {
+      "name": "Mango Tango",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/mango-tango.svg",
+        "tgs": "gifts/minioscar/assets/models/mango-tango.tgs"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/banana.svg",
+        "tgs": "gifts/minioscar/assets/models/banana.tgs"
+      }
+    },
+    {
+      "name": "Pumpkin",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/pumpkin.svg",
+        "tgs": "gifts/minioscar/assets/models/pumpkin.tgs"
+      }
+    },
+    {
+      "name": "Finest Fish",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/finest-fish.svg",
+        "tgs": "gifts/minioscar/assets/models/finest-fish.tgs"
+      }
+    },
+    {
+      "name": "Amanita",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/amanita.svg",
+        "tgs": "gifts/minioscar/assets/models/amanita.tgs"
+      }
+    },
+    {
+      "name": "Ballerino",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/ballerino.svg",
+        "tgs": "gifts/minioscar/assets/models/ballerino.tgs"
+      }
+    },
+    {
+      "name": "Martian",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/martian.svg",
+        "tgs": "gifts/minioscar/assets/models/martian.tgs"
+      }
+    },
+    {
+      "name": "Gas Mask",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/gas-mask.svg",
+        "tgs": "gifts/minioscar/assets/models/gas-mask.tgs"
+      }
+    },
+    {
+      "name": "Khajiit",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/khajiit.svg",
+        "tgs": "gifts/minioscar/assets/models/khajiit.tgs"
+      }
+    },
+    {
+      "name": "Brain Slug",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/brain-slug.svg",
+        "tgs": "gifts/minioscar/assets/models/brain-slug.tgs"
+      }
+    },
+    {
+      "name": "Catwoman",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/catwoman.svg",
+        "tgs": "gifts/minioscar/assets/models/catwoman.tgs"
+      }
+    },
+    {
+      "name": "Android",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/android.svg",
+        "tgs": "gifts/minioscar/assets/models/android.tgs"
+      }
+    },
+    {
+      "name": "Rear End",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/rear-end.svg",
+        "tgs": "gifts/minioscar/assets/models/rear-end.tgs"
+      }
+    },
+    {
+      "name": "Skeleton",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/skeleton.svg",
+        "tgs": "gifts/minioscar/assets/models/skeleton.tgs"
+      }
+    },
+    {
+      "name": "Mars Attacks",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/mars-attacks.svg",
+        "tgs": "gifts/minioscar/assets/models/mars-attacks.tgs"
+      }
+    },
+    {
+      "name": "Stuntman",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/stuntman.svg",
+        "tgs": "gifts/minioscar/assets/models/stuntman.tgs"
+      }
+    },
+    {
+      "name": "Moai Figure",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/moai-figure.svg",
+        "tgs": "gifts/minioscar/assets/models/moai-figure.tgs"
+      }
+    },
+    {
+      "name": "Eye Candy",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/eye-candy.svg",
+        "tgs": "gifts/minioscar/assets/models/eye-candy.tgs"
+      }
+    },
+    {
+      "name": "Blockbuster",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/blockbuster.svg",
+        "tgs": "gifts/minioscar/assets/models/blockbuster.tgs"
+      }
+    },
+    {
+      "name": "Flexible",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/flexible.svg",
+        "tgs": "gifts/minioscar/assets/models/flexible.tgs"
+      }
+    },
+    {
+      "name": "Golfer",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/golfer.svg",
+        "tgs": "gifts/minioscar/assets/models/golfer.tgs"
+      }
+    },
+    {
+      "name": "Robocop",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/robocop.svg",
+        "tgs": "gifts/minioscar/assets/models/robocop.tgs"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/crusader.svg",
+        "tgs": "gifts/minioscar/assets/models/crusader.tgs"
+      }
+    },
+    {
+      "name": "Undead",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/undead.svg",
+        "tgs": "gifts/minioscar/assets/models/undead.tgs"
+      }
+    },
+    {
+      "name": "Poseidon",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/poseidon.svg",
+        "tgs": "gifts/minioscar/assets/models/poseidon.tgs"
+      }
+    },
+    {
+      "name": "Dark Knight",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/dark-knight.svg",
+        "tgs": "gifts/minioscar/assets/models/dark-knight.tgs"
+      }
+    },
+    {
+      "name": "Pigeon",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/pigeon.svg",
+        "tgs": "gifts/minioscar/assets/models/pigeon.tgs"
+      }
+    },
+    {
+      "name": "Mummy",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/mummy.svg",
+        "tgs": "gifts/minioscar/assets/models/mummy.tgs"
+      }
+    },
+    {
+      "name": "Aztec God",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/aztec-god.svg",
+        "tgs": "gifts/minioscar/assets/models/aztec-god.tgs"
+      }
+    },
+    {
+      "name": "Caveman",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/caveman.svg",
+        "tgs": "gifts/minioscar/assets/models/caveman.tgs"
+      }
+    },
+    {
+      "name": "Dark Side",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/dark-side.svg",
+        "tgs": "gifts/minioscar/assets/models/dark-side.tgs"
+      }
+    },
+    {
+      "name": "Pink Guard",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/pink-guard.svg",
+        "tgs": "gifts/minioscar/assets/models/pink-guard.tgs"
+      }
+    },
+    {
+      "name": "Speaker",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/speaker.svg",
+        "tgs": "gifts/minioscar/assets/models/speaker.tgs"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/viking.svg",
+        "tgs": "gifts/minioscar/assets/models/viking.tgs"
+      }
+    },
+    {
+      "name": "Static",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/static.svg",
+        "tgs": "gifts/minioscar/assets/models/static.tgs"
+      }
+    },
+    {
+      "name": "Chieftain",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/chieftain.svg",
+        "tgs": "gifts/minioscar/assets/models/chieftain.tgs"
+      }
+    },
+    {
+      "name": "Santa Claus",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/santa-claus.svg",
+        "tgs": "gifts/minioscar/assets/models/santa-claus.tgs"
+      }
+    },
+    {
+      "name": "Pharaoh",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/pharaoh.svg",
+        "tgs": "gifts/minioscar/assets/models/pharaoh.tgs"
+      }
+    },
+    {
+      "name": "Best Comedy",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/best-comedy.svg",
+        "tgs": "gifts/minioscar/assets/models/best-comedy.tgs"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/legionary.svg",
+        "tgs": "gifts/minioscar/assets/models/legionary.tgs"
+      }
+    },
+    {
+      "name": "Sprunki",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/sprunki.svg",
+        "tgs": "gifts/minioscar/assets/models/sprunki.tgs"
+      }
+    },
+    {
+      "name": "Seraphim",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/seraphim.svg",
+        "tgs": "gifts/minioscar/assets/models/seraphim.tgs"
+      }
+    },
+    {
+      "name": "Scream",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/scream.svg",
+        "tgs": "gifts/minioscar/assets/models/scream.tgs"
+      }
+    },
+    {
+      "name": "Cyclopes",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/cyclopes.svg",
+        "tgs": "gifts/minioscar/assets/models/cyclopes.tgs"
+      }
+    },
+    {
+      "name": "Welder",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/welder.svg",
+        "tgs": "gifts/minioscar/assets/models/welder.tgs"
+      }
+    },
+    {
+      "name": "Spidey",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/spidey.svg",
+        "tgs": "gifts/minioscar/assets/models/spidey.tgs"
+      }
+    },
+    {
+      "name": "Pirate",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/pirate.svg",
+        "tgs": "gifts/minioscar/assets/models/pirate.tgs"
+      }
+    },
+    {
+      "name": "Brainiac",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/brainiac.svg",
+        "tgs": "gifts/minioscar/assets/models/brainiac.tgs"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/astronaut.svg",
+        "tgs": "gifts/minioscar/assets/models/astronaut.tgs"
+      }
+    },
+    {
+      "name": "Main Villain",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/main-villain.svg",
+        "tgs": "gifts/minioscar/assets/models/main-villain.tgs"
+      }
+    },
+    {
+      "name": "The Deep",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/the-deep.svg",
+        "tgs": "gifts/minioscar/assets/models/the-deep.tgs"
+      }
+    },
+    {
+      "name": "Dracula",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/dracula.svg",
+        "tgs": "gifts/minioscar/assets/models/dracula.tgs"
+      }
+    },
+    {
+      "name": "Tribal Idol",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/tribal-idol.svg",
+        "tgs": "gifts/minioscar/assets/models/tribal-idol.tgs"
+      }
+    },
+    {
+      "name": "Deep Freeze",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/deep-freeze.svg",
+        "tgs": "gifts/minioscar/assets/models/deep-freeze.tgs"
+      }
+    },
+    {
+      "name": "Action Film",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/action-film.svg",
+        "tgs": "gifts/minioscar/assets/models/action-film.tgs"
+      }
+    },
+    {
+      "name": "Laser Scan",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/laser-scan.svg",
+        "tgs": "gifts/minioscar/assets/models/laser-scan.tgs"
+      }
+    },
+    {
+      "name": "Electric",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/electric.svg",
+        "tgs": "gifts/minioscar/assets/models/electric.tgs"
+      }
+    },
+    {
+      "name": "Christmas",
+      "assets": {
+        "svg": "gifts/minioscar/assets/models/christmas.svg",
+        "tgs": "gifts/minioscar/assets/models/christmas.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/banana.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Wepwawet",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/wepwawet.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/minioscar/assets/patterns/calm-wolf.png"
+      }
+    }
+  ]
+}

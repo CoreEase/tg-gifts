@@ -1,0 +1,1929 @@
+{
+  "slug": "gemsignet",
+  "models": [
+    {
+      "name": "Molten Core",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/molten-core.svg",
+        "tgs": "gifts/gemsignet/assets/models/molten-core.tgs"
+      }
+    },
+    {
+      "name": "Spinny Boi",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/spinny-boi.svg",
+        "tgs": "gifts/gemsignet/assets/models/spinny-boi.tgs"
+      }
+    },
+    {
+      "name": "Atomic Bomb",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/atomic-bomb.svg",
+        "tgs": "gifts/gemsignet/assets/models/atomic-bomb.tgs"
+      }
+    },
+    {
+      "name": "Bubble Queen",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/bubble-queen.svg",
+        "tgs": "gifts/gemsignet/assets/models/bubble-queen.tgs"
+      }
+    },
+    {
+      "name": "Cold Flame",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/cold-flame.svg",
+        "tgs": "gifts/gemsignet/assets/models/cold-flame.tgs"
+      }
+    },
+    {
+      "name": "Eternal Life",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/eternal-life.svg",
+        "tgs": "gifts/gemsignet/assets/models/eternal-life.tgs"
+      }
+    },
+    {
+      "name": "Fire Stone",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/fire-stone.svg",
+        "tgs": "gifts/gemsignet/assets/models/fire-stone.tgs"
+      }
+    },
+    {
+      "name": "Love Seal",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/love-seal.svg",
+        "tgs": "gifts/gemsignet/assets/models/love-seal.tgs"
+      }
+    },
+    {
+      "name": "Night King",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/night-king.svg",
+        "tgs": "gifts/gemsignet/assets/models/night-king.tgs"
+      }
+    },
+    {
+      "name": "8 Bit Diamond",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/8-bit-diamond.svg",
+        "tgs": "gifts/gemsignet/assets/models/8-bit-diamond.tgs"
+      }
+    },
+    {
+      "name": "Dragon Soul",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/dragon-soul.svg",
+        "tgs": "gifts/gemsignet/assets/models/dragon-soul.tgs"
+      }
+    },
+    {
+      "name": "Paper Topaz",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/paper-topaz.svg",
+        "tgs": "gifts/gemsignet/assets/models/paper-topaz.tgs"
+      }
+    },
+    {
+      "name": "Pixel Emerald",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/pixel-emerald.svg",
+        "tgs": "gifts/gemsignet/assets/models/pixel-emerald.tgs"
+      }
+    },
+    {
+      "name": "Sunstone",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/sunstone.svg",
+        "tgs": "gifts/gemsignet/assets/models/sunstone.tgs"
+      }
+    },
+    {
+      "name": "Water Lily",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/water-lily.svg",
+        "tgs": "gifts/gemsignet/assets/models/water-lily.tgs"
+      }
+    },
+    {
+      "name": "Arabica",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/arabica.svg",
+        "tgs": "gifts/gemsignet/assets/models/arabica.tgs"
+      }
+    },
+    {
+      "name": "El Dorado",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/el-dorado.svg",
+        "tgs": "gifts/gemsignet/assets/models/el-dorado.tgs"
+      }
+    },
+    {
+      "name": "Event Horizon",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/event-horizon.svg",
+        "tgs": "gifts/gemsignet/assets/models/event-horizon.tgs"
+      }
+    },
+    {
+      "name": "Hot Cherry",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/hot-cherry.svg",
+        "tgs": "gifts/gemsignet/assets/models/hot-cherry.tgs"
+      }
+    },
+    {
+      "name": "Pearl Eye",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/pearl-eye.svg",
+        "tgs": "gifts/gemsignet/assets/models/pearl-eye.tgs"
+      }
+    },
+    {
+      "name": "Timekeeper",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/timekeeper.svg",
+        "tgs": "gifts/gemsignet/assets/models/timekeeper.tgs"
+      }
+    },
+    {
+      "name": "Arc Reactor",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/arc-reactor.svg",
+        "tgs": "gifts/gemsignet/assets/models/arc-reactor.tgs"
+      }
+    },
+    {
+      "name": "Black Lotus",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/black-lotus.svg",
+        "tgs": "gifts/gemsignet/assets/models/black-lotus.tgs"
+      }
+    },
+    {
+      "name": "Blood Opal",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/blood-opal.svg",
+        "tgs": "gifts/gemsignet/assets/models/blood-opal.tgs"
+      }
+    },
+    {
+      "name": "Death Star",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/death-star.svg",
+        "tgs": "gifts/gemsignet/assets/models/death-star.tgs"
+      }
+    },
+    {
+      "name": "Fading Crown",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/fading-crown.svg",
+        "tgs": "gifts/gemsignet/assets/models/fading-crown.tgs"
+      }
+    },
+    {
+      "name": "Feral Rage",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/feral-rage.svg",
+        "tgs": "gifts/gemsignet/assets/models/feral-rage.tgs"
+      }
+    },
+    {
+      "name": "Sentry Turret",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/sentry-turret.svg",
+        "tgs": "gifts/gemsignet/assets/models/sentry-turret.tgs"
+      }
+    },
+    {
+      "name": "Bloodstone",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/bloodstone.svg",
+        "tgs": "gifts/gemsignet/assets/models/bloodstone.tgs"
+      }
+    },
+    {
+      "name": "Jet Black",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/jet-black.svg",
+        "tgs": "gifts/gemsignet/assets/models/jet-black.tgs"
+      }
+    },
+    {
+      "name": "Neon Signet",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/neon-signet.svg",
+        "tgs": "gifts/gemsignet/assets/models/neon-signet.tgs"
+      }
+    },
+    {
+      "name": "Render",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/render.svg",
+        "tgs": "gifts/gemsignet/assets/models/render.tgs"
+      }
+    },
+    {
+      "name": "Brass Zircon",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/brass-zircon.svg",
+        "tgs": "gifts/gemsignet/assets/models/brass-zircon.tgs"
+      }
+    },
+    {
+      "name": "Old Bronze",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/old-bronze.svg",
+        "tgs": "gifts/gemsignet/assets/models/old-bronze.tgs"
+      }
+    },
+    {
+      "name": "Amethyst",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/amethyst.svg",
+        "tgs": "gifts/gemsignet/assets/models/amethyst.tgs"
+      }
+    },
+    {
+      "name": "Dark Violet",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/dark-violet.svg",
+        "tgs": "gifts/gemsignet/assets/models/dark-violet.tgs"
+      }
+    },
+    {
+      "name": "Elven Shade",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/elven-shade.svg",
+        "tgs": "gifts/gemsignet/assets/models/elven-shade.tgs"
+      }
+    },
+    {
+      "name": "Malachite",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/malachite.svg",
+        "tgs": "gifts/gemsignet/assets/models/malachite.tgs"
+      }
+    },
+    {
+      "name": "Malibu Pink",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/malibu-pink.svg",
+        "tgs": "gifts/gemsignet/assets/models/malibu-pink.tgs"
+      }
+    },
+    {
+      "name": "Moonstone",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/moonstone.svg",
+        "tgs": "gifts/gemsignet/assets/models/moonstone.tgs"
+      }
+    },
+    {
+      "name": "Nuclear Core",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/nuclear-core.svg",
+        "tgs": "gifts/gemsignet/assets/models/nuclear-core.tgs"
+      }
+    },
+    {
+      "name": "Ogre’s Kiss",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/ogre-s-kiss.svg",
+        "tgs": "gifts/gemsignet/assets/models/ogre-s-kiss.tgs"
+      }
+    },
+    {
+      "name": "Pink Quartz",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/pink-quartz.svg",
+        "tgs": "gifts/gemsignet/assets/models/pink-quartz.tgs"
+      }
+    },
+    {
+      "name": "Sapphire",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/sapphire.svg",
+        "tgs": "gifts/gemsignet/assets/models/sapphire.tgs"
+      }
+    },
+    {
+      "name": "Silver Gold",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/silver-gold.svg",
+        "tgs": "gifts/gemsignet/assets/models/silver-gold.tgs"
+      }
+    },
+    {
+      "name": "Snake Ruby",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/snake-ruby.svg",
+        "tgs": "gifts/gemsignet/assets/models/snake-ruby.tgs"
+      }
+    },
+    {
+      "name": "Tanzanite",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/tanzanite.svg",
+        "tgs": "gifts/gemsignet/assets/models/tanzanite.tgs"
+      }
+    },
+    {
+      "name": "Fleur de Mer",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/fleur-de-mer.svg",
+        "tgs": "gifts/gemsignet/assets/models/fleur-de-mer.tgs"
+      }
+    },
+    {
+      "name": "Green Beryl",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/green-beryl.svg",
+        "tgs": "gifts/gemsignet/assets/models/green-beryl.tgs"
+      }
+    },
+    {
+      "name": "Helios",
+      "assets": {
+        "svg": "gifts/gemsignet/assets/models/helios.svg",
+        "tgs": "gifts/gemsignet/assets/models/helios.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Royal Turban",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/royal-turban.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Beret",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/beret.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Bandana",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bandana.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Paschal Lamb",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/paschal-lamb.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "Sombrero",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sombrero.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Piranha",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/piranha.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Moai Head",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/moai-head.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Monarch",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/monarch.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Visor",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/visor.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Robin Hood",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/robin-hood.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Ushanka",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/ushanka.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Academic Cap",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/academic-cap.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pilot-hat.png"
+      }
+    },
+    {
+      "name": "Fedora",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/fedora.png"
+      }
+    },
+    {
+      "name": "Wontons",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/wontons.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Pirate Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pirate-hat.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/gemsignet/assets/patterns/love-lock.png"
+      }
+    }
+  ]
+}

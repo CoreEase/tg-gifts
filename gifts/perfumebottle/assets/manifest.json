@@ -1,0 +1,2085 @@
+{
+  "slug": "perfumebottle",
+  "models": [
+    {
+      "name": "Electric Aura",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/electric-aura.svg",
+        "tgs": "gifts/perfumebottle/assets/models/electric-aura.tgs"
+      }
+    },
+    {
+      "name": "Flame Kiss",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/flame-kiss.svg",
+        "tgs": "gifts/perfumebottle/assets/models/flame-kiss.tgs"
+      }
+    },
+    {
+      "name": "Blizzard",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/blizzard.svg",
+        "tgs": "gifts/perfumebottle/assets/models/blizzard.tgs"
+      }
+    },
+    {
+      "name": "Dynamight",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/dynamight.svg",
+        "tgs": "gifts/perfumebottle/assets/models/dynamight.tgs"
+      }
+    },
+    {
+      "name": "Crimson Veil",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/crimson-veil.svg",
+        "tgs": "gifts/perfumebottle/assets/models/crimson-veil.tgs"
+      }
+    },
+    {
+      "name": "Golden Elixir",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/golden-elixir.svg",
+        "tgs": "gifts/perfumebottle/assets/models/golden-elixir.tgs"
+      }
+    },
+    {
+      "name": "Misty Smoke",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/misty-smoke.svg",
+        "tgs": "gifts/perfumebottle/assets/models/misty-smoke.tgs"
+      }
+    },
+    {
+      "name": "Silver Essence",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/silver-essence.svg",
+        "tgs": "gifts/perfumebottle/assets/models/silver-essence.tgs"
+      }
+    },
+    {
+      "name": "Rosé Thorn",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/rose-thorn.svg",
+        "tgs": "gifts/perfumebottle/assets/models/rose-thorn.tgs"
+      }
+    },
+    {
+      "name": "Prism Bubble",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/prism-bubble.svg",
+        "tgs": "gifts/perfumebottle/assets/models/prism-bubble.tgs"
+      }
+    },
+    {
+      "name": "Dairy Dew",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/dairy-dew.svg",
+        "tgs": "gifts/perfumebottle/assets/models/dairy-dew.tgs"
+      }
+    },
+    {
+      "name": "Mono Delight",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/mono-delight.svg",
+        "tgs": "gifts/perfumebottle/assets/models/mono-delight.tgs"
+      }
+    },
+    {
+      "name": "LoveSpritz",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/lovespritz.svg",
+        "tgs": "gifts/perfumebottle/assets/models/lovespritz.tgs"
+      }
+    },
+    {
+      "name": "Venom Mist",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/venom-mist.svg",
+        "tgs": "gifts/perfumebottle/assets/models/venom-mist.tgs"
+      }
+    },
+    {
+      "name": "Aurora Joy",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/aurora-joy.svg",
+        "tgs": "gifts/perfumebottle/assets/models/aurora-joy.tgs"
+      }
+    },
+    {
+      "name": "Sketch Shade",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/sketch-shade.svg",
+        "tgs": "gifts/perfumebottle/assets/models/sketch-shade.tgs"
+      }
+    },
+    {
+      "name": "Dark Essence",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/dark-essence.svg",
+        "tgs": "gifts/perfumebottle/assets/models/dark-essence.tgs"
+      }
+    },
+    {
+      "name": "№19",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/no19.svg",
+        "tgs": "gifts/perfumebottle/assets/models/no19.tgs"
+      }
+    },
+    {
+      "name": "Eau De Parfum",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/eau-de-parfum.svg",
+        "tgs": "gifts/perfumebottle/assets/models/eau-de-parfum.tgs"
+      }
+    },
+    {
+      "name": "Noir",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/noir.svg",
+        "tgs": "gifts/perfumebottle/assets/models/noir.tgs"
+      }
+    },
+    {
+      "name": "Madmoiselle",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/madmoiselle.svg",
+        "tgs": "gifts/perfumebottle/assets/models/madmoiselle.tgs"
+      }
+    },
+    {
+      "name": "№5 L’eau",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/no5-l-eau.svg",
+        "tgs": "gifts/perfumebottle/assets/models/no5-l-eau.tgs"
+      }
+    },
+    {
+      "name": "Ruby Steel",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/ruby-steel.svg",
+        "tgs": "gifts/perfumebottle/assets/models/ruby-steel.tgs"
+      }
+    },
+    {
+      "name": "Ebony Rose",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/ebony-rose.svg",
+        "tgs": "gifts/perfumebottle/assets/models/ebony-rose.tgs"
+      }
+    },
+    {
+      "name": "Golden Alloy",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/golden-alloy.svg",
+        "tgs": "gifts/perfumebottle/assets/models/golden-alloy.tgs"
+      }
+    },
+    {
+      "name": "Sunny Doodle",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/sunny-doodle.svg",
+        "tgs": "gifts/perfumebottle/assets/models/sunny-doodle.tgs"
+      }
+    },
+    {
+      "name": "Luminous",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/luminous.svg",
+        "tgs": "gifts/perfumebottle/assets/models/luminous.tgs"
+      }
+    },
+    {
+      "name": "Violet Veil",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/violet-veil.svg",
+        "tgs": "gifts/perfumebottle/assets/models/violet-veil.tgs"
+      }
+    },
+    {
+      "name": "Jade Script",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/jade-script.svg",
+        "tgs": "gifts/perfumebottle/assets/models/jade-script.tgs"
+      }
+    },
+    {
+      "name": "Jade Steel",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/jade-steel.svg",
+        "tgs": "gifts/perfumebottle/assets/models/jade-steel.tgs"
+      }
+    },
+    {
+      "name": "Cobalt Alloy",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/cobalt-alloy.svg",
+        "tgs": "gifts/perfumebottle/assets/models/cobalt-alloy.tgs"
+      }
+    },
+    {
+      "name": "Inkspire Red",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/inkspire-red.svg",
+        "tgs": "gifts/perfumebottle/assets/models/inkspire-red.tgs"
+      }
+    },
+    {
+      "name": "Grape Juice",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/grape-juice.svg",
+        "tgs": "gifts/perfumebottle/assets/models/grape-juice.tgs"
+      }
+    },
+    {
+      "name": "Cartoon Sky",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/cartoon-sky.svg",
+        "tgs": "gifts/perfumebottle/assets/models/cartoon-sky.tgs"
+      }
+    },
+    {
+      "name": "Blush Petal",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/blush-petal.svg",
+        "tgs": "gifts/perfumebottle/assets/models/blush-petal.tgs"
+      }
+    },
+    {
+      "name": "Scarlet Kiss",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/scarlet-kiss.svg",
+        "tgs": "gifts/perfumebottle/assets/models/scarlet-kiss.tgs"
+      }
+    },
+    {
+      "name": "Plum Cloud",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/plum-cloud.svg",
+        "tgs": "gifts/perfumebottle/assets/models/plum-cloud.tgs"
+      }
+    },
+    {
+      "name": "Twilight Bliss",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/twilight-bliss.svg",
+        "tgs": "gifts/perfumebottle/assets/models/twilight-bliss.tgs"
+      }
+    },
+    {
+      "name": "Glow Verde",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/glow-verde.svg",
+        "tgs": "gifts/perfumebottle/assets/models/glow-verde.tgs"
+      }
+    },
+    {
+      "name": "Serene Mist",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/serene-mist.svg",
+        "tgs": "gifts/perfumebottle/assets/models/serene-mist.tgs"
+      }
+    },
+    {
+      "name": "Candy Luxe",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/candy-luxe.svg",
+        "tgs": "gifts/perfumebottle/assets/models/candy-luxe.tgs"
+      }
+    },
+    {
+      "name": "Orchard Glow",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/orchard-glow.svg",
+        "tgs": "gifts/perfumebottle/assets/models/orchard-glow.tgs"
+      }
+    },
+    {
+      "name": "Solar Eclipse",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/solar-eclipse.svg",
+        "tgs": "gifts/perfumebottle/assets/models/solar-eclipse.tgs"
+      }
+    },
+    {
+      "name": "Crimson Sky",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/crimson-sky.svg",
+        "tgs": "gifts/perfumebottle/assets/models/crimson-sky.tgs"
+      }
+    },
+    {
+      "name": "Grape Splash",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/grape-splash.svg",
+        "tgs": "gifts/perfumebottle/assets/models/grape-splash.tgs"
+      }
+    },
+    {
+      "name": "Azure Plum",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/azure-plum.svg",
+        "tgs": "gifts/perfumebottle/assets/models/azure-plum.tgs"
+      }
+    },
+    {
+      "name": "Millet Fields",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/millet-fields.svg",
+        "tgs": "gifts/perfumebottle/assets/models/millet-fields.tgs"
+      }
+    },
+    {
+      "name": "Pure Essence",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/pure-essence.svg",
+        "tgs": "gifts/perfumebottle/assets/models/pure-essence.tgs"
+      }
+    },
+    {
+      "name": "Cotton Candy",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/cotton-candy.svg",
+        "tgs": "gifts/perfumebottle/assets/models/cotton-candy.tgs"
+      }
+    },
+    {
+      "name": "Juicy Bliss",
+      "assets": {
+        "svg": "gifts/perfumebottle/assets/models/juicy-bliss.svg",
+        "tgs": "gifts/perfumebottle/assets/models/juicy-bliss.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Broken Heart",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/broken-heart.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Heartbeat",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/heartbeat.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Kitty Cat",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/kitty-cat.png"
+      }
+    },
+    {
+      "name": "Lovebirds",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lovebirds.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Romantic Cake",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/romantic-cake.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Shiny Heart",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/shiny-heart.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Fluffy Wolf",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/fluffy-wolf.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Cupid",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cupid.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Lips",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lips.png"
+      }
+    },
+    {
+      "name": "Stilettos",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/stilettos.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Lovely Rose",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lovely-rose.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Padlock",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/padlock.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Butterfly",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/butterfly.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Cupid’s Arrow",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cupid-s-arrow.png"
+      }
+    },
+    {
+      "name": "Double Bed",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/double-bed.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Patched Heart",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/patched-heart.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Napkins",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/napkins.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Cute Bear",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cute-bear.png"
+      }
+    },
+    {
+      "name": "Rabbit",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/rabbit.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Lingerie",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lingerie.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Lovely Key",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lovely-key.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Lovely Bra",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lovely-bra.png"
+      }
+    },
+    {
+      "name": "Aubergine",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/aubergine.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Flying Heart",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/flying-heart.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Water Drops",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/water-drops.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Amour Scoops",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/amour-scoops.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Sweets Box",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sweets-box.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Flirty Message",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/flirty-message.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Heart Balloon",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/heart-balloon.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Loveberry",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/loveberry.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Chocolate",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/chocolate.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Cunning Fox",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cunning-fox.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Love Dove",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/love-dove.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Passion Latte",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/passion-latte.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Loving Heart",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/loving-heart.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Heart Shades",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/heart-shades.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Blossom",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/blossom.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Lovely Rain",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/lovely-rain.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/perfumebottle/assets/patterns/thief.png"
+      }
+    }
+  ]
+}

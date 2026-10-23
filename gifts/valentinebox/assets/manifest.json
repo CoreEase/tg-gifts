@@ -1,0 +1,1407 @@
+{
+  "slug": "valentinebox",
+  "models": [
+    {
+      "name": "Hitman",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/hitman.svg",
+        "tgs": "gifts/valentinebox/assets/models/hitman.tgs"
+      }
+    },
+    {
+      "name": "Minnie",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/minnie.svg",
+        "tgs": "gifts/valentinebox/assets/models/minnie.tgs"
+      }
+    },
+    {
+      "name": "Toncoin",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/toncoin.svg",
+        "tgs": "gifts/valentinebox/assets/models/toncoin.tgs"
+      }
+    },
+    {
+      "name": "Chess Set",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/chess-set.svg",
+        "tgs": "gifts/valentinebox/assets/models/chess-set.tgs"
+      }
+    },
+    {
+      "name": "Clockwork",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/clockwork.svg",
+        "tgs": "gifts/valentinebox/assets/models/clockwork.tgs"
+      }
+    },
+    {
+      "name": "Froggie",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/froggie.svg",
+        "tgs": "gifts/valentinebox/assets/models/froggie.tgs"
+      }
+    },
+    {
+      "name": "Golden Bear",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/golden-bear.svg",
+        "tgs": "gifts/valentinebox/assets/models/golden-bear.tgs"
+      }
+    },
+    {
+      "name": "Inbox",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/inbox.svg",
+        "tgs": "gifts/valentinebox/assets/models/inbox.tgs"
+      }
+    },
+    {
+      "name": "Kitten",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/kitten.svg",
+        "tgs": "gifts/valentinebox/assets/models/kitten.tgs"
+      }
+    },
+    {
+      "name": "Molten Core",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/molten-core.svg",
+        "tgs": "gifts/valentinebox/assets/models/molten-core.tgs"
+      }
+    },
+    {
+      "name": "Pizza",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/pizza.svg",
+        "tgs": "gifts/valentinebox/assets/models/pizza.tgs"
+      }
+    },
+    {
+      "name": "Resistance",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/resistance.svg",
+        "tgs": "gifts/valentinebox/assets/models/resistance.tgs"
+      }
+    },
+    {
+      "name": "Traveler",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/traveler.svg",
+        "tgs": "gifts/valentinebox/assets/models/traveler.tgs"
+      }
+    },
+    {
+      "name": "Vampire",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/vampire.svg",
+        "tgs": "gifts/valentinebox/assets/models/vampire.tgs"
+      }
+    },
+    {
+      "name": "Fuse Box",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/fuse-box.svg",
+        "tgs": "gifts/valentinebox/assets/models/fuse-box.tgs"
+      }
+    },
+    {
+      "name": "Gothic",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/gothic.svg",
+        "tgs": "gifts/valentinebox/assets/models/gothic.tgs"
+      }
+    },
+    {
+      "name": "Nikola Tesla",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/nikola-tesla.svg",
+        "tgs": "gifts/valentinebox/assets/models/nikola-tesla.tgs"
+      }
+    },
+    {
+      "name": "Snow Queen",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/snow-queen.svg",
+        "tgs": "gifts/valentinebox/assets/models/snow-queen.tgs"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/cherry.svg",
+        "tgs": "gifts/valentinebox/assets/models/cherry.tgs"
+      }
+    },
+    {
+      "name": "Crime Scene",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/crime-scene.svg",
+        "tgs": "gifts/valentinebox/assets/models/crime-scene.tgs"
+      }
+    },
+    {
+      "name": "First Aid",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/first-aid.svg",
+        "tgs": "gifts/valentinebox/assets/models/first-aid.tgs"
+      }
+    },
+    {
+      "name": "Flash Tattoo",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/flash-tattoo.svg",
+        "tgs": "gifts/valentinebox/assets/models/flash-tattoo.tgs"
+      }
+    },
+    {
+      "name": "Hollywood",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/hollywood.svg",
+        "tgs": "gifts/valentinebox/assets/models/hollywood.tgs"
+      }
+    },
+    {
+      "name": "Infinity",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/infinity.svg",
+        "tgs": "gifts/valentinebox/assets/models/infinity.tgs"
+      }
+    },
+    {
+      "name": "Knitting Kit",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/knitting-kit.svg",
+        "tgs": "gifts/valentinebox/assets/models/knitting-kit.tgs"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/sakura.svg",
+        "tgs": "gifts/valentinebox/assets/models/sakura.tgs"
+      }
+    },
+    {
+      "name": "Tiffany",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/tiffany.svg",
+        "tgs": "gifts/valentinebox/assets/models/tiffany.tgs"
+      }
+    },
+    {
+      "name": "Art Deco",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/art-deco.svg",
+        "tgs": "gifts/valentinebox/assets/models/art-deco.tgs"
+      }
+    },
+    {
+      "name": "Clear Case",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/clear-case.svg",
+        "tgs": "gifts/valentinebox/assets/models/clear-case.tgs"
+      }
+    },
+    {
+      "name": "Moonlight",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/moonlight.svg",
+        "tgs": "gifts/valentinebox/assets/models/moonlight.tgs"
+      }
+    },
+    {
+      "name": "Polka Dots",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/polka-dots.svg",
+        "tgs": "gifts/valentinebox/assets/models/polka-dots.tgs"
+      }
+    },
+    {
+      "name": "Summer",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/summer.svg",
+        "tgs": "gifts/valentinebox/assets/models/summer.tgs"
+      }
+    },
+    {
+      "name": "Tartan",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/tartan.svg",
+        "tgs": "gifts/valentinebox/assets/models/tartan.tgs"
+      }
+    },
+    {
+      "name": "Top Brass",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/top-brass.svg",
+        "tgs": "gifts/valentinebox/assets/models/top-brass.tgs"
+      }
+    },
+    {
+      "name": "Vibrant",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/vibrant.svg",
+        "tgs": "gifts/valentinebox/assets/models/vibrant.tgs"
+      }
+    },
+    {
+      "name": "Blue Suede",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/blue-suede.svg",
+        "tgs": "gifts/valentinebox/assets/models/blue-suede.tgs"
+      }
+    },
+    {
+      "name": "Choco Mint",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/choco-mint.svg",
+        "tgs": "gifts/valentinebox/assets/models/choco-mint.tgs"
+      }
+    },
+    {
+      "name": "Christmas",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/christmas.svg",
+        "tgs": "gifts/valentinebox/assets/models/christmas.tgs"
+      }
+    },
+    {
+      "name": "Gold Dust",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/gold-dust.svg",
+        "tgs": "gifts/valentinebox/assets/models/gold-dust.tgs"
+      }
+    },
+    {
+      "name": "Green Apple",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/green-apple.svg",
+        "tgs": "gifts/valentinebox/assets/models/green-apple.tgs"
+      }
+    },
+    {
+      "name": "Lavender",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/lavender.svg",
+        "tgs": "gifts/valentinebox/assets/models/lavender.tgs"
+      }
+    },
+    {
+      "name": "Outline",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/outline.svg",
+        "tgs": "gifts/valentinebox/assets/models/outline.tgs"
+      }
+    },
+    {
+      "name": "Pop Art",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/pop-art.svg",
+        "tgs": "gifts/valentinebox/assets/models/pop-art.tgs"
+      }
+    },
+    {
+      "name": "Prestige",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/prestige.svg",
+        "tgs": "gifts/valentinebox/assets/models/prestige.tgs"
+      }
+    },
+    {
+      "name": "Red Velvet",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/red-velvet.svg",
+        "tgs": "gifts/valentinebox/assets/models/red-velvet.tgs"
+      }
+    },
+    {
+      "name": "Redshift",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/redshift.svg",
+        "tgs": "gifts/valentinebox/assets/models/redshift.tgs"
+      }
+    },
+    {
+      "name": "Silver Blue",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/silver-blue.svg",
+        "tgs": "gifts/valentinebox/assets/models/silver-blue.tgs"
+      }
+    },
+    {
+      "name": "Snow White",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/snow-white.svg",
+        "tgs": "gifts/valentinebox/assets/models/snow-white.tgs"
+      }
+    },
+    {
+      "name": "White Gold",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/white-gold.svg",
+        "tgs": "gifts/valentinebox/assets/models/white-gold.tgs"
+      }
+    },
+    {
+      "name": "Kiss Emoji",
+      "assets": {
+        "svg": "gifts/valentinebox/assets/models/kiss-emoji.svg",
+        "tgs": "gifts/valentinebox/assets/models/kiss-emoji.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Teddy Bear",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/teddy-bear.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Clematis",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/clematis.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Little Cupid",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/little-cupid.png"
+      }
+    },
+    {
+      "name": "Tulip Bloom",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/tulip-bloom.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Bouquet",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bouquet.png"
+      }
+    },
+    {
+      "name": "February 14",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/february-14.png"
+      }
+    },
+    {
+      "name": "Lovestruck",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/lovestruck.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/banana.png"
+      }
+    },
+    {
+      "name": "Plumeria",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/plumeria.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Lovely Bra",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/lovely-bra.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Butterfly",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/butterfly.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Loving Heart",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/loving-heart.png"
+      }
+    },
+    {
+      "name": "Tongue",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/tongue.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Cupid’s Arrow",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/cupid-s-arrow.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Love Potion",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/love-potion.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Romantic Cake",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/romantic-cake.png"
+      }
+    },
+    {
+      "name": "Hearts",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/hearts.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Daisy",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/daisy.png"
+      }
+    },
+    {
+      "name": "Arcane Mirror",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/arcane-mirror.png"
+      }
+    },
+    {
+      "name": "Patched Heart",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/patched-heart.png"
+      }
+    },
+    {
+      "name": "Cupid",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/cupid.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Gift",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/gift.png"
+      }
+    },
+    {
+      "name": "Ace Of Hearts",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/ace-of-hearts.png"
+      }
+    },
+    {
+      "name": "Bellflower",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bellflower.png"
+      }
+    },
+    {
+      "name": "Shiny Heart",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/shiny-heart.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Headband",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/headband.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Gentian",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/gentian.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Earflap Hat",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/earflap-hat.png"
+      }
+    },
+    {
+      "name": "Lovely Key",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/lovely-key.png"
+      }
+    },
+    {
+      "name": "Napkins",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/napkins.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Cupid Archer",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/cupid-archer.png"
+      }
+    },
+    {
+      "name": "Love Daisy",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/love-daisy.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Lavender",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/lavender.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Broken Heart",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/broken-heart.png"
+      }
+    },
+    {
+      "name": "Handcuffs",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/handcuffs.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Easter Bunny",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/easter-bunny.png"
+      }
+    },
+    {
+      "name": "Balloon",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/balloon.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Snowdrop",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/snowdrop.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Love Bell",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/love-bell.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Calendula",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/calendula.png"
+      }
+    },
+    {
+      "name": "Anthurium",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/anthurium.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Angel",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/angel.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Chrysanthe",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/chrysanthe.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Neko Mask",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/neko-mask.png"
+      }
+    },
+    {
+      "name": "Gua Pi Mao",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/gua-pi-mao.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Love Scene",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/love-scene.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Like Button",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/like-button.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Heart Ring",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/heart-ring.png"
+      }
+    },
+    {
+      "name": "Rabbit Mask",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/rabbit-mask.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Rose Bud",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/rose-bud.png"
+      }
+    },
+    {
+      "name": "Dandelion",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/dandelion.png"
+      }
+    },
+    {
+      "name": "Fuchsia",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/fuchsia.png"
+      }
+    },
+    {
+      "name": "Pussy Willow",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/pussy-willow.png"
+      }
+    },
+    {
+      "name": "Heart Box",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/heart-box.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Muffin",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/muffin.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Bougainvillea",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/bougainvillea.png"
+      }
+    },
+    {
+      "name": "Amour Scoops",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/amour-scoops.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Mining Helmet",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/mining-helmet.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/valentinebox/assets/patterns/hot-matcha.png"
+      }
+    }
+  ]
+}

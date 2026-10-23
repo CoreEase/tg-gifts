@@ -1,0 +1,2081 @@
+{
+  "slug": "lovepotion",
+  "models": [
+    {
+      "name": "Banana",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/banana.svg",
+        "tgs": "gifts/lovepotion/assets/models/banana.tgs"
+      }
+    },
+    {
+      "name": "Whole Milk",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/whole-milk.svg",
+        "tgs": "gifts/lovepotion/assets/models/whole-milk.tgs"
+      }
+    },
+    {
+      "name": "Star Power",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/star-power.svg",
+        "tgs": "gifts/lovepotion/assets/models/star-power.tgs"
+      }
+    },
+    {
+      "name": "Angel Wings",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/angel-wings.svg",
+        "tgs": "gifts/lovepotion/assets/models/angel-wings.tgs"
+      }
+    },
+    {
+      "name": "Ice Queen",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/ice-queen.svg",
+        "tgs": "gifts/lovepotion/assets/models/ice-queen.tgs"
+      }
+    },
+    {
+      "name": "Beholder",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/beholder.svg",
+        "tgs": "gifts/lovepotion/assets/models/beholder.tgs"
+      }
+    },
+    {
+      "name": "Emo Tears",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/emo-tears.svg",
+        "tgs": "gifts/lovepotion/assets/models/emo-tears.tgs"
+      }
+    },
+    {
+      "name": "Bloodlust",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/bloodlust.svg",
+        "tgs": "gifts/lovepotion/assets/models/bloodlust.tgs"
+      }
+    },
+    {
+      "name": "Energy Drink",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/energy-drink.svg",
+        "tgs": "gifts/lovepotion/assets/models/energy-drink.tgs"
+      }
+    },
+    {
+      "name": "Molten Gold",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/molten-gold.svg",
+        "tgs": "gifts/lovepotion/assets/models/molten-gold.tgs"
+      }
+    },
+    {
+      "name": "No Signal",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/no-signal.svg",
+        "tgs": "gifts/lovepotion/assets/models/no-signal.tgs"
+      }
+    },
+    {
+      "name": "Healing Potion",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/healing-potion.svg",
+        "tgs": "gifts/lovepotion/assets/models/healing-potion.tgs"
+      }
+    },
+    {
+      "name": "Jinx Tonic",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/jinx-tonic.svg",
+        "tgs": "gifts/lovepotion/assets/models/jinx-tonic.tgs"
+      }
+    },
+    {
+      "name": "Nurgle’s Rot",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/nurgle-s-rot.svg",
+        "tgs": "gifts/lovepotion/assets/models/nurgle-s-rot.tgs"
+      }
+    },
+    {
+      "name": "Dragon Soul",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/dragon-soul.svg",
+        "tgs": "gifts/lovepotion/assets/models/dragon-soul.tgs"
+      }
+    },
+    {
+      "name": "First Kiss",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/first-kiss.svg",
+        "tgs": "gifts/lovepotion/assets/models/first-kiss.tgs"
+      }
+    },
+    {
+      "name": "Lucky Charm",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/lucky-charm.svg",
+        "tgs": "gifts/lovepotion/assets/models/lucky-charm.tgs"
+      }
+    },
+    {
+      "name": "Pickle Rick",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/pickle-rick.svg",
+        "tgs": "gifts/lovepotion/assets/models/pickle-rick.tgs"
+      }
+    },
+    {
+      "name": "Unicorn Tears",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/unicorn-tears.svg",
+        "tgs": "gifts/lovepotion/assets/models/unicorn-tears.tgs"
+      }
+    },
+    {
+      "name": "Durov Duck",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/durov-duck.svg",
+        "tgs": "gifts/lovepotion/assets/models/durov-duck.tgs"
+      }
+    },
+    {
+      "name": "Astral Guide",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/astral-guide.svg",
+        "tgs": "gifts/lovepotion/assets/models/astral-guide.tgs"
+      }
+    },
+    {
+      "name": "Espresso",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/espresso.svg",
+        "tgs": "gifts/lovepotion/assets/models/espresso.tgs"
+      }
+    },
+    {
+      "name": "Eye-lixir",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/eye-lixir.svg",
+        "tgs": "gifts/lovepotion/assets/models/eye-lixir.tgs"
+      }
+    },
+    {
+      "name": "Bubble Gum",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/bubble-gum.svg",
+        "tgs": "gifts/lovepotion/assets/models/bubble-gum.tgs"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/spades.svg",
+        "tgs": "gifts/lovepotion/assets/models/spades.tgs"
+      }
+    },
+    {
+      "name": "Kiwi Juice",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/kiwi-juice.svg",
+        "tgs": "gifts/lovepotion/assets/models/kiwi-juice.tgs"
+      }
+    },
+    {
+      "name": "Gothic Cola",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/gothic-cola.svg",
+        "tgs": "gifts/lovepotion/assets/models/gothic-cola.tgs"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/clubs.svg",
+        "tgs": "gifts/lovepotion/assets/models/clubs.tgs"
+      }
+    },
+    {
+      "name": "Tropicano",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/tropicano.svg",
+        "tgs": "gifts/lovepotion/assets/models/tropicano.tgs"
+      }
+    },
+    {
+      "name": "Beauty Brew",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/beauty-brew.svg",
+        "tgs": "gifts/lovepotion/assets/models/beauty-brew.tgs"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/diamonds.svg",
+        "tgs": "gifts/lovepotion/assets/models/diamonds.tgs"
+      }
+    },
+    {
+      "name": "Hearts",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/hearts.svg",
+        "tgs": "gifts/lovepotion/assets/models/hearts.tgs"
+      }
+    },
+    {
+      "name": "Bubble Bath",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/bubble-bath.svg",
+        "tgs": "gifts/lovepotion/assets/models/bubble-bath.tgs"
+      }
+    },
+    {
+      "name": "Fragrant Oil",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/fragrant-oil.svg",
+        "tgs": "gifts/lovepotion/assets/models/fragrant-oil.tgs"
+      }
+    },
+    {
+      "name": "First Aid",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/first-aid.svg",
+        "tgs": "gifts/lovepotion/assets/models/first-aid.tgs"
+      }
+    },
+    {
+      "name": "White Ink",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/white-ink.svg",
+        "tgs": "gifts/lovepotion/assets/models/white-ink.tgs"
+      }
+    },
+    {
+      "name": "Laxative",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/laxative.svg",
+        "tgs": "gifts/lovepotion/assets/models/laxative.tgs"
+      }
+    },
+    {
+      "name": "Fine Mead",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/fine-mead.svg",
+        "tgs": "gifts/lovepotion/assets/models/fine-mead.tgs"
+      }
+    },
+    {
+      "name": "Surreal",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/surreal.svg",
+        "tgs": "gifts/lovepotion/assets/models/surreal.tgs"
+      }
+    },
+    {
+      "name": "Flat Pink",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/flat-pink.svg",
+        "tgs": "gifts/lovepotion/assets/models/flat-pink.tgs"
+      }
+    },
+    {
+      "name": "Crime Scene",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/crime-scene.svg",
+        "tgs": "gifts/lovepotion/assets/models/crime-scene.tgs"
+      }
+    },
+    {
+      "name": "Paint Bottle",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/paint-bottle.svg",
+        "tgs": "gifts/lovepotion/assets/models/paint-bottle.tgs"
+      }
+    },
+    {
+      "name": "Ruby Essence",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/ruby-essence.svg",
+        "tgs": "gifts/lovepotion/assets/models/ruby-essence.tgs"
+      }
+    },
+    {
+      "name": "Golden Mire",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/golden-mire.svg",
+        "tgs": "gifts/lovepotion/assets/models/golden-mire.tgs"
+      }
+    },
+    {
+      "name": "Peach Nectar",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/peach-nectar.svg",
+        "tgs": "gifts/lovepotion/assets/models/peach-nectar.tgs"
+      }
+    },
+    {
+      "name": "Romeo",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/romeo.svg",
+        "tgs": "gifts/lovepotion/assets/models/romeo.tgs"
+      }
+    },
+    {
+      "name": "Milkshake",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/milkshake.svg",
+        "tgs": "gifts/lovepotion/assets/models/milkshake.tgs"
+      }
+    },
+    {
+      "name": "Mouthwash",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/mouthwash.svg",
+        "tgs": "gifts/lovepotion/assets/models/mouthwash.tgs"
+      }
+    },
+    {
+      "name": "Poison Flask",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/poison-flask.svg",
+        "tgs": "gifts/lovepotion/assets/models/poison-flask.tgs"
+      }
+    },
+    {
+      "name": "Cherry Wine",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/cherry-wine.svg",
+        "tgs": "gifts/lovepotion/assets/models/cherry-wine.tgs"
+      }
+    },
+    {
+      "name": "Berry Bomb",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/berry-bomb.svg",
+        "tgs": "gifts/lovepotion/assets/models/berry-bomb.tgs"
+      }
+    },
+    {
+      "name": "Copper Sulfate",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/copper-sulfate.svg",
+        "tgs": "gifts/lovepotion/assets/models/copper-sulfate.tgs"
+      }
+    },
+    {
+      "name": "Mystic Dew",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/mystic-dew.svg",
+        "tgs": "gifts/lovepotion/assets/models/mystic-dew.tgs"
+      }
+    },
+    {
+      "name": "Royal Spritz",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/royal-spritz.svg",
+        "tgs": "gifts/lovepotion/assets/models/royal-spritz.tgs"
+      }
+    },
+    {
+      "name": "Sunset Serum",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/sunset-serum.svg",
+        "tgs": "gifts/lovepotion/assets/models/sunset-serum.tgs"
+      }
+    },
+    {
+      "name": "Formic Acid",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/formic-acid.svg",
+        "tgs": "gifts/lovepotion/assets/models/formic-acid.tgs"
+      }
+    },
+    {
+      "name": "Fairy Pollen",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/fairy-pollen.svg",
+        "tgs": "gifts/lovepotion/assets/models/fairy-pollen.tgs"
+      }
+    },
+    {
+      "name": "Sour Cider",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/sour-cider.svg",
+        "tgs": "gifts/lovepotion/assets/models/sour-cider.tgs"
+      }
+    },
+    {
+      "name": "Liquid Pearl",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/liquid-pearl.svg",
+        "tgs": "gifts/lovepotion/assets/models/liquid-pearl.tgs"
+      }
+    },
+    {
+      "name": "Toxic Waste",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/toxic-waste.svg",
+        "tgs": "gifts/lovepotion/assets/models/toxic-waste.tgs"
+      }
+    },
+    {
+      "name": "Seeker’s Wish",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/seeker-s-wish.svg",
+        "tgs": "gifts/lovepotion/assets/models/seeker-s-wish.tgs"
+      }
+    },
+    {
+      "name": "Starry Night",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/starry-night.svg",
+        "tgs": "gifts/lovepotion/assets/models/starry-night.tgs"
+      }
+    },
+    {
+      "name": "Old Rum",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/old-rum.svg",
+        "tgs": "gifts/lovepotion/assets/models/old-rum.tgs"
+      }
+    },
+    {
+      "name": "Gold Rush",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/gold-rush.svg",
+        "tgs": "gifts/lovepotion/assets/models/gold-rush.tgs"
+      }
+    },
+    {
+      "name": "Aerogel",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/aerogel.svg",
+        "tgs": "gifts/lovepotion/assets/models/aerogel.tgs"
+      }
+    },
+    {
+      "name": "Ocean Glow",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/ocean-glow.svg",
+        "tgs": "gifts/lovepotion/assets/models/ocean-glow.tgs"
+      }
+    },
+    {
+      "name": "Sugar Ponies",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/sugar-ponies.svg",
+        "tgs": "gifts/lovepotion/assets/models/sugar-ponies.tgs"
+      }
+    },
+    {
+      "name": "Sea Salt",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/sea-salt.svg",
+        "tgs": "gifts/lovepotion/assets/models/sea-salt.tgs"
+      }
+    },
+    {
+      "name": "Juliet",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/juliet.svg",
+        "tgs": "gifts/lovepotion/assets/models/juliet.tgs"
+      }
+    },
+    {
+      "name": "Rusty Water",
+      "assets": {
+        "svg": "gifts/lovepotion/assets/models/rusty-water.svg",
+        "tgs": "gifts/lovepotion/assets/models/rusty-water.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Passion Latte",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/passion-latte.png"
+      }
+    },
+    {
+      "name": "Rainbow",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/rainbow.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Mars & Venus",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/mars-venus.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Love Puzzle",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-puzzle.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Water Drops",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/water-drops.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Romantic Cake",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/romantic-cake.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Like Button",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/like-button.png"
+      }
+    },
+    {
+      "name": "Love Cherry",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-cherry.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Loving Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/loving-heart.png"
+      }
+    },
+    {
+      "name": "February 14",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/february-14.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Chocolate",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/chocolate.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Panty",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/panty.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Lips",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lips.png"
+      }
+    },
+    {
+      "name": "Cupid",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cupid.png"
+      }
+    },
+    {
+      "name": "Heart Ring",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heart-ring.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Pixel Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pixel-heart.png"
+      }
+    },
+    {
+      "name": "Tongue",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/tongue.png"
+      }
+    },
+    {
+      "name": "Lovestruck",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lovestruck.png"
+      }
+    },
+    {
+      "name": "Party Popper",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/party-popper.png"
+      }
+    },
+    {
+      "name": "Two Hearts",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/two-hearts.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Cute Paw",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cute-paw.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Paw Print",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/paw-print.png"
+      }
+    },
+    {
+      "name": "Headband",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/headband.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Rabbit",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/rabbit.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Lovely Rain",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lovely-rain.png"
+      }
+    },
+    {
+      "name": "Spicy Chilli",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/spicy-chilli.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Cupid’s Arrow",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cupid-s-arrow.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Lovely Key",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lovely-key.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Mailbox",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/mailbox.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Napkins",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/napkins.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Wine Toast",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/wine-toast.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Flirty Message",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/flirty-message.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Fluffy Wolf",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/fluffy-wolf.png"
+      }
+    },
+    {
+      "name": "Rose Blossom",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/rose-blossom.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Love Dove",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-dove.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Angelic Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/angelic-heart.png"
+      }
+    },
+    {
+      "name": "Heart Box",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heart-box.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Tic-Tac-Toe",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/tic-tac-toe.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Pigeon",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pigeon.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Handcuffs",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/handcuffs.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Wepwawet",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/wepwawet.png"
+      }
+    },
+    {
+      "name": "Monarch",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/monarch.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Heart Glasses",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heart-glasses.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Blossom",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/blossom.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Flying Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/flying-heart.png"
+      }
+    },
+    {
+      "name": "Flaming Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/flaming-heart.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Kitty Cat",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/kitty-cat.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Love Scene",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-scene.png"
+      }
+    },
+    {
+      "name": "Lovely Bra",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lovely-bra.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Sweets Box",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sweets-box.png"
+      }
+    },
+    {
+      "name": "Rabbit Mask",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/rabbit-mask.png"
+      }
+    },
+    {
+      "name": "Heart Balloon",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heart-balloon.png"
+      }
+    },
+    {
+      "name": "Lovely Rose",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lovely-rose.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Stilettos",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/stilettos.png"
+      }
+    },
+    {
+      "name": "Neko Mask",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/neko-mask.png"
+      }
+    },
+    {
+      "name": "Butterfly",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/butterfly.png"
+      }
+    },
+    {
+      "name": "Pierced Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pierced-heart.png"
+      }
+    },
+    {
+      "name": "Broken Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/broken-heart.png"
+      }
+    },
+    {
+      "name": "Heartbeat",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heartbeat.png"
+      }
+    },
+    {
+      "name": "Patched Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/patched-heart.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Shiny Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/shiny-heart.png"
+      }
+    },
+    {
+      "name": "Bouquet",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bouquet.png"
+      }
+    },
+    {
+      "name": "Cute Bear",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cute-bear.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Aubergine",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/aubergine.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Heart Lock",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heart-lock.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Cupid’s Bow",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cupid-s-bow.png"
+      }
+    },
+    {
+      "name": "Love Mug",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-mug.png"
+      }
+    },
+    {
+      "name": "Gift",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/gift.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Heart Shades",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heart-shades.png"
+      }
+    },
+    {
+      "name": "Ace Of Hearts",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/ace-of-hearts.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Valentine",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/valentine.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Lovebirds",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lovebirds.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Padlock",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/padlock.png"
+      }
+    },
+    {
+      "name": "Cake",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cake.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Love Candy",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-candy.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Love Daisy",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-daisy.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Amour Scoops",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/amour-scoops.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Love Bell",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-bell.png"
+      }
+    },
+    {
+      "name": "Balloon",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/balloon.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "French Fries",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/french-fries.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Teddy Bear",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/teddy-bear.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Love Berry",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-berry.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Muffin",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/muffin.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "Cunning Fox",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cunning-fox.png"
+      }
+    },
+    {
+      "name": "Hearts",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/hearts.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Cupid Archer",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cupid-archer.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Love",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love.png"
+      }
+    },
+    {
+      "name": "Date Pin",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/date-pin.png"
+      }
+    },
+    {
+      "name": "Angel",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/angel.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Heart Donut",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/heart-donut.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Little Cupid",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/little-cupid.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Double Bed",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/double-bed.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Lingerie",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lingerie.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Succubus",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/succubus.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Loveberry",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/loveberry.png"
+      }
+    },
+    {
+      "name": "Love Potion",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-potion.png"
+      }
+    },
+    {
+      "name": "Love Bulb",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-bulb.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/lovepotion/assets/patterns/love-letter.png"
+      }
+    }
+  ]
+}

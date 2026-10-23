@@ -1,0 +1,1365 @@
+{
+  "slug": "khabibspapakha",
+  "models": [
+    {
+      "name": "Legendary Item",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/legendary-item.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/legendary-item.tgs"
+      }
+    },
+    {
+      "name": "Black Diamond",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/black-diamond.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/black-diamond.tgs"
+      }
+    },
+    {
+      "name": "Champion Belt",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/champion-belt.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/champion-belt.tgs"
+      }
+    },
+    {
+      "name": "Ring King",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/ring-king.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/ring-king.tgs"
+      }
+    },
+    {
+      "name": "The Eagle",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/the-eagle.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/the-eagle.tgs"
+      }
+    },
+    {
+      "name": "Fireball",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/fireball.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/fireball.tgs"
+      }
+    },
+    {
+      "name": "Headgear",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/headgear.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/headgear.tgs"
+      }
+    },
+    {
+      "name": "Modesty",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/modesty.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/modesty.tgs"
+      }
+    },
+    {
+      "name": "29-0 Record",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/29-0-record.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/29-0-record.tgs"
+      }
+    },
+    {
+      "name": "Champion",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/champion.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/champion.tgs"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/dagger.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/dagger.tgs"
+      }
+    },
+    {
+      "name": "Jade Black",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/jade-black.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/jade-black.tgs"
+      }
+    },
+    {
+      "name": "Knockout",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/knockout.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/knockout.tgs"
+      }
+    },
+    {
+      "name": "Steel Chin",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/steel-chin.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/steel-chin.tgs"
+      }
+    },
+    {
+      "name": "Unbreakable",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/unbreakable.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/unbreakable.tgs"
+      }
+    },
+    {
+      "name": "Bloodstones",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/bloodstones.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/bloodstones.tgs"
+      }
+    },
+    {
+      "name": "Fighting Ring",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/fighting-ring.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/fighting-ring.tgs"
+      }
+    },
+    {
+      "name": "Madridista",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/madridista.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/madridista.tgs"
+      }
+    },
+    {
+      "name": "Monument",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/monument.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/monument.tgs"
+      }
+    },
+    {
+      "name": "Precious",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/precious.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/precious.tgs"
+      }
+    },
+    {
+      "name": "Ruby",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/ruby.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/ruby.tgs"
+      }
+    },
+    {
+      "name": "Spring Flowers",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/spring-flowers.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/spring-flowers.tgs"
+      }
+    },
+    {
+      "name": "Strelka",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/strelka.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/strelka.tgs"
+      }
+    },
+    {
+      "name": "Emerald",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/emerald.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/emerald.tgs"
+      }
+    },
+    {
+      "name": "Flying High",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/flying-high.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/flying-high.tgs"
+      }
+    },
+    {
+      "name": "Hat Toss",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/hat-toss.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/hat-toss.tgs"
+      }
+    },
+    {
+      "name": "Pile Of Hats",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/pile-of-hats.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/pile-of-hats.tgs"
+      }
+    },
+    {
+      "name": "Signature",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/signature.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/signature.tgs"
+      }
+    },
+    {
+      "name": "Golden Wool",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/golden-wool.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/golden-wool.tgs"
+      }
+    },
+    {
+      "name": "Highland Bard",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/highland-bard.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/highland-bard.tgs"
+      }
+    },
+    {
+      "name": "Rage Mode",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/rage-mode.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/rage-mode.tgs"
+      }
+    },
+    {
+      "name": "Sapphire",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/sapphire.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/sapphire.tgs"
+      }
+    },
+    {
+      "name": "Summer",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/summer.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/summer.tgs"
+      }
+    },
+    {
+      "name": "Autumn",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/autumn.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/autumn.tgs"
+      }
+    },
+    {
+      "name": "Titan Relics",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/titan-relics.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/titan-relics.tgs"
+      }
+    },
+    {
+      "name": "Boom Fists",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/boom-fists.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/boom-fists.tgs"
+      }
+    },
+    {
+      "name": "Breakfast",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/breakfast.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/breakfast.tgs"
+      }
+    },
+    {
+      "name": "Brown Fur",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/brown-fur.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/brown-fur.tgs"
+      }
+    },
+    {
+      "name": "Buffalo",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/buffalo.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/buffalo.tgs"
+      }
+    },
+    {
+      "name": "Chokha",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/chokha.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/chokha.tgs"
+      }
+    },
+    {
+      "name": "Dagestan",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/dagestan.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/dagestan.tgs"
+      }
+    },
+    {
+      "name": "Eagles MMA",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/eagles-mma.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/eagles-mma.tgs"
+      }
+    },
+    {
+      "name": "Family Table",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/family-table.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/family-table.tgs"
+      }
+    },
+    {
+      "name": "Feared Beard",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/feared-beard.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/feared-beard.tgs"
+      }
+    },
+    {
+      "name": "Honor",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/honor.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/honor.tgs"
+      }
+    },
+    {
+      "name": "Magic Carpet",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/magic-carpet.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/magic-carpet.tgs"
+      }
+    },
+    {
+      "name": "Papakha Swag",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/papakha-swag.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/papakha-swag.tgs"
+      }
+    },
+    {
+      "name": "Stealth",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/stealth.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/stealth.tgs"
+      }
+    },
+    {
+      "name": "Thunder",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/thunder.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/thunder.tgs"
+      }
+    },
+    {
+      "name": "Tradition",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/tradition.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/tradition.tgs"
+      }
+    },
+    {
+      "name": "Vineyard Crown",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/vineyard-crown.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/vineyard-crown.tgs"
+      }
+    },
+    {
+      "name": "Winged K",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/winged-k.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/winged-k.tgs"
+      }
+    },
+    {
+      "name": "Winter",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/winter.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/winter.tgs"
+      }
+    },
+    {
+      "name": "Long Curls",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/long-curls.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/long-curls.tgs"
+      }
+    },
+    {
+      "name": "Silver Wings",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/silver-wings.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/silver-wings.tgs"
+      }
+    },
+    {
+      "name": "Wise Elder",
+      "assets": {
+        "svg": "gifts/khabibspapakha/assets/models/wise-elder.svg",
+        "tgs": "gifts/khabibspapakha/assets/models/wise-elder.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/khabibspapakha/assets/patterns/paper-lantern.png"
+      }
+    }
+  ]
+}

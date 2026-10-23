@@ -1,0 +1,2171 @@
+{
+  "slug": "chillflame",
+  "models": [
+    {
+      "name": "Eye of Sauron",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/eye-of-sauron.svg",
+        "tgs": "gifts/chillflame/assets/models/eye-of-sauron.tgs"
+      }
+    },
+    {
+      "name": "Satis-fire",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/satis-fire.svg",
+        "tgs": "gifts/chillflame/assets/models/satis-fire.tgs"
+      }
+    },
+    {
+      "name": "Baba Yaga",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/baba-yaga.svg",
+        "tgs": "gifts/chillflame/assets/models/baba-yaga.tgs"
+      }
+    },
+    {
+      "name": "Dark Souls",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/dark-souls.svg",
+        "tgs": "gifts/chillflame/assets/models/dark-souls.tgs"
+      }
+    },
+    {
+      "name": "Skyrim",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/skyrim.svg",
+        "tgs": "gifts/chillflame/assets/models/skyrim.tgs"
+      }
+    },
+    {
+      "name": "Firebrand",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/firebrand.svg",
+        "tgs": "gifts/chillflame/assets/models/firebrand.tgs"
+      }
+    },
+    {
+      "name": "Flamethrower",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/flamethrower.svg",
+        "tgs": "gifts/chillflame/assets/models/flamethrower.tgs"
+      }
+    },
+    {
+      "name": "Ghost Rider",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/ghost-rider.svg",
+        "tgs": "gifts/chillflame/assets/models/ghost-rider.tgs"
+      }
+    },
+    {
+      "name": "Molotov",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/molotov.svg",
+        "tgs": "gifts/chillflame/assets/models/molotov.tgs"
+      }
+    },
+    {
+      "name": "Revolt",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/revolt.svg",
+        "tgs": "gifts/chillflame/assets/models/revolt.tgs"
+      }
+    },
+    {
+      "name": "Sochi",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/sochi.svg",
+        "tgs": "gifts/chillflame/assets/models/sochi.tgs"
+      }
+    },
+    {
+      "name": "Terraria",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/terraria.svg",
+        "tgs": "gifts/chillflame/assets/models/terraria.tgs"
+      }
+    },
+    {
+      "name": "The Match",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/the-match.svg",
+        "tgs": "gifts/chillflame/assets/models/the-match.tgs"
+      }
+    },
+    {
+      "name": "Camelot",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/camelot.svg",
+        "tgs": "gifts/chillflame/assets/models/camelot.tgs"
+      }
+    },
+    {
+      "name": "Desk Lamp",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/desk-lamp.svg",
+        "tgs": "gifts/chillflame/assets/models/desk-lamp.tgs"
+      }
+    },
+    {
+      "name": "Medieval",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/medieval.svg",
+        "tgs": "gifts/chillflame/assets/models/medieval.tgs"
+      }
+    },
+    {
+      "name": "Pixel Art",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/pixel-art.svg",
+        "tgs": "gifts/chillflame/assets/models/pixel-art.tgs"
+      }
+    },
+    {
+      "name": "Signal Flare",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/signal-flare.svg",
+        "tgs": "gifts/chillflame/assets/models/signal-flare.tgs"
+      }
+    },
+    {
+      "name": "Triumph",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/triumph.svg",
+        "tgs": "gifts/chillflame/assets/models/triumph.tgs"
+      }
+    },
+    {
+      "name": "Victory",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/victory.svg",
+        "tgs": "gifts/chillflame/assets/models/victory.tgs"
+      }
+    },
+    {
+      "name": "Dark Relic",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/dark-relic.svg",
+        "tgs": "gifts/chillflame/assets/models/dark-relic.tgs"
+      }
+    },
+    {
+      "name": "Elder Wand",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/elder-wand.svg",
+        "tgs": "gifts/chillflame/assets/models/elder-wand.tgs"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/sea-horse.svg",
+        "tgs": "gifts/chillflame/assets/models/sea-horse.tgs"
+      }
+    },
+    {
+      "name": "Bubble Prism",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/bubble-prism.svg",
+        "tgs": "gifts/chillflame/assets/models/bubble-prism.tgs"
+      }
+    },
+    {
+      "name": "Carousel",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/carousel.svg",
+        "tgs": "gifts/chillflame/assets/models/carousel.tgs"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/flashlight.svg",
+        "tgs": "gifts/chillflame/assets/models/flashlight.tgs"
+      }
+    },
+    {
+      "name": "Ghost Light",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/ghost-light.svg",
+        "tgs": "gifts/chillflame/assets/models/ghost-light.tgs"
+      }
+    },
+    {
+      "name": "Balinese",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/balinese.svg",
+        "tgs": "gifts/chillflame/assets/models/balinese.tgs"
+      }
+    },
+    {
+      "name": "Bear Market",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/bear-market.svg",
+        "tgs": "gifts/chillflame/assets/models/bear-market.tgs"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/birthday-cake.svg",
+        "tgs": "gifts/chillflame/assets/models/birthday-cake.tgs"
+      }
+    },
+    {
+      "name": "Bowl of Hygeia",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/bowl-of-hygeia.svg",
+        "tgs": "gifts/chillflame/assets/models/bowl-of-hygeia.tgs"
+      }
+    },
+    {
+      "name": "Bull Run",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/bull-run.svg",
+        "tgs": "gifts/chillflame/assets/models/bull-run.tgs"
+      }
+    },
+    {
+      "name": "Candelabra",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/candelabra.svg",
+        "tgs": "gifts/chillflame/assets/models/candelabra.tgs"
+      }
+    },
+    {
+      "name": "Druid Flame",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/druid-flame.svg",
+        "tgs": "gifts/chillflame/assets/models/druid-flame.tgs"
+      }
+    },
+    {
+      "name": "Dungeon",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/dungeon.svg",
+        "tgs": "gifts/chillflame/assets/models/dungeon.tgs"
+      }
+    },
+    {
+      "name": "Eternal Flame",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/eternal-flame.svg",
+        "tgs": "gifts/chillflame/assets/models/eternal-flame.tgs"
+      }
+    },
+    {
+      "name": "Ionic Column",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/ionic-column.svg",
+        "tgs": "gifts/chillflame/assets/models/ionic-column.tgs"
+      }
+    },
+    {
+      "name": "Iron Rose",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/iron-rose.svg",
+        "tgs": "gifts/chillflame/assets/models/iron-rose.tgs"
+      }
+    },
+    {
+      "name": "Lava Lamp",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/lava-lamp.svg",
+        "tgs": "gifts/chillflame/assets/models/lava-lamp.tgs"
+      }
+    },
+    {
+      "name": "Lego",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/lego.svg",
+        "tgs": "gifts/chillflame/assets/models/lego.tgs"
+      }
+    },
+    {
+      "name": "Los Angeles",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/los-angeles.svg",
+        "tgs": "gifts/chillflame/assets/models/los-angeles.tgs"
+      }
+    },
+    {
+      "name": "Oil Lamp",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/oil-lamp.svg",
+        "tgs": "gifts/chillflame/assets/models/oil-lamp.tgs"
+      }
+    },
+    {
+      "name": "Olympia",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/olympia.svg",
+        "tgs": "gifts/chillflame/assets/models/olympia.tgs"
+      }
+    },
+    {
+      "name": "Oracle",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/oracle.svg",
+        "tgs": "gifts/chillflame/assets/models/oracle.tgs"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/paper-lantern.svg",
+        "tgs": "gifts/chillflame/assets/models/paper-lantern.tgs"
+      }
+    },
+    {
+      "name": "Prometheus",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/prometheus.svg",
+        "tgs": "gifts/chillflame/assets/models/prometheus.tgs"
+      }
+    },
+    {
+      "name": "Royal Goblet",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/royal-goblet.svg",
+        "tgs": "gifts/chillflame/assets/models/royal-goblet.tgs"
+      }
+    },
+    {
+      "name": "Spaceship",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/spaceship.svg",
+        "tgs": "gifts/chillflame/assets/models/spaceship.tgs"
+      }
+    },
+    {
+      "name": "Spark Plug",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/spark-plug.svg",
+        "tgs": "gifts/chillflame/assets/models/spark-plug.tgs"
+      }
+    },
+    {
+      "name": "Spring Grove",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/spring-grove.svg",
+        "tgs": "gifts/chillflame/assets/models/spring-grove.tgs"
+      }
+    },
+    {
+      "name": "Tiki Torch",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/tiki-torch.svg",
+        "tgs": "gifts/chillflame/assets/models/tiki-torch.tgs"
+      }
+    },
+    {
+      "name": "Tribal Totem",
+      "assets": {
+        "svg": "gifts/chillflame/assets/models/tribal-totem.svg",
+        "tgs": "gifts/chillflame/assets/models/tribal-totem.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Cow Skull",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cow-skull.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Easter Egg",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/easter-egg.png"
+      }
+    },
+    {
+      "name": "Ushanka",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ushanka.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Beret",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/beret.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Peace Dove",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/peace-dove.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Spring Chick",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/spring-chick.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Paschal Lamb",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/paschal-lamb.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Ribeye Steak",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ribeye-steak.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Spider",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/spider.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/doghouse.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Piranha",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/piranha.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Bandana",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bandana.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Paper Crane",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/paper-crane.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Tiki Mask",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/tiki-mask.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Coonskin Cap",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/coonskin-cap.png"
+      }
+    },
+    {
+      "name": "Conical Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/conical-hat.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Earflap Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/earflap-hat.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Pirate Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pirate-hat.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Neptune",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/neptune.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Tamagotchi",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/tamagotchi.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Turban",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/turban.png"
+      }
+    },
+    {
+      "name": "Shako",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/shako.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Robin Hood",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/robin-hood.png"
+      }
+    },
+    {
+      "name": "Hard Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/hard-hat.png"
+      }
+    },
+    {
+      "name": "Visor",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/visor.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Easter Bunny",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/easter-bunny.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Winter Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/winter-hat.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Doctor Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/doctor-hat.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Royal Turban",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/royal-turban.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Mining Helmet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/mining-helmet.png"
+      }
+    },
+    {
+      "name": "Gua Pi Mao",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/gua-pi-mao.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Wepwawet",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/wepwawet.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Wontons",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/wontons.png"
+      }
+    },
+    {
+      "name": "Ancient Urn",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ancient-urn.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Omusubi",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/omusubi.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/chillflame/assets/patterns/sumerian-bird.png"
+      }
+    }
+  ]
+}

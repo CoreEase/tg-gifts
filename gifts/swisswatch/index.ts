@@ -3,998 +3,1792 @@ import type { GiftModel, GiftPattern, Backdrop, GiftCollection } from '../../typ
 export const models = [
   {
     "name": "Dr. Strange",
-    "customEmojiId": "5253451980394752061"
+    "customEmojiId": "5253451980394752061",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/dr-strange.svg",
+      "tgs": "gifts/swisswatch/assets/models/dr-strange.tgs"
+    }
   },
   {
     "name": "DeLorean",
-    "customEmojiId": "5253910038656873048"
+    "customEmojiId": "5253910038656873048",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/delorean.svg",
+      "tgs": "gifts/swisswatch/assets/models/delorean.tgs"
+    }
   },
   {
     "name": "The Grid",
-    "customEmojiId": "5256225958037316020"
+    "customEmojiId": "5256225958037316020",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/the-grid.svg",
+      "tgs": "gifts/swisswatch/assets/models/the-grid.tgs"
+    }
   },
   {
     "name": "Secret Agent",
-    "customEmojiId": "5253555910013380799"
+    "customEmojiId": "5253555910013380799",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/secret-agent.svg",
+      "tgs": "gifts/swisswatch/assets/models/secret-agent.tgs"
+    }
   },
   {
     "name": "Future Watch",
-    "customEmojiId": "5256074302742093167"
+    "customEmojiId": "5256074302742093167",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/future-watch.svg",
+      "tgs": "gifts/swisswatch/assets/models/future-watch.tgs"
+    }
   },
   {
     "name": "Day Trader",
-    "customEmojiId": "5255971245001826781"
+    "customEmojiId": "5255971245001826781",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/day-trader.svg",
+      "tgs": "gifts/swisswatch/assets/models/day-trader.tgs"
+    }
   },
   {
     "name": "Iced Out",
-    "customEmojiId": "5253913831112991815"
+    "customEmojiId": "5253913831112991815",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/iced-out.svg",
+      "tgs": "gifts/swisswatch/assets/models/iced-out.tgs"
+    }
   },
   {
     "name": "Pot of Gold",
-    "customEmojiId": "5253532742959786705"
+    "customEmojiId": "5253532742959786705",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/pot-of-gold.svg",
+      "tgs": "gifts/swisswatch/assets/models/pot-of-gold.tgs"
+    }
   },
   {
     "name": "Pink Cycle",
-    "customEmojiId": "5253586709223861097"
+    "customEmojiId": "5253586709223861097",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/pink-cycle.svg",
+      "tgs": "gifts/swisswatch/assets/models/pink-cycle.tgs"
+    }
   },
   {
     "name": "Spacewalk",
-    "customEmojiId": "5256233358265969271"
+    "customEmojiId": "5256233358265969271",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/spacewalk.svg",
+      "tgs": "gifts/swisswatch/assets/models/spacewalk.tgs"
+    }
   },
   {
     "name": "Salvador",
-    "customEmojiId": "5253847065846378963"
+    "customEmojiId": "5253847065846378963",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/salvador.svg",
+      "tgs": "gifts/swisswatch/assets/models/salvador.tgs"
+    }
   },
   {
     "name": "Memory Flash",
-    "customEmojiId": "5253923705242807297"
+    "customEmojiId": "5253923705242807297",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/memory-flash.svg",
+      "tgs": "gifts/swisswatch/assets/models/memory-flash.tgs"
+    }
   },
   {
     "name": "Intergalactic",
-    "customEmojiId": "5256064046360192519"
+    "customEmojiId": "5256064046360192519",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/intergalactic.svg",
+      "tgs": "gifts/swisswatch/assets/models/intergalactic.tgs"
+    }
   },
   {
     "name": "Sputnik",
-    "customEmojiId": "5253593924768921190"
+    "customEmojiId": "5253593924768921190",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/sputnik.svg",
+      "tgs": "gifts/swisswatch/assets/models/sputnik.tgs"
+    }
   },
   {
     "name": "Cherry Time",
-    "customEmojiId": "5253508489279466199"
+    "customEmojiId": "5253508489279466199",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/cherry-time.svg",
+      "tgs": "gifts/swisswatch/assets/models/cherry-time.tgs"
+    }
   },
   {
     "name": "Asteroid",
-    "customEmojiId": "5255920654582047233"
+    "customEmojiId": "5255920654582047233",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/asteroid.svg",
+      "tgs": "gifts/swisswatch/assets/models/asteroid.tgs"
+    }
   },
   {
     "name": "Sean Connery",
-    "customEmojiId": "5253753010357561742"
+    "customEmojiId": "5253753010357561742",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/sean-connery.svg",
+      "tgs": "gifts/swisswatch/assets/models/sean-connery.tgs"
+    }
   },
   {
     "name": "Cupid Clock",
-    "customEmojiId": "5254007946731349026"
+    "customEmojiId": "5254007946731349026",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/cupid-clock.svg",
+      "tgs": "gifts/swisswatch/assets/models/cupid-clock.tgs"
+    }
   },
   {
     "name": "Xenowatch",
-    "customEmojiId": "5253908861835832252"
+    "customEmojiId": "5253908861835832252",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/xenowatch.svg",
+      "tgs": "gifts/swisswatch/assets/models/xenowatch.tgs"
+    }
   },
   {
     "name": "Galactic Year",
-    "customEmojiId": "5253479137472966259"
+    "customEmojiId": "5253479137472966259",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/galactic-year.svg",
+      "tgs": "gifts/swisswatch/assets/models/galactic-year.tgs"
+    }
   },
   {
     "name": "Platinum",
-    "customEmojiId": "5256153123981908189"
+    "customEmojiId": "5256153123981908189",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/platinum.svg",
+      "tgs": "gifts/swisswatch/assets/models/platinum.tgs"
+    }
   },
   {
     "name": "Copper Clock",
-    "customEmojiId": "5253950514428667276"
+    "customEmojiId": "5253950514428667276",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/copper-clock.svg",
+      "tgs": "gifts/swisswatch/assets/models/copper-clock.tgs"
+    }
   },
   {
     "name": "Timeless",
-    "customEmojiId": "5255859124880565846"
+    "customEmojiId": "5255859124880565846",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/timeless.svg",
+      "tgs": "gifts/swisswatch/assets/models/timeless.tgs"
+    }
   },
   {
     "name": "Sovereign",
-    "customEmojiId": "5255871537336049233"
+    "customEmojiId": "5255871537336049233",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/sovereign.svg",
+      "tgs": "gifts/swisswatch/assets/models/sovereign.tgs"
+    }
   },
   {
     "name": "Infinite Loop",
-    "customEmojiId": "5253472368604506120"
+    "customEmojiId": "5253472368604506120",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/infinite-loop.svg",
+      "tgs": "gifts/swisswatch/assets/models/infinite-loop.tgs"
+    }
   },
   {
     "name": "Bruce Wayne",
-    "customEmojiId": "5253608093866029165"
+    "customEmojiId": "5253608093866029165",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/bruce-wayne.svg",
+      "tgs": "gifts/swisswatch/assets/models/bruce-wayne.tgs"
+    }
   },
   {
     "name": "Ball Pit",
-    "customEmojiId": "5253731067369648940"
+    "customEmojiId": "5253731067369648940",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/ball-pit.svg",
+      "tgs": "gifts/swisswatch/assets/models/ball-pit.tgs"
+    }
   },
   {
     "name": "El Dorado",
-    "customEmojiId": "5253591644141283924"
+    "customEmojiId": "5253591644141283924",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/el-dorado.svg",
+      "tgs": "gifts/swisswatch/assets/models/el-dorado.tgs"
+    }
   },
   {
     "name": "Chromatic",
-    "customEmojiId": "5253547655086238418"
+    "customEmojiId": "5253547655086238418",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/chromatic.svg",
+      "tgs": "gifts/swisswatch/assets/models/chromatic.tgs"
+    }
   },
   {
     "name": "Outer Space",
-    "customEmojiId": "5253799984414879713"
+    "customEmojiId": "5253799984414879713",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/outer-space.svg",
+      "tgs": "gifts/swisswatch/assets/models/outer-space.tgs"
+    }
   },
   {
     "name": "Top Gun",
-    "customEmojiId": "5255998067072587972"
+    "customEmojiId": "5255998067072587972",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/top-gun.svg",
+      "tgs": "gifts/swisswatch/assets/models/top-gun.tgs"
+    }
   },
   {
     "name": "Inception",
-    "customEmojiId": "5253516327594780151"
+    "customEmojiId": "5253516327594780151",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/inception.svg",
+      "tgs": "gifts/swisswatch/assets/models/inception.tgs"
+    }
   },
   {
     "name": "Rockefeller",
-    "customEmojiId": "5253569739808073494"
+    "customEmojiId": "5253569739808073494",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/rockefeller.svg",
+      "tgs": "gifts/swisswatch/assets/models/rockefeller.tgs"
+    }
   },
   {
     "name": "Patriot",
-    "customEmojiId": "5253760767068500907"
+    "customEmojiId": "5253760767068500907",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/patriot.svg",
+      "tgs": "gifts/swisswatch/assets/models/patriot.tgs"
+    }
   },
   {
     "name": "Helicopter",
-    "customEmojiId": "5253587898929801166"
+    "customEmojiId": "5253587898929801166",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/helicopter.svg",
+      "tgs": "gifts/swisswatch/assets/models/helicopter.tgs"
+    }
   },
   {
     "name": "Bronze Age",
-    "customEmojiId": "5256156791883979507"
+    "customEmojiId": "5256156791883979507",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/bronze-age.svg",
+      "tgs": "gifts/swisswatch/assets/models/bronze-age.tgs"
+    }
   },
   {
     "name": "Full Tint",
-    "customEmojiId": "5253532777319525772"
+    "customEmojiId": "5253532777319525772",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/full-tint.svg",
+      "tgs": "gifts/swisswatch/assets/models/full-tint.tgs"
+    }
   },
   {
     "name": "Day-Date",
-    "customEmojiId": "5253915909877168027"
+    "customEmojiId": "5253915909877168027",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/day-date.svg",
+      "tgs": "gifts/swisswatch/assets/models/day-date.tgs"
+    }
   },
   {
     "name": "Pip-Boy",
-    "customEmojiId": "5253964520317022520"
+    "customEmojiId": "5253964520317022520",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/pip-boy.svg",
+      "tgs": "gifts/swisswatch/assets/models/pip-boy.tgs"
+    }
   },
   {
     "name": "Amazon",
-    "customEmojiId": "5253923696652875176"
+    "customEmojiId": "5253923696652875176",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/amazon.svg",
+      "tgs": "gifts/swisswatch/assets/models/amazon.tgs"
+    }
   },
   {
     "name": "Zenith",
-    "customEmojiId": "5256186225294860154"
+    "customEmojiId": "5256186225294860154",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/zenith.svg",
+      "tgs": "gifts/swisswatch/assets/models/zenith.tgs"
+    }
   },
   {
     "name": "Blue Daytona",
-    "customEmojiId": "5253915381596188089"
+    "customEmojiId": "5253915381596188089",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/blue-daytona.svg",
+      "tgs": "gifts/swisswatch/assets/models/blue-daytona.tgs"
+    }
   },
   {
     "name": "Diamond Ring",
-    "customEmojiId": "5253481435280469890"
+    "customEmojiId": "5253481435280469890",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/diamond-ring.svg",
+      "tgs": "gifts/swisswatch/assets/models/diamond-ring.tgs"
+    }
   },
   {
     "name": "Patrician",
-    "customEmojiId": "5253747843511902971"
+    "customEmojiId": "5253747843511902971",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/patrician.svg",
+      "tgs": "gifts/swisswatch/assets/models/patrician.tgs"
+    }
   },
   {
     "name": "Gameboy",
-    "customEmojiId": "5255949890424430613"
+    "customEmojiId": "5255949890424430613",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/gameboy.svg",
+      "tgs": "gifts/swisswatch/assets/models/gameboy.tgs"
+    }
   },
   {
     "name": "Tachymeter",
-    "customEmojiId": "5256134616967829589"
+    "customEmojiId": "5256134616967829589",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/tachymeter.svg",
+      "tgs": "gifts/swisswatch/assets/models/tachymeter.tgs"
+    }
   },
   {
     "name": "Royal Purple",
-    "customEmojiId": "5253749746182415422"
+    "customEmojiId": "5253749746182415422",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/royal-purple.svg",
+      "tgs": "gifts/swisswatch/assets/models/royal-purple.tgs"
+    }
   },
   {
     "name": "Gold Band",
-    "customEmojiId": "5255829592685436961"
+    "customEmojiId": "5255829592685436961",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/gold-band.svg",
+      "tgs": "gifts/swisswatch/assets/models/gold-band.tgs"
+    }
   },
   {
     "name": "The Original",
-    "customEmojiId": "5254002724051121652"
+    "customEmojiId": "5254002724051121652",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/the-original.svg",
+      "tgs": "gifts/swisswatch/assets/models/the-original.tgs"
+    }
   },
   {
     "name": "Blue Bezel",
-    "customEmojiId": "5256191636953653630"
+    "customEmojiId": "5256191636953653630",
+    "assets": {
+      "svg": "gifts/swisswatch/assets/models/blue-bezel.svg",
+      "tgs": "gifts/swisswatch/assets/models/blue-bezel.tgs"
+    }
   }
 ] satisfies readonly GiftModel[];
 
 export const patterns = [
   {
     "name": "Mayan Moth",
-    "customEmojiId": "5199778452701480675"
+    "customEmojiId": "5199778452701480675",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/mayan-moth.png"
+    }
   },
   {
     "name": "Sun Lion",
-    "customEmojiId": "5199909337534861617"
+    "customEmojiId": "5199909337534861617",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sun-lion.png"
+    }
   },
   {
     "name": "Eikthyrnir",
-    "customEmojiId": "5199875514667404240"
+    "customEmojiId": "5199875514667404240",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/eikthyrnir.png"
+    }
   },
   {
     "name": "Top Hat",
-    "customEmojiId": "5199704811192221997"
+    "customEmojiId": "5199704811192221997",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/top-hat.png"
+    }
   },
   {
     "name": "Rain Drop",
-    "customEmojiId": "5199596200059239228"
+    "customEmojiId": "5199596200059239228",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/rain-drop.png"
+    }
   },
   {
     "name": "Bastet",
-    "customEmojiId": "5199520204907910380"
+    "customEmojiId": "5199520204907910380",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bastet.png"
+    }
   },
   {
     "name": "Shield",
-    "customEmojiId": "5199474497865945550"
+    "customEmojiId": "5199474497865945550",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/shield.png"
+    }
   },
   {
     "name": "Chili",
-    "customEmojiId": "5199718404763713565"
+    "customEmojiId": "5199718404763713565",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/chili.png"
+    }
   },
   {
     "name": "Maple Leaf",
-    "customEmojiId": "5199771361710473077"
+    "customEmojiId": "5199771361710473077",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/maple-leaf.png"
+    }
   },
   {
     "name": "Brain",
-    "customEmojiId": "5199813422325207751"
+    "customEmojiId": "5199813422325207751",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/brain.png"
+    }
   },
   {
     "name": "Dice",
-    "customEmojiId": "5199905927330827651"
+    "customEmojiId": "5199905927330827651",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/dice.png"
+    }
   },
   {
     "name": "Ring",
-    "customEmojiId": "5199821179036142060"
+    "customEmojiId": "5199821179036142060",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/ring.png"
+    }
   },
   {
     "name": "Avocado",
-    "customEmojiId": "5199464318793453067"
+    "customEmojiId": "5199464318793453067",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/avocado.png"
+    }
   },
   {
     "name": "Lemon",
-    "customEmojiId": "5199949400989796691"
+    "customEmojiId": "5199949400989796691",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/lemon.png"
+    }
   },
   {
     "name": "Cupcake",
-    "customEmojiId": "5199460788330335122"
+    "customEmojiId": "5199460788330335122",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cupcake.png"
+    }
   },
   {
     "name": "Ouroboros",
-    "customEmojiId": "5199428661974962024"
+    "customEmojiId": "5199428661974962024",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/ouroboros.png"
+    }
   },
   {
     "name": "Tooth",
-    "customEmojiId": "5199462351698429183"
+    "customEmojiId": "5199462351698429183",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/tooth.png"
+    }
   },
   {
     "name": "Gear",
-    "customEmojiId": "5199963565791939900"
+    "customEmojiId": "5199963565791939900",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/gear.png"
+    }
   },
   {
     "name": "Plume",
-    "customEmojiId": "5199642800454407125"
+    "customEmojiId": "5199642800454407125",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/plume.png"
+    }
   },
   {
     "name": "Cap",
-    "customEmojiId": "5199697466798143755"
+    "customEmojiId": "5199697466798143755",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cap.png"
+    }
   },
   {
     "name": "Celtic Cross",
-    "customEmojiId": "5199560126628923287"
+    "customEmojiId": "5199560126628923287",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/celtic-cross.png"
+    }
   },
   {
     "name": "Cocktail",
-    "customEmojiId": "5199925405007515741"
+    "customEmojiId": "5199925405007515741",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cocktail.png"
+    }
   },
   {
     "name": "Love Lock",
-    "customEmojiId": "5199543157213139030"
+    "customEmojiId": "5199543157213139030",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/love-lock.png"
+    }
   },
   {
     "name": "Bell Pepper",
-    "customEmojiId": "5199683718607834440"
+    "customEmojiId": "5199683718607834440",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bell-pepper.png"
+    }
   },
   {
     "name": "Chest",
-    "customEmojiId": "5199799017004894591"
+    "customEmojiId": "5199799017004894591",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/chest.png"
+    }
   },
   {
     "name": "Moose Head",
-    "customEmojiId": "5199916278202010569"
+    "customEmojiId": "5199916278202010569",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/moose-head.png"
+    }
   },
   {
     "name": "Koala",
-    "customEmojiId": "5199786591664505620"
+    "customEmojiId": "5199786591664505620",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/koala.png"
+    }
   },
   {
     "name": "Pear",
-    "customEmojiId": "5199711558585845500"
+    "customEmojiId": "5199711558585845500",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pear.png"
+    }
   },
   {
     "name": "Anchor",
-    "customEmojiId": "5199524130508019696"
+    "customEmojiId": "5199524130508019696",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/anchor.png"
+    }
   },
   {
     "name": "Star",
-    "customEmojiId": "5199425320490407263"
+    "customEmojiId": "5199425320490407263",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/star.png"
+    }
   },
   {
     "name": "Eagle",
-    "customEmojiId": "5199844350384703801"
+    "customEmojiId": "5199844350384703801",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/eagle.png"
+    }
   },
   {
     "name": "Gold",
-    "customEmojiId": "5199529048245569871"
+    "customEmojiId": "5199529048245569871",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/gold.png"
+    }
   },
   {
     "name": "Hand of God",
-    "customEmojiId": "5199440739422996762"
+    "customEmojiId": "5199440739422996762",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/hand-of-god.png"
+    }
   },
   {
     "name": "Ram of Amun",
-    "customEmojiId": "5199770601501268034"
+    "customEmojiId": "5199770601501268034",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/ram-of-amun.png"
+    }
   },
   {
     "name": "Fleur-de-lis",
-    "customEmojiId": "5199655573687140713"
+    "customEmojiId": "5199655573687140713",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/fleur-de-lis.png"
+    }
   },
   {
     "name": "Champagne",
-    "customEmojiId": "5199679432230471443"
+    "customEmojiId": "5199679432230471443",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/champagne.png"
+    }
   },
   {
     "name": "Seahorse",
-    "customEmojiId": "5199707001625546696"
+    "customEmojiId": "5199707001625546696",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/seahorse.png"
+    }
   },
   {
     "name": "Vortex",
-    "customEmojiId": "5199813753037687817"
+    "customEmojiId": "5199813753037687817",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/vortex.png"
+    }
   },
   {
     "name": "Nordic Wolf",
-    "customEmojiId": "5199895056768603137"
+    "customEmojiId": "5199895056768603137",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/nordic-wolf.png"
+    }
   },
   {
     "name": "Clubs",
-    "customEmojiId": "5199913752761238667"
+    "customEmojiId": "5199913752761238667",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/clubs.png"
+    }
   },
   {
     "name": "Bug",
-    "customEmojiId": "5199687519653889118"
+    "customEmojiId": "5199687519653889118",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bug.png"
+    }
   },
   {
     "name": "Hermit Shell",
-    "customEmojiId": "5199762329394253336"
+    "customEmojiId": "5199762329394253336",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/hermit-shell.png"
+    }
   },
   {
     "name": "Fenrir",
-    "customEmojiId": "5199525530667354783"
+    "customEmojiId": "5199525530667354783",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/fenrir.png"
+    }
   },
   {
     "name": "Sunflower",
-    "customEmojiId": "5199874518234992013"
+    "customEmojiId": "5199874518234992013",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sunflower.png"
+    }
   },
   {
     "name": "Bone",
-    "customEmojiId": "5199640352323047571"
+    "customEmojiId": "5199640352323047571",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bone.png"
+    }
   },
   {
     "name": "Guitar",
-    "customEmojiId": "5199926040662672669"
+    "customEmojiId": "5199926040662672669",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/guitar.png"
+    }
   },
   {
     "name": "Fire",
-    "customEmojiId": "5199557987735208484"
+    "customEmojiId": "5199557987735208484",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/fire.png"
+    }
   },
   {
     "name": "Flamingo",
-    "customEmojiId": "5199960670983983099"
+    "customEmojiId": "5199960670983983099",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/flamingo.png"
+    }
   },
   {
     "name": "Potion",
-    "customEmojiId": "5199510532641560275"
+    "customEmojiId": "5199510532641560275",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/potion.png"
+    }
   },
   {
     "name": "Viking",
-    "customEmojiId": "5199809080113267301"
+    "customEmojiId": "5199809080113267301",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/viking.png"
+    }
   },
   {
     "name": "Birthday Cake",
-    "customEmojiId": "5199528562914267487"
+    "customEmojiId": "5199528562914267487",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/birthday-cake.png"
+    }
   },
   {
     "name": "Mafdet",
-    "customEmojiId": "5199698669388988419"
+    "customEmojiId": "5199698669388988419",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/mafdet.png"
+    }
   },
   {
     "name": "Baphomet",
-    "customEmojiId": "5199603441374108638"
+    "customEmojiId": "5199603441374108638",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/baphomet.png"
+    }
   },
   {
     "name": "Narcissus",
-    "customEmojiId": "5199732805789058517"
+    "customEmojiId": "5199732805789058517",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/narcissus.png"
+    }
   },
   {
     "name": "Hedgehog",
-    "customEmojiId": "5199443440957426886"
+    "customEmojiId": "5199443440957426886",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/hedgehog.png"
+    }
   },
   {
     "name": "Candy",
-    "customEmojiId": "5199911012572105730"
+    "customEmojiId": "5199911012572105730",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/candy.png"
+    }
   },
   {
     "name": "Sun Mountain",
-    "customEmojiId": "5199464829894562233"
+    "customEmojiId": "5199464829894562233",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sun-mountain.png"
+    }
   },
   {
     "name": "Fish Skeleton",
-    "customEmojiId": "5199448302860405743"
+    "customEmojiId": "5199448302860405743",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/fish-skeleton.png"
+    }
   },
   {
     "name": "Pawn",
-    "customEmojiId": "5199596131339765368"
+    "customEmojiId": "5199596131339765368",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pawn.png"
+    }
   },
   {
     "name": "Sword",
-    "customEmojiId": "5199810643481365864"
+    "customEmojiId": "5199810643481365864",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sword.png"
+    }
   },
   {
     "name": "Diamond",
-    "customEmojiId": "5199628004292067329"
+    "customEmojiId": "5199628004292067329",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/diamond.png"
+    }
   },
   {
     "name": "Star Crown",
-    "customEmojiId": "5199486442169993955"
+    "customEmojiId": "5199486442169993955",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/star-crown.png"
+    }
   },
   {
     "name": "Cobra",
-    "customEmojiId": "5199726195834392948"
+    "customEmojiId": "5199726195834392948",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cobra.png"
+    }
   },
   {
     "name": "Sea Horse",
-    "customEmojiId": "5199693631392352882"
+    "customEmojiId": "5199693631392352882",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sea-horse.png"
+    }
   },
   {
     "name": "The Eye",
-    "customEmojiId": "5199464073980313985"
+    "customEmojiId": "5199464073980313985",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/the-eye.png"
+    }
   },
   {
     "name": "Pizza Slice",
-    "customEmojiId": "5199578066707317639"
+    "customEmojiId": "5199578066707317639",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pizza-slice.png"
+    }
   },
   {
     "name": "Chili Pepper",
-    "customEmojiId": "5199643277195772037"
+    "customEmojiId": "5199643277195772037",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/chili-pepper.png"
+    }
   },
   {
     "name": "Mountain Goat",
-    "customEmojiId": "5199689319245190164"
+    "customEmojiId": "5199689319245190164",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/mountain-goat.png"
+    }
   },
   {
     "name": "Firebird",
-    "customEmojiId": "5199747116620088950"
+    "customEmojiId": "5199747116620088950",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/firebird.png"
+    }
   },
   {
     "name": "Sakura",
-    "customEmojiId": "5199856934638878837"
+    "customEmojiId": "5199856934638878837",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sakura.png"
+    }
   },
   {
     "name": "Coffee Bean",
-    "customEmojiId": "5199617662010820206"
+    "customEmojiId": "5199617662010820206",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/coffee-bean.png"
+    }
   },
   {
     "name": "Fehu Rune",
-    "customEmojiId": "5201658535980598965"
+    "customEmojiId": "5201658535980598965",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/fehu-rune.png"
+    }
   },
   {
     "name": "Coin Purse",
-    "customEmojiId": "5199421974710879091"
+    "customEmojiId": "5199421974710879091",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/coin-purse.png"
+    }
   },
   {
     "name": "Moon",
-    "customEmojiId": "5199499052193973671"
+    "customEmojiId": "5199499052193973671",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/moon.png"
+    }
   },
   {
     "name": "Cone",
-    "customEmojiId": "5199449329357589107"
+    "customEmojiId": "5199449329357589107",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cone.png"
+    }
   },
   {
     "name": "Wolf Rage",
-    "customEmojiId": "5199809844617447088"
+    "customEmojiId": "5199809844617447088",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/wolf-rage.png"
+    }
   },
   {
     "name": "Mannaz Rune",
-    "customEmojiId": "5199593631668799507"
+    "customEmojiId": "5199593631668799507",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/mannaz-rune.png"
+    }
   },
   {
     "name": "Bubble Tea",
-    "customEmojiId": "5199799150148883131"
+    "customEmojiId": "5199799150148883131",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bubble-tea.png"
+    }
   },
   {
     "name": "Lion Head",
-    "customEmojiId": "5199655049701172498"
+    "customEmojiId": "5199655049701172498",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/lion-head.png"
+    }
   },
   {
     "name": "Turkey",
-    "customEmojiId": "5199906644590363463"
+    "customEmojiId": "5199906644590363463",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/turkey.png"
+    }
   },
   {
     "name": "Jumbo Pencil",
-    "customEmojiId": "5199442723697888040"
+    "customEmojiId": "5199442723697888040",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/jumbo-pencil.png"
+    }
   },
   {
     "name": "Plum",
-    "customEmojiId": "5199962951611612377"
+    "customEmojiId": "5199962951611612377",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/plum.png"
+    }
   },
   {
     "name": "Corn",
-    "customEmojiId": "5199836340270695549"
+    "customEmojiId": "5199836340270695549",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/corn.png"
+    }
   },
   {
     "name": "Pegasus",
-    "customEmojiId": "5199615102210311126"
+    "customEmojiId": "5199615102210311126",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pegasus.png"
+    }
   },
   {
     "name": "Golden Scarab",
-    "customEmojiId": "5199515630767736867"
+    "customEmojiId": "5199515630767736867",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/golden-scarab.png"
+    }
   },
   {
     "name": "Moon Eagle",
-    "customEmojiId": "5199513281420625625"
+    "customEmojiId": "5199513281420625625",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/moon-eagle.png"
+    }
   },
   {
     "name": "Magic Wand",
-    "customEmojiId": "5199565744446145009"
+    "customEmojiId": "5199565744446145009",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/magic-wand.png"
+    }
   },
   {
     "name": "Spanner",
-    "customEmojiId": "5199442762352593351"
+    "customEmojiId": "5199442762352593351",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/spanner.png"
+    }
   },
   {
     "name": "Crown",
-    "customEmojiId": "5199763085308495651"
+    "customEmojiId": "5199763085308495651",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/crown.png"
+    }
   },
   {
     "name": "Inca Sun",
-    "customEmojiId": "5199572075227940967"
+    "customEmojiId": "5199572075227940967",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/inca-sun.png"
+    }
   },
   {
     "name": "Pineapple",
-    "customEmojiId": "5199590977379009936"
+    "customEmojiId": "5199590977379009936",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pineapple.png"
+    }
   },
   {
     "name": "Royal Crown",
-    "customEmojiId": "5199769278651342343"
+    "customEmojiId": "5199769278651342343",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/royal-crown.png"
+    }
   },
   {
     "name": "Scarab",
-    "customEmojiId": "5199439627026463806"
+    "customEmojiId": "5199439627026463806",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/scarab.png"
+    }
   },
   {
     "name": "Planet",
-    "customEmojiId": "5199952033804749816"
+    "customEmojiId": "5199952033804749816",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/planet.png"
+    }
   },
   {
     "name": "Crusader",
-    "customEmojiId": "5199701096045512582"
+    "customEmojiId": "5199701096045512582",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/crusader.png"
+    }
   },
   {
     "name": "Knight",
-    "customEmojiId": "5199568179692599944"
+    "customEmojiId": "5199568179692599944",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/knight.png"
+    }
   },
   {
     "name": "Cicada",
-    "customEmojiId": "5199501453080693075"
+    "customEmojiId": "5199501453080693075",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cicada.png"
+    }
   },
   {
     "name": "Gem",
-    "customEmojiId": "5199568523289988128"
+    "customEmojiId": "5199568523289988128",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/gem.png"
+    }
   },
   {
     "name": "Trophy",
-    "customEmojiId": "5199543874472675475"
+    "customEmojiId": "5199543874472675475",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/trophy.png"
+    }
   },
   {
     "name": "Calm Wolf",
-    "customEmojiId": "5199642521281532199"
+    "customEmojiId": "5199642521281532199",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/calm-wolf.png"
+    }
   },
   {
     "name": "Coat of Arms",
-    "customEmojiId": "5199543926012283083"
+    "customEmojiId": "5199543926012283083",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/coat-of-arms.png"
+    }
   },
   {
     "name": "Totem Bear",
-    "customEmojiId": "5199656939486742424"
+    "customEmojiId": "5199656939486742424",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/totem-bear.png"
+    }
   },
   {
     "name": "Diamonds",
-    "customEmojiId": "5199700121087937827"
+    "customEmojiId": "5199700121087937827",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/diamonds.png"
+    }
   },
   {
     "name": "Mask",
-    "customEmojiId": "5199413122783298258"
+    "customEmojiId": "5199413122783298258",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/mask.png"
+    }
   },
   {
     "name": "Octopus",
-    "customEmojiId": "5199415742713335939"
+    "customEmojiId": "5199415742713335939",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/octopus.png"
+    }
   },
   {
     "name": "Carrot",
-    "customEmojiId": "5199942498977352363"
+    "customEmojiId": "5199942498977352363",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/carrot.png"
+    }
   },
   {
     "name": "Musical Note",
-    "customEmojiId": "5199763458970653234"
+    "customEmojiId": "5199763458970653234",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/musical-note.png"
+    }
   },
   {
     "name": "Cactus",
-    "customEmojiId": "5199664352600297564"
+    "customEmojiId": "5199664352600297564",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cactus.png"
+    }
   },
   {
     "name": "Car",
-    "customEmojiId": "5199704214191765603"
+    "customEmojiId": "5199704214191765603",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/car.png"
+    }
   },
   {
     "name": "Monstera",
-    "customEmojiId": "5199712567903159375"
+    "customEmojiId": "5199712567903159375",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/monstera.png"
+    }
   },
   {
     "name": "Wreath",
-    "customEmojiId": "5199506340753473869"
+    "customEmojiId": "5199506340753473869",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/wreath.png"
+    }
   },
   {
     "name": "Illuminati",
-    "customEmojiId": "5199959970904312871"
+    "customEmojiId": "5199959970904312871",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/illuminati.png"
+    }
   },
   {
     "name": "Spirit Impala",
-    "customEmojiId": "5199800047797046538"
+    "customEmojiId": "5199800047797046538",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/spirit-impala.png"
+    }
   },
   {
     "name": "Thief",
-    "customEmojiId": "5199501362886377899"
+    "customEmojiId": "5199501362886377899",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/thief.png"
+    }
   },
   {
     "name": "Owl",
-    "customEmojiId": "5199736804403612865"
+    "customEmojiId": "5199736804403612865",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/owl.png"
+    }
   },
   {
     "name": "Flipper",
-    "customEmojiId": "5199562548990477877"
+    "customEmojiId": "5199562548990477877",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/flipper.png"
+    }
   },
   {
     "name": "Sprout",
-    "customEmojiId": "5199705945063589397"
+    "customEmojiId": "5199705945063589397",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sprout.png"
+    }
   },
   {
     "name": "Shark Knife",
-    "customEmojiId": "5199666796436687154"
+    "customEmojiId": "5199666796436687154",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/shark-knife.png"
+    }
   },
   {
     "name": "Toilet Paper",
-    "customEmojiId": "5199519908555163902"
+    "customEmojiId": "5199519908555163902",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/toilet-paper.png"
+    }
   },
   {
     "name": "Lion King",
-    "customEmojiId": "5199514870558527530"
+    "customEmojiId": "5199514870558527530",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/lion-king.png"
+    }
   },
   {
     "name": "Yogi Shaman",
-    "customEmojiId": "5199445571261203846"
+    "customEmojiId": "5199445571261203846",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/yogi-shaman.png"
+    }
   },
   {
     "name": "Toy Bucket",
-    "customEmojiId": "5199747872534338785"
+    "customEmojiId": "5199747872534338785",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/toy-bucket.png"
+    }
   },
   {
     "name": "Rook",
-    "customEmojiId": "5199812241209201867"
+    "customEmojiId": "5199812241209201867",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/rook.png"
+    }
   },
   {
     "name": "Conch",
-    "customEmojiId": "5199858635445929849"
+    "customEmojiId": "5199858635445929849",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/conch.png"
+    }
   },
   {
     "name": "Lovely Kiss",
-    "customEmojiId": "5199851368361267380"
+    "customEmojiId": "5199851368361267380",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/lovely-kiss.png"
+    }
   },
   {
     "name": "Rhino Warrior",
-    "customEmojiId": "5199722768450487484"
+    "customEmojiId": "5199722768450487484",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/rhino-warrior.png"
+    }
   },
   {
     "name": "Sparks",
-    "customEmojiId": "5199534721897367416"
+    "customEmojiId": "5199534721897367416",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sparks.png"
+    }
   },
   {
     "name": "Bishop",
-    "customEmojiId": "5199551953306157566"
+    "customEmojiId": "5199551953306157566",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bishop.png"
+    }
   },
   {
     "name": "PC Mouse",
-    "customEmojiId": "5199776412592014669"
+    "customEmojiId": "5199776412592014669",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pc-mouse.png"
+    }
   },
   {
     "name": "Flashlight",
-    "customEmojiId": "5199659250179147232"
+    "customEmojiId": "5199659250179147232",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/flashlight.png"
+    }
   },
   {
     "name": "White Deer",
-    "customEmojiId": "5199804858160416090"
+    "customEmojiId": "5199804858160416090",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/white-deer.png"
+    }
   },
   {
     "name": "Oxen of Fire",
-    "customEmojiId": "5199717897957573867"
+    "customEmojiId": "5199717897957573867",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/oxen-of-fire.png"
+    }
   },
   {
     "name": "Carambola",
-    "customEmojiId": "5199563687156815774"
+    "customEmojiId": "5199563687156815774",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/carambola.png"
+    }
   },
   {
     "name": "Phoenix",
-    "customEmojiId": "5199683091542608723"
+    "customEmojiId": "5199683091542608723",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/phoenix.png"
+    }
   },
   {
     "name": "Dragonfly",
-    "customEmojiId": "5199491647670355164"
+    "customEmojiId": "5199491647670355164",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/dragonfly.png"
+    }
   },
   {
     "name": "Kitsune",
-    "customEmojiId": "5199625959887635892"
+    "customEmojiId": "5199625959887635892",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/kitsune.png"
+    }
   },
   {
     "name": "Handset",
-    "customEmojiId": "5199548491562517801"
+    "customEmojiId": "5199548491562517801",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/handset.png"
+    }
   },
   {
     "name": "Piñata",
-    "customEmojiId": "5199490110072061851"
+    "customEmojiId": "5199490110072061851",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pinata.png"
+    }
   },
   {
     "name": "Genie Lamp",
-    "customEmojiId": "5199760491148248638"
+    "customEmojiId": "5199760491148248638",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/genie-lamp.png"
+    }
   },
   {
     "name": "High Heels",
-    "customEmojiId": "5199687292020627714"
+    "customEmojiId": "5199687292020627714",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/high-heels.png"
+    }
   },
   {
     "name": "Doberman",
-    "customEmojiId": "5199561689997017519"
+    "customEmojiId": "5199561689997017519",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/doberman.png"
+    }
   },
   {
     "name": "Oak Leaf",
-    "customEmojiId": "5199714255825309269"
+    "customEmojiId": "5199714255825309269",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/oak-leaf.png"
+    }
   },
   {
     "name": "Axe",
-    "customEmojiId": "5199830537769879159"
+    "customEmojiId": "5199830537769879159",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/axe.png"
+    }
   },
   {
     "name": "Boat",
-    "customEmojiId": "5199564713653997766"
+    "customEmojiId": "5199564713653997766",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/boat.png"
+    }
   },
   {
     "name": "Bull of Heaven",
-    "customEmojiId": "5199518259287723654"
+    "customEmojiId": "5199518259287723654",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bull-of-heaven.png"
+    }
   },
   {
     "name": "Tie",
-    "customEmojiId": "5199849435625984324"
+    "customEmojiId": "5199849435625984324",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/tie.png"
+    }
   },
   {
     "name": "Coin",
-    "customEmojiId": "5199414832180268714"
+    "customEmojiId": "5199414832180268714",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/coin.png"
+    }
   },
   {
     "name": "Strawberry",
-    "customEmojiId": "5199925473726988633"
+    "customEmojiId": "5199925473726988633",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/strawberry.png"
+    }
   },
   {
     "name": "Book",
-    "customEmojiId": "5199463541404373712"
+    "customEmojiId": "5199463541404373712",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/book.png"
+    }
   },
   {
     "name": "Arabian Horse",
-    "customEmojiId": "5199442384395467198"
+    "customEmojiId": "5199442384395467198",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/arabian-horse.png"
+    }
   },
   {
     "name": "Unicorn Head",
-    "customEmojiId": "5199885517646234797"
+    "customEmojiId": "5199885517646234797",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/unicorn-head.png"
+    }
   },
   {
     "name": "Inguz Rune",
-    "customEmojiId": "5199780557235455952"
+    "customEmojiId": "5199780557235455952",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/inguz-rune.png"
+    }
   },
   {
     "name": "Crystal Ball",
-    "customEmojiId": "5199590410443328799"
+    "customEmojiId": "5199590410443328799",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/crystal-ball.png"
+    }
   },
   {
     "name": "Sauron",
-    "customEmojiId": "5199852081325838722"
+    "customEmojiId": "5199852081325838722",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sauron.png"
+    }
   },
   {
     "name": "UFO",
-    "customEmojiId": "5199788069133256359"
+    "customEmojiId": "5199788069133256359",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/ufo.png"
+    }
   },
   {
     "name": "Lightning",
-    "customEmojiId": "5202201454206549813"
+    "customEmojiId": "5202201454206549813",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/lightning.png"
+    }
   },
   {
     "name": "Crab",
-    "customEmojiId": "5199541684039353419"
+    "customEmojiId": "5199541684039353419",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/crab.png"
+    }
   },
   {
     "name": "Piggy Bank",
-    "customEmojiId": "5199476082708878264"
+    "customEmojiId": "5199476082708878264",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/piggy-bank.png"
+    }
   },
   {
     "name": "Moon Cross",
-    "customEmojiId": "5199926568943652086"
+    "customEmojiId": "5199926568943652086",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/moon-cross.png"
+    }
   },
   {
     "name": "Eggplant",
-    "customEmojiId": "5199864798724001703"
+    "customEmojiId": "5199864798724001703",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/eggplant.png"
+    }
   },
   {
     "name": "Scorpion",
-    "customEmojiId": "5199940630666579018"
+    "customEmojiId": "5199940630666579018",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/scorpion.png"
+    }
   },
   {
     "name": "Celtic Wolf",
-    "customEmojiId": "5199434919742310645"
+    "customEmojiId": "5199434919742310645",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/celtic-wolf.png"
+    }
   },
   {
     "name": "Okami Wolf",
-    "customEmojiId": "5199728489346925958"
+    "customEmojiId": "5199728489346925958",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/okami-wolf.png"
+    }
   },
   {
     "name": "Mountain Lion",
-    "customEmojiId": "5199456879910094088"
+    "customEmojiId": "5199456879910094088",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/mountain-lion.png"
+    }
   },
   {
     "name": "Coconut",
-    "customEmojiId": "5199939960651680778"
+    "customEmojiId": "5199939960651680778",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/coconut.png"
+    }
   },
   {
     "name": "Palette",
-    "customEmojiId": "5199833587196661886"
+    "customEmojiId": "5199833587196661886",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/palette.png"
+    }
   },
   {
     "name": "Lily",
-    "customEmojiId": "5199594718295526169"
+    "customEmojiId": "5199594718295526169",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/lily.png"
+    }
   },
   {
     "name": "Unicorn",
-    "customEmojiId": "5199548367008467469"
+    "customEmojiId": "5199548367008467469",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/unicorn.png"
+    }
   },
   {
     "name": "Dolphin",
-    "customEmojiId": "5199801499495994058"
+    "customEmojiId": "5199801499495994058",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/dolphin.png"
+    }
   },
   {
     "name": "Tree of Life",
-    "customEmojiId": "5199597209376558882"
+    "customEmojiId": "5199597209376558882",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/tree-of-life.png"
+    }
   },
   {
     "name": "Ink Pen",
-    "customEmojiId": "5199514776069247457"
+    "customEmojiId": "5199514776069247457",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/ink-pen.png"
+    }
   },
   {
     "name": "Heart",
-    "customEmojiId": "5199448474659098272"
+    "customEmojiId": "5199448474659098272",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/heart.png"
+    }
   },
   {
     "name": "Pickaxe",
-    "customEmojiId": "5199445292088328237"
+    "customEmojiId": "5199445292088328237",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pickaxe.png"
+    }
   },
   {
     "name": "Flower Cross",
-    "customEmojiId": "5199741412903518768"
+    "customEmojiId": "5199741412903518768",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/flower-cross.png"
+    }
   },
   {
     "name": "Candle",
-    "customEmojiId": "5199639604998733687"
+    "customEmojiId": "5199639604998733687",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/candle.png"
+    }
   },
   {
     "name": "Beetle",
-    "customEmojiId": "5199410751961337105"
+    "customEmojiId": "5199410751961337105",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/beetle.png"
+    }
   },
   {
     "name": "Twin Peaks",
-    "customEmojiId": "5199548495857482960"
+    "customEmojiId": "5199548495857482960",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/twin-peaks.png"
+    }
   },
   {
     "name": "Spider Web",
-    "customEmojiId": "5201766709026913537"
+    "customEmojiId": "5201766709026913537",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/spider-web.png"
+    }
   },
   {
     "name": "Shooting Star",
-    "customEmojiId": "5199756398044416521"
+    "customEmojiId": "5199756398044416521",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/shooting-star.png"
+    }
   },
   {
     "name": "Money Bag",
-    "customEmojiId": "5199426943988044271"
+    "customEmojiId": "5199426943988044271",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/money-bag.png"
+    }
   },
   {
     "name": "Cash",
-    "customEmojiId": "5199583108998922344"
+    "customEmojiId": "5199583108998922344",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cash.png"
+    }
   },
   {
     "name": "Venetian Mask",
-    "customEmojiId": "5199793845864267822"
+    "customEmojiId": "5199793845864267822",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/venetian-mask.png"
+    }
   },
   {
     "name": "Pencil",
-    "customEmojiId": "5199649638042340721"
+    "customEmojiId": "5199649638042340721",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pencil.png"
+    }
   },
   {
     "name": "Pyramid",
-    "customEmojiId": "5199649565027895118"
+    "customEmojiId": "5199649565027895118",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pyramid.png"
+    }
   },
   {
     "name": "Skull",
-    "customEmojiId": "5199619431537348678"
+    "customEmojiId": "5199619431537348678",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/skull.png"
+    }
   },
   {
     "name": "Glasses",
-    "customEmojiId": "5199843323887519152"
+    "customEmojiId": "5199843323887519152",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/glasses.png"
+    }
   },
   {
     "name": "Sun",
-    "customEmojiId": "5199964983131145958"
+    "customEmojiId": "5199964983131145958",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sun.png"
+    }
   },
   {
     "name": "Tribal Shield",
-    "customEmojiId": "5199940531882326218"
+    "customEmojiId": "5199940531882326218",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/tribal-shield.png"
+    }
   },
   {
     "name": "Bee",
-    "customEmojiId": "5199604974677428405"
+    "customEmojiId": "5199604974677428405",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bee.png"
+    }
   },
   {
     "name": "Bunny",
-    "customEmojiId": "5199800120811489322"
+    "customEmojiId": "5199800120811489322",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/bunny.png"
+    }
   },
   {
     "name": "Maple",
-    "customEmojiId": "5199893351666582880"
+    "customEmojiId": "5199893351666582880",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/maple.png"
+    }
   },
   {
     "name": "Sumerian Bird",
-    "customEmojiId": "5199797367737452718"
+    "customEmojiId": "5199797367737452718",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/sumerian-bird.png"
+    }
   },
   {
     "name": "Cheese",
-    "customEmojiId": "5199949985105348813"
+    "customEmojiId": "5199949985105348813",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/cheese.png"
+    }
   },
   {
     "name": "Love Letter",
-    "customEmojiId": "5199624482418887229"
+    "customEmojiId": "5199624482418887229",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/love-letter.png"
+    }
   },
   {
     "name": "Burger",
-    "customEmojiId": "5199576765332229212"
+    "customEmojiId": "5199576765332229212",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/burger.png"
+    }
   },
   {
     "name": "Alkonost",
-    "customEmojiId": "5199529237224130039"
+    "customEmojiId": "5199529237224130039",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/alkonost.png"
+    }
   },
   {
     "name": "Flower",
-    "customEmojiId": "5199829013056490060"
+    "customEmojiId": "5199829013056490060",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/flower.png"
+    }
   },
   {
     "name": "Pearl",
-    "customEmojiId": "5199540305354854917"
+    "customEmojiId": "5199540305354854917",
+    "assets": {
+      "png": "gifts/swisswatch/assets/patterns/pearl.png"
+    }
   }
 ] satisfies readonly GiftPattern[];
 

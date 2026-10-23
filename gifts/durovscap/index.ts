@@ -3,1018 +3,1832 @@ import type { GiftModel, GiftPattern, Backdrop, GiftCollection } from '../../typ
 export const models = [
   {
     "name": "Asterix",
-    "customEmojiId": "5456203011183371567"
+    "customEmojiId": "5456203011183371567",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/asterix.svg",
+      "tgs": "gifts/durovscap/assets/models/asterix.tgs"
+    }
   },
   {
     "name": "RGB Glitch",
-    "customEmojiId": "5456305012361687632"
+    "customEmojiId": "5456305012361687632",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/rgb-glitch.svg",
+      "tgs": "gifts/durovscap/assets/models/rgb-glitch.tgs"
+    }
   },
   {
     "name": "Artwork",
-    "customEmojiId": "5456496533543346915"
+    "customEmojiId": "5456496533543346915",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/artwork.svg",
+      "tgs": "gifts/durovscap/assets/models/artwork.tgs"
+    }
   },
   {
     "name": "Voltage",
-    "customEmojiId": "5456264699798643395"
+    "customEmojiId": "5456264699798643395",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/voltage.svg",
+      "tgs": "gifts/durovscap/assets/models/voltage.tgs"
+    }
   },
   {
     "name": "Captain",
-    "customEmojiId": "5456147077824274112"
+    "customEmojiId": "5456147077824274112",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/captain.svg",
+      "tgs": "gifts/durovscap/assets/models/captain.tgs"
+    }
   },
   {
     "name": "Falcon",
-    "customEmojiId": "5454407250997173562"
+    "customEmojiId": "5454407250997173562",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/falcon.svg",
+      "tgs": "gifts/durovscap/assets/models/falcon.tgs"
+    }
   },
   {
     "name": "Cartoon",
-    "customEmojiId": "5453907269559278890"
+    "customEmojiId": "5453907269559278890",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/cartoon.svg",
+      "tgs": "gifts/durovscap/assets/models/cartoon.tgs"
+    }
   },
   {
     "name": "Fun Time",
-    "customEmojiId": "5453896618040386188"
+    "customEmojiId": "5453896618040386188",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/fun-time.svg",
+      "tgs": "gifts/durovscap/assets/models/fun-time.tgs"
+    }
   },
   {
     "name": "Neon",
-    "customEmojiId": "5453963559400660818"
+    "customEmojiId": "5453963559400660818",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/neon.svg",
+      "tgs": "gifts/durovscap/assets/models/neon.tgs"
+    }
   },
   {
     "name": "Snowfall",
-    "customEmojiId": "5456346969897199046"
+    "customEmojiId": "5456346969897199046",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/snowfall.svg",
+      "tgs": "gifts/durovscap/assets/models/snowfall.tgs"
+    }
   },
   {
     "name": "Honey Bee",
-    "customEmojiId": "5454161501558430632"
+    "customEmojiId": "5454161501558430632",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/honey-bee.svg",
+      "tgs": "gifts/durovscap/assets/models/honey-bee.tgs"
+    }
   },
   {
     "name": "Redrum",
-    "customEmojiId": "5456265846554910766"
+    "customEmojiId": "5456265846554910766",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/redrum.svg",
+      "tgs": "gifts/durovscap/assets/models/redrum.tgs"
+    }
   },
   {
     "name": "Tron",
-    "customEmojiId": "5456647377089749607"
+    "customEmojiId": "5456647377089749607",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/tron.svg",
+      "tgs": "gifts/durovscap/assets/models/tron.tgs"
+    }
   },
   {
     "name": "Cotton Candy",
-    "customEmojiId": "5454037596046906791"
+    "customEmojiId": "5454037596046906791",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/cotton-candy.svg",
+      "tgs": "gifts/durovscap/assets/models/cotton-candy.tgs"
+    }
   },
   {
     "name": "Jetspin",
-    "customEmojiId": "5456468276953506363"
+    "customEmojiId": "5456468276953506363",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/jetspin.svg",
+      "tgs": "gifts/durovscap/assets/models/jetspin.tgs"
+    }
   },
   {
     "name": "Toxic Guy",
-    "customEmojiId": "5454064194779373874"
+    "customEmojiId": "5454064194779373874",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/toxic-guy.svg",
+      "tgs": "gifts/durovscap/assets/models/toxic-guy.tgs"
+    }
   },
   {
     "name": "Ashen",
-    "customEmojiId": "5454083672456059886"
+    "customEmojiId": "5454083672456059886",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/ashen.svg",
+      "tgs": "gifts/durovscap/assets/models/ashen.tgs"
+    }
   },
   {
     "name": "Bog Moss",
-    "customEmojiId": "5454236165269905713"
+    "customEmojiId": "5454236165269905713",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/bog-moss.svg",
+      "tgs": "gifts/durovscap/assets/models/bog-moss.tgs"
+    }
   },
   {
     "name": "Negative",
-    "customEmojiId": "5456469432299708744"
+    "customEmojiId": "5456469432299708744",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/negative.svg",
+      "tgs": "gifts/durovscap/assets/models/negative.tgs"
+    }
   },
   {
     "name": "Autumn",
-    "customEmojiId": "5454238982768452240"
+    "customEmojiId": "5454238982768452240",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/autumn.svg",
+      "tgs": "gifts/durovscap/assets/models/autumn.tgs"
+    }
   },
   {
     "name": "Apple Slice",
-    "customEmojiId": "5453998610628762170"
+    "customEmojiId": "5453998610628762170",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/apple-slice.svg",
+      "tgs": "gifts/durovscap/assets/models/apple-slice.tgs"
+    }
   },
   {
     "name": "Macintosh",
-    "customEmojiId": "5456183859924199993"
+    "customEmojiId": "5456183859924199993",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/macintosh.svg",
+      "tgs": "gifts/durovscap/assets/models/macintosh.tgs"
+    }
   },
   {
     "name": "Chicago Bulls",
-    "customEmojiId": "5454361750113639760"
+    "customEmojiId": "5454361750113639760",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/chicago-bulls.svg",
+      "tgs": "gifts/durovscap/assets/models/chicago-bulls.tgs"
+    }
   },
   {
     "name": "Corkwood",
-    "customEmojiId": "5454065947126032695"
+    "customEmojiId": "5454065947126032695",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/corkwood.svg",
+      "tgs": "gifts/durovscap/assets/models/corkwood.tgs"
+    }
   },
   {
     "name": "Candy Shade",
-    "customEmojiId": "5456579619685686917"
+    "customEmojiId": "5456579619685686917",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/candy-shade.svg",
+      "tgs": "gifts/durovscap/assets/models/candy-shade.tgs"
+    }
   },
   {
     "name": "Seabreeze",
-    "customEmojiId": "5454134494804074797"
+    "customEmojiId": "5454134494804074797",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/seabreeze.svg",
+      "tgs": "gifts/durovscap/assets/models/seabreeze.tgs"
+    }
   },
   {
     "name": "Bordeaux",
-    "customEmojiId": "5456459528105125118"
+    "customEmojiId": "5456459528105125118",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/bordeaux.svg",
+      "tgs": "gifts/durovscap/assets/models/bordeaux.tgs"
+    }
   },
   {
     "name": "Shadeux",
-    "customEmojiId": "5454402865835564130"
+    "customEmojiId": "5454402865835564130",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/shadeux.svg",
+      "tgs": "gifts/durovscap/assets/models/shadeux.tgs"
+    }
   },
   {
     "name": "Patriot",
-    "customEmojiId": "5454139399656726390"
+    "customEmojiId": "5454139399656726390",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/patriot.svg",
+      "tgs": "gifts/durovscap/assets/models/patriot.tgs"
+    }
   },
   {
     "name": "Villager",
-    "customEmojiId": "5456306953686903383"
+    "customEmojiId": "5456306953686903383",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/villager.svg",
+      "tgs": "gifts/durovscap/assets/models/villager.tgs"
+    }
   },
   {
     "name": "Krueger",
-    "customEmojiId": "5456461744308249091"
+    "customEmojiId": "5456461744308249091",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/krueger.svg",
+      "tgs": "gifts/durovscap/assets/models/krueger.tgs"
+    }
   },
   {
     "name": "Ivory",
-    "customEmojiId": "5456575140034797860"
+    "customEmojiId": "5456575140034797860",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/ivory.svg",
+      "tgs": "gifts/durovscap/assets/models/ivory.tgs"
+    }
   },
   {
     "name": "Creamsicle",
-    "customEmojiId": "5456258201513125884"
+    "customEmojiId": "5456258201513125884",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/creamsicle.svg",
+      "tgs": "gifts/durovscap/assets/models/creamsicle.tgs"
+    }
   },
   {
     "name": "Aurora",
-    "customEmojiId": "5456377593014020549"
+    "customEmojiId": "5456377593014020549",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/aurora.svg",
+      "tgs": "gifts/durovscap/assets/models/aurora.tgs"
+    }
   },
   {
     "name": "Duck Tales",
-    "customEmojiId": "5456154001311555854"
+    "customEmojiId": "5456154001311555854",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/duck-tales.svg",
+      "tgs": "gifts/durovscap/assets/models/duck-tales.tgs"
+    }
   },
   {
     "name": "Shadow",
-    "customEmojiId": "5454008918550271839"
+    "customEmojiId": "5454008918550271839",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/shadow.svg",
+      "tgs": "gifts/durovscap/assets/models/shadow.tgs"
+    }
   },
   {
     "name": "Bluebird",
-    "customEmojiId": "5454054277699885202"
+    "customEmojiId": "5454054277699885202",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/bluebird.svg",
+      "tgs": "gifts/durovscap/assets/models/bluebird.tgs"
+    }
   },
   {
     "name": "Dipper",
-    "customEmojiId": "5456253047552371843"
+    "customEmojiId": "5456253047552371843",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/dipper.svg",
+      "tgs": "gifts/durovscap/assets/models/dipper.tgs"
+    }
   },
   {
     "name": "Classic",
-    "customEmojiId": "5454017950866498901"
+    "customEmojiId": "5454017950866498901",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/classic.svg",
+      "tgs": "gifts/durovscap/assets/models/classic.tgs"
+    }
   },
   {
     "name": "Jade",
-    "customEmojiId": "5456263273869500696"
+    "customEmojiId": "5456263273869500696",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/jade.svg",
+      "tgs": "gifts/durovscap/assets/models/jade.tgs"
+    }
   },
   {
     "name": "Pokemon",
-    "customEmojiId": "5454230689186601886"
+    "customEmojiId": "5454230689186601886",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/pokemon.svg",
+      "tgs": "gifts/durovscap/assets/models/pokemon.tgs"
+    }
   },
   {
     "name": "Nightshade",
-    "customEmojiId": "5456600858298967939"
+    "customEmojiId": "5456600858298967939",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/nightshade.svg",
+      "tgs": "gifts/durovscap/assets/models/nightshade.tgs"
+    }
   },
   {
     "name": "Frosted Brew",
-    "customEmojiId": "5456340995597688639"
+    "customEmojiId": "5456340995597688639",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/frosted-brew.svg",
+      "tgs": "gifts/durovscap/assets/models/frosted-brew.tgs"
+    }
   },
   {
     "name": "Pinkie Cap",
-    "customEmojiId": "5456241326586619360"
+    "customEmojiId": "5456241326586619360",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/pinkie-cap.svg",
+      "tgs": "gifts/durovscap/assets/models/pinkie-cap.tgs"
+    }
   },
   {
     "name": "Sea Sunset",
-    "customEmojiId": "5456493870663622718"
+    "customEmojiId": "5456493870663622718",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/sea-sunset.svg",
+      "tgs": "gifts/durovscap/assets/models/sea-sunset.tgs"
+    }
   },
   {
     "name": "Sky High",
-    "customEmojiId": "5456309869969696925"
+    "customEmojiId": "5456309869969696925",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/sky-high.svg",
+      "tgs": "gifts/durovscap/assets/models/sky-high.tgs"
+    }
   },
   {
     "name": "Mossy",
-    "customEmojiId": "5454086494249574701"
+    "customEmojiId": "5454086494249574701",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/mossy.svg",
+      "tgs": "gifts/durovscap/assets/models/mossy.tgs"
+    }
   },
   {
     "name": "Freshwave",
-    "customEmojiId": "5454243458124377381"
+    "customEmojiId": "5454243458124377381",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/freshwave.svg",
+      "tgs": "gifts/durovscap/assets/models/freshwave.tgs"
+    }
   },
   {
     "name": "Sepium",
-    "customEmojiId": "5454127734525550408"
+    "customEmojiId": "5454127734525550408",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/sepium.svg",
+      "tgs": "gifts/durovscap/assets/models/sepium.tgs"
+    }
   },
   {
     "name": "Night Ivy",
-    "customEmojiId": "5456515470054156388"
+    "customEmojiId": "5456515470054156388",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/night-ivy.svg",
+      "tgs": "gifts/durovscap/assets/models/night-ivy.tgs"
+    }
   },
   {
     "name": "Sunrise",
-    "customEmojiId": "5460717562977346829"
+    "customEmojiId": "5460717562977346829",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/sunrise.svg",
+      "tgs": "gifts/durovscap/assets/models/sunrise.tgs"
+    }
   },
   {
     "name": "Duskwave",
-    "customEmojiId": "5458925565182503994"
+    "customEmojiId": "5458925565182503994",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/duskwave.svg",
+      "tgs": "gifts/durovscap/assets/models/duskwave.tgs"
+    }
   },
   {
     "name": "Pink Pop",
-    "customEmojiId": "5461161679775620005"
+    "customEmojiId": "5461161679775620005",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/pink-pop.svg",
+      "tgs": "gifts/durovscap/assets/models/pink-pop.tgs"
+    }
   },
   {
     "name": "Goldrose",
-    "customEmojiId": "5460896560034374716"
+    "customEmojiId": "5460896560034374716",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/goldrose.svg",
+      "tgs": "gifts/durovscap/assets/models/goldrose.tgs"
+    }
   },
   {
     "name": "Frosthorn",
-    "customEmojiId": "5460906339674906644"
+    "customEmojiId": "5460906339674906644",
+    "assets": {
+      "svg": "gifts/durovscap/assets/models/frosthorn.svg",
+      "tgs": "gifts/durovscap/assets/models/frosthorn.tgs"
+    }
   }
 ] satisfies readonly GiftModel[];
 
 export const patterns = [
   {
     "name": "Moon Eagle",
-    "customEmojiId": "5199513281420625625"
+    "customEmojiId": "5199513281420625625",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/moon-eagle.png"
+    }
   },
   {
     "name": "Top Hat",
-    "customEmojiId": "5199704811192221997"
+    "customEmojiId": "5199704811192221997",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/top-hat.png"
+    }
   },
   {
     "name": "Star",
-    "customEmojiId": "5199425320490407263"
+    "customEmojiId": "5199425320490407263",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/star.png"
+    }
   },
   {
     "name": "Money Bag",
-    "customEmojiId": "5199426943988044271"
+    "customEmojiId": "5199426943988044271",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/money-bag.png"
+    }
   },
   {
     "name": "Key",
-    "customEmojiId": "5199761882717653195"
+    "customEmojiId": "5199761882717653195",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/key.png"
+    }
   },
   {
     "name": "Mayan Moth",
-    "customEmojiId": "5199778452701480675"
+    "customEmojiId": "5199778452701480675",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/mayan-moth.png"
+    }
   },
   {
     "name": "Coffee Bean",
-    "customEmojiId": "5199617662010820206"
+    "customEmojiId": "5199617662010820206",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/coffee-bean.png"
+    }
   },
   {
     "name": "Bubble Tea",
-    "customEmojiId": "5199799150148883131"
+    "customEmojiId": "5199799150148883131",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bubble-tea.png"
+    }
   },
   {
     "name": "Candy",
-    "customEmojiId": "5199911012572105730"
+    "customEmojiId": "5199911012572105730",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/candy.png"
+    }
   },
   {
     "name": "Bow Tie",
-    "customEmojiId": "5199652756188594205"
+    "customEmojiId": "5199652756188594205",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bow-tie.png"
+    }
   },
   {
     "name": "Wolf Rage",
-    "customEmojiId": "5199809844617447088"
+    "customEmojiId": "5199809844617447088",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/wolf-rage.png"
+    }
   },
   {
     "name": "Totem Bear",
-    "customEmojiId": "5199656939486742424"
+    "customEmojiId": "5199656939486742424",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/totem-bear.png"
+    }
   },
   {
     "name": "Turtle",
-    "customEmojiId": "5199802964079839347"
+    "customEmojiId": "5199802964079839347",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/turtle.png"
+    }
   },
   {
     "name": "Lovely Kiss",
-    "customEmojiId": "5199851368361267380"
+    "customEmojiId": "5199851368361267380",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/lovely-kiss.png"
+    }
   },
   {
     "name": "Beetle",
-    "customEmojiId": "5199410751961337105"
+    "customEmojiId": "5199410751961337105",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/beetle.png"
+    }
   },
   {
     "name": "Anchor",
-    "customEmojiId": "5199524130508019696"
+    "customEmojiId": "5199524130508019696",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/anchor.png"
+    }
   },
   {
     "name": "Owl",
-    "customEmojiId": "5199736804403612865"
+    "customEmojiId": "5199736804403612865",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/owl.png"
+    }
   },
   {
     "name": "Apple",
-    "customEmojiId": "5199834806967375335"
+    "customEmojiId": "5199834806967375335",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/apple.png"
+    }
   },
   {
     "name": "Toy Bucket",
-    "customEmojiId": "5199747872534338785"
+    "customEmojiId": "5199747872534338785",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/toy-bucket.png"
+    }
   },
   {
     "name": "Gold",
-    "customEmojiId": "5199529048245569871"
+    "customEmojiId": "5199529048245569871",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/gold.png"
+    }
   },
   {
     "name": "Tribal Shield",
-    "customEmojiId": "5199940531882326218"
+    "customEmojiId": "5199940531882326218",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/tribal-shield.png"
+    }
   },
   {
     "name": "Car",
-    "customEmojiId": "5199704214191765603"
+    "customEmojiId": "5199704214191765603",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/car.png"
+    }
   },
   {
     "name": "Police Badge",
-    "customEmojiId": "5199500710051351632"
+    "customEmojiId": "5199500710051351632",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/police-badge.png"
+    }
   },
   {
     "name": "Narcissus",
-    "customEmojiId": "5199732805789058517"
+    "customEmojiId": "5199732805789058517",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/narcissus.png"
+    }
   },
   {
     "name": "Coat of Arms",
-    "customEmojiId": "5199543926012283083"
+    "customEmojiId": "5199543926012283083",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/coat-of-arms.png"
+    }
   },
   {
     "name": "Plum",
-    "customEmojiId": "5199962951611612377"
+    "customEmojiId": "5199962951611612377",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/plum.png"
+    }
   },
   {
     "name": "Heart",
-    "customEmojiId": "5199448474659098272"
+    "customEmojiId": "5199448474659098272",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/heart.png"
+    }
   },
   {
     "name": "Carambola",
-    "customEmojiId": "5199563687156815774"
+    "customEmojiId": "5199563687156815774",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/carambola.png"
+    }
   },
   {
     "name": "Sauron",
-    "customEmojiId": "5199852081325838722"
+    "customEmojiId": "5199852081325838722",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sauron.png"
+    }
   },
   {
     "name": "Champagne",
-    "customEmojiId": "5199679432230471443"
+    "customEmojiId": "5199679432230471443",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/champagne.png"
+    }
   },
   {
     "name": "Like",
-    "customEmojiId": "5199438957011572772"
+    "customEmojiId": "5199438957011572772",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/like.png"
+    }
   },
   {
     "name": "Avocado",
-    "customEmojiId": "5199464318793453067"
+    "customEmojiId": "5199464318793453067",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/avocado.png"
+    }
   },
   {
     "name": "Tooth",
-    "customEmojiId": "5199462351698429183"
+    "customEmojiId": "5199462351698429183",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/tooth.png"
+    }
   },
   {
     "name": "Crown",
-    "customEmojiId": "5199763085308495651"
+    "customEmojiId": "5199763085308495651",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/crown.png"
+    }
   },
   {
     "name": "White Deer",
-    "customEmojiId": "5199804858160416090"
+    "customEmojiId": "5199804858160416090",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/white-deer.png"
+    }
   },
   {
     "name": "Flower",
-    "customEmojiId": "5199829013056490060"
+    "customEmojiId": "5199829013056490060",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/flower.png"
+    }
   },
   {
     "name": "Bottlenose",
-    "customEmojiId": "5199797414982094107"
+    "customEmojiId": "5199797414982094107",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bottlenose.png"
+    }
   },
   {
     "name": "Cherry",
-    "customEmojiId": "5199513358730037370"
+    "customEmojiId": "5199513358730037370",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cherry.png"
+    }
   },
   {
     "name": "Trophy",
-    "customEmojiId": "5199543874472675475"
+    "customEmojiId": "5199543874472675475",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/trophy.png"
+    }
   },
   {
     "name": "Coin",
-    "customEmojiId": "5199414832180268714"
+    "customEmojiId": "5199414832180268714",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/coin.png"
+    }
   },
   {
     "name": "Sea Horse",
-    "customEmojiId": "5199693631392352882"
+    "customEmojiId": "5199693631392352882",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sea-horse.png"
+    }
   },
   {
     "name": "Cursor",
-    "customEmojiId": "5199454088181354831"
+    "customEmojiId": "5199454088181354831",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cursor.png"
+    }
   },
   {
     "name": "Flower Cross",
-    "customEmojiId": "5199741412903518768"
+    "customEmojiId": "5199741412903518768",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/flower-cross.png"
+    }
   },
   {
     "name": "Bubbles",
-    "customEmojiId": "5199440863977046426"
+    "customEmojiId": "5199440863977046426",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bubbles.png"
+    }
   },
   {
     "name": "Plume",
-    "customEmojiId": "5199642800454407125"
+    "customEmojiId": "5199642800454407125",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/plume.png"
+    }
   },
   {
     "name": "Oak Leaf",
-    "customEmojiId": "5199714255825309269"
+    "customEmojiId": "5199714255825309269",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/oak-leaf.png"
+    }
   },
   {
     "name": "Smartphone",
-    "customEmojiId": "5199833724635614475"
+    "customEmojiId": "5199833724635614475",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/smartphone.png"
+    }
   },
   {
     "name": "Cocktail",
-    "customEmojiId": "5199925405007515741"
+    "customEmojiId": "5199925405007515741",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cocktail.png"
+    }
   },
   {
     "name": "Sumerian Bird",
-    "customEmojiId": "5199797367737452718"
+    "customEmojiId": "5199797367737452718",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sumerian-bird.png"
+    }
   },
   {
     "name": "Twin Peaks",
-    "customEmojiId": "5199548495857482960"
+    "customEmojiId": "5199548495857482960",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/twin-peaks.png"
+    }
   },
   {
     "name": "Candle",
-    "customEmojiId": "5199639604998733687"
+    "customEmojiId": "5199639604998733687",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/candle.png"
+    }
   },
   {
     "name": "Gingerbread",
-    "customEmojiId": "5199945376605439444"
+    "customEmojiId": "5199945376605439444",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/gingerbread.png"
+    }
   },
   {
     "name": "Fleur-de-lis",
-    "customEmojiId": "5199655573687140713"
+    "customEmojiId": "5199655573687140713",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/fleur-de-lis.png"
+    }
   },
   {
     "name": "Lemon Slice",
-    "customEmojiId": "5199964953066377215"
+    "customEmojiId": "5199964953066377215",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/lemon-slice.png"
+    }
   },
   {
     "name": "Cone",
-    "customEmojiId": "5199449329357589107"
+    "customEmojiId": "5199449329357589107",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cone.png"
+    }
   },
   {
     "name": "Blood Drop",
-    "customEmojiId": "5199450016552355691"
+    "customEmojiId": "5199450016552355691",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/blood-drop.png"
+    }
   },
   {
     "name": "Vortex",
-    "customEmojiId": "5199813753037687817"
+    "customEmojiId": "5199813753037687817",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/vortex.png"
+    }
   },
   {
     "name": "Grenade",
-    "customEmojiId": "5199860864533955715"
+    "customEmojiId": "5199860864533955715",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/grenade.png"
+    }
   },
   {
     "name": "Lion King",
-    "customEmojiId": "5199514870558527530"
+    "customEmojiId": "5199514870558527530",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/lion-king.png"
+    }
   },
   {
     "name": "Sun",
-    "customEmojiId": "5199964983131145958"
+    "customEmojiId": "5199964983131145958",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sun.png"
+    }
   },
   {
     "name": "Rocket",
-    "customEmojiId": "5199857192336916692"
+    "customEmojiId": "5199857192336916692",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/rocket.png"
+    }
   },
   {
     "name": "Celtic Wolf",
-    "customEmojiId": "5199434919742310645"
+    "customEmojiId": "5199434919742310645",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/celtic-wolf.png"
+    }
   },
   {
     "name": "Rain Drop",
-    "customEmojiId": "5199596200059239228"
+    "customEmojiId": "5199596200059239228",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/rain-drop.png"
+    }
   },
   {
     "name": "Pearl",
-    "customEmojiId": "5199540305354854917"
+    "customEmojiId": "5199540305354854917",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pearl.png"
+    }
   },
   {
     "name": "Handset",
-    "customEmojiId": "5199548491562517801"
+    "customEmojiId": "5199548491562517801",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/handset.png"
+    }
   },
   {
     "name": "Sakura",
-    "customEmojiId": "5199856934638878837"
+    "customEmojiId": "5199856934638878837",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sakura.png"
+    }
   },
   {
     "name": "Piñata",
-    "customEmojiId": "5199490110072061851"
+    "customEmojiId": "5199490110072061851",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pinata.png"
+    }
   },
   {
     "name": "Acorn",
-    "customEmojiId": "5199500774475870841"
+    "customEmojiId": "5199500774475870841",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/acorn.png"
+    }
   },
   {
     "name": "Wasp",
-    "customEmojiId": "5199841038964917820"
+    "customEmojiId": "5199841038964917820",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/wasp.png"
+    }
   },
   {
     "name": "Celtic Cross",
-    "customEmojiId": "5199560126628923287"
+    "customEmojiId": "5199560126628923287",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/celtic-cross.png"
+    }
   },
   {
     "name": "Hermit Shell",
-    "customEmojiId": "5199762329394253336"
+    "customEmojiId": "5199762329394253336",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/hermit-shell.png"
+    }
   },
   {
     "name": "Flipper",
-    "customEmojiId": "5199562548990477877"
+    "customEmojiId": "5199562548990477877",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/flipper.png"
+    }
   },
   {
     "name": "Conch",
-    "customEmojiId": "5199858635445929849"
+    "customEmojiId": "5199858635445929849",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/conch.png"
+    }
   },
   {
     "name": "Crusader",
-    "customEmojiId": "5199701096045512582"
+    "customEmojiId": "5199701096045512582",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/crusader.png"
+    }
   },
   {
     "name": "Fenrir",
-    "customEmojiId": "5199525530667354783"
+    "customEmojiId": "5199525530667354783",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/fenrir.png"
+    }
   },
   {
     "name": "Glasses",
-    "customEmojiId": "5199843323887519152"
+    "customEmojiId": "5199843323887519152",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/glasses.png"
+    }
   },
   {
     "name": "Doberman",
-    "customEmojiId": "5199561689997017519"
+    "customEmojiId": "5199561689997017519",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/doberman.png"
+    }
   },
   {
     "name": "Ram of Amun",
-    "customEmojiId": "5199770601501268034"
+    "customEmojiId": "5199770601501268034",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/ram-of-amun.png"
+    }
   },
   {
     "name": "Monstera",
-    "customEmojiId": "5199712567903159375"
+    "customEmojiId": "5199712567903159375",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/monstera.png"
+    }
   },
   {
     "name": "Eagle",
-    "customEmojiId": "5199844350384703801"
+    "customEmojiId": "5199844350384703801",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/eagle.png"
+    }
   },
   {
     "name": "Bunny Ears",
-    "customEmojiId": "5199774076129808154"
+    "customEmojiId": "5199774076129808154",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bunny-ears.png"
+    }
   },
   {
     "name": "Sparks",
-    "customEmojiId": "5199534721897367416"
+    "customEmojiId": "5199534721897367416",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sparks.png"
+    }
   },
   {
     "name": "Pyramid",
-    "customEmojiId": "5199649565027895118"
+    "customEmojiId": "5199649565027895118",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pyramid.png"
+    }
   },
   {
     "name": "Scarab",
-    "customEmojiId": "5199439627026463806"
+    "customEmojiId": "5199439627026463806",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/scarab.png"
+    }
   },
   {
     "name": "Red Deer",
-    "customEmojiId": "5199967207924207004"
+    "customEmojiId": "5199967207924207004",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/red-deer.png"
+    }
   },
   {
     "name": "Cash",
-    "customEmojiId": "5199583108998922344"
+    "customEmojiId": "5199583108998922344",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cash.png"
+    }
   },
   {
     "name": "Baphomet",
-    "customEmojiId": "5199603441374108638"
+    "customEmojiId": "5199603441374108638",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/baphomet.png"
+    }
   },
   {
     "name": "Toilet",
-    "customEmojiId": "5199426501606409252"
+    "customEmojiId": "5199426501606409252",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/toilet.png"
+    }
   },
   {
     "name": "Brain",
-    "customEmojiId": "5199813422325207751"
+    "customEmojiId": "5199813422325207751",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/brain.png"
+    }
   },
   {
     "name": "Firebird",
-    "customEmojiId": "5199747116620088950"
+    "customEmojiId": "5199747116620088950",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/firebird.png"
+    }
   },
   {
     "name": "Cat Mask",
-    "customEmojiId": "5199751016450395261"
+    "customEmojiId": "5199751016450395261",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cat-mask.png"
+    }
   },
   {
     "name": "Polar Bear",
-    "customEmojiId": "5199407315987502006"
+    "customEmojiId": "5199407315987502006",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/polar-bear.png"
+    }
   },
   {
     "name": "Mountain Goat",
-    "customEmojiId": "5199689319245190164"
+    "customEmojiId": "5199689319245190164",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/mountain-goat.png"
+    }
   },
   {
     "name": "Diamonds",
-    "customEmojiId": "5199700121087937827"
+    "customEmojiId": "5199700121087937827",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/diamonds.png"
+    }
   },
   {
     "name": "Moon Cross",
-    "customEmojiId": "5199926568943652086"
+    "customEmojiId": "5199926568943652086",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/moon-cross.png"
+    }
   },
   {
     "name": "Hammerhead",
-    "customEmojiId": "5199846888710377808"
+    "customEmojiId": "5199846888710377808",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/hammerhead.png"
+    }
   },
   {
     "name": "Spades",
-    "customEmojiId": "5199913155760783674"
+    "customEmojiId": "5199913155760783674",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/spades.png"
+    }
   },
   {
     "name": "Cicada",
-    "customEmojiId": "5199501453080693075"
+    "customEmojiId": "5199501453080693075",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cicada.png"
+    }
   },
   {
     "name": "Jumbo Pencil",
-    "customEmojiId": "5199442723697888040"
+    "customEmojiId": "5199442723697888040",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/jumbo-pencil.png"
+    }
   },
   {
     "name": "Tie",
-    "customEmojiId": "5199849435625984324"
+    "customEmojiId": "5199849435625984324",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/tie.png"
+    }
   },
   {
     "name": "Shooting Star",
-    "customEmojiId": "5199756398044416521"
+    "customEmojiId": "5199756398044416521",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/shooting-star.png"
+    }
   },
   {
     "name": "Octopus",
-    "customEmojiId": "5199415742713335939"
+    "customEmojiId": "5199415742713335939",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/octopus.png"
+    }
   },
   {
     "name": "Dolphin",
-    "customEmojiId": "5199801499495994058"
+    "customEmojiId": "5199801499495994058",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/dolphin.png"
+    }
   },
   {
     "name": "High Heels",
-    "customEmojiId": "5199687292020627714"
+    "customEmojiId": "5199687292020627714",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/high-heels.png"
+    }
   },
   {
     "name": "Dice",
-    "customEmojiId": "5199905927330827651"
+    "customEmojiId": "5199905927330827651",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/dice.png"
+    }
   },
   {
     "name": "Illuminati",
-    "customEmojiId": "5199959970904312871"
+    "customEmojiId": "5199959970904312871",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/illuminati.png"
+    }
   },
   {
     "name": "Maple",
-    "customEmojiId": "5199893351666582880"
+    "customEmojiId": "5199893351666582880",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/maple.png"
+    }
   },
   {
     "name": "Leaf",
-    "customEmojiId": "5199589658824052117"
+    "customEmojiId": "5199589658824052117",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/leaf.png"
+    }
   },
   {
     "name": "Pomegranate",
-    "customEmojiId": "5199497579020194190"
+    "customEmojiId": "5199497579020194190",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pomegranate.png"
+    }
   },
   {
     "name": "Mountain Lion",
-    "customEmojiId": "5199456879910094088"
+    "customEmojiId": "5199456879910094088",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/mountain-lion.png"
+    }
   },
   {
     "name": "Unicorn Head",
-    "customEmojiId": "5199885517646234797"
+    "customEmojiId": "5199885517646234797",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/unicorn-head.png"
+    }
   },
   {
     "name": "Birthday Cake",
-    "customEmojiId": "5199528562914267487"
+    "customEmojiId": "5199528562914267487",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/birthday-cake.png"
+    }
   },
   {
     "name": "Fehu Rune",
-    "customEmojiId": "5201658535980598965"
+    "customEmojiId": "5201658535980598965",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/fehu-rune.png"
+    }
   },
   {
     "name": "Bastet",
-    "customEmojiId": "5199520204907910380"
+    "customEmojiId": "5199520204907910380",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bastet.png"
+    }
   },
   {
     "name": "Yogi Shaman",
-    "customEmojiId": "5199445571261203846"
+    "customEmojiId": "5199445571261203846",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/yogi-shaman.png"
+    }
   },
   {
     "name": "Sunflower",
-    "customEmojiId": "5199874518234992013"
+    "customEmojiId": "5199874518234992013",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sunflower.png"
+    }
   },
   {
     "name": "Turkey",
-    "customEmojiId": "5199906644590363463"
+    "customEmojiId": "5199906644590363463",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/turkey.png"
+    }
   },
   {
     "name": "Hamburger",
-    "customEmojiId": "5199558610505467372"
+    "customEmojiId": "5199558610505467372",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/hamburger.png"
+    }
   },
   {
     "name": "Flashlight",
-    "customEmojiId": "5199659250179147232"
+    "customEmojiId": "5199659250179147232",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/flashlight.png"
+    }
   },
   {
     "name": "Chest",
-    "customEmojiId": "5199799017004894591"
+    "customEmojiId": "5199799017004894591",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/chest.png"
+    }
   },
   {
     "name": "Cobra",
-    "customEmojiId": "5199726195834392948"
+    "customEmojiId": "5199726195834392948",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cobra.png"
+    }
   },
   {
     "name": "Kitsune",
-    "customEmojiId": "5199625959887635892"
+    "customEmojiId": "5199625959887635892",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/kitsune.png"
+    }
   },
   {
     "name": "Croissant",
-    "customEmojiId": "5199706980150706028"
+    "customEmojiId": "5199706980150706028",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/croissant.png"
+    }
   },
   {
     "name": "Sea Jelly",
-    "customEmojiId": "5199917369123703634"
+    "customEmojiId": "5199917369123703634",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sea-jelly.png"
+    }
   },
   {
     "name": "Seahorse",
-    "customEmojiId": "5199707001625546696"
+    "customEmojiId": "5199707001625546696",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/seahorse.png"
+    }
   },
   {
     "name": "Tree of Life",
-    "customEmojiId": "5199597209376558882"
+    "customEmojiId": "5199597209376558882",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/tree-of-life.png"
+    }
   },
   {
     "name": "Book",
-    "customEmojiId": "5199463541404373712"
+    "customEmojiId": "5199463541404373712",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/book.png"
+    }
   },
   {
     "name": "Venetian Mask",
-    "customEmojiId": "5199793845864267822"
+    "customEmojiId": "5199793845864267822",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/venetian-mask.png"
+    }
   },
   {
     "name": "Alkonost",
-    "customEmojiId": "5199529237224130039"
+    "customEmojiId": "5199529237224130039",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/alkonost.png"
+    }
   },
   {
     "name": "Rhino Warrior",
-    "customEmojiId": "5199722768450487484"
+    "customEmojiId": "5199722768450487484",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/rhino-warrior.png"
+    }
   },
   {
     "name": "Bishop",
-    "customEmojiId": "5199551953306157566"
+    "customEmojiId": "5199551953306157566",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bishop.png"
+    }
   },
   {
     "name": "Mushroom",
-    "customEmojiId": "5199901374665492419"
+    "customEmojiId": "5199901374665492419",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/mushroom.png"
+    }
   },
   {
     "name": "Sun Lion",
-    "customEmojiId": "5199909337534861617"
+    "customEmojiId": "5199909337534861617",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sun-lion.png"
+    }
   },
   {
     "name": "Potion",
-    "customEmojiId": "5199510532641560275"
+    "customEmojiId": "5199510532641560275",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/potion.png"
+    }
   },
   {
     "name": "Rook",
-    "customEmojiId": "5199812241209201867"
+    "customEmojiId": "5199812241209201867",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/rook.png"
+    }
   },
   {
     "name": "Mask",
-    "customEmojiId": "5199413122783298258"
+    "customEmojiId": "5199413122783298258",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/mask.png"
+    }
   },
   {
     "name": "Sun Mountain",
-    "customEmojiId": "5199464829894562233"
+    "customEmojiId": "5199464829894562233",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/sun-mountain.png"
+    }
   },
   {
     "name": "PC Mouse",
-    "customEmojiId": "5199776412592014669"
+    "customEmojiId": "5199776412592014669",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pc-mouse.png"
+    }
   },
   {
     "name": "Viking",
-    "customEmojiId": "5199809080113267301"
+    "customEmojiId": "5199809080113267301",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/viking.png"
+    }
   },
   {
     "name": "Piggy Bank",
-    "customEmojiId": "5199476082708878264"
+    "customEmojiId": "5199476082708878264",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/piggy-bank.png"
+    }
   },
   {
     "name": "Unicorn",
-    "customEmojiId": "5199548367008467469"
+    "customEmojiId": "5199548367008467469",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/unicorn.png"
+    }
   },
   {
     "name": "Carrot",
-    "customEmojiId": "5199942498977352363"
+    "customEmojiId": "5199942498977352363",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/carrot.png"
+    }
   },
   {
     "name": "Royal Crown",
-    "customEmojiId": "5199769278651342343"
+    "customEmojiId": "5199769278651342343",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/royal-crown.png"
+    }
   },
   {
     "name": "Ouroboros",
-    "customEmojiId": "5199428661974962024"
+    "customEmojiId": "5199428661974962024",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/ouroboros.png"
+    }
   },
   {
     "name": "Phoenix",
-    "customEmojiId": "5199683091542608723"
+    "customEmojiId": "5199683091542608723",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/phoenix.png"
+    }
   },
   {
     "name": "Cactus",
-    "customEmojiId": "5199664352600297564"
+    "customEmojiId": "5199664352600297564",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cactus.png"
+    }
   },
   {
     "name": "Calm Wolf",
-    "customEmojiId": "5199642521281532199"
+    "customEmojiId": "5199642521281532199",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/calm-wolf.png"
+    }
   },
   {
     "name": "Spirit Impala",
-    "customEmojiId": "5199800047797046538"
+    "customEmojiId": "5199800047797046538",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/spirit-impala.png"
+    }
   },
   {
     "name": "Mannaz Rune",
-    "customEmojiId": "5199593631668799507"
+    "customEmojiId": "5199593631668799507",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/mannaz-rune.png"
+    }
   },
   {
     "name": "Shield",
-    "customEmojiId": "5199474497865945550"
+    "customEmojiId": "5199474497865945550",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/shield.png"
+    }
   },
   {
     "name": "Diamond",
-    "customEmojiId": "5199628004292067329"
+    "customEmojiId": "5199628004292067329",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/diamond.png"
+    }
   },
   {
     "name": "The Eye",
-    "customEmojiId": "5199464073980313985"
+    "customEmojiId": "5199464073980313985",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/the-eye.png"
+    }
   },
   {
     "name": "Chili Pepper",
-    "customEmojiId": "5199643277195772037"
+    "customEmojiId": "5199643277195772037",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/chili-pepper.png"
+    }
   },
   {
     "name": "Ink Pen",
-    "customEmojiId": "5199514776069247457"
+    "customEmojiId": "5199514776069247457",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/ink-pen.png"
+    }
   },
   {
     "name": "Flamingo",
-    "customEmojiId": "5199960670983983099"
+    "customEmojiId": "5199960670983983099",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/flamingo.png"
+    }
   },
   {
     "name": "Scissors",
-    "customEmojiId": "5199668037682237139"
+    "customEmojiId": "5199668037682237139",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/scissors.png"
+    }
   },
   {
     "name": "Inguz Rune",
-    "customEmojiId": "5199780557235455952"
+    "customEmojiId": "5199780557235455952",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/inguz-rune.png"
+    }
   },
   {
     "name": "Hand of God",
-    "customEmojiId": "5199440739422996762"
+    "customEmojiId": "5199440739422996762",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/hand-of-god.png"
+    }
   },
   {
     "name": "Koala",
-    "customEmojiId": "5199786591664505620"
+    "customEmojiId": "5199786591664505620",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/koala.png"
+    }
   },
   {
     "name": "Ladybug",
-    "customEmojiId": "5199818340062758355"
+    "customEmojiId": "5199818340062758355",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/ladybug.png"
+    }
   },
   {
     "name": "Mafdet",
-    "customEmojiId": "5199698669388988419"
+    "customEmojiId": "5199698669388988419",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/mafdet.png"
+    }
   },
   {
     "name": "Golden Scarab",
-    "customEmojiId": "5199515630767736867"
+    "customEmojiId": "5199515630767736867",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/golden-scarab.png"
+    }
   },
   {
     "name": "Pear",
-    "customEmojiId": "5199711558585845500"
+    "customEmojiId": "5199711558585845500",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pear.png"
+    }
   },
   {
     "name": "Pickaxe",
-    "customEmojiId": "5199445292088328237"
+    "customEmojiId": "5199445292088328237",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pickaxe.png"
+    }
   },
   {
     "name": "Spanner",
-    "customEmojiId": "5199442762352593351"
+    "customEmojiId": "5199442762352593351",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/spanner.png"
+    }
   },
   {
     "name": "Moon",
-    "customEmojiId": "5199499052193973671"
+    "customEmojiId": "5199499052193973671",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/moon.png"
+    }
   },
   {
     "name": "Pencil",
-    "customEmojiId": "5199649638042340721"
+    "customEmojiId": "5199649638042340721",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pencil.png"
+    }
   },
   {
     "name": "Wreath",
-    "customEmojiId": "5199506340753473869"
+    "customEmojiId": "5199506340753473869",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/wreath.png"
+    }
   },
   {
     "name": "Genie Lamp",
-    "customEmojiId": "5199760491148248638"
+    "customEmojiId": "5199760491148248638",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/genie-lamp.png"
+    }
   },
   {
     "name": "Eikthyrnir",
-    "customEmojiId": "5199875514667404240"
+    "customEmojiId": "5199875514667404240",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/eikthyrnir.png"
+    }
   },
   {
     "name": "Okami Wolf",
-    "customEmojiId": "5199728489346925958"
+    "customEmojiId": "5199728489346925958",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/okami-wolf.png"
+    }
   },
   {
     "name": "Pegasus",
-    "customEmojiId": "5199615102210311126"
+    "customEmojiId": "5199615102210311126",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pegasus.png"
+    }
   },
   {
     "name": "Inca Sun",
-    "customEmojiId": "5199572075227940967"
+    "customEmojiId": "5199572075227940967",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/inca-sun.png"
+    }
   },
   {
     "name": "Gear",
-    "customEmojiId": "5199963565791939900"
+    "customEmojiId": "5199963565791939900",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/gear.png"
+    }
   },
   {
     "name": "Nordic Wolf",
-    "customEmojiId": "5199895056768603137"
+    "customEmojiId": "5199895056768603137",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/nordic-wolf.png"
+    }
   },
   {
     "name": "Bunny",
-    "customEmojiId": "5199800120811489322"
+    "customEmojiId": "5199800120811489322",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bunny.png"
+    }
   },
   {
     "name": "Gem",
-    "customEmojiId": "5199568523289988128"
+    "customEmojiId": "5199568523289988128",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/gem.png"
+    }
   },
   {
     "name": "Oxen of Fire",
-    "customEmojiId": "5199717897957573867"
+    "customEmojiId": "5199717897957573867",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/oxen-of-fire.png"
+    }
   },
   {
     "name": "Arabian Horse",
-    "customEmojiId": "5199442384395467198"
+    "customEmojiId": "5199442384395467198",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/arabian-horse.png"
+    }
   },
   {
     "name": "Fish Skeleton",
-    "customEmojiId": "5199448302860405743"
+    "customEmojiId": "5199448302860405743",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/fish-skeleton.png"
+    }
   },
   {
     "name": "Scorpion",
-    "customEmojiId": "5199940630666579018"
+    "customEmojiId": "5199940630666579018",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/scorpion.png"
+    }
   },
   {
     "name": "Clubs",
-    "customEmojiId": "5199913752761238667"
+    "customEmojiId": "5199913752761238667",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/clubs.png"
+    }
   },
   {
     "name": "Skull",
-    "customEmojiId": "5199619431537348678"
+    "customEmojiId": "5199619431537348678",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/skull.png"
+    }
   },
   {
     "name": "Coin Purse",
-    "customEmojiId": "5199421974710879091"
+    "customEmojiId": "5199421974710879091",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/coin-purse.png"
+    }
   },
   {
     "name": "Bone",
-    "customEmojiId": "5199640352323047571"
+    "customEmojiId": "5199640352323047571",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bone.png"
+    }
   },
   {
     "name": "Cap",
-    "customEmojiId": "5199697466798143755"
+    "customEmojiId": "5199697466798143755",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cap.png"
+    }
   },
   {
     "name": "Ring",
-    "customEmojiId": "5199821179036142060"
+    "customEmojiId": "5199821179036142060",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/ring.png"
+    }
   },
   {
     "name": "Bull of Heaven",
-    "customEmojiId": "5199518259287723654"
+    "customEmojiId": "5199518259287723654",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bull-of-heaven.png"
+    }
   },
   {
     "name": "Lion Head",
-    "customEmojiId": "5199655049701172498"
+    "customEmojiId": "5199655049701172498",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/lion-head.png"
+    }
   },
   {
     "name": "Cheese",
-    "customEmojiId": "5199949985105348813"
+    "customEmojiId": "5199949985105348813",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/cheese.png"
+    }
   },
   {
     "name": "Knight",
-    "customEmojiId": "5199568179692599944"
+    "customEmojiId": "5199568179692599944",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/knight.png"
+    }
   },
   {
     "name": "Coconut",
-    "customEmojiId": "5199939960651680778"
+    "customEmojiId": "5199939960651680778",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/coconut.png"
+    }
   },
   {
     "name": "Drug",
-    "customEmojiId": "5199963359633511195"
+    "customEmojiId": "5199963359633511195",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/drug.png"
+    }
   },
   {
     "name": "Tulip",
-    "customEmojiId": "5199743169545146465"
+    "customEmojiId": "5199743169545146465",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/tulip.png"
+    }
   },
   {
     "name": "Pizza Slice",
-    "customEmojiId": "5199578066707317639"
+    "customEmojiId": "5199578066707317639",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/pizza-slice.png"
+    }
   },
   {
     "name": "Bee",
-    "customEmojiId": "5199604974677428405"
+    "customEmojiId": "5199604974677428405",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/bee.png"
+    }
   },
   {
     "name": "Toilet Paper",
-    "customEmojiId": "5199519908555163902"
+    "customEmojiId": "5199519908555163902",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/toilet-paper.png"
+    }
   },
   {
     "name": "Shell",
-    "customEmojiId": "5199502470987945576"
+    "customEmojiId": "5199502470987945576",
+    "assets": {
+      "png": "gifts/durovscap/assets/patterns/shell.png"
+    }
   }
 ] satisfies readonly GiftPattern[];
 

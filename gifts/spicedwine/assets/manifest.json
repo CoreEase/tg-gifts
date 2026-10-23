@@ -1,0 +1,2243 @@
+{
+  "slug": "spicedwine",
+  "models": [
+    {
+      "name": "Magmarita",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/magmarita.svg",
+        "tgs": "gifts/spicedwine/assets/models/magmarita.tgs"
+      }
+    },
+    {
+      "name": "Dark Disco",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/dark-disco.svg",
+        "tgs": "gifts/spicedwine/assets/models/dark-disco.tgs"
+      }
+    },
+    {
+      "name": "Water Spout",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/water-spout.svg",
+        "tgs": "gifts/spicedwine/assets/models/water-spout.tgs"
+      }
+    },
+    {
+      "name": "Captain Nemo",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/captain-nemo.svg",
+        "tgs": "gifts/spicedwine/assets/models/captain-nemo.tgs"
+      }
+    },
+    {
+      "name": "Moon Rocks",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/moon-rocks.svg",
+        "tgs": "gifts/spicedwine/assets/models/moon-rocks.tgs"
+      }
+    },
+    {
+      "name": "Milky Way",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/milky-way.svg",
+        "tgs": "gifts/spicedwine/assets/models/milky-way.tgs"
+      }
+    },
+    {
+      "name": "Black Hole",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/black-hole.svg",
+        "tgs": "gifts/spicedwine/assets/models/black-hole.tgs"
+      }
+    },
+    {
+      "name": "Hazmat",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/hazmat.svg",
+        "tgs": "gifts/spicedwine/assets/models/hazmat.tgs"
+      }
+    },
+    {
+      "name": "Lightly Chilled",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/lightly-chilled.svg",
+        "tgs": "gifts/spicedwine/assets/models/lightly-chilled.tgs"
+      }
+    },
+    {
+      "name": "Loading",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/loading.svg",
+        "tgs": "gifts/spicedwine/assets/models/loading.tgs"
+      }
+    },
+    {
+      "name": "Swamp Gas",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/swamp-gas.svg",
+        "tgs": "gifts/spicedwine/assets/models/swamp-gas.tgs"
+      }
+    },
+    {
+      "name": "Over Ice",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/over-ice.svg",
+        "tgs": "gifts/spicedwine/assets/models/over-ice.tgs"
+      }
+    },
+    {
+      "name": "High Class",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/high-class.svg",
+        "tgs": "gifts/spicedwine/assets/models/high-class.tgs"
+      }
+    },
+    {
+      "name": "Brain Enhancer",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/brain-enhancer.svg",
+        "tgs": "gifts/spicedwine/assets/models/brain-enhancer.tgs"
+      }
+    },
+    {
+      "name": "Flaming Mint",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/flaming-mint.svg",
+        "tgs": "gifts/spicedwine/assets/models/flaming-mint.tgs"
+      }
+    },
+    {
+      "name": "Chocolate Cherry",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/chocolate-cherry.svg",
+        "tgs": "gifts/spicedwine/assets/models/chocolate-cherry.tgs"
+      }
+    },
+    {
+      "name": "Tiny Trifle",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/tiny-trifle.svg",
+        "tgs": "gifts/spicedwine/assets/models/tiny-trifle.tgs"
+      }
+    },
+    {
+      "name": "Sag Sangria",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/sag-sangria.svg",
+        "tgs": "gifts/spicedwine/assets/models/sag-sangria.tgs"
+      }
+    },
+    {
+      "name": "Glitterwine",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/glitterwine.svg",
+        "tgs": "gifts/spicedwine/assets/models/glitterwine.tgs"
+      }
+    },
+    {
+      "name": "Cube Libra",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/cube-libra.svg",
+        "tgs": "gifts/spicedwine/assets/models/cube-libra.tgs"
+      }
+    },
+    {
+      "name": "With Caution",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/with-caution.svg",
+        "tgs": "gifts/spicedwine/assets/models/with-caution.tgs"
+      }
+    },
+    {
+      "name": "Ember Elixir",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/ember-elixir.svg",
+        "tgs": "gifts/spicedwine/assets/models/ember-elixir.tgs"
+      }
+    },
+    {
+      "name": "Deep Blue Sea",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/deep-blue-sea.svg",
+        "tgs": "gifts/spicedwine/assets/models/deep-blue-sea.tgs"
+      }
+    },
+    {
+      "name": "Cancer Collins",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/cancer-collins.svg",
+        "tgs": "gifts/spicedwine/assets/models/cancer-collins.tgs"
+      }
+    },
+    {
+      "name": "Shark Attack",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/shark-attack.svg",
+        "tgs": "gifts/spicedwine/assets/models/shark-attack.tgs"
+      }
+    },
+    {
+      "name": "Green Energy",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/green-energy.svg",
+        "tgs": "gifts/spicedwine/assets/models/green-energy.tgs"
+      }
+    },
+    {
+      "name": "Aries Rum",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/aries-rum.svg",
+        "tgs": "gifts/spicedwine/assets/models/aries-rum.tgs"
+      }
+    },
+    {
+      "name": "Pisces Sour",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/pisces-sour.svg",
+        "tgs": "gifts/spicedwine/assets/models/pisces-sour.tgs"
+      }
+    },
+    {
+      "name": "Magenta Mix",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/magenta-mix.svg",
+        "tgs": "gifts/spicedwine/assets/models/magenta-mix.tgs"
+      }
+    },
+    {
+      "name": "Capri Sun",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/capri-sun.svg",
+        "tgs": "gifts/spicedwine/assets/models/capri-sun.tgs"
+      }
+    },
+    {
+      "name": "Yellow Pop",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/yellow-pop.svg",
+        "tgs": "gifts/spicedwine/assets/models/yellow-pop.tgs"
+      }
+    },
+    {
+      "name": "Blue Burn",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/blue-burn.svg",
+        "tgs": "gifts/spicedwine/assets/models/blue-burn.tgs"
+      }
+    },
+    {
+      "name": "Green Glitter",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/green-glitter.svg",
+        "tgs": "gifts/spicedwine/assets/models/green-glitter.tgs"
+      }
+    },
+    {
+      "name": "Vin Virgo",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/vin-virgo.svg",
+        "tgs": "gifts/spicedwine/assets/models/vin-virgo.tgs"
+      }
+    },
+    {
+      "name": "Kiwi Degree",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/kiwi-degree.svg",
+        "tgs": "gifts/spicedwine/assets/models/kiwi-degree.tgs"
+      }
+    },
+    {
+      "name": "Love Elixir",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/love-elixir.svg",
+        "tgs": "gifts/spicedwine/assets/models/love-elixir.tgs"
+      }
+    },
+    {
+      "name": "Blew Bubble",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/blew-bubble.svg",
+        "tgs": "gifts/spicedwine/assets/models/blew-bubble.tgs"
+      }
+    },
+    {
+      "name": "Aquarium",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/aquarium.svg",
+        "tgs": "gifts/spicedwine/assets/models/aquarium.tgs"
+      }
+    },
+    {
+      "name": "Gin Gemini",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/gin-gemini.svg",
+        "tgs": "gifts/spicedwine/assets/models/gin-gemini.tgs"
+      }
+    },
+    {
+      "name": "Scuba Dive",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/scuba-dive.svg",
+        "tgs": "gifts/spicedwine/assets/models/scuba-dive.tgs"
+      }
+    },
+    {
+      "name": "Gaso Green",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/gaso-green.svg",
+        "tgs": "gifts/spicedwine/assets/models/gaso-green.tgs"
+      }
+    },
+    {
+      "name": "Intense Indigo",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/intense-indigo.svg",
+        "tgs": "gifts/spicedwine/assets/models/intense-indigo.tgs"
+      }
+    },
+    {
+      "name": "Thought Tonic",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/thought-tonic.svg",
+        "tgs": "gifts/spicedwine/assets/models/thought-tonic.tgs"
+      }
+    },
+    {
+      "name": "Leonade",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/leonade.svg",
+        "tgs": "gifts/spicedwine/assets/models/leonade.tgs"
+      }
+    },
+    {
+      "name": "Scorpio Sling",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/scorpio-sling.svg",
+        "tgs": "gifts/spicedwine/assets/models/scorpio-sling.tgs"
+      }
+    },
+    {
+      "name": "Taurus-tini",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/taurus-tini.svg",
+        "tgs": "gifts/spicedwine/assets/models/taurus-tini.tgs"
+      }
+    },
+    {
+      "name": "Birthday Parfait",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/birthday-parfait.svg",
+        "tgs": "gifts/spicedwine/assets/models/birthday-parfait.tgs"
+      }
+    },
+    {
+      "name": "Nightbulb",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/nightbulb.svg",
+        "tgs": "gifts/spicedwine/assets/models/nightbulb.tgs"
+      }
+    },
+    {
+      "name": "Pink Flame",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/pink-flame.svg",
+        "tgs": "gifts/spicedwine/assets/models/pink-flame.tgs"
+      }
+    },
+    {
+      "name": "Night Sky",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/night-sky.svg",
+        "tgs": "gifts/spicedwine/assets/models/night-sky.tgs"
+      }
+    },
+    {
+      "name": "Blue Brew",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/blue-brew.svg",
+        "tgs": "gifts/spicedwine/assets/models/blue-brew.tgs"
+      }
+    },
+    {
+      "name": "Low Tide",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/low-tide.svg",
+        "tgs": "gifts/spicedwine/assets/models/low-tide.tgs"
+      }
+    },
+    {
+      "name": "Vitamin C",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/vitamin-c.svg",
+        "tgs": "gifts/spicedwine/assets/models/vitamin-c.tgs"
+      }
+    },
+    {
+      "name": "Blood Orange",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/blood-orange.svg",
+        "tgs": "gifts/spicedwine/assets/models/blood-orange.tgs"
+      }
+    },
+    {
+      "name": "Dehydrated",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/dehydrated.svg",
+        "tgs": "gifts/spicedwine/assets/models/dehydrated.tgs"
+      }
+    },
+    {
+      "name": "Color Theory",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/color-theory.svg",
+        "tgs": "gifts/spicedwine/assets/models/color-theory.tgs"
+      }
+    },
+    {
+      "name": "Hot Cold",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/hot-cold.svg",
+        "tgs": "gifts/spicedwine/assets/models/hot-cold.tgs"
+      }
+    },
+    {
+      "name": "Purple Potion",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/purple-potion.svg",
+        "tgs": "gifts/spicedwine/assets/models/purple-potion.tgs"
+      }
+    },
+    {
+      "name": "Magenta Mist",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/magenta-mist.svg",
+        "tgs": "gifts/spicedwine/assets/models/magenta-mist.tgs"
+      }
+    },
+    {
+      "name": "Golden Glow",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/golden-glow.svg",
+        "tgs": "gifts/spicedwine/assets/models/golden-glow.tgs"
+      }
+    },
+    {
+      "name": "Dusky Draft",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/dusky-draft.svg",
+        "tgs": "gifts/spicedwine/assets/models/dusky-draft.tgs"
+      }
+    },
+    {
+      "name": "Citrus Punch",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/citrus-punch.svg",
+        "tgs": "gifts/spicedwine/assets/models/citrus-punch.tgs"
+      }
+    },
+    {
+      "name": "Pink Colada",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/pink-colada.svg",
+        "tgs": "gifts/spicedwine/assets/models/pink-colada.tgs"
+      }
+    },
+    {
+      "name": "Rosemary",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/rosemary.svg",
+        "tgs": "gifts/spicedwine/assets/models/rosemary.tgs"
+      }
+    },
+    {
+      "name": "Indigo Orange",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/indigo-orange.svg",
+        "tgs": "gifts/spicedwine/assets/models/indigo-orange.tgs"
+      }
+    },
+    {
+      "name": "The Grinch",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/the-grinch.svg",
+        "tgs": "gifts/spicedwine/assets/models/the-grinch.tgs"
+      }
+    },
+    {
+      "name": "Gluhwein",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/gluhwein.svg",
+        "tgs": "gifts/spicedwine/assets/models/gluhwein.tgs"
+      }
+    },
+    {
+      "name": "Kalamansi",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/kalamansi.svg",
+        "tgs": "gifts/spicedwine/assets/models/kalamansi.tgs"
+      }
+    },
+    {
+      "name": "South Pacific",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/south-pacific.svg",
+        "tgs": "gifts/spicedwine/assets/models/south-pacific.tgs"
+      }
+    },
+    {
+      "name": "Mellow Merlot",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/mellow-merlot.svg",
+        "tgs": "gifts/spicedwine/assets/models/mellow-merlot.tgs"
+      }
+    },
+    {
+      "name": "Aqua Vita",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/aqua-vita.svg",
+        "tgs": "gifts/spicedwine/assets/models/aqua-vita.tgs"
+      }
+    },
+    {
+      "name": "Indigo",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/indigo.svg",
+        "tgs": "gifts/spicedwine/assets/models/indigo.tgs"
+      }
+    },
+    {
+      "name": "Copper Sun",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/copper-sun.svg",
+        "tgs": "gifts/spicedwine/assets/models/copper-sun.tgs"
+      }
+    },
+    {
+      "name": "Pink Orange",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/pink-orange.svg",
+        "tgs": "gifts/spicedwine/assets/models/pink-orange.tgs"
+      }
+    },
+    {
+      "name": "Whiskey Wine",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/whiskey-wine.svg",
+        "tgs": "gifts/spicedwine/assets/models/whiskey-wine.tgs"
+      }
+    },
+    {
+      "name": "Turquoise",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/turquoise.svg",
+        "tgs": "gifts/spicedwine/assets/models/turquoise.tgs"
+      }
+    },
+    {
+      "name": "Minty Fresh",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/minty-fresh.svg",
+        "tgs": "gifts/spicedwine/assets/models/minty-fresh.tgs"
+      }
+    },
+    {
+      "name": "Vague Berry",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/vague-berry.svg",
+        "tgs": "gifts/spicedwine/assets/models/vague-berry.tgs"
+      }
+    },
+    {
+      "name": "Earl Grey",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/earl-grey.svg",
+        "tgs": "gifts/spicedwine/assets/models/earl-grey.tgs"
+      }
+    },
+    {
+      "name": "Desaturated",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/desaturated.svg",
+        "tgs": "gifts/spicedwine/assets/models/desaturated.tgs"
+      }
+    },
+    {
+      "name": "Tarkhuna",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/tarkhuna.svg",
+        "tgs": "gifts/spicedwine/assets/models/tarkhuna.tgs"
+      }
+    },
+    {
+      "name": "Blackout",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/blackout.svg",
+        "tgs": "gifts/spicedwine/assets/models/blackout.tgs"
+      }
+    },
+    {
+      "name": "Golden Goblet",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/golden-goblet.svg",
+        "tgs": "gifts/spicedwine/assets/models/golden-goblet.tgs"
+      }
+    },
+    {
+      "name": "Tea Infusion",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/tea-infusion.svg",
+        "tgs": "gifts/spicedwine/assets/models/tea-infusion.tgs"
+      }
+    },
+    {
+      "name": "Blueberry",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/blueberry.svg",
+        "tgs": "gifts/spicedwine/assets/models/blueberry.tgs"
+      }
+    },
+    {
+      "name": "Persimmon",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/persimmon.svg",
+        "tgs": "gifts/spicedwine/assets/models/persimmon.tgs"
+      }
+    },
+    {
+      "name": "Purplexed",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/purplexed.svg",
+        "tgs": "gifts/spicedwine/assets/models/purplexed.tgs"
+      }
+    },
+    {
+      "name": "Buckwheat",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/buckwheat.svg",
+        "tgs": "gifts/spicedwine/assets/models/buckwheat.tgs"
+      }
+    },
+    {
+      "name": "Melted Ice",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/melted-ice.svg",
+        "tgs": "gifts/spicedwine/assets/models/melted-ice.tgs"
+      }
+    },
+    {
+      "name": "Tequila Sunrise",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/tequila-sunrise.svg",
+        "tgs": "gifts/spicedwine/assets/models/tequila-sunrise.tgs"
+      }
+    },
+    {
+      "name": "Shadow Spirit",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/shadow-spirit.svg",
+        "tgs": "gifts/spicedwine/assets/models/shadow-spirit.tgs"
+      }
+    },
+    {
+      "name": "Cranberry Lime",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/cranberry-lime.svg",
+        "tgs": "gifts/spicedwine/assets/models/cranberry-lime.tgs"
+      }
+    },
+    {
+      "name": "Cool Water",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/cool-water.svg",
+        "tgs": "gifts/spicedwine/assets/models/cool-water.tgs"
+      }
+    },
+    {
+      "name": "Going Grape",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/going-grape.svg",
+        "tgs": "gifts/spicedwine/assets/models/going-grape.tgs"
+      }
+    },
+    {
+      "name": "Green Gradient",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/green-gradient.svg",
+        "tgs": "gifts/spicedwine/assets/models/green-gradient.tgs"
+      }
+    },
+    {
+      "name": "Lime Slice",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/lime-slice.svg",
+        "tgs": "gifts/spicedwine/assets/models/lime-slice.tgs"
+      }
+    },
+    {
+      "name": "Greenwein",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/greenwein.svg",
+        "tgs": "gifts/spicedwine/assets/models/greenwein.tgs"
+      }
+    },
+    {
+      "name": "Light Grape",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/light-grape.svg",
+        "tgs": "gifts/spicedwine/assets/models/light-grape.tgs"
+      }
+    },
+    {
+      "name": "Brass Monkey",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/brass-monkey.svg",
+        "tgs": "gifts/spicedwine/assets/models/brass-monkey.tgs"
+      }
+    },
+    {
+      "name": "Absinthe",
+      "assets": {
+        "svg": "gifts/spicedwine/assets/models/absinthe.svg",
+        "tgs": "gifts/spicedwine/assets/models/absinthe.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/spicedwine/assets/patterns/rain-drop.png"
+      }
+    }
+  ]
+}

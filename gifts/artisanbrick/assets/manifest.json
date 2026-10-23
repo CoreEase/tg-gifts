@@ -1,0 +1,1627 @@
+{
+  "slug": "artisanbrick",
+  "models": [
+    {
+      "name": "Gold Bar",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/gold-bar.svg",
+        "tgs": "gifts/artisanbrick/assets/models/gold-bar.tgs"
+      }
+    },
+    {
+      "name": "Gold Block",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/gold-block.svg",
+        "tgs": "gifts/artisanbrick/assets/models/gold-block.tgs"
+      }
+    },
+    {
+      "name": "USBrick",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/usbrick.svg",
+        "tgs": "gifts/artisanbrick/assets/models/usbrick.tgs"
+      }
+    },
+    {
+      "name": "Cash Roll",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/cash-roll.svg",
+        "tgs": "gifts/artisanbrick/assets/models/cash-roll.tgs"
+      }
+    },
+    {
+      "name": "Cherry Ruby",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/cherry-ruby.svg",
+        "tgs": "gifts/artisanbrick/assets/models/cherry-ruby.tgs"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/diamond.svg",
+        "tgs": "gifts/artisanbrick/assets/models/diamond.tgs"
+      }
+    },
+    {
+      "name": "Duck Bath",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/duck-bath.svg",
+        "tgs": "gifts/artisanbrick/assets/models/duck-bath.tgs"
+      }
+    },
+    {
+      "name": "El Dorado",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/el-dorado.svg",
+        "tgs": "gifts/artisanbrick/assets/models/el-dorado.tgs"
+      }
+    },
+    {
+      "name": "Fifth Element",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/fifth-element.svg",
+        "tgs": "gifts/artisanbrick/assets/models/fifth-element.tgs"
+      }
+    },
+    {
+      "name": "Gemstones",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/gemstones.svg",
+        "tgs": "gifts/artisanbrick/assets/models/gemstones.tgs"
+      }
+    },
+    {
+      "name": "Jewelry Box",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/jewelry-box.svg",
+        "tgs": "gifts/artisanbrick/assets/models/jewelry-box.tgs"
+      }
+    },
+    {
+      "name": "Oriental",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/oriental.svg",
+        "tgs": "gifts/artisanbrick/assets/models/oriental.tgs"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/pearl.svg",
+        "tgs": "gifts/artisanbrick/assets/models/pearl.tgs"
+      }
+    },
+    {
+      "name": "Treasure",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/treasure.svg",
+        "tgs": "gifts/artisanbrick/assets/models/treasure.tgs"
+      }
+    },
+    {
+      "name": "Bomb Planted",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/bomb-planted.svg",
+        "tgs": "gifts/artisanbrick/assets/models/bomb-planted.tgs"
+      }
+    },
+    {
+      "name": "Brick 3310",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/brick-3310.svg",
+        "tgs": "gifts/artisanbrick/assets/models/brick-3310.tgs"
+      }
+    },
+    {
+      "name": "Cheesecake",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/cheesecake.svg",
+        "tgs": "gifts/artisanbrick/assets/models/cheesecake.tgs"
+      }
+    },
+    {
+      "name": "Emerald",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/emerald.svg",
+        "tgs": "gifts/artisanbrick/assets/models/emerald.tgs"
+      }
+    },
+    {
+      "name": "Escher’s Cube",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/escher-s-cube.svg",
+        "tgs": "gifts/artisanbrick/assets/models/escher-s-cube.tgs"
+      }
+    },
+    {
+      "name": "Fashion Bag",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/fashion-bag.svg",
+        "tgs": "gifts/artisanbrick/assets/models/fashion-bag.tgs"
+      }
+    },
+    {
+      "name": "Fight Club",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/fight-club.svg",
+        "tgs": "gifts/artisanbrick/assets/models/fight-club.tgs"
+      }
+    },
+    {
+      "name": "Ghost Trap",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/ghost-trap.svg",
+        "tgs": "gifts/artisanbrick/assets/models/ghost-trap.tgs"
+      }
+    },
+    {
+      "name": "Grand Piano",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/grand-piano.svg",
+        "tgs": "gifts/artisanbrick/assets/models/grand-piano.tgs"
+      }
+    },
+    {
+      "name": "Grass Block",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/grass-block.svg",
+        "tgs": "gifts/artisanbrick/assets/models/grass-block.tgs"
+      }
+    },
+    {
+      "name": "Ice Mammoth",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/ice-mammoth.svg",
+        "tgs": "gifts/artisanbrick/assets/models/ice-mammoth.tgs"
+      }
+    },
+    {
+      "name": "Infinity Box",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/infinity-box.svg",
+        "tgs": "gifts/artisanbrick/assets/models/infinity-box.tgs"
+      }
+    },
+    {
+      "name": "Luggage",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/luggage.svg",
+        "tgs": "gifts/artisanbrick/assets/models/luggage.tgs"
+      }
+    },
+    {
+      "name": "Nuclear Waste",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/nuclear-waste.svg",
+        "tgs": "gifts/artisanbrick/assets/models/nuclear-waste.tgs"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/pyramid.svg",
+        "tgs": "gifts/artisanbrick/assets/models/pyramid.tgs"
+      }
+    },
+    {
+      "name": "Red Caviar",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/red-caviar.svg",
+        "tgs": "gifts/artisanbrick/assets/models/red-caviar.tgs"
+      }
+    },
+    {
+      "name": "Safe Box",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/safe-box.svg",
+        "tgs": "gifts/artisanbrick/assets/models/safe-box.tgs"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/scorpion.svg",
+        "tgs": "gifts/artisanbrick/assets/models/scorpion.tgs"
+      }
+    },
+    {
+      "name": "Silver",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/silver.svg",
+        "tgs": "gifts/artisanbrick/assets/models/silver.tgs"
+      }
+    },
+    {
+      "name": "Switch",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/switch.svg",
+        "tgs": "gifts/artisanbrick/assets/models/switch.tgs"
+      }
+    },
+    {
+      "name": "TON Ledger",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/ton-ledger.svg",
+        "tgs": "gifts/artisanbrick/assets/models/ton-ledger.tgs"
+      }
+    },
+    {
+      "name": "Art Nouveau",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/art-nouveau.svg",
+        "tgs": "gifts/artisanbrick/assets/models/art-nouveau.tgs"
+      }
+    },
+    {
+      "name": "Buzzy Bee",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/buzzy-bee.svg",
+        "tgs": "gifts/artisanbrick/assets/models/buzzy-bee.tgs"
+      }
+    },
+    {
+      "name": "Chessboard",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/chessboard.svg",
+        "tgs": "gifts/artisanbrick/assets/models/chessboard.tgs"
+      }
+    },
+    {
+      "name": "Foosball",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/foosball.svg",
+        "tgs": "gifts/artisanbrick/assets/models/foosball.tgs"
+      }
+    },
+    {
+      "name": "Game Console",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/game-console.svg",
+        "tgs": "gifts/artisanbrick/assets/models/game-console.tgs"
+      }
+    },
+    {
+      "name": "Keyboard",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/keyboard.svg",
+        "tgs": "gifts/artisanbrick/assets/models/keyboard.tgs"
+      }
+    },
+    {
+      "name": "Mimic Chest",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/mimic-chest.svg",
+        "tgs": "gifts/artisanbrick/assets/models/mimic-chest.tgs"
+      }
+    },
+    {
+      "name": "Molten Core",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/molten-core.svg",
+        "tgs": "gifts/artisanbrick/assets/models/molten-core.tgs"
+      }
+    },
+    {
+      "name": "Oranges",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/oranges.svg",
+        "tgs": "gifts/artisanbrick/assets/models/oranges.tgs"
+      }
+    },
+    {
+      "name": "Poker Chips",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/poker-chips.svg",
+        "tgs": "gifts/artisanbrick/assets/models/poker-chips.tgs"
+      }
+    },
+    {
+      "name": "Pro Gamer",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/pro-gamer.svg",
+        "tgs": "gifts/artisanbrick/assets/models/pro-gamer.tgs"
+      }
+    },
+    {
+      "name": "Retro Player",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/retro-player.svg",
+        "tgs": "gifts/artisanbrick/assets/models/retro-player.tgs"
+      }
+    },
+    {
+      "name": "Sardines",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/sardines.svg",
+        "tgs": "gifts/artisanbrick/assets/models/sardines.tgs"
+      }
+    },
+    {
+      "name": "Toxic Ooze",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/toxic-ooze.svg",
+        "tgs": "gifts/artisanbrick/assets/models/toxic-ooze.tgs"
+      }
+    },
+    {
+      "name": "VHS Tape",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/vhs-tape.svg",
+        "tgs": "gifts/artisanbrick/assets/models/vhs-tape.tgs"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/watermelon.svg",
+        "tgs": "gifts/artisanbrick/assets/models/watermelon.tgs"
+      }
+    },
+    {
+      "name": "Big Cubus",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/big-cubus.svg",
+        "tgs": "gifts/artisanbrick/assets/models/big-cubus.tgs"
+      }
+    },
+    {
+      "name": "Chocolate",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/chocolate.svg",
+        "tgs": "gifts/artisanbrick/assets/models/chocolate.tgs"
+      }
+    },
+    {
+      "name": "Delicate Wash",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/delicate-wash.svg",
+        "tgs": "gifts/artisanbrick/assets/models/delicate-wash.tgs"
+      }
+    },
+    {
+      "name": "Firestarter",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/firestarter.svg",
+        "tgs": "gifts/artisanbrick/assets/models/firestarter.tgs"
+      }
+    },
+    {
+      "name": "Floppa Plush",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/floppa-plush.svg",
+        "tgs": "gifts/artisanbrick/assets/models/floppa-plush.tgs"
+      }
+    },
+    {
+      "name": "Harlequin",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/harlequin.svg",
+        "tgs": "gifts/artisanbrick/assets/models/harlequin.tgs"
+      }
+    },
+    {
+      "name": "Concrete",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/concrete.svg",
+        "tgs": "gifts/artisanbrick/assets/models/concrete.tgs"
+      }
+    },
+    {
+      "name": "Domino",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/domino.svg",
+        "tgs": "gifts/artisanbrick/assets/models/domino.tgs"
+      }
+    },
+    {
+      "name": "Sandstone",
+      "assets": {
+        "svg": "gifts/artisanbrick/assets/models/sandstone.svg",
+        "tgs": "gifts/artisanbrick/assets/models/sandstone.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Fried Egg",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/fried-egg.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Elf Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/elf-hat.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Robin Hood",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/robin-hood.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Flag",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flag.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Steampunk Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/steampunk-hat.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Fedora",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/fedora.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Turban",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/turban.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Monarch",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/monarch.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Piranha",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/piranha.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Shako",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/shako.png"
+      }
+    },
+    {
+      "name": "Sword Fight",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/sword-fight.png"
+      }
+    },
+    {
+      "name": "Egg Basket",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/egg-basket.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Hard Hat",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/hard-hat.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Visor",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/visor.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/artisanbrick/assets/patterns/lion-of-babylon.png"
+      }
+    }
+  ]
+}

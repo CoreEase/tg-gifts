@@ -1,0 +1,1569 @@
+{
+  "slug": "holidaydrink",
+  "models": [
+    {
+      "name": "Gold Dust",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/gold-dust.svg",
+        "tgs": "gifts/holidaydrink/assets/models/gold-dust.tgs"
+      }
+    },
+    {
+      "name": "Cyber Mix",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/cyber-mix.svg",
+        "tgs": "gifts/holidaydrink/assets/models/cyber-mix.tgs"
+      }
+    },
+    {
+      "name": "Brain Gum",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/brain-gum.svg",
+        "tgs": "gifts/holidaydrink/assets/models/brain-gum.tgs"
+      }
+    },
+    {
+      "name": "Depresso",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/depresso.svg",
+        "tgs": "gifts/holidaydrink/assets/models/depresso.tgs"
+      }
+    },
+    {
+      "name": "Honolulu",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/honolulu.svg",
+        "tgs": "gifts/holidaydrink/assets/models/honolulu.tgs"
+      }
+    },
+    {
+      "name": "Ogre Latte",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/ogre-latte.svg",
+        "tgs": "gifts/holidaydrink/assets/models/ogre-latte.tgs"
+      }
+    },
+    {
+      "name": "Pumpkin Juice",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/pumpkin-juice.svg",
+        "tgs": "gifts/holidaydrink/assets/models/pumpkin-juice.tgs"
+      }
+    },
+    {
+      "name": "Mermaid",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/mermaid.svg",
+        "tgs": "gifts/holidaydrink/assets/models/mermaid.tgs"
+      }
+    },
+    {
+      "name": "Darkside",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/darkside.svg",
+        "tgs": "gifts/holidaydrink/assets/models/darkside.tgs"
+      }
+    },
+    {
+      "name": "Fish Basket",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/fish-basket.svg",
+        "tgs": "gifts/holidaydrink/assets/models/fish-basket.tgs"
+      }
+    },
+    {
+      "name": "Lizard Blood",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/lizard-blood.svg",
+        "tgs": "gifts/holidaydrink/assets/models/lizard-blood.tgs"
+      }
+    },
+    {
+      "name": "Milky Way",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/milky-way.svg",
+        "tgs": "gifts/holidaydrink/assets/models/milky-way.tgs"
+      }
+    },
+    {
+      "name": "Emo Drip",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/emo-drip.svg",
+        "tgs": "gifts/holidaydrink/assets/models/emo-drip.tgs"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/leprechaun.svg",
+        "tgs": "gifts/holidaydrink/assets/models/leprechaun.tgs"
+      }
+    },
+    {
+      "name": "Checkmate",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/checkmate.svg",
+        "tgs": "gifts/holidaydrink/assets/models/checkmate.tgs"
+      }
+    },
+    {
+      "name": "Toxic Waste",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/toxic-waste.svg",
+        "tgs": "gifts/holidaydrink/assets/models/toxic-waste.tgs"
+      }
+    },
+    {
+      "name": "Area 51",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/area-51.svg",
+        "tgs": "gifts/holidaydrink/assets/models/area-51.tgs"
+      }
+    },
+    {
+      "name": "Blue Taser",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/blue-taser.svg",
+        "tgs": "gifts/holidaydrink/assets/models/blue-taser.tgs"
+      }
+    },
+    {
+      "name": "Bowser Brew",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/bowser-brew.svg",
+        "tgs": "gifts/holidaydrink/assets/models/bowser-brew.tgs"
+      }
+    },
+    {
+      "name": "Mr. Freeze",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/mr-freeze.svg",
+        "tgs": "gifts/holidaydrink/assets/models/mr-freeze.tgs"
+      }
+    },
+    {
+      "name": "Crystal Shot",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/crystal-shot.svg",
+        "tgs": "gifts/holidaydrink/assets/models/crystal-shot.tgs"
+      }
+    },
+    {
+      "name": "Cubism",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/cubism.svg",
+        "tgs": "gifts/holidaydrink/assets/models/cubism.tgs"
+      }
+    },
+    {
+      "name": "Fire Chariot",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/fire-chariot.svg",
+        "tgs": "gifts/holidaydrink/assets/models/fire-chariot.tgs"
+      }
+    },
+    {
+      "name": "Flaming B-52",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/flaming-b-52.svg",
+        "tgs": "gifts/holidaydrink/assets/models/flaming-b-52.tgs"
+      }
+    },
+    {
+      "name": "Love Potion",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/love-potion.svg",
+        "tgs": "gifts/holidaydrink/assets/models/love-potion.tgs"
+      }
+    },
+    {
+      "name": "Lucid Roast",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/lucid-roast.svg",
+        "tgs": "gifts/holidaydrink/assets/models/lucid-roast.tgs"
+      }
+    },
+    {
+      "name": "Candyman",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/candyman.svg",
+        "tgs": "gifts/holidaydrink/assets/models/candyman.tgs"
+      }
+    },
+    {
+      "name": "Berry Pixel",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/berry-pixel.svg",
+        "tgs": "gifts/holidaydrink/assets/models/berry-pixel.tgs"
+      }
+    },
+    {
+      "name": "Peach Latte",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/peach-latte.svg",
+        "tgs": "gifts/holidaydrink/assets/models/peach-latte.tgs"
+      }
+    },
+    {
+      "name": "Low Poly",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/low-poly.svg",
+        "tgs": "gifts/holidaydrink/assets/models/low-poly.tgs"
+      }
+    },
+    {
+      "name": "Kiwi Box",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/kiwi-box.svg",
+        "tgs": "gifts/holidaydrink/assets/models/kiwi-box.tgs"
+      }
+    },
+    {
+      "name": "Orange Ghost",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/orange-ghost.svg",
+        "tgs": "gifts/holidaydrink/assets/models/orange-ghost.tgs"
+      }
+    },
+    {
+      "name": "Hot Fuchsia",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/hot-fuchsia.svg",
+        "tgs": "gifts/holidaydrink/assets/models/hot-fuchsia.tgs"
+      }
+    },
+    {
+      "name": "Cotton Candy",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/cotton-candy.svg",
+        "tgs": "gifts/holidaydrink/assets/models/cotton-candy.tgs"
+      }
+    },
+    {
+      "name": "Honeyfire",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/honeyfire.svg",
+        "tgs": "gifts/holidaydrink/assets/models/honeyfire.tgs"
+      }
+    },
+    {
+      "name": "Ginger Joker",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/ginger-joker.svg",
+        "tgs": "gifts/holidaydrink/assets/models/ginger-joker.tgs"
+      }
+    },
+    {
+      "name": "Matcha",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/matcha.svg",
+        "tgs": "gifts/holidaydrink/assets/models/matcha.tgs"
+      }
+    },
+    {
+      "name": "Hibiscus Tea",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/hibiscus-tea.svg",
+        "tgs": "gifts/holidaydrink/assets/models/hibiscus-tea.tgs"
+      }
+    },
+    {
+      "name": "Lavender Tea",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/lavender-tea.svg",
+        "tgs": "gifts/holidaydrink/assets/models/lavender-tea.tgs"
+      }
+    },
+    {
+      "name": "Moonberry",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/moonberry.svg",
+        "tgs": "gifts/holidaydrink/assets/models/moonberry.tgs"
+      }
+    },
+    {
+      "name": "Marigold",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/marigold.svg",
+        "tgs": "gifts/holidaydrink/assets/models/marigold.tgs"
+      }
+    },
+    {
+      "name": "Citrus",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/citrus.svg",
+        "tgs": "gifts/holidaydrink/assets/models/citrus.tgs"
+      }
+    },
+    {
+      "name": "Bubblegum",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/bubblegum.svg",
+        "tgs": "gifts/holidaydrink/assets/models/bubblegum.tgs"
+      }
+    },
+    {
+      "name": "Choco Mint",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/choco-mint.svg",
+        "tgs": "gifts/holidaydrink/assets/models/choco-mint.tgs"
+      }
+    },
+    {
+      "name": "Black Russian",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/black-russian.svg",
+        "tgs": "gifts/holidaydrink/assets/models/black-russian.tgs"
+      }
+    },
+    {
+      "name": "Rose Velvet",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/rose-velvet.svg",
+        "tgs": "gifts/holidaydrink/assets/models/rose-velvet.tgs"
+      }
+    },
+    {
+      "name": "Banana Split",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/banana-split.svg",
+        "tgs": "gifts/holidaydrink/assets/models/banana-split.tgs"
+      }
+    },
+    {
+      "name": "Mango Blast",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/mango-blast.svg",
+        "tgs": "gifts/holidaydrink/assets/models/mango-blast.tgs"
+      }
+    },
+    {
+      "name": "Apple Mousse",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/apple-mousse.svg",
+        "tgs": "gifts/holidaydrink/assets/models/apple-mousse.tgs"
+      }
+    },
+    {
+      "name": "Stickers",
+      "assets": {
+        "svg": "gifts/holidaydrink/assets/models/stickers.svg",
+        "tgs": "gifts/holidaydrink/assets/models/stickers.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Keffiyeh",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/keffiyeh.png"
+      }
+    },
+    {
+      "name": "Coonskin Cap",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/coonskin-cap.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Fedora",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/fedora.png"
+      }
+    },
+    {
+      "name": "Trickster Fox",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/trickster-fox.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Ornament",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/ornament.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Cookie",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/cookie.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Piranha",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/piranha.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Mittens",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/mittens.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Jingle Bell",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/jingle-bell.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Bowtie",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bowtie.png"
+      }
+    },
+    {
+      "name": "Festive Wreath",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/festive-wreath.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Mistletoe",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/mistletoe.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Spring Chick",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/spring-chick.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Hot Drink",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/hot-drink.png"
+      }
+    },
+    {
+      "name": "New Year’s Eve",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/new-year-s-eve.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Winter House",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/winter-house.png"
+      }
+    },
+    {
+      "name": "Shako",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/shako.png"
+      }
+    },
+    {
+      "name": "Santa Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/santa-hat.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Snowflake",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/snowflake.png"
+      }
+    },
+    {
+      "name": "Snow Angel",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/snow-angel.png"
+      }
+    },
+    {
+      "name": "Hourglass",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/hourglass.png"
+      }
+    },
+    {
+      "name": "Christmas Tree",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/christmas-tree.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Earth",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/earth.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bamboo.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Fireworks",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/fireworks.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Beret",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/beret.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Elf Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/elf-hat.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Conical Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/conical-hat.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Donut",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/donut.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Winter Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/winter-hat.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Snowman",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/snowman.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Stocking",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/stocking.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Rudolph",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/rudolph.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Turban",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/turban.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Sailor Hat",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/sailor-hat.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Ice Skates",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/ice-skates.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/holidaydrink/assets/patterns/coat-of-arms.png"
+      }
+    }
+  ]
+}

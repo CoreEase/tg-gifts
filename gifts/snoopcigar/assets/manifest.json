@@ -1,0 +1,1407 @@
+{
+  "slug": "snoopcigar",
+  "models": [
+    {
+      "name": "Cartoon Roll",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/cartoon-roll.svg",
+        "tgs": "gifts/snoopcigar/assets/models/cartoon-roll.tgs"
+      }
+    },
+    {
+      "name": "Infinity Stoned",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/infinity-stoned.svg",
+        "tgs": "gifts/snoopcigar/assets/models/infinity-stoned.tgs"
+      }
+    },
+    {
+      "name": "Snoop Graffiti",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/snoop-graffiti.svg",
+        "tgs": "gifts/snoopcigar/assets/models/snoop-graffiti.tgs"
+      }
+    },
+    {
+      "name": "California",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/california.svg",
+        "tgs": "gifts/snoopcigar/assets/models/california.tgs"
+      }
+    },
+    {
+      "name": "Charmed Roll",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/charmed-roll.svg",
+        "tgs": "gifts/snoopcigar/assets/models/charmed-roll.tgs"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/crystal.svg",
+        "tgs": "gifts/snoopcigar/assets/models/crystal.tgs"
+      }
+    },
+    {
+      "name": "Gilded Copper",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/gilded-copper.svg",
+        "tgs": "gifts/snoopcigar/assets/models/gilded-copper.tgs"
+      }
+    },
+    {
+      "name": "Highway",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/highway.svg",
+        "tgs": "gifts/snoopcigar/assets/models/highway.tgs"
+      }
+    },
+    {
+      "name": "Hyperdrive",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/hyperdrive.svg",
+        "tgs": "gifts/snoopcigar/assets/models/hyperdrive.tgs"
+      }
+    },
+    {
+      "name": "Rap Battle",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/rap-battle.svg",
+        "tgs": "gifts/snoopcigar/assets/models/rap-battle.tgs"
+      }
+    },
+    {
+      "name": "Smoke Sway",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/smoke-sway.svg",
+        "tgs": "gifts/snoopcigar/assets/models/smoke-sway.tgs"
+      }
+    },
+    {
+      "name": "Snoop’s Pipe",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/snoop-s-pipe.svg",
+        "tgs": "gifts/snoopcigar/assets/models/snoop-s-pipe.tgs"
+      }
+    },
+    {
+      "name": "Soul Plane",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/soul-plane.svg",
+        "tgs": "gifts/snoopcigar/assets/models/soul-plane.tgs"
+      }
+    },
+    {
+      "name": "Doggystyle",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/doggystyle.svg",
+        "tgs": "gifts/snoopcigar/assets/models/doggystyle.tgs"
+      }
+    },
+    {
+      "name": "Meteor Impact",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/meteor-impact.svg",
+        "tgs": "gifts/snoopcigar/assets/models/meteor-impact.tgs"
+      }
+    },
+    {
+      "name": "Record Label",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/record-label.svg",
+        "tgs": "gifts/snoopcigar/assets/models/record-label.tgs"
+      }
+    },
+    {
+      "name": "Smoke Nukem",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/smoke-nukem.svg",
+        "tgs": "gifts/snoopcigar/assets/models/smoke-nukem.tgs"
+      }
+    },
+    {
+      "name": "Snoop Doggy",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/snoop-doggy.svg",
+        "tgs": "gifts/snoopcigar/assets/models/snoop-doggy.tgs"
+      }
+    },
+    {
+      "name": "Stargazer",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/stargazer.svg",
+        "tgs": "gifts/snoopcigar/assets/models/stargazer.tgs"
+      }
+    },
+    {
+      "name": "Surprise",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/surprise.svg",
+        "tgs": "gifts/snoopcigar/assets/models/surprise.tgs"
+      }
+    },
+    {
+      "name": "Baked Beats",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/baked-beats.svg",
+        "tgs": "gifts/snoopcigar/assets/models/baked-beats.tgs"
+      }
+    },
+    {
+      "name": "Happy Face",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/happy-face.svg",
+        "tgs": "gifts/snoopcigar/assets/models/happy-face.tgs"
+      }
+    },
+    {
+      "name": "Hot Stuff",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/hot-stuff.svg",
+        "tgs": "gifts/snoopcigar/assets/models/hot-stuff.tgs"
+      }
+    },
+    {
+      "name": "Snooperman",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/snooperman.svg",
+        "tgs": "gifts/snoopcigar/assets/models/snooperman.tgs"
+      }
+    },
+    {
+      "name": "Space Wrap",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/space-wrap.svg",
+        "tgs": "gifts/snoopcigar/assets/models/space-wrap.tgs"
+      }
+    },
+    {
+      "name": "Triple Shot",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/triple-shot.svg",
+        "tgs": "gifts/snoopcigar/assets/models/triple-shot.tgs"
+      }
+    },
+    {
+      "name": "America",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/america.svg",
+        "tgs": "gifts/snoopcigar/assets/models/america.tgs"
+      }
+    },
+    {
+      "name": "Angel Dust",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/angel-dust.svg",
+        "tgs": "gifts/snoopcigar/assets/models/angel-dust.tgs"
+      }
+    },
+    {
+      "name": "Cabbage Roll",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/cabbage-roll.svg",
+        "tgs": "gifts/snoopcigar/assets/models/cabbage-roll.tgs"
+      }
+    },
+    {
+      "name": "Debut Album",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/debut-album.svg",
+        "tgs": "gifts/snoopcigar/assets/models/debut-album.tgs"
+      }
+    },
+    {
+      "name": "Eurotrip",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/eurotrip.svg",
+        "tgs": "gifts/snoopcigar/assets/models/eurotrip.tgs"
+      }
+    },
+    {
+      "name": "Funk Dunk",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/funk-dunk.svg",
+        "tgs": "gifts/snoopcigar/assets/models/funk-dunk.tgs"
+      }
+    },
+    {
+      "name": "Hot Rod",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/hot-rod.svg",
+        "tgs": "gifts/snoopcigar/assets/models/hot-rod.tgs"
+      }
+    },
+    {
+      "name": "Ice Prince",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/ice-prince.svg",
+        "tgs": "gifts/snoopcigar/assets/models/ice-prince.tgs"
+      }
+    },
+    {
+      "name": "Mushizzle",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/mushizzle.svg",
+        "tgs": "gifts/snoopcigar/assets/models/mushizzle.tgs"
+      }
+    },
+    {
+      "name": "Royalty",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/royalty.svg",
+        "tgs": "gifts/snoopcigar/assets/models/royalty.tgs"
+      }
+    },
+    {
+      "name": "Smoke Dogg",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/smoke-dogg.svg",
+        "tgs": "gifts/snoopcigar/assets/models/smoke-dogg.tgs"
+      }
+    },
+    {
+      "name": "Vinyl Vibes",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/vinyl-vibes.svg",
+        "tgs": "gifts/snoopcigar/assets/models/vinyl-vibes.tgs"
+      }
+    },
+    {
+      "name": "Bandana",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/bandana.svg",
+        "tgs": "gifts/snoopcigar/assets/models/bandana.tgs"
+      }
+    },
+    {
+      "name": "Dolla Rolla",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/dolla-rolla.svg",
+        "tgs": "gifts/snoopcigar/assets/models/dolla-rolla.tgs"
+      }
+    },
+    {
+      "name": "Herbalist",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/herbalist.svg",
+        "tgs": "gifts/snoopcigar/assets/models/herbalist.tgs"
+      }
+    },
+    {
+      "name": "Jade Fade",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/jade-fade.svg",
+        "tgs": "gifts/snoopcigar/assets/models/jade-fade.tgs"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/lion-king.svg",
+        "tgs": "gifts/snoopcigar/assets/models/lion-king.tgs"
+      }
+    },
+    {
+      "name": "Mirage",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/mirage.svg",
+        "tgs": "gifts/snoopcigar/assets/models/mirage.tgs"
+      }
+    },
+    {
+      "name": "Old School",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/old-school.svg",
+        "tgs": "gifts/snoopcigar/assets/models/old-school.tgs"
+      }
+    },
+    {
+      "name": "Puff Puff Pass",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/puff-puff-pass.svg",
+        "tgs": "gifts/snoopcigar/assets/models/puff-puff-pass.tgs"
+      }
+    },
+    {
+      "name": "Rasta",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/rasta.svg",
+        "tgs": "gifts/snoopcigar/assets/models/rasta.tgs"
+      }
+    },
+    {
+      "name": "Ruby Doobie",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/ruby-doobie.svg",
+        "tgs": "gifts/snoopcigar/assets/models/ruby-doobie.tgs"
+      }
+    },
+    {
+      "name": "Snoop Ring",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/snoop-ring.svg",
+        "tgs": "gifts/snoopcigar/assets/models/snoop-ring.tgs"
+      }
+    },
+    {
+      "name": "The King",
+      "assets": {
+        "svg": "gifts/snoopcigar/assets/models/the-king.svg",
+        "tgs": "gifts/snoopcigar/assets/models/the-king.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Warhorse",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/warhorse.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Hip-Hop",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/hip-hop.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Wizard Hat",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/wizard-hat.png"
+      }
+    },
+    {
+      "name": "Vinyl Record",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/vinyl-record.png"
+      }
+    },
+    {
+      "name": "Beretta",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/beretta.png"
+      }
+    },
+    {
+      "name": "Los Angeles",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/los-angeles.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Nemes",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/nemes.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "Ushanka",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/ushanka.png"
+      }
+    },
+    {
+      "name": "Palm Trees",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/palm-trees.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "Spray Paint",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/spray-paint.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Magic Vial",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/magic-vial.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Boombox",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/boombox.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Gua Pi Mao",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/gua-pi-mao.png"
+      }
+    },
+    {
+      "name": "Pro Headphones",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/pro-headphones.png"
+      }
+    },
+    {
+      "name": "213",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/213.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "Desert Eagle",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/desert-eagle.png"
+      }
+    },
+    {
+      "name": "Bong",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bong.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Kashket",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/kashket.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Iron Helmet",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/iron-helmet.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Head Scarf",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/head-scarf.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Black Bandana",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/black-bandana.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Beer",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/beer.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Wise Raven",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/wise-raven.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Revolver",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/revolver.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Headphones",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/headphones.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Egg Basket",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/egg-basket.png"
+      }
+    },
+    {
+      "name": "Panty",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/panty.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Blunt",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/blunt.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Low Rider",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/low-rider.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Rap Mic",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/rap-mic.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Brass Knuckles",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/brass-knuckles.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Snoop Collar",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/snoop-collar.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Snoop Leaf",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/snoop-leaf.png"
+      }
+    },
+    {
+      "name": "Swag Bandana",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/swag-bandana.png"
+      }
+    },
+    {
+      "name": "Snoop Logo",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/snoop-logo.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Cute Paw",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cute-paw.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "UZI",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/uzi.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Music Skull",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/music-skull.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Cash Cap",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cash-cap.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Dollar Graffiti",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/dollar-graffiti.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Steampunk Hat",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/steampunk-hat.png"
+      }
+    },
+    {
+      "name": "Paisley",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/paisley.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Westside Hand",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/westside-hand.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Rap Sign",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/rap-sign.png"
+      }
+    },
+    {
+      "name": "Yo Sign",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/yo-sign.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Loudspeaker",
+      "assets": {
+        "png": "gifts/snoopcigar/assets/patterns/loudspeaker.png"
+      }
+    }
+  ]
+}

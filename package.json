@@ -5,6 +5,8 @@
   "description": "Structured TypeScript data for Telegram gifts, collections, models, patterns and backdrops.",
   "type": "module",
   "scripts": {
+    "generate-assets": "node scripts/generate-asset-manifests.mjs",
+    "download-assets": "node scripts/download-assets.mjs",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {

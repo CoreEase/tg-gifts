@@ -1,0 +1,1564 @@
+{
+  "slug": "rarebird",
+  "models": [
+    {
+      "name": "Fiscal Hawk",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/fiscal-hawk.svg",
+        "tgs": "gifts/rarebird/assets/models/fiscal-hawk.tgs"
+      }
+    },
+    {
+      "name": "Frozen Gold",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/frozen-gold.svg",
+        "tgs": "gifts/rarebird/assets/models/frozen-gold.tgs"
+      }
+    },
+    {
+      "name": "Royal Pavo",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/royal-pavo.svg",
+        "tgs": "gifts/rarebird/assets/models/royal-pavo.tgs"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/thunderbird.svg",
+        "tgs": "gifts/rarebird/assets/models/thunderbird.tgs"
+      }
+    },
+    {
+      "name": "Zombie Rider",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/zombie-rider.svg",
+        "tgs": "gifts/rarebird/assets/models/zombie-rider.tgs"
+      }
+    },
+    {
+      "name": "Dark Knight",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/dark-knight.svg",
+        "tgs": "gifts/rarebird/assets/models/dark-knight.tgs"
+      }
+    },
+    {
+      "name": "Dark Prince",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/dark-prince.svg",
+        "tgs": "gifts/rarebird/assets/models/dark-prince.tgs"
+      }
+    },
+    {
+      "name": "Hot Chick",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/hot-chick.svg",
+        "tgs": "gifts/rarebird/assets/models/hot-chick.tgs"
+      }
+    },
+    {
+      "name": "Lucifer",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/lucifer.svg",
+        "tgs": "gifts/rarebird/assets/models/lucifer.tgs"
+      }
+    },
+    {
+      "name": "Rose Fairy",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/rose-fairy.svg",
+        "tgs": "gifts/rarebird/assets/models/rose-fairy.tgs"
+      }
+    },
+    {
+      "name": "Ruby Dodo",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/ruby-dodo.svg",
+        "tgs": "gifts/rarebird/assets/models/ruby-dodo.tgs"
+      }
+    },
+    {
+      "name": "Wave Glider",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/wave-glider.svg",
+        "tgs": "gifts/rarebird/assets/models/wave-glider.tgs"
+      }
+    },
+    {
+      "name": "Apex Drone",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/apex-drone.svg",
+        "tgs": "gifts/rarebird/assets/models/apex-drone.tgs"
+      }
+    },
+    {
+      "name": "Aurora Moth",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/aurora-moth.svg",
+        "tgs": "gifts/rarebird/assets/models/aurora-moth.tgs"
+      }
+    },
+    {
+      "name": "Black Hawk",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/black-hawk.svg",
+        "tgs": "gifts/rarebird/assets/models/black-hawk.tgs"
+      }
+    },
+    {
+      "name": "Dragon",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/dragon.svg",
+        "tgs": "gifts/rarebird/assets/models/dragon.tgs"
+      }
+    },
+    {
+      "name": "Fire Rooster",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/fire-rooster.svg",
+        "tgs": "gifts/rarebird/assets/models/fire-rooster.tgs"
+      }
+    },
+    {
+      "name": "Gargoyle",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/gargoyle.svg",
+        "tgs": "gifts/rarebird/assets/models/gargoyle.tgs"
+      }
+    },
+    {
+      "name": "Gilded Heron",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/gilded-heron.svg",
+        "tgs": "gifts/rarebird/assets/models/gilded-heron.tgs"
+      }
+    },
+    {
+      "name": "Golden Falcon",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/golden-falcon.svg",
+        "tgs": "gifts/rarebird/assets/models/golden-falcon.tgs"
+      }
+    },
+    {
+      "name": "Manticore",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/manticore.svg",
+        "tgs": "gifts/rarebird/assets/models/manticore.tgs"
+      }
+    },
+    {
+      "name": "Shadow Raven",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/shadow-raven.svg",
+        "tgs": "gifts/rarebird/assets/models/shadow-raven.tgs"
+      }
+    },
+    {
+      "name": "Sphinx",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/sphinx.svg",
+        "tgs": "gifts/rarebird/assets/models/sphinx.tgs"
+      }
+    },
+    {
+      "name": "Treasure",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/treasure.svg",
+        "tgs": "gifts/rarebird/assets/models/treasure.tgs"
+      }
+    },
+    {
+      "name": "Winged Victory",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/winged-victory.svg",
+        "tgs": "gifts/rarebird/assets/models/winged-victory.tgs"
+      }
+    },
+    {
+      "name": "Bat King",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/bat-king.svg",
+        "tgs": "gifts/rarebird/assets/models/bat-king.tgs"
+      }
+    },
+    {
+      "name": "Battlewing",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/battlewing.svg",
+        "tgs": "gifts/rarebird/assets/models/battlewing.tgs"
+      }
+    },
+    {
+      "name": "Crystal Swift",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/crystal-swift.svg",
+        "tgs": "gifts/rarebird/assets/models/crystal-swift.tgs"
+      }
+    },
+    {
+      "name": "Diamond Owl",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/diamond-owl.svg",
+        "tgs": "gifts/rarebird/assets/models/diamond-owl.tgs"
+      }
+    },
+    {
+      "name": "Hippogriff",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/hippogriff.svg",
+        "tgs": "gifts/rarebird/assets/models/hippogriff.tgs"
+      }
+    },
+    {
+      "name": "Icarus",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/icarus.svg",
+        "tgs": "gifts/rarebird/assets/models/icarus.tgs"
+      }
+    },
+    {
+      "name": "Necromancer",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/necromancer.svg",
+        "tgs": "gifts/rarebird/assets/models/necromancer.tgs"
+      }
+    },
+    {
+      "name": "Prehistoric",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/prehistoric.svg",
+        "tgs": "gifts/rarebird/assets/models/prehistoric.tgs"
+      }
+    },
+    {
+      "name": "Chickadee",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/chickadee.svg",
+        "tgs": "gifts/rarebird/assets/models/chickadee.tgs"
+      }
+    },
+    {
+      "name": "Garnet Koel",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/garnet-koel.svg",
+        "tgs": "gifts/rarebird/assets/models/garnet-koel.tgs"
+      }
+    },
+    {
+      "name": "Kakapo",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/kakapo.svg",
+        "tgs": "gifts/rarebird/assets/models/kakapo.tgs"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/pegasus.svg",
+        "tgs": "gifts/rarebird/assets/models/pegasus.tgs"
+      }
+    },
+    {
+      "name": "Silver Spike",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/silver-spike.svg",
+        "tgs": "gifts/rarebird/assets/models/silver-spike.tgs"
+      }
+    },
+    {
+      "name": "Silver Wings",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/silver-wings.svg",
+        "tgs": "gifts/rarebird/assets/models/silver-wings.tgs"
+      }
+    },
+    {
+      "name": "The Emperor",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/the-emperor.svg",
+        "tgs": "gifts/rarebird/assets/models/the-emperor.tgs"
+      }
+    },
+    {
+      "name": "Copper Quack",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/copper-quack.svg",
+        "tgs": "gifts/rarebird/assets/models/copper-quack.tgs"
+      }
+    },
+    {
+      "name": "Pigeon",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/pigeon.svg",
+        "tgs": "gifts/rarebird/assets/models/pigeon.tgs"
+      }
+    },
+    {
+      "name": "Red Vulture",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/red-vulture.svg",
+        "tgs": "gifts/rarebird/assets/models/red-vulture.tgs"
+      }
+    },
+    {
+      "name": "Amber Toucan",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/amber-toucan.svg",
+        "tgs": "gifts/rarebird/assets/models/amber-toucan.tgs"
+      }
+    },
+    {
+      "name": "Azure Spark",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/azure-spark.svg",
+        "tgs": "gifts/rarebird/assets/models/azure-spark.tgs"
+      }
+    },
+    {
+      "name": "Crystal Swan",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/crystal-swan.svg",
+        "tgs": "gifts/rarebird/assets/models/crystal-swan.tgs"
+      }
+    },
+    {
+      "name": "Jade Jay",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/jade-jay.svg",
+        "tgs": "gifts/rarebird/assets/models/jade-jay.tgs"
+      }
+    },
+    {
+      "name": "Noble Puffin",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/noble-puffin.svg",
+        "tgs": "gifts/rarebird/assets/models/noble-puffin.tgs"
+      }
+    },
+    {
+      "name": "Pelican",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/pelican.svg",
+        "tgs": "gifts/rarebird/assets/models/pelican.tgs"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/phoenix.svg",
+        "tgs": "gifts/rarebird/assets/models/phoenix.tgs"
+      }
+    },
+    {
+      "name": "Paradise",
+      "assets": {
+        "svg": "gifts/rarebird/assets/models/paradise.svg",
+        "tgs": "gifts/rarebird/assets/models/paradise.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Robin Hood",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/robin-hood.png"
+      }
+    },
+    {
+      "name": "Flag",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/flag.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Teru Bōzu",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/teru-bozu.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Kashket",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/kashket.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Novus Ordo",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/novus-ordo.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Hard Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/hard-hat.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Pith Helmet",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pith-helmet.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Banana",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/banana.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Lotus Flower",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/lotus-flower.png"
+      }
+    },
+    {
+      "name": "Legionary",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/legionary.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Jester Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/jester-hat.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Press Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/press-hat.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Coonskin Cap",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/coonskin-cap.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Basketball",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/basketball.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Jewel",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/jewel.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Bicorne",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bicorne.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Visor",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/visor.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Divine Falcon",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/divine-falcon.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Horned Helm",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/horned-helm.png"
+      }
+    },
+    {
+      "name": "Sombrero",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sombrero.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Egg Basket",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/egg-basket.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Neptune",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/neptune.png"
+      }
+    },
+    {
+      "name": "Iron Helmet",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/iron-helmet.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "War Bonnet",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/war-bonnet.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Wontons",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/wontons.png"
+      }
+    },
+    {
+      "name": "Tricorne",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/tricorne.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Easter Bunny",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/easter-bunny.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Academic Cap",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/academic-cap.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Bandana",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bandana.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Bearskin",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bearskin.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Alert Serpent",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/alert-serpent.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Monarch",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/monarch.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Chef Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/chef-hat.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Trinity Knot",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/trinity-knot.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pilot-hat.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Ice Pop",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/ice-pop.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Beret",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/beret.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Easter Egg",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/easter-egg.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Aztec Falcon",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/aztec-falcon.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Winter Hat",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/winter-hat.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Paper Lantern",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/paper-lantern.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/rarebird/assets/patterns/doberman.png"
+      }
+    }
+  ]
+}

@@ -1,11 +1,18 @@
 export interface GiftModel {
   name: string;
   customEmojiId: string | null;
+  assets: {
+    svg: string;
+    tgs: string;
+  };
 }
 
 export interface GiftPattern {
   name: string;
   customEmojiId: string | null;
+  assets: {
+    png: string;
+  };
 }
 
 export interface Backdrop {
@@ -26,11 +33,11 @@ export interface GiftCollection {
   backdrops: readonly Backdrop[];
 }
 
-export interface CollectionSummary = {
+export type CollectionSummary = {
   slug: string;
   name: string;
   image: string;
-  count: number | null;       
+  count: number | null;
   modelCount: number;
   patternCount: number;
   backdropCount: number;

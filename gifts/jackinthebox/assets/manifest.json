@@ -1,0 +1,1949 @@
+{
+  "slug": "jackinthebox",
+  "models": [
+    {
+      "name": "Haunted House",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/haunted-house.svg",
+        "tgs": "gifts/jackinthebox/assets/models/haunted-house.tgs"
+      }
+    },
+    {
+      "name": "Crash TNT",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/crash-tnt.svg",
+        "tgs": "gifts/jackinthebox/assets/models/crash-tnt.tgs"
+      }
+    },
+    {
+      "name": "Happy Poo",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/happy-poo.svg",
+        "tgs": "gifts/jackinthebox/assets/models/happy-poo.tgs"
+      }
+    },
+    {
+      "name": "Luggage",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/luggage.svg",
+        "tgs": "gifts/jackinthebox/assets/models/luggage.tgs"
+      }
+    },
+    {
+      "name": "Sponge Box",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/sponge-box.svg",
+        "tgs": "gifts/jackinthebox/assets/models/sponge-box.tgs"
+      }
+    },
+    {
+      "name": "Splash",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/splash.svg",
+        "tgs": "gifts/jackinthebox/assets/models/splash.tgs"
+      }
+    },
+    {
+      "name": "Thinking Foot",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/thinking-foot.svg",
+        "tgs": "gifts/jackinthebox/assets/models/thinking-foot.tgs"
+      }
+    },
+    {
+      "name": "Toasted",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/toasted.svg",
+        "tgs": "gifts/jackinthebox/assets/models/toasted.tgs"
+      }
+    },
+    {
+      "name": "Treasure",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/treasure.svg",
+        "tgs": "gifts/jackinthebox/assets/models/treasure.tgs"
+      }
+    },
+    {
+      "name": "Cat House",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/cat-house.svg",
+        "tgs": "gifts/jackinthebox/assets/models/cat-house.tgs"
+      }
+    },
+    {
+      "name": "Money Safe",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/money-safe.svg",
+        "tgs": "gifts/jackinthebox/assets/models/money-safe.tgs"
+      }
+    },
+    {
+      "name": "Pennywise",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/pennywise.svg",
+        "tgs": "gifts/jackinthebox/assets/models/pennywise.tgs"
+      }
+    },
+    {
+      "name": "Top Prize",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/top-prize.svg",
+        "tgs": "gifts/jackinthebox/assets/models/top-prize.tgs"
+      }
+    },
+    {
+      "name": "New Sneakers",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/new-sneakers.svg",
+        "tgs": "gifts/jackinthebox/assets/models/new-sneakers.tgs"
+      }
+    },
+    {
+      "name": "Aliens",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/aliens.svg",
+        "tgs": "gifts/jackinthebox/assets/models/aliens.tgs"
+      }
+    },
+    {
+      "name": "Mamma Mia",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/mamma-mia.svg",
+        "tgs": "gifts/jackinthebox/assets/models/mamma-mia.tgs"
+      }
+    },
+    {
+      "name": "Peace Bro",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/peace-bro.svg",
+        "tgs": "gifts/jackinthebox/assets/models/peace-bro.tgs"
+      }
+    },
+    {
+      "name": "Shy Pepe",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/shy-pepe.svg",
+        "tgs": "gifts/jackinthebox/assets/models/shy-pepe.tgs"
+      }
+    },
+    {
+      "name": "Undead",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/undead.svg",
+        "tgs": "gifts/jackinthebox/assets/models/undead.tgs"
+      }
+    },
+    {
+      "name": "Bombox",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/bombox.svg",
+        "tgs": "gifts/jackinthebox/assets/models/bombox.tgs"
+      }
+    },
+    {
+      "name": "Fake Flower",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/fake-flower.svg",
+        "tgs": "gifts/jackinthebox/assets/models/fake-flower.tgs"
+      }
+    },
+    {
+      "name": "Joker",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/joker.svg",
+        "tgs": "gifts/jackinthebox/assets/models/joker.tgs"
+      }
+    },
+    {
+      "name": "Let’s Rock",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/let-s-rock.svg",
+        "tgs": "gifts/jackinthebox/assets/models/let-s-rock.tgs"
+      }
+    },
+    {
+      "name": "Lucifer",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/lucifer.svg",
+        "tgs": "gifts/jackinthebox/assets/models/lucifer.tgs"
+      }
+    },
+    {
+      "name": "Minifigure",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/minifigure.svg",
+        "tgs": "gifts/jackinthebox/assets/models/minifigure.tgs"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/pinata.svg",
+        "tgs": "gifts/jackinthebox/assets/models/pinata.tgs"
+      }
+    },
+    {
+      "name": "Pink Bunny",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/pink-bunny.svg",
+        "tgs": "gifts/jackinthebox/assets/models/pink-bunny.tgs"
+      }
+    },
+    {
+      "name": "Prank Spider",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/prank-spider.svg",
+        "tgs": "gifts/jackinthebox/assets/models/prank-spider.tgs"
+      }
+    },
+    {
+      "name": "Recursion",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/recursion.svg",
+        "tgs": "gifts/jackinthebox/assets/models/recursion.tgs"
+      }
+    },
+    {
+      "name": "Rubik’s Cube",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/rubik-s-cube.svg",
+        "tgs": "gifts/jackinthebox/assets/models/rubik-s-cube.tgs"
+      }
+    },
+    {
+      "name": "Santa Muerte",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/santa-muerte.svg",
+        "tgs": "gifts/jackinthebox/assets/models/santa-muerte.tgs"
+      }
+    },
+    {
+      "name": "Trash Panda",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/trash-panda.svg",
+        "tgs": "gifts/jackinthebox/assets/models/trash-panda.tgs"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/unicorn.svg",
+        "tgs": "gifts/jackinthebox/assets/models/unicorn.tgs"
+      }
+    },
+    {
+      "name": "Amogus",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/amogus.svg",
+        "tgs": "gifts/jackinthebox/assets/models/amogus.tgs"
+      }
+    },
+    {
+      "name": "Jack-a-Snake",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/jack-a-snake.svg",
+        "tgs": "gifts/jackinthebox/assets/models/jack-a-snake.tgs"
+      }
+    },
+    {
+      "name": "Maneki Neko",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/maneki-neko.svg",
+        "tgs": "gifts/jackinthebox/assets/models/maneki-neko.tgs"
+      }
+    },
+    {
+      "name": "Matryoshka",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/matryoshka.svg",
+        "tgs": "gifts/jackinthebox/assets/models/matryoshka.tgs"
+      }
+    },
+    {
+      "name": "Night Terror",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/night-terror.svg",
+        "tgs": "gifts/jackinthebox/assets/models/night-terror.tgs"
+      }
+    },
+    {
+      "name": "Piranha Plant",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/piranha-plant.svg",
+        "tgs": "gifts/jackinthebox/assets/models/piranha-plant.tgs"
+      }
+    },
+    {
+      "name": "Spaceship",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/spaceship.svg",
+        "tgs": "gifts/jackinthebox/assets/models/spaceship.tgs"
+      }
+    },
+    {
+      "name": "Beetle Juice",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/beetle-juice.svg",
+        "tgs": "gifts/jackinthebox/assets/models/beetle-juice.tgs"
+      }
+    },
+    {
+      "name": "Blue Friend",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/blue-friend.svg",
+        "tgs": "gifts/jackinthebox/assets/models/blue-friend.tgs"
+      }
+    },
+    {
+      "name": "Christmas",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/christmas.svg",
+        "tgs": "gifts/jackinthebox/assets/models/christmas.tgs"
+      }
+    },
+    {
+      "name": "Teddy Bear",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/teddy-bear.svg",
+        "tgs": "gifts/jackinthebox/assets/models/teddy-bear.tgs"
+      }
+    },
+    {
+      "name": "Bouquet",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/bouquet.svg",
+        "tgs": "gifts/jackinthebox/assets/models/bouquet.tgs"
+      }
+    },
+    {
+      "name": "Cockcrow",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/cockcrow.svg",
+        "tgs": "gifts/jackinthebox/assets/models/cockcrow.tgs"
+      }
+    },
+    {
+      "name": "Dentures",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/dentures.svg",
+        "tgs": "gifts/jackinthebox/assets/models/dentures.tgs"
+      }
+    },
+    {
+      "name": "Doghouse",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/doghouse.svg",
+        "tgs": "gifts/jackinthebox/assets/models/doghouse.tgs"
+      }
+    },
+    {
+      "name": "Doughnut",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/doughnut.svg",
+        "tgs": "gifts/jackinthebox/assets/models/doughnut.tgs"
+      }
+    },
+    {
+      "name": "Knockdown",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/knockdown.svg",
+        "tgs": "gifts/jackinthebox/assets/models/knockdown.tgs"
+      }
+    },
+    {
+      "name": "Lunch Break",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/lunch-break.svg",
+        "tgs": "gifts/jackinthebox/assets/models/lunch-break.tgs"
+      }
+    },
+    {
+      "name": "Music Box",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/music-box.svg",
+        "tgs": "gifts/jackinthebox/assets/models/music-box.tgs"
+      }
+    },
+    {
+      "name": "Oktoberfest",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/oktoberfest.svg",
+        "tgs": "gifts/jackinthebox/assets/models/oktoberfest.tgs"
+      }
+    },
+    {
+      "name": "Super Block",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/super-block.svg",
+        "tgs": "gifts/jackinthebox/assets/models/super-block.tgs"
+      }
+    },
+    {
+      "name": "Thumbs Up",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/thumbs-up.svg",
+        "tgs": "gifts/jackinthebox/assets/models/thumbs-up.tgs"
+      }
+    },
+    {
+      "name": "Tombstone",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/tombstone.svg",
+        "tgs": "gifts/jackinthebox/assets/models/tombstone.tgs"
+      }
+    },
+    {
+      "name": "Trickster",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/trickster.svg",
+        "tgs": "gifts/jackinthebox/assets/models/trickster.tgs"
+      }
+    },
+    {
+      "name": "Wonderland",
+      "assets": {
+        "svg": "gifts/jackinthebox/assets/models/wonderland.svg",
+        "tgs": "gifts/jackinthebox/assets/models/wonderland.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Origami",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/origami.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Winged Helmet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/winged-helmet.png"
+      }
+    },
+    {
+      "name": "Baseball Cap",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/baseball-cap.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Burger",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/burger.png"
+      }
+    },
+    {
+      "name": "Breeze",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/breeze.png"
+      }
+    },
+    {
+      "name": "Jörmungandr",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/jormungandr.png"
+      }
+    },
+    {
+      "name": "Pumpkin Coach",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pumpkin-coach.png"
+      }
+    },
+    {
+      "name": "Imperial Lion",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/imperial-lion.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Snail",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/snail.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Kitsune Mask",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/kitsune-mask.png"
+      }
+    },
+    {
+      "name": "Visor",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/visor.png"
+      }
+    },
+    {
+      "name": "Horseshoe",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/horseshoe.png"
+      }
+    },
+    {
+      "name": "Thor Hammer",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/thor-hammer.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Baby Bottle",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/baby-bottle.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Shortsword",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/shortsword.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Beret",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/beret.png"
+      }
+    },
+    {
+      "name": "Hersir",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/hersir.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Bandana",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bandana.png"
+      }
+    },
+    {
+      "name": "Tsunami",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/tsunami.png"
+      }
+    },
+    {
+      "name": "War Tiger",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/war-tiger.png"
+      }
+    },
+    {
+      "name": "Sombrero",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sombrero.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Keffiyeh",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/keffiyeh.png"
+      }
+    },
+    {
+      "name": "Greek Sun",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/greek-sun.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Griffon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/griffon.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Piranha",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/piranha.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Tamagotchi",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/tamagotchi.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "Bowler Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bowler-hat.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "La Corona",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/la-corona.png"
+      }
+    },
+    {
+      "name": "Black Cat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/black-cat.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Holy Grail",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/holy-grail.png"
+      }
+    },
+    {
+      "name": "Flying Dragon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/flying-dragon.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Arcane Mirror",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/arcane-mirror.png"
+      }
+    },
+    {
+      "name": "Onigiri",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/onigiri.png"
+      }
+    },
+    {
+      "name": "Silver Ibis",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/silver-ibis.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Serpent",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/serpent.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Two Katanas",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/two-katanas.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Iron Helmet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/iron-helmet.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Puzzle",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/puzzle.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Takoyaki",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/takoyaki.png"
+      }
+    },
+    {
+      "name": "Watching Sun",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/watching-sun.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Fez",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/fez.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Flower Sun",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/flower-sun.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Khinkali",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/khinkali.png"
+      }
+    },
+    {
+      "name": "Earflap Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/earflap-hat.png"
+      }
+    },
+    {
+      "name": "Steampunk Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/steampunk-hat.png"
+      }
+    },
+    {
+      "name": "Heater Shield",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/heater-shield.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Pith Helmet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pith-helmet.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/moon-eagle.png"
+      }
+    },
+    {
+      "name": "Telescope",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/telescope.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Lion of Babylon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/lion-of-babylon.png"
+      }
+    },
+    {
+      "name": "All-Seeing Eye",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/all-seeing-eye.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Peaked Cap",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/peaked-cap.png"
+      }
+    },
+    {
+      "name": "Bonsai",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bonsai.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Pilot Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pilot-hat.png"
+      }
+    },
+    {
+      "name": "Chef Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/chef-hat.png"
+      }
+    },
+    {
+      "name": "Worker Ant",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/worker-ant.png"
+      }
+    },
+    {
+      "name": "High Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/high-hat.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Crescent",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/crescent.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Moto Helmet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/moto-helmet.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Doctor Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/doctor-hat.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Paw Print",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/paw-print.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Galaxy",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/galaxy.png"
+      }
+    },
+    {
+      "name": "Beanie",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/beanie.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Flag",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/flag.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Nemean Lion",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/nemean-lion.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Shuriken",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/shuriken.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Twin Koi",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/twin-koi.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Ball",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/ball.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Elf Hat",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/elf-hat.png"
+      }
+    },
+    {
+      "name": "Mustache",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/mustache.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Deerstalker",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/deerstalker.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Thunderbird",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/thunderbird.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Old Candle",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/old-candle.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Dagger",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/dagger.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Greek Helmet",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/greek-helmet.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/jackinthebox/assets/patterns/glasses.png"
+      }
+    }
+  ]
+}

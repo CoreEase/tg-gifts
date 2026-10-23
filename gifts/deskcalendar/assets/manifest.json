@@ -1,0 +1,2642 @@
+{
+  "slug": "deskcalendar",
+  "models": [
+    {
+      "name": "Day of Mars",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/day-of-mars.svg",
+        "tgs": "gifts/deskcalendar/assets/models/day-of-mars.tgs"
+      }
+    },
+    {
+      "name": "Óðinsdagr",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/o-insdagr.svg",
+        "tgs": "gifts/deskcalendar/assets/models/o-insdagr.tgs"
+      }
+    },
+    {
+      "name": "Loki’s Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/loki-s-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/loki-s-day.tgs"
+      }
+    },
+    {
+      "name": "Celestial Map",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/celestial-map.svg",
+        "tgs": "gifts/deskcalendar/assets/models/celestial-map.tgs"
+      }
+    },
+    {
+      "name": "May the Fourth",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/may-the-fourth.svg",
+        "tgs": "gifts/deskcalendar/assets/models/may-the-fourth.tgs"
+      }
+    },
+    {
+      "name": "Selena",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/selena.svg",
+        "tgs": "gifts/deskcalendar/assets/models/selena.tgs"
+      }
+    },
+    {
+      "name": "Aphrodite",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/aphrodite.svg",
+        "tgs": "gifts/deskcalendar/assets/models/aphrodite.tgs"
+      }
+    },
+    {
+      "name": "TON Core",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/ton-core.svg",
+        "tgs": "gifts/deskcalendar/assets/models/ton-core.tgs"
+      }
+    },
+    {
+      "name": "Frjádagr",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/frjadagr.svg",
+        "tgs": "gifts/deskcalendar/assets/models/frjadagr.tgs"
+      }
+    },
+    {
+      "name": "Þórsdagr",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/orsdagr.svg",
+        "tgs": "gifts/deskcalendar/assets/models/orsdagr.tgs"
+      }
+    },
+    {
+      "name": "Týsdagr",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/tysdagr.svg",
+        "tgs": "gifts/deskcalendar/assets/models/tysdagr.tgs"
+      }
+    },
+    {
+      "name": "Kronos",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/kronos.svg",
+        "tgs": "gifts/deskcalendar/assets/models/kronos.tgs"
+      }
+    },
+    {
+      "name": "Sol Invictus",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/sol-invictus.svg",
+        "tgs": "gifts/deskcalendar/assets/models/sol-invictus.tgs"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/shinto-shrine.svg",
+        "tgs": "gifts/deskcalendar/assets/models/shinto-shrine.tgs"
+      }
+    },
+    {
+      "name": "Royal Flush",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/royal-flush.svg",
+        "tgs": "gifts/deskcalendar/assets/models/royal-flush.tgs"
+      }
+    },
+    {
+      "name": "Payday",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/payday.svg",
+        "tgs": "gifts/deskcalendar/assets/models/payday.tgs"
+      }
+    },
+    {
+      "name": "Lucky Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/lucky-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/lucky-day.tgs"
+      }
+    },
+    {
+      "name": "Mánadagr",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/manadagr.svg",
+        "tgs": "gifts/deskcalendar/assets/models/manadagr.tgs"
+      }
+    },
+    {
+      "name": "Treasure Map",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/treasure-map.svg",
+        "tgs": "gifts/deskcalendar/assets/models/treasure-map.tgs"
+      }
+    },
+    {
+      "name": "Glam Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/glam-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/glam-day.tgs"
+      }
+    },
+    {
+      "name": "Frog Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/frog-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/frog-day.tgs"
+      }
+    },
+    {
+      "name": "First Date",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/first-date.svg",
+        "tgs": "gifts/deskcalendar/assets/models/first-date.tgs"
+      }
+    },
+    {
+      "name": "Space Era",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/space-era.svg",
+        "tgs": "gifts/deskcalendar/assets/models/space-era.tgs"
+      }
+    },
+    {
+      "name": "Weekly Set",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/weekly-set.svg",
+        "tgs": "gifts/deskcalendar/assets/models/weekly-set.tgs"
+      }
+    },
+    {
+      "name": "Grimoire",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/grimoire.svg",
+        "tgs": "gifts/deskcalendar/assets/models/grimoire.tgs"
+      }
+    },
+    {
+      "name": "Cat Seasons",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/cat-seasons.svg",
+        "tgs": "gifts/deskcalendar/assets/models/cat-seasons.tgs"
+      }
+    },
+    {
+      "name": "Artwork",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/artwork.svg",
+        "tgs": "gifts/deskcalendar/assets/models/artwork.tgs"
+      }
+    },
+    {
+      "name": "Ghost Party",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/ghost-party.svg",
+        "tgs": "gifts/deskcalendar/assets/models/ghost-party.tgs"
+      }
+    },
+    {
+      "name": "Zeus",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/zeus.svg",
+        "tgs": "gifts/deskcalendar/assets/models/zeus.tgs"
+      }
+    },
+    {
+      "name": "Samhain",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/samhain.svg",
+        "tgs": "gifts/deskcalendar/assets/models/samhain.tgs"
+      }
+    },
+    {
+      "name": "Outlaw",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/outlaw.svg",
+        "tgs": "gifts/deskcalendar/assets/models/outlaw.tgs"
+      }
+    },
+    {
+      "name": "Hermes",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/hermes.svg",
+        "tgs": "gifts/deskcalendar/assets/models/hermes.tgs"
+      }
+    },
+    {
+      "name": "Count Dracula",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/count-dracula.svg",
+        "tgs": "gifts/deskcalendar/assets/models/count-dracula.tgs"
+      }
+    },
+    {
+      "name": "Wedding",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/wedding.svg",
+        "tgs": "gifts/deskcalendar/assets/models/wedding.tgs"
+      }
+    },
+    {
+      "name": "Sekhmet",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/sekhmet.svg",
+        "tgs": "gifts/deskcalendar/assets/models/sekhmet.tgs"
+      }
+    },
+    {
+      "name": "Cyberpunk",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/cyberpunk.svg",
+        "tgs": "gifts/deskcalendar/assets/models/cyberpunk.tgs"
+      }
+    },
+    {
+      "name": "Anniversary",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/anniversary.svg",
+        "tgs": "gifts/deskcalendar/assets/models/anniversary.tgs"
+      }
+    },
+    {
+      "name": "Crunch Time",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/crunch-time.svg",
+        "tgs": "gifts/deskcalendar/assets/models/crunch-time.tgs"
+      }
+    },
+    {
+      "name": "Mesozoic",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/mesozoic.svg",
+        "tgs": "gifts/deskcalendar/assets/models/mesozoic.tgs"
+      }
+    },
+    {
+      "name": "Orchestra",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/orchestra.svg",
+        "tgs": "gifts/deskcalendar/assets/models/orchestra.tgs"
+      }
+    },
+    {
+      "name": "Daily Bread",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/daily-bread.svg",
+        "tgs": "gifts/deskcalendar/assets/models/daily-bread.tgs"
+      }
+    },
+    {
+      "name": "Helios",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/helios.svg",
+        "tgs": "gifts/deskcalendar/assets/models/helios.tgs"
+      }
+    },
+    {
+      "name": "God of Wine",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/god-of-wine.svg",
+        "tgs": "gifts/deskcalendar/assets/models/god-of-wine.tgs"
+      }
+    },
+    {
+      "name": "Steampunk",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/steampunk.svg",
+        "tgs": "gifts/deskcalendar/assets/models/steampunk.tgs"
+      }
+    },
+    {
+      "name": "Launch Date",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/launch-date.svg",
+        "tgs": "gifts/deskcalendar/assets/models/launch-date.tgs"
+      }
+    },
+    {
+      "name": "Shuffle",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/shuffle.svg",
+        "tgs": "gifts/deskcalendar/assets/models/shuffle.tgs"
+      }
+    },
+    {
+      "name": "Time Spin",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/time-spin.svg",
+        "tgs": "gifts/deskcalendar/assets/models/time-spin.tgs"
+      }
+    },
+    {
+      "name": "Holy Month",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/holy-month.svg",
+        "tgs": "gifts/deskcalendar/assets/models/holy-month.tgs"
+      }
+    },
+    {
+      "name": "Anno Domini",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/anno-domini.svg",
+        "tgs": "gifts/deskcalendar/assets/models/anno-domini.tgs"
+      }
+    },
+    {
+      "name": "New Year",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/new-year.svg",
+        "tgs": "gifts/deskcalendar/assets/models/new-year.tgs"
+      }
+    },
+    {
+      "name": "Vacation",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/vacation.svg",
+        "tgs": "gifts/deskcalendar/assets/models/vacation.tgs"
+      }
+    },
+    {
+      "name": "Shopping List",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/shopping-list.svg",
+        "tgs": "gifts/deskcalendar/assets/models/shopping-list.tgs"
+      }
+    },
+    {
+      "name": "April Fools",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/april-fools.svg",
+        "tgs": "gifts/deskcalendar/assets/models/april-fools.tgs"
+      }
+    },
+    {
+      "name": "Women’s Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/women-s-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/women-s-day.tgs"
+      }
+    },
+    {
+      "name": "Vintage",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/vintage.svg",
+        "tgs": "gifts/deskcalendar/assets/models/vintage.tgs"
+      }
+    },
+    {
+      "name": "Yoga Time",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/yoga-time.svg",
+        "tgs": "gifts/deskcalendar/assets/models/yoga-time.tgs"
+      }
+    },
+    {
+      "name": "Toy Calendar",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/toy-calendar.svg",
+        "tgs": "gifts/deskcalendar/assets/models/toy-calendar.tgs"
+      }
+    },
+    {
+      "name": "Deadline",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/deadline.svg",
+        "tgs": "gifts/deskcalendar/assets/models/deadline.tgs"
+      }
+    },
+    {
+      "name": "Fawkes Night",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/fawkes-night.svg",
+        "tgs": "gifts/deskcalendar/assets/models/fawkes-night.tgs"
+      }
+    },
+    {
+      "name": "Pepe Plans",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/pepe-plans.svg",
+        "tgs": "gifts/deskcalendar/assets/models/pepe-plans.tgs"
+      }
+    },
+    {
+      "name": "Balloon Face",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/balloon-face.svg",
+        "tgs": "gifts/deskcalendar/assets/models/balloon-face.tgs"
+      }
+    },
+    {
+      "name": "Burning Time",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/burning-time.svg",
+        "tgs": "gifts/deskcalendar/assets/models/burning-time.tgs"
+      }
+    },
+    {
+      "name": "Independence",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/independence.svg",
+        "tgs": "gifts/deskcalendar/assets/models/independence.tgs"
+      }
+    },
+    {
+      "name": "Adult Tasks",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/adult-tasks.svg",
+        "tgs": "gifts/deskcalendar/assets/models/adult-tasks.tgs"
+      }
+    },
+    {
+      "name": "Investor",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/investor.svg",
+        "tgs": "gifts/deskcalendar/assets/models/investor.tgs"
+      }
+    },
+    {
+      "name": "Hodler",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/hodler.svg",
+        "tgs": "gifts/deskcalendar/assets/models/hodler.tgs"
+      }
+    },
+    {
+      "name": "Luftballons",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/luftballons.svg",
+        "tgs": "gifts/deskcalendar/assets/models/luftballons.tgs"
+      }
+    },
+    {
+      "name": "Peach Week",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/peach-week.svg",
+        "tgs": "gifts/deskcalendar/assets/models/peach-week.tgs"
+      }
+    },
+    {
+      "name": "Checklist",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/checklist.svg",
+        "tgs": "gifts/deskcalendar/assets/models/checklist.tgs"
+      }
+    },
+    {
+      "name": "Durov Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/durov-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/durov-day.tgs"
+      }
+    },
+    {
+      "name": "Celebration",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/celebration.svg",
+        "tgs": "gifts/deskcalendar/assets/models/celebration.tgs"
+      }
+    },
+    {
+      "name": "Sherlock",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/sherlock.svg",
+        "tgs": "gifts/deskcalendar/assets/models/sherlock.tgs"
+      }
+    },
+    {
+      "name": "Tic Tac Toe",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/tic-tac-toe.svg",
+        "tgs": "gifts/deskcalendar/assets/models/tic-tac-toe.tgs"
+      }
+    },
+    {
+      "name": "Fund Manager",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/fund-manager.svg",
+        "tgs": "gifts/deskcalendar/assets/models/fund-manager.tgs"
+      }
+    },
+    {
+      "name": "Telegram",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/telegram.svg",
+        "tgs": "gifts/deskcalendar/assets/models/telegram.tgs"
+      }
+    },
+    {
+      "name": "June",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/june.svg",
+        "tgs": "gifts/deskcalendar/assets/models/june.tgs"
+      }
+    },
+    {
+      "name": "Tuesday",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/tuesday.svg",
+        "tgs": "gifts/deskcalendar/assets/models/tuesday.tgs"
+      }
+    },
+    {
+      "name": "May",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/may.svg",
+        "tgs": "gifts/deskcalendar/assets/models/may.tgs"
+      }
+    },
+    {
+      "name": "Thursday",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/thursday.svg",
+        "tgs": "gifts/deskcalendar/assets/models/thursday.tgs"
+      }
+    },
+    {
+      "name": "September",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/september.svg",
+        "tgs": "gifts/deskcalendar/assets/models/september.tgs"
+      }
+    },
+    {
+      "name": "Saturday",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/saturday.svg",
+        "tgs": "gifts/deskcalendar/assets/models/saturday.tgs"
+      }
+    },
+    {
+      "name": "Heartbreak",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/heartbreak.svg",
+        "tgs": "gifts/deskcalendar/assets/models/heartbreak.tgs"
+      }
+    },
+    {
+      "name": "August",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/august.svg",
+        "tgs": "gifts/deskcalendar/assets/models/august.tgs"
+      }
+    },
+    {
+      "name": "July",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/july.svg",
+        "tgs": "gifts/deskcalendar/assets/models/july.tgs"
+      }
+    },
+    {
+      "name": "Wednesday",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/wednesday.svg",
+        "tgs": "gifts/deskcalendar/assets/models/wednesday.tgs"
+      }
+    },
+    {
+      "name": "January",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/january.svg",
+        "tgs": "gifts/deskcalendar/assets/models/january.tgs"
+      }
+    },
+    {
+      "name": "November",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/november.svg",
+        "tgs": "gifts/deskcalendar/assets/models/november.tgs"
+      }
+    },
+    {
+      "name": "Friday",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/friday.svg",
+        "tgs": "gifts/deskcalendar/assets/models/friday.tgs"
+      }
+    },
+    {
+      "name": "Sunday",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/sunday.svg",
+        "tgs": "gifts/deskcalendar/assets/models/sunday.tgs"
+      }
+    },
+    {
+      "name": "Monday",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/monday.svg",
+        "tgs": "gifts/deskcalendar/assets/models/monday.tgs"
+      }
+    },
+    {
+      "name": "October",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/october.svg",
+        "tgs": "gifts/deskcalendar/assets/models/october.tgs"
+      }
+    },
+    {
+      "name": "Festive Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/festive-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/festive-day.tgs"
+      }
+    },
+    {
+      "name": "March",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/march.svg",
+        "tgs": "gifts/deskcalendar/assets/models/march.tgs"
+      }
+    },
+    {
+      "name": "February",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/february.svg",
+        "tgs": "gifts/deskcalendar/assets/models/february.tgs"
+      }
+    },
+    {
+      "name": "Like Cycle",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/like-cycle.svg",
+        "tgs": "gifts/deskcalendar/assets/models/like-cycle.tgs"
+      }
+    },
+    {
+      "name": "December",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/december.svg",
+        "tgs": "gifts/deskcalendar/assets/models/december.tgs"
+      }
+    },
+    {
+      "name": "April",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/april.svg",
+        "tgs": "gifts/deskcalendar/assets/models/april.tgs"
+      }
+    },
+    {
+      "name": "Day Five",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/day-five.svg",
+        "tgs": "gifts/deskcalendar/assets/models/day-five.tgs"
+      }
+    },
+    {
+      "name": "Gato Ocho",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/gato-ocho.svg",
+        "tgs": "gifts/deskcalendar/assets/models/gato-ocho.tgs"
+      }
+    },
+    {
+      "name": "Ninety Nine",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/ninety-nine.svg",
+        "tgs": "gifts/deskcalendar/assets/models/ninety-nine.tgs"
+      }
+    },
+    {
+      "name": "Rare Event",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/rare-event.svg",
+        "tgs": "gifts/deskcalendar/assets/models/rare-event.tgs"
+      }
+    },
+    {
+      "name": "Kawaii",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/kawaii.svg",
+        "tgs": "gifts/deskcalendar/assets/models/kawaii.tgs"
+      }
+    },
+    {
+      "name": "Crossed Out",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/crossed-out.svg",
+        "tgs": "gifts/deskcalendar/assets/models/crossed-out.tgs"
+      }
+    },
+    {
+      "name": "Groundhog Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/groundhog-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/groundhog-day.tgs"
+      }
+    },
+    {
+      "name": "Blank Page",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/blank-page.svg",
+        "tgs": "gifts/deskcalendar/assets/models/blank-page.tgs"
+      }
+    },
+    {
+      "name": "Shocktober",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/shocktober.svg",
+        "tgs": "gifts/deskcalendar/assets/models/shocktober.tgs"
+      }
+    },
+    {
+      "name": "Fresh Start",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/fresh-start.svg",
+        "tgs": "gifts/deskcalendar/assets/models/fresh-start.tgs"
+      }
+    },
+    {
+      "name": "Blueprint",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/blueprint.svg",
+        "tgs": "gifts/deskcalendar/assets/models/blueprint.tgs"
+      }
+    },
+    {
+      "name": "Pink Planner",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/pink-planner.svg",
+        "tgs": "gifts/deskcalendar/assets/models/pink-planner.tgs"
+      }
+    },
+    {
+      "name": "Newsprint",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/newsprint.svg",
+        "tgs": "gifts/deskcalendar/assets/models/newsprint.tgs"
+      }
+    },
+    {
+      "name": "Golden Years",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/golden-years.svg",
+        "tgs": "gifts/deskcalendar/assets/models/golden-years.tgs"
+      }
+    },
+    {
+      "name": "Pink Hearts",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/pink-hearts.svg",
+        "tgs": "gifts/deskcalendar/assets/models/pink-hearts.tgs"
+      }
+    },
+    {
+      "name": "Monochrome",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/monochrome.svg",
+        "tgs": "gifts/deskcalendar/assets/models/monochrome.tgs"
+      }
+    },
+    {
+      "name": "Dark Binding",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/dark-binding.svg",
+        "tgs": "gifts/deskcalendar/assets/models/dark-binding.tgs"
+      }
+    },
+    {
+      "name": "Strong Circle",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/strong-circle.svg",
+        "tgs": "gifts/deskcalendar/assets/models/strong-circle.tgs"
+      }
+    },
+    {
+      "name": "Lavendays",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/lavendays.svg",
+        "tgs": "gifts/deskcalendar/assets/models/lavendays.tgs"
+      }
+    },
+    {
+      "name": "Orange Mood",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/orange-mood.svg",
+        "tgs": "gifts/deskcalendar/assets/models/orange-mood.tgs"
+      }
+    },
+    {
+      "name": "Tropical",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/tropical.svg",
+        "tgs": "gifts/deskcalendar/assets/models/tropical.tgs"
+      }
+    },
+    {
+      "name": "Highlighter",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/highlighter.svg",
+        "tgs": "gifts/deskcalendar/assets/models/highlighter.tgs"
+      }
+    },
+    {
+      "name": "Beet Diary",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/beet-diary.svg",
+        "tgs": "gifts/deskcalendar/assets/models/beet-diary.tgs"
+      }
+    },
+    {
+      "name": "Red Pen",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/red-pen.svg",
+        "tgs": "gifts/deskcalendar/assets/models/red-pen.tgs"
+      }
+    },
+    {
+      "name": "Eco Friendly",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/eco-friendly.svg",
+        "tgs": "gifts/deskcalendar/assets/models/eco-friendly.tgs"
+      }
+    },
+    {
+      "name": "Blue Sky",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/blue-sky.svg",
+        "tgs": "gifts/deskcalendar/assets/models/blue-sky.tgs"
+      }
+    },
+    {
+      "name": "Blossoms",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/blossoms.svg",
+        "tgs": "gifts/deskcalendar/assets/models/blossoms.tgs"
+      }
+    },
+    {
+      "name": "Leather Top",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/leather-top.svg",
+        "tgs": "gifts/deskcalendar/assets/models/leather-top.tgs"
+      }
+    },
+    {
+      "name": "Sticky Note",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/sticky-note.svg",
+        "tgs": "gifts/deskcalendar/assets/models/sticky-note.tgs"
+      }
+    },
+    {
+      "name": "Going Green",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/going-green.svg",
+        "tgs": "gifts/deskcalendar/assets/models/going-green.tgs"
+      }
+    },
+    {
+      "name": "Gold Pink",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/gold-pink.svg",
+        "tgs": "gifts/deskcalendar/assets/models/gold-pink.tgs"
+      }
+    },
+    {
+      "name": "Fire Path",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/fire-path.svg",
+        "tgs": "gifts/deskcalendar/assets/models/fire-path.tgs"
+      }
+    },
+    {
+      "name": "Purple Mint",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/purple-mint.svg",
+        "tgs": "gifts/deskcalendar/assets/models/purple-mint.tgs"
+      }
+    },
+    {
+      "name": "Bright Coral",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/bright-coral.svg",
+        "tgs": "gifts/deskcalendar/assets/models/bright-coral.tgs"
+      }
+    },
+    {
+      "name": "Very Visible",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/very-visible.svg",
+        "tgs": "gifts/deskcalendar/assets/models/very-visible.tgs"
+      }
+    },
+    {
+      "name": "Choco Top",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/choco-top.svg",
+        "tgs": "gifts/deskcalendar/assets/models/choco-top.tgs"
+      }
+    },
+    {
+      "name": "Harvest",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/harvest.svg",
+        "tgs": "gifts/deskcalendar/assets/models/harvest.tgs"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/lemon.svg",
+        "tgs": "gifts/deskcalendar/assets/models/lemon.tgs"
+      }
+    },
+    {
+      "name": "Black Flip",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/black-flip.svg",
+        "tgs": "gifts/deskcalendar/assets/models/black-flip.tgs"
+      }
+    },
+    {
+      "name": "Green Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/green-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/green-day.tgs"
+      }
+    },
+    {
+      "name": "Golden Touch",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/golden-touch.svg",
+        "tgs": "gifts/deskcalendar/assets/models/golden-touch.tgs"
+      }
+    },
+    {
+      "name": "Magic Flow",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/magic-flow.svg",
+        "tgs": "gifts/deskcalendar/assets/models/magic-flow.tgs"
+      }
+    },
+    {
+      "name": "Lovely",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/lovely.svg",
+        "tgs": "gifts/deskcalendar/assets/models/lovely.tgs"
+      }
+    },
+    {
+      "name": "Plum Peach",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/plum-peach.svg",
+        "tgs": "gifts/deskcalendar/assets/models/plum-peach.tgs"
+      }
+    },
+    {
+      "name": "Barbie Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/barbie-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/barbie-day.tgs"
+      }
+    },
+    {
+      "name": "Party Time",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/party-time.svg",
+        "tgs": "gifts/deskcalendar/assets/models/party-time.tgs"
+      }
+    },
+    {
+      "name": "Black Suede",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/black-suede.svg",
+        "tgs": "gifts/deskcalendar/assets/models/black-suede.tgs"
+      }
+    },
+    {
+      "name": "Basic Blue",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/basic-blue.svg",
+        "tgs": "gifts/deskcalendar/assets/models/basic-blue.tgs"
+      }
+    },
+    {
+      "name": "Yellow Page",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/yellow-page.svg",
+        "tgs": "gifts/deskcalendar/assets/models/yellow-page.tgs"
+      }
+    },
+    {
+      "name": "Lilac Black",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/lilac-black.svg",
+        "tgs": "gifts/deskcalendar/assets/models/lilac-black.tgs"
+      }
+    },
+    {
+      "name": "Pink Day",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/pink-day.svg",
+        "tgs": "gifts/deskcalendar/assets/models/pink-day.tgs"
+      }
+    },
+    {
+      "name": "Purple Front",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/purple-front.svg",
+        "tgs": "gifts/deskcalendar/assets/models/purple-front.tgs"
+      }
+    },
+    {
+      "name": "Surfer",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/surfer.svg",
+        "tgs": "gifts/deskcalendar/assets/models/surfer.tgs"
+      }
+    },
+    {
+      "name": "Deep Ocean",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/deep-ocean.svg",
+        "tgs": "gifts/deskcalendar/assets/models/deep-ocean.tgs"
+      }
+    },
+    {
+      "name": "Minting Date",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/minting-date.svg",
+        "tgs": "gifts/deskcalendar/assets/models/minting-date.tgs"
+      }
+    },
+    {
+      "name": "Sunshine",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/sunshine.svg",
+        "tgs": "gifts/deskcalendar/assets/models/sunshine.tgs"
+      }
+    },
+    {
+      "name": "Gold Leaf",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/gold-leaf.svg",
+        "tgs": "gifts/deskcalendar/assets/models/gold-leaf.tgs"
+      }
+    },
+    {
+      "name": "Beachy",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/beachy.svg",
+        "tgs": "gifts/deskcalendar/assets/models/beachy.tgs"
+      }
+    },
+    {
+      "name": "Miami Beach",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/miami-beach.svg",
+        "tgs": "gifts/deskcalendar/assets/models/miami-beach.tgs"
+      }
+    },
+    {
+      "name": "The Nineties",
+      "assets": {
+        "svg": "gifts/deskcalendar/assets/models/the-nineties.svg",
+        "tgs": "gifts/deskcalendar/assets/models/the-nineties.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Pickaxe",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pickaxe.png"
+      }
+    },
+    {
+      "name": "Dessert",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/dessert.png"
+      }
+    },
+    {
+      "name": "Scarab",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/scarab.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Fish",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/fish.png"
+      }
+    },
+    {
+      "name": "Gamepad",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/gamepad.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Nordic Wolf",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/nordic-wolf.png"
+      }
+    },
+    {
+      "name": "Bread",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bread.png"
+      }
+    },
+    {
+      "name": "Candy",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/candy.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Golden Scarab",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/golden-scarab.png"
+      }
+    },
+    {
+      "name": "Shark Knife",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/shark-knife.png"
+      }
+    },
+    {
+      "name": "Pearl",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pearl.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Cicada",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cicada.png"
+      }
+    },
+    {
+      "name": "Sword",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sword.png"
+      }
+    },
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Conch",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/conch.png"
+      }
+    },
+    {
+      "name": "Coat of Arms",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/coat-of-arms.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Flower",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/flower.png"
+      }
+    },
+    {
+      "name": "Musical Note",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/musical-note.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Flower Cross",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/flower-cross.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Axe",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/axe.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Turkey",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/turkey.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Mask",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/mask.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Shield",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/shield.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Baphomet",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/baphomet.png"
+      }
+    },
+    {
+      "name": "Lemon Slice",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/lemon-slice.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Melon",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/melon.png"
+      }
+    },
+    {
+      "name": "Twin Peaks",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/twin-peaks.png"
+      }
+    },
+    {
+      "name": "Inca Sun",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/inca-sun.png"
+      }
+    },
+    {
+      "name": "Rocket",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/rocket.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Shell",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/shell.png"
+      }
+    },
+    {
+      "name": "Skull",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/skull.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Hamburger",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/hamburger.png"
+      }
+    },
+    {
+      "name": "Firebird",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/firebird.png"
+      }
+    },
+    {
+      "name": "Inguz Rune",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/inguz-rune.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Pyramid",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pyramid.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Guitar",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/guitar.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Gift Box",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/gift-box.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Sun Lion",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sun-lion.png"
+      }
+    },
+    {
+      "name": "Blood Drop",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/blood-drop.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Sun",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sun.png"
+      }
+    },
+    {
+      "name": "Leaf",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/leaf.png"
+      }
+    },
+    {
+      "name": "Rain Drop",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/rain-drop.png"
+      }
+    },
+    {
+      "name": "Spider Web",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/spider-web.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Sprout",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sprout.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Acorn",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/acorn.png"
+      }
+    },
+    {
+      "name": "Bottle",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bottle.png"
+      }
+    },
+    {
+      "name": "Potion",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/potion.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Sunflower",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sunflower.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Gear",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/gear.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Wolf Rage",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/wolf-rage.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Crusader",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/crusader.png"
+      }
+    },
+    {
+      "name": "Garden Pot",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/garden-pot.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Cursor",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cursor.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Ring",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/ring.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Smartphone",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/smartphone.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Ram of Amun",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/ram-of-amun.png"
+      }
+    },
+    {
+      "name": "Manta Ray",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/manta-ray.png"
+      }
+    },
+    {
+      "name": "Toilet",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/toilet.png"
+      }
+    },
+    {
+      "name": "Royal Crown",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/royal-crown.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Lemon",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/lemon.png"
+      }
+    },
+    {
+      "name": "Ink Pen",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/ink-pen.png"
+      }
+    },
+    {
+      "name": "Sakura",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sakura.png"
+      }
+    },
+    {
+      "name": "Gold",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/gold.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "UFO",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/ufo.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Trophy",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/trophy.png"
+      }
+    },
+    {
+      "name": "Bone",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bone.png"
+      }
+    },
+    {
+      "name": "Cheese",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cheese.png"
+      }
+    },
+    {
+      "name": "Mountain Goat",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/mountain-goat.png"
+      }
+    },
+    {
+      "name": "Ghost",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/ghost.png"
+      }
+    },
+    {
+      "name": "Lion Head",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/lion-head.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Okami Wolf",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/okami-wolf.png"
+      }
+    },
+    {
+      "name": "Boat",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/boat.png"
+      }
+    },
+    {
+      "name": "Bow Tie",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bow-tie.png"
+      }
+    },
+    {
+      "name": "Book",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/book.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Fenrir",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/fenrir.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Bull of Heaven",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bull-of-heaven.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Coffee Bean",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/coffee-bean.png"
+      }
+    },
+    {
+      "name": "Phoenix",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/phoenix.png"
+      }
+    },
+    {
+      "name": "Police Badge",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/police-badge.png"
+      }
+    },
+    {
+      "name": "Clover",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/clover.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Chili",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/chili.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Bunny",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bunny.png"
+      }
+    },
+    {
+      "name": "Diamond",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/diamond.png"
+      }
+    },
+    {
+      "name": "Alkonost",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/alkonost.png"
+      }
+    },
+    {
+      "name": "Drug",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/drug.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Doberman",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/doberman.png"
+      }
+    },
+    {
+      "name": "Yogi Shaman",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/yogi-shaman.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "Fish Skeleton",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/fish-skeleton.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Flipper",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/flipper.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Pineapple",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pineapple.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Lion King",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/lion-king.png"
+      }
+    },
+    {
+      "name": "Beetle",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/beetle.png"
+      }
+    },
+    {
+      "name": "Grape",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/grape.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Crystal Ball",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/crystal-ball.png"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/gingerbread.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Bug",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bug.png"
+      }
+    },
+    {
+      "name": "Illuminati",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/illuminati.png"
+      }
+    },
+    {
+      "name": "Carambola",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/carambola.png"
+      }
+    },
+    {
+      "name": "Polar Bear",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/polar-bear.png"
+      }
+    },
+    {
+      "name": "Cocktail",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cocktail.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Turtle",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/turtle.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Kite",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/kite.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Coconut",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/coconut.png"
+      }
+    },
+    {
+      "name": "Pegasus",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pegasus.png"
+      }
+    },
+    {
+      "name": "Wreath",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/wreath.png"
+      }
+    },
+    {
+      "name": "Hammerhead",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/hammerhead.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Spirit Impala",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/spirit-impala.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Vortex",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/vortex.png"
+      }
+    },
+    {
+      "name": "Moon",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/moon.png"
+      }
+    },
+    {
+      "name": "Jellyfish",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/jellyfish.png"
+      }
+    },
+    {
+      "name": "Hippo",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/hippo.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Coin Purse",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/coin-purse.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Bishop",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bishop.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Heart",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/heart.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Mannaz Rune",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/mannaz-rune.png"
+      }
+    },
+    {
+      "name": "Gem",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/gem.png"
+      }
+    },
+    {
+      "name": "Tulip",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/tulip.png"
+      }
+    },
+    {
+      "name": "Sea Horse",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sea-horse.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Jumbo Pencil",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/jumbo-pencil.png"
+      }
+    },
+    {
+      "name": "Narcissus",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/narcissus.png"
+      }
+    },
+    {
+      "name": "Diamonds",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/diamonds.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Bell Pepper",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bell-pepper.png"
+      }
+    },
+    {
+      "name": "Fleur-de-lis",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/fleur-de-lis.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Red Deer",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/red-deer.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Brain",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/brain.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Flashlight",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/flashlight.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Sumerian Bird",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sumerian-bird.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Cobra",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cobra.png"
+      }
+    },
+    {
+      "name": "Elephant",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/elephant.png"
+      }
+    },
+    {
+      "name": "Mountain Lion",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/mountain-lion.png"
+      }
+    },
+    {
+      "name": "Venetian Mask",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/venetian-mask.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Sparks",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/sparks.png"
+      }
+    },
+    {
+      "name": "Lily",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/lily.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Kitsune",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/kitsune.png"
+      }
+    },
+    {
+      "name": "Pawn",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pawn.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Pizza Slice",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/pizza-slice.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Dolphin",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/dolphin.png"
+      }
+    },
+    {
+      "name": "Moon Eagle",
+      "assets": {
+        "png": "gifts/deskcalendar/assets/patterns/moon-eagle.png"
+      }
+    }
+  ]
+}

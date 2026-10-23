@@ -1,0 +1,1557 @@
+{
+  "slug": "moodpack",
+  "models": [
+    {
+      "name": "Battle Royale",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/battle-royale.svg",
+        "tgs": "gifts/moodpack/assets/models/battle-royale.tgs"
+      }
+    },
+    {
+      "name": "Jetpack",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/jetpack.svg",
+        "tgs": "gifts/moodpack/assets/models/jetpack.tgs"
+      }
+    },
+    {
+      "name": "Net Worth",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/net-worth.svg",
+        "tgs": "gifts/moodpack/assets/models/net-worth.tgs"
+      }
+    },
+    {
+      "name": "Pepe Unleashed",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/pepe-unleashed.svg",
+        "tgs": "gifts/moodpack/assets/models/pepe-unleashed.tgs"
+      }
+    },
+    {
+      "name": "Proton Pack",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/proton-pack.svg",
+        "tgs": "gifts/moodpack/assets/models/proton-pack.tgs"
+      }
+    },
+    {
+      "name": "Golden Dragon",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/golden-dragon.svg",
+        "tgs": "gifts/moodpack/assets/models/golden-dragon.tgs"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/jolly-roger.svg",
+        "tgs": "gifts/moodpack/assets/models/jolly-roger.tgs"
+      }
+    },
+    {
+      "name": "Lady Arcana",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/lady-arcana.svg",
+        "tgs": "gifts/moodpack/assets/models/lady-arcana.tgs"
+      }
+    },
+    {
+      "name": "Laika Dog",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/laika-dog.svg",
+        "tgs": "gifts/moodpack/assets/models/laika-dog.tgs"
+      }
+    },
+    {
+      "name": "Moon Power",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/moon-power.svg",
+        "tgs": "gifts/moodpack/assets/models/moon-power.tgs"
+      }
+    },
+    {
+      "name": "Nezuko",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/nezuko.svg",
+        "tgs": "gifts/moodpack/assets/models/nezuko.tgs"
+      }
+    },
+    {
+      "name": "Travel Duck",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/travel-duck.svg",
+        "tgs": "gifts/moodpack/assets/models/travel-duck.tgs"
+      }
+    },
+    {
+      "name": "Void Beast",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/void-beast.svg",
+        "tgs": "gifts/moodpack/assets/models/void-beast.tgs"
+      }
+    },
+    {
+      "name": "Crystal Scarab",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/crystal-scarab.svg",
+        "tgs": "gifts/moodpack/assets/models/crystal-scarab.tgs"
+      }
+    },
+    {
+      "name": "Infernal Goat",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/infernal-goat.svg",
+        "tgs": "gifts/moodpack/assets/models/infernal-goat.tgs"
+      }
+    },
+    {
+      "name": "Rare Drop",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/rare-drop.svg",
+        "tgs": "gifts/moodpack/assets/models/rare-drop.tgs"
+      }
+    },
+    {
+      "name": "Ruby Heart",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/ruby-heart.svg",
+        "tgs": "gifts/moodpack/assets/models/ruby-heart.tgs"
+      }
+    },
+    {
+      "name": "VIP Pass",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/vip-pass.svg",
+        "tgs": "gifts/moodpack/assets/models/vip-pass.tgs"
+      }
+    },
+    {
+      "name": "Bank Vault",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/bank-vault.svg",
+        "tgs": "gifts/moodpack/assets/models/bank-vault.tgs"
+      }
+    },
+    {
+      "name": "Emo Phase",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/emo-phase.svg",
+        "tgs": "gifts/moodpack/assets/models/emo-phase.tgs"
+      }
+    },
+    {
+      "name": "Fluffy Monster",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/fluffy-monster.svg",
+        "tgs": "gifts/moodpack/assets/models/fluffy-monster.tgs"
+      }
+    },
+    {
+      "name": "Plush Shark",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/plush-shark.svg",
+        "tgs": "gifts/moodpack/assets/models/plush-shark.tgs"
+      }
+    },
+    {
+      "name": "Road Rebel",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/road-rebel.svg",
+        "tgs": "gifts/moodpack/assets/models/road-rebel.tgs"
+      }
+    },
+    {
+      "name": "Turtle Shell",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/turtle-shell.svg",
+        "tgs": "gifts/moodpack/assets/models/turtle-shell.tgs"
+      }
+    },
+    {
+      "name": "Aquarium",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/aquarium.svg",
+        "tgs": "gifts/moodpack/assets/models/aquarium.tgs"
+      }
+    },
+    {
+      "name": "Davy Jones",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/davy-jones.svg",
+        "tgs": "gifts/moodpack/assets/models/davy-jones.tgs"
+      }
+    },
+    {
+      "name": "Fallout",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/fallout.svg",
+        "tgs": "gifts/moodpack/assets/models/fallout.tgs"
+      }
+    },
+    {
+      "name": "Fashionista",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/fashionista.svg",
+        "tgs": "gifts/moodpack/assets/models/fashionista.tgs"
+      }
+    },
+    {
+      "name": "Fast Courier",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/fast-courier.svg",
+        "tgs": "gifts/moodpack/assets/models/fast-courier.tgs"
+      }
+    },
+    {
+      "name": "Fire Show",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/fire-show.svg",
+        "tgs": "gifts/moodpack/assets/models/fire-show.tgs"
+      }
+    },
+    {
+      "name": "Gingerbread",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/gingerbread.svg",
+        "tgs": "gifts/moodpack/assets/models/gingerbread.tgs"
+      }
+    },
+    {
+      "name": "Grand Slam",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/grand-slam.svg",
+        "tgs": "gifts/moodpack/assets/models/grand-slam.tgs"
+      }
+    },
+    {
+      "name": "Master Angler",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/master-angler.svg",
+        "tgs": "gifts/moodpack/assets/models/master-angler.tgs"
+      }
+    },
+    {
+      "name": "Movie Night",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/movie-night.svg",
+        "tgs": "gifts/moodpack/assets/models/movie-night.tgs"
+      }
+    },
+    {
+      "name": "Paladin",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/paladin.svg",
+        "tgs": "gifts/moodpack/assets/models/paladin.tgs"
+      }
+    },
+    {
+      "name": "Retro Wave",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/retro-wave.svg",
+        "tgs": "gifts/moodpack/assets/models/retro-wave.tgs"
+      }
+    },
+    {
+      "name": "Rock and Roll",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/rock-and-roll.svg",
+        "tgs": "gifts/moodpack/assets/models/rock-and-roll.tgs"
+      }
+    },
+    {
+      "name": "Rodeo King",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/rodeo-king.svg",
+        "tgs": "gifts/moodpack/assets/models/rodeo-king.tgs"
+      }
+    },
+    {
+      "name": "Striker",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/striker.svg",
+        "tgs": "gifts/moodpack/assets/models/striker.tgs"
+      }
+    },
+    {
+      "name": "Wanderer",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/wanderer.svg",
+        "tgs": "gifts/moodpack/assets/models/wanderer.tgs"
+      }
+    },
+    {
+      "name": "Angel Wings",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/angel-wings.svg",
+        "tgs": "gifts/moodpack/assets/models/angel-wings.tgs"
+      }
+    },
+    {
+      "name": "Bloom Pack",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/bloom-pack.svg",
+        "tgs": "gifts/moodpack/assets/models/bloom-pack.tgs"
+      }
+    },
+    {
+      "name": "Burger Bag",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/burger-bag.svg",
+        "tgs": "gifts/moodpack/assets/models/burger-bag.tgs"
+      }
+    },
+    {
+      "name": "Cat Pack",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/cat-pack.svg",
+        "tgs": "gifts/moodpack/assets/models/cat-pack.tgs"
+      }
+    },
+    {
+      "name": "Croc Sack",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/croc-sack.svg",
+        "tgs": "gifts/moodpack/assets/models/croc-sack.tgs"
+      }
+    },
+    {
+      "name": "Goth Gir",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/goth-gir.svg",
+        "tgs": "gifts/moodpack/assets/models/goth-gir.tgs"
+      }
+    },
+    {
+      "name": "Love Letters",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/love-letters.svg",
+        "tgs": "gifts/moodpack/assets/models/love-letters.tgs"
+      }
+    },
+    {
+      "name": "Space Cat",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/space-cat.svg",
+        "tgs": "gifts/moodpack/assets/models/space-cat.tgs"
+      }
+    },
+    {
+      "name": "Star Pupil",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/star-pupil.svg",
+        "tgs": "gifts/moodpack/assets/models/star-pupil.tgs"
+      }
+    },
+    {
+      "name": "Street Art",
+      "assets": {
+        "svg": "gifts/moodpack/assets/models/street-art.svg",
+        "tgs": "gifts/moodpack/assets/models/street-art.tgs"
+      }
+    }
+  ],
+  "patterns": [
+    {
+      "name": "Piggy Bank",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/piggy-bank.png"
+      }
+    },
+    {
+      "name": "Paw",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/paw.png"
+      }
+    },
+    {
+      "name": "Plume",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/plume.png"
+      }
+    },
+    {
+      "name": "Ladybug",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/ladybug.png"
+      }
+    },
+    {
+      "name": "Bottlenose",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bottlenose.png"
+      }
+    },
+    {
+      "name": "Pear",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/pear.png"
+      }
+    },
+    {
+      "name": "Watermelon",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/watermelon.png"
+      }
+    },
+    {
+      "name": "Cupcake",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cupcake.png"
+      }
+    },
+    {
+      "name": "Carrot",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/carrot.png"
+      }
+    },
+    {
+      "name": "Scissors",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/scissors.png"
+      }
+    },
+    {
+      "name": "Toilet Paper",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/toilet-paper.png"
+      }
+    },
+    {
+      "name": "Monstera",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/monstera.png"
+      }
+    },
+    {
+      "name": "Oak Leaf",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/oak-leaf.png"
+      }
+    },
+    {
+      "name": "Celtic Cross",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/celtic-cross.png"
+      }
+    },
+    {
+      "name": "Maple",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/maple.png"
+      }
+    },
+    {
+      "name": "Calm Wolf",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/calm-wolf.png"
+      }
+    },
+    {
+      "name": "Grenade",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/grenade.png"
+      }
+    },
+    {
+      "name": "Bee",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bee.png"
+      }
+    },
+    {
+      "name": "Feather",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/feather.png"
+      }
+    },
+    {
+      "name": "Birthday Cake",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/birthday-cake.png"
+      }
+    },
+    {
+      "name": "Anubis",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/anubis.png"
+      }
+    },
+    {
+      "name": "Astronaut",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/astronaut.png"
+      }
+    },
+    {
+      "name": "Oculus",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/oculus.png"
+      }
+    },
+    {
+      "name": "Sea Dragon",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/sea-dragon.png"
+      }
+    },
+    {
+      "name": "Cowboy Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cowboy-hat.png"
+      }
+    },
+    {
+      "name": "Bike Helmet",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bike-helmet.png"
+      }
+    },
+    {
+      "name": "Paschal Lamb",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/paschal-lamb.png"
+      }
+    },
+    {
+      "name": "Easter Egg",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/easter-egg.png"
+      }
+    },
+    {
+      "name": "Propeller Cap",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/propeller-cap.png"
+      }
+    },
+    {
+      "name": "Porrige",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/porrige.png"
+      }
+    },
+    {
+      "name": "Egg",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/egg.png"
+      }
+    },
+    {
+      "name": "Valkyrie",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/valkyrie.png"
+      }
+    },
+    {
+      "name": "Winged Helm",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/winged-helm.png"
+      }
+    },
+    {
+      "name": "Aztec Totem",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/aztec-totem.png"
+      }
+    },
+    {
+      "name": "Pirate Scull",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/pirate-scull.png"
+      }
+    },
+    {
+      "name": "Hot Matcha",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/hot-matcha.png"
+      }
+    },
+    {
+      "name": "Sushi Rolls",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/sushi-rolls.png"
+      }
+    },
+    {
+      "name": "Shinto Shrine",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/shinto-shrine.png"
+      }
+    },
+    {
+      "name": "Tetsubin",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/tetsubin.png"
+      }
+    },
+    {
+      "name": "White Deer",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/white-deer.png"
+      }
+    },
+    {
+      "name": "High Heels",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/high-heels.png"
+      }
+    },
+    {
+      "name": "Moon Cross",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/moon-cross.png"
+      }
+    },
+    {
+      "name": "Sauron",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/sauron.png"
+      }
+    },
+    {
+      "name": "Key",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/key.png"
+      }
+    },
+    {
+      "name": "Star",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/star.png"
+      }
+    },
+    {
+      "name": "Mayan Moth",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/mayan-moth.png"
+      }
+    },
+    {
+      "name": "Bunny Ears",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bunny-ears.png"
+      }
+    },
+    {
+      "name": "Horn",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/horn.png"
+      }
+    },
+    {
+      "name": "Crown",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/crown.png"
+      }
+    },
+    {
+      "name": "Crystal",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/crystal.png"
+      }
+    },
+    {
+      "name": "Bubble Tea",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bubble-tea.png"
+      }
+    },
+    {
+      "name": "Avocado",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/avocado.png"
+      }
+    },
+    {
+      "name": "Flower Tulip",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/flower-tulip.png"
+      }
+    },
+    {
+      "name": "Heraldic Lily",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/heraldic-lily.png"
+      }
+    },
+    {
+      "name": "Chest",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/chest.png"
+      }
+    },
+    {
+      "name": "Bandage",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bandage.png"
+      }
+    },
+    {
+      "name": "Genie Lamp",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/genie-lamp.png"
+      }
+    },
+    {
+      "name": "Planet",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/planet.png"
+      }
+    },
+    {
+      "name": "Tooth",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/tooth.png"
+      }
+    },
+    {
+      "name": "Tree of Life",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/tree-of-life.png"
+      }
+    },
+    {
+      "name": "Candle",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/candle.png"
+      }
+    },
+    {
+      "name": "Cherry",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cherry.png"
+      }
+    },
+    {
+      "name": "Apple",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/apple.png"
+      }
+    },
+    {
+      "name": "Obon Lantern",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/obon-lantern.png"
+      }
+    },
+    {
+      "name": "Light Bulb",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/light-bulb.png"
+      }
+    },
+    {
+      "name": "Geisha Fan",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/geisha-fan.png"
+      }
+    },
+    {
+      "name": "Yin-Yang",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/yin-yang.png"
+      }
+    },
+    {
+      "name": "Wagasa",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/wagasa.png"
+      }
+    },
+    {
+      "name": "Rhino Warrior",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/rhino-warrior.png"
+      }
+    },
+    {
+      "name": "Like",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/like.png"
+      }
+    },
+    {
+      "name": "Viking Shield",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/viking-shield.png"
+      }
+    },
+    {
+      "name": "Rooster",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/rooster.png"
+      }
+    },
+    {
+      "name": "Viking",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/viking.png"
+      }
+    },
+    {
+      "name": "Arabian Horse",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/arabian-horse.png"
+      }
+    },
+    {
+      "name": "Morgenstern",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/morgenstern.png"
+      }
+    },
+    {
+      "name": "Mustang",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/mustang.png"
+      }
+    },
+    {
+      "name": "Party Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/party-hat.png"
+      }
+    },
+    {
+      "name": "Oxen of Fire",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/oxen-of-fire.png"
+      }
+    },
+    {
+      "name": "Wasp",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/wasp.png"
+      }
+    },
+    {
+      "name": "Eggplant",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/eggplant.png"
+      }
+    },
+    {
+      "name": "Fireman Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/fireman-hat.png"
+      }
+    },
+    {
+      "name": "The Eye",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/the-eye.png"
+      }
+    },
+    {
+      "name": "Fehu Rune",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/fehu-rune.png"
+      }
+    },
+    {
+      "name": "Rook",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/rook.png"
+      }
+    },
+    {
+      "name": "Plume Shako",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/plume-shako.png"
+      }
+    },
+    {
+      "name": "Mafdet",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/mafdet.png"
+      }
+    },
+    {
+      "name": "PC Mouse",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/pc-mouse.png"
+      }
+    },
+    {
+      "name": "Eagle",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/eagle.png"
+      }
+    },
+    {
+      "name": "Celtic Wolf",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/celtic-wolf.png"
+      }
+    },
+    {
+      "name": "Clubs",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/clubs.png"
+      }
+    },
+    {
+      "name": "Peace Dove",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/peace-dove.png"
+      }
+    },
+    {
+      "name": "Bobby Helmet",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bobby-helmet.png"
+      }
+    },
+    {
+      "name": "Scorpion",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/scorpion.png"
+      }
+    },
+    {
+      "name": "Lightning",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/lightning.png"
+      }
+    },
+    {
+      "name": "Dice",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/dice.png"
+      }
+    },
+    {
+      "name": "Straw Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/straw-hat.png"
+      }
+    },
+    {
+      "name": "Jolly Roger",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/jolly-roger.png"
+      }
+    },
+    {
+      "name": "Owl",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/owl.png"
+      }
+    },
+    {
+      "name": "Battle Axe",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/battle-axe.png"
+      }
+    },
+    {
+      "name": "Viper",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/viper.png"
+      }
+    },
+    {
+      "name": "Fishing Hook",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/fishing-hook.png"
+      }
+    },
+    {
+      "name": "Glasses",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/glasses.png"
+      }
+    },
+    {
+      "name": "Thief",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/thief.png"
+      }
+    },
+    {
+      "name": "Robin Hood",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/robin-hood.png"
+      }
+    },
+    {
+      "name": "Hand of God",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/hand-of-god.png"
+      }
+    },
+    {
+      "name": "Spanner",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/spanner.png"
+      }
+    },
+    {
+      "name": "Star Crown",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/star-crown.png"
+      }
+    },
+    {
+      "name": "Bascinet",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bascinet.png"
+      }
+    },
+    {
+      "name": "Visor",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/visor.png"
+      }
+    },
+    {
+      "name": "Royal Turban",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/royal-turban.png"
+      }
+    },
+    {
+      "name": "Chef Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/chef-hat.png"
+      }
+    },
+    {
+      "name": "Full Moon",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/full-moon.png"
+      }
+    },
+    {
+      "name": "Lovely Kiss",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/lovely-kiss.png"
+      }
+    },
+    {
+      "name": "Cricket Helmet",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cricket-helmet.png"
+      }
+    },
+    {
+      "name": "Police Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/police-hat.png"
+      }
+    },
+    {
+      "name": "Bobble Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bobble-hat.png"
+      }
+    },
+    {
+      "name": "Bucket Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bucket-hat.png"
+      }
+    },
+    {
+      "name": "Chick",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/chick.png"
+      }
+    },
+    {
+      "name": "Spellbook",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/spellbook.png"
+      }
+    },
+    {
+      "name": "Eikthyrnir",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/eikthyrnir.png"
+      }
+    },
+    {
+      "name": "Bandana",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bandana.png"
+      }
+    },
+    {
+      "name": "Ice Cream",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/ice-cream.png"
+      }
+    },
+    {
+      "name": "Elf Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/elf-hat.png"
+      }
+    },
+    {
+      "name": "Flag",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/flag.png"
+      }
+    },
+    {
+      "name": "Coin",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/coin.png"
+      }
+    },
+    {
+      "name": "Magic Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/magic-hat.png"
+      }
+    },
+    {
+      "name": "Duck Face",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/duck-face.png"
+      }
+    },
+    {
+      "name": "Love Letter",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/love-letter.png"
+      }
+    },
+    {
+      "name": "Banner",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/banner.png"
+      }
+    },
+    {
+      "name": "Keffiyeh",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/keffiyeh.png"
+      }
+    },
+    {
+      "name": "Evil Dragon",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/evil-dragon.png"
+      }
+    },
+    {
+      "name": "Leprechaun",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/leprechaun.png"
+      }
+    },
+    {
+      "name": "Arcane Mirror",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/arcane-mirror.png"
+      }
+    },
+    {
+      "name": "Cavalier Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cavalier-hat.png"
+      }
+    },
+    {
+      "name": "Wontons",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/wontons.png"
+      }
+    },
+    {
+      "name": "Rose",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/rose.png"
+      }
+    },
+    {
+      "name": "Cash",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cash.png"
+      }
+    },
+    {
+      "name": "Hazelnut",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/hazelnut.png"
+      }
+    },
+    {
+      "name": "Meat Leg",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/meat-leg.png"
+      }
+    },
+    {
+      "name": "Radar",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/radar.png"
+      }
+    },
+    {
+      "name": "Fire",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/fire.png"
+      }
+    },
+    {
+      "name": "Flat Cap",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/flat-cap.png"
+      }
+    },
+    {
+      "name": "Double Axe",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/double-axe.png"
+      }
+    },
+    {
+      "name": "Sleepy Unicorn",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/sleepy-unicorn.png"
+      }
+    },
+    {
+      "name": "Eye of Horus",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/eye-of-horus.png"
+      }
+    },
+    {
+      "name": "Tie",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/tie.png"
+      }
+    },
+    {
+      "name": "Handset",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/handset.png"
+      }
+    },
+    {
+      "name": "Spades",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/spades.png"
+      }
+    },
+    {
+      "name": "Cat Mask",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cat-mask.png"
+      }
+    },
+    {
+      "name": "Car",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/car.png"
+      }
+    },
+    {
+      "name": "Hermit Shell",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/hermit-shell.png"
+      }
+    },
+    {
+      "name": "Tribal Shield",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/tribal-shield.png"
+      }
+    },
+    {
+      "name": "Koala",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/koala.png"
+      }
+    },
+    {
+      "name": "Unicorn",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/unicorn.png"
+      }
+    },
+    {
+      "name": "Bastet",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bastet.png"
+      }
+    },
+    {
+      "name": "Piñata",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/pinata.png"
+      }
+    },
+    {
+      "name": "Toy Bucket",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/toy-bucket.png"
+      }
+    },
+    {
+      "name": "Champagne",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/champagne.png"
+      }
+    },
+    {
+      "name": "Bubbles",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bubbles.png"
+      }
+    },
+    {
+      "name": "Moose Head",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/moose-head.png"
+      }
+    },
+    {
+      "name": "Seahorse",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/seahorse.png"
+      }
+    },
+    {
+      "name": "Unicorn Head",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/unicorn-head.png"
+      }
+    },
+    {
+      "name": "Chili Pepper",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/chili-pepper.png"
+      }
+    },
+    {
+      "name": "Pomegranate",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/pomegranate.png"
+      }
+    },
+    {
+      "name": "Sun Mountain",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/sun-mountain.png"
+      }
+    },
+    {
+      "name": "Dragonfly",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/dragonfly.png"
+      }
+    },
+    {
+      "name": "Alarm",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/alarm.png"
+      }
+    },
+    {
+      "name": "Palette",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/palette.png"
+      }
+    },
+    {
+      "name": "Knight",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/knight.png"
+      }
+    },
+    {
+      "name": "Anchor",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/anchor.png"
+      }
+    },
+    {
+      "name": "Ouroboros",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/ouroboros.png"
+      }
+    },
+    {
+      "name": "Hedgehog",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/hedgehog.png"
+      }
+    },
+    {
+      "name": "Sharp Sword",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/sharp-sword.png"
+      }
+    },
+    {
+      "name": "Cactus",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cactus.png"
+      }
+    },
+    {
+      "name": "Kudu Totem",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/kudu-totem.png"
+      }
+    },
+    {
+      "name": "Crusader Cross",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/crusader-cross.png"
+      }
+    },
+    {
+      "name": "Magic Wand",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/magic-wand.png"
+      }
+    },
+    {
+      "name": "Top Hat",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/top-hat.png"
+      }
+    },
+    {
+      "name": "Moon Face",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/moon-face.png"
+      }
+    },
+    {
+      "name": "Strawberry",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/strawberry.png"
+      }
+    },
+    {
+      "name": "Ramen",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/ramen.png"
+      }
+    },
+    {
+      "name": "Nigiri",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/nigiri.png"
+      }
+    },
+    {
+      "name": "Sakura Flower",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/sakura-flower.png"
+      }
+    },
+    {
+      "name": "Cap",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cap.png"
+      }
+    },
+    {
+      "name": "Money Bag",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/money-bag.png"
+      }
+    },
+    {
+      "name": "Corn",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/corn.png"
+      }
+    },
+    {
+      "name": "Croissant",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/croissant.png"
+      }
+    },
+    {
+      "name": "Shooting Star",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/shooting-star.png"
+      }
+    },
+    {
+      "name": "Cone",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/cone.png"
+      }
+    },
+    {
+      "name": "Love Lock",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/love-lock.png"
+      }
+    },
+    {
+      "name": "Totem Bear",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/totem-bear.png"
+      }
+    },
+    {
+      "name": "Sea Jelly",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/sea-jelly.png"
+      }
+    },
+    {
+      "name": "Flamingo",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/flamingo.png"
+      }
+    },
+    {
+      "name": "Octopus",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/octopus.png"
+      }
+    },
+    {
+      "name": "Plum",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/plum.png"
+      }
+    },
+    {
+      "name": "Pencil",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/pencil.png"
+      }
+    },
+    {
+      "name": "Mushroom",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/mushroom.png"
+      }
+    },
+    {
+      "name": "Crab",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/crab.png"
+      }
+    },
+    {
+      "name": "Maple Leaf",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/maple-leaf.png"
+      }
+    },
+    {
+      "name": "Bamboo",
+      "assets": {
+        "png": "gifts/moodpack/assets/patterns/bamboo.png"
+      }
+    }
+  ]
+}
