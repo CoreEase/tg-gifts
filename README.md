@@ -10,10 +10,10 @@
 backdrops.ts                       # مصفوفة جميع الخلفيات الفريدة
 collections.ts                     # فهرس المجموعات والاسم والصورة والأعداد
 index.ts                           # نقطة الدخول والإسناد
- types.ts                          # مخططات TypeScript
+types.ts                           # مخططات TypeScript
 gifts/<slug>/index.ts              # موديلات وأنماط وخلفيات المجموعة
 gifts/<slug>/assets/manifest.json  # أسماء API ومسارات الملفات
- gifts/<slug>/assets/models/        # SVG وTGS لكل موديل
+gifts/<slug>/assets/models/        # SVG وTGS لكل موديل
 gifts/<slug>/assets/patterns/      # PNG لكل باترون
 scripts/generate-asset-manifests.mjs
 scripts/download-assets.mjs
