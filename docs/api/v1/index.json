@@ -1,9 +1,6 @@
 {
   "version": "1.0.0",
-  "source": "GiftChanges API",
-  "sourceUrl": "https://api.changes.tg",
-  "sourceUpdatedAt": "2026-10-23T16:55:32.479Z",
-  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API.",
+  "sourceUpdatedAt": "2026-10-23T17:55:32.400Z",
   "counts": {
     "gifts": 123,
     "models": 7806,
@@ -11,14 +8,14 @@
     "backdrops": 80
   },
   "endpoints": {
-    "gifts": "https://CoreEase.github.io/tg-gifts/api/v1/gifts.json",
-    "globalBackdrops": "https://CoreEase.github.io/tg-gifts/api/v1/backdrops.json",
-    "gift": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/{gift-slug}/index.json",
-    "models": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/{gift-slug}/models.json",
-    "modelByName": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/{gift-slug}/models/{model-slug}.json",
-    "backdrops": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/{gift-slug}/backdrops.json",
-    "backdropByName": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/{gift-slug}/backdrops/{backdrop-slug}.json",
-    "patterns": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/{gift-slug}/patterns.json",
-    "patternByName": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/{gift-slug}/patterns/{pattern-slug}.json"
+    "gifts": "https://coreease.github.io/tg-gifts/api/v1/gifts.json",
+    "globalBackdrops": "https://coreease.github.io/tg-gifts/api/v1/backdrops.json",
+    "gift": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/index.json",
+    "models": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/models.json",
+    "modelByName": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/models/{model-slug}.json",
+    "backdrops": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/backdrops.json",
+    "backdropByName": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/backdrops/{backdrop-slug}.json",
+    "patterns": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/patterns.json",
+    "patternByName": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/patterns/{pattern-slug}.json"
   }
 }

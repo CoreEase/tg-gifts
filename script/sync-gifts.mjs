@@ -13,7 +13,6 @@ const [OWNER, REPO] = REPOSITORY.split('/');
 const PAGES_BASE = (process.env.GITHUB_PAGES_BASE_URL || `https://${OWNER.toLowerCase()}.github.io/${REPO.toLowerCase()}`).replace(/\/+$/, '');
 const ASSET_BASE = (process.env.ASSET_PUBLIC_BASE_URL || `https://raw.githubusercontent.com/${OWNER}/${REPO}/main`).replace(/\/+$/, '');
 const CONCURRENCY = Math.max(1, Math.min(16, Number.parseInt(process.env.ASSET_DOWNLOAD_CONCURRENCY || '6', 10) || 6));
-const ATTRIBUTION = 'Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API.';
 const REFRESH = process.argv.includes('--refresh');
 const CHECK_ONLY = process.argv.includes('--check-only');
 const HELP = process.argv.includes('--help') || process.argv.includes('-h');
@@ -450,7 +449,6 @@ function formatRootModule(backdrops, summaries) {
   return [
     `export type { Backdrop, CollectionSummary, GiftCollection, GiftModel, GiftPattern } from './types.js';`,
     `import type { Backdrop, CollectionSummary } from './types.js';`,
-    `export const DATA_ATTRIBUTION = ${JSON.stringify(ATTRIBUTION)};`,
     `export const backdrops = ${JSON.stringify(backdrops, null, 2)} satisfies readonly Backdrop[];`,
     `export const collections = [\n${summaryLines}\n] satisfies readonly CollectionSummary[];`,
   ].join('\n\n') + '\n';
@@ -500,7 +498,6 @@ function apiModel(item, slug, gift, giftApiPath) {
       tgs: safePublicUrl(ASSET_BASE, item.assets.tgs),
     },
     url: `${PAGES_BASE}/api/v1/${self}`,
-    attribution: ATTRIBUTION,
   };
 }
 
@@ -520,7 +517,6 @@ function apiPattern(item, slug, gift, giftApiPath) {
     imageUrl,
     assets: { png: imageUrl },
     url: `${PAGES_BASE}/api/v1/${self}`,
-    attribution: ATTRIBUTION,
   };
 }
 
@@ -544,7 +540,6 @@ function apiBackdrop(item, slug, gift, giftApiPath) {
     imageUrl: null,
     gift: { slug, name: gift.name, id: String(gift.id) },
     url: `${PAGES_BASE}/api/v1/${self}`,
-    attribution: ATTRIBUTION,
   };
 }
 
@@ -557,10 +552,7 @@ function buildStaticApi(groups, globalBackdrops, sourceUpdatedAt) {
   };
   const rootIndex = {
     version: '1.0.0',
-    source: 'GiftChanges API',
-    sourceUrl: 'https://api.changes.tg',
     sourceUpdatedAt,
-    attribution: ATTRIBUTION,
     counts,
     endpoints: {
       gifts: `${PAGES_BASE}/api/v1/gifts.json`,
@@ -614,12 +606,11 @@ function buildStaticApi(groups, globalBackdrops, sourceUpdatedAt) {
       models: modelsApi,
       backdrops: backdropsApi,
       patterns: patternsApi,
-      attribution: ATTRIBUTION,
     };
     writeJson(path.join(API_OUTPUT_DIR, giftApiPath, 'index.json'), giftData);
-    writeJson(path.join(API_OUTPUT_DIR, giftApiPath, 'models.json'), { gift: summary, count: modelsApi.length, items: modelsApi, attribution: ATTRIBUTION });
-    writeJson(path.join(API_OUTPUT_DIR, giftApiPath, 'backdrops.json'), { gift: summary, count: backdropsApi.length, items: backdropsApi, attribution: ATTRIBUTION });
-    writeJson(path.join(API_OUTPUT_DIR, giftApiPath, 'patterns.json'), { gift: summary, count: patternsApi.length, items: patternsApi, attribution: ATTRIBUTION });
+    writeJson(path.join(API_OUTPUT_DIR, giftApiPath, 'models.json'), { gift: summary, count: modelsApi.length, items: modelsApi });
+    writeJson(path.join(API_OUTPUT_DIR, giftApiPath, 'backdrops.json'), { gift: summary, count: backdropsApi.length, items: backdropsApi });
+    writeJson(path.join(API_OUTPUT_DIR, giftApiPath, 'patterns.json'), { gift: summary, count: patternsApi.length, items: patternsApi });
 
     const modelsDir = path.join(API_OUTPUT_DIR, giftApiPath, 'models');
     const patternsDir = path.join(API_OUTPUT_DIR, giftApiPath, 'patterns');
@@ -650,19 +641,16 @@ function buildStaticApi(groups, globalBackdrops, sourceUpdatedAt) {
   const giftsIndex = {
     count: giftSummaries.length,
     items: giftSummaries,
-    attribution: ATTRIBUTION,
   };
   writeJson(path.join(API_OUTPUT_DIR, 'gifts.json'), giftsIndex);
   const globalApiBackdrops = globalBackdrops.map((item) => ({
     ...item,
     slug: slugify(item.name),
     imageUrl: null,
-    attribution: ATTRIBUTION,
   }));
   writeJson(path.join(API_OUTPUT_DIR, 'backdrops.json'), {
     count: globalApiBackdrops.length,
     items: globalApiBackdrops,
-    attribution: ATTRIBUTION,
   });
 
   const giftsApiDir = path.join(API_OUTPUT_DIR, 'gifts');

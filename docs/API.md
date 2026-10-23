@@ -7,6 +7,7 @@ This repository generates a static JSON API under `docs/api/v1/`. The weekly syn
 After publication, the default API base is `https://coreease.github.io/tg-gifts/api/v1`.
 
 - `GET /index.json` returns the API version, counts, attribution, and endpoint templates.
+- `GET /index.json` returns the API version, counts, and endpoint templates.
 - `GET /gifts.json` lists the synchronized gift collections; `GET /backdrops.json` lists the unique global backdrop/color catalog.
 - `GET /gifts/{gift-slug}/index.json` returns a complete collection, including all its model, pattern, and backdrop records.
 - `GET /gifts/{gift-slug}/models.json`, `/patterns.json`, and `/backdrops.json` return one category for a collection.
@@ -29,5 +30,6 @@ The live machine-readable documentation is [`https://api.changes.tg/llm`](https:
 - Gift, model, backdrop, and pattern names accept common case and separator variants; numeric gift IDs are also accepted. The sync uses API gift IDs for asset requests and exact item names for model/pattern requests.
 - The service is eventually consistent; its documentation says underlying maps update about every 30 seconds. The sync validates counts and exact name sets before writing generated data. It retries transient failures and stops on missing or incomplete API data.
 - The upstream API requires visible credit to `@GiftChanges`. This repository preserves that credit in its API metadata and documentation.
+- The upstream API requires visible credit to `@GiftChanges`; this credit is provided in this file and [`docs/index.md`](index.md), not duplicated in API records.
 
 The count check uses `/total`, `/gifts`, `/backdrops`, and the sum of every `/gift/:gift` response. These values can change as the upstream catalog changes, so the numbers above describe the review-time snapshot only.

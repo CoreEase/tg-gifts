@@ -2,8 +2,6 @@ export type { Backdrop, CollectionSummary, GiftCollection, GiftModel, GiftPatter
 
 import type { Backdrop, CollectionSummary } from './types.js';
 
-export const DATA_ATTRIBUTION = "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API.";
-
 export const backdrops = [
   {
     "name": "Black",
