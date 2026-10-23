@@ -41,4 +41,5 @@ export type CollectionSummary = {
   modelCount: number;
   patternCount: number;
   backdropCount: number;
+  inFragment: boolean; 
 };
