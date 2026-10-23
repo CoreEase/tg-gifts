@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "floris",
+  "name": "Floris",
+  "customEmojiId": "5318914132458628523",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "sakuraflower",
+    "name": "Sakura Flower",
+    "id": "5167939598143193218"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floris.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floris.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floris.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floris.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/floris.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "foliage",
+  "name": "Foliage",
+  "customEmojiId": "5199678178100014732",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "easteregg",
+    "name": "Easter Egg",
+    "id": "5773668482394620318"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/foliage.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/foliage.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/foliage.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/foliage.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/foliage.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

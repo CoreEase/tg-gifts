@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "stack-pack",
+  "name": "Stack Pack",
+  "customEmojiId": "5438351142826310748",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "swagbag",
+    "name": "Swag Bag",
+    "id": "6012607142387778152"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/stack-pack.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/stack-pack.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/stack-pack.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/stack-pack.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swagbag/models/stack-pack.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

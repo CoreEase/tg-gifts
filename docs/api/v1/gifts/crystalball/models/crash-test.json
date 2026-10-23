@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "crash-test",
+  "name": "Crash Test",
+  "customEmojiId": "5253952210940751745",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "crystalball",
+    "name": "Crystal Ball",
+    "id": "5841336413697606412"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/crash-test.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/crash-test.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/crash-test.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/crash-test.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/crystalball/models/crash-test.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

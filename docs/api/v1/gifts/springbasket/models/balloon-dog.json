@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "balloon-dog",
+  "name": "Balloon Dog",
+  "customEmojiId": "6003335708155060649",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "springbasket",
+    "name": "Spring Basket",
+    "id": "5773725897517433693"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/balloon-dog.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/balloon-dog.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/balloon-dog.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/balloon-dog.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/springbasket/models/balloon-dog.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rose-gold",
+  "name": "Rose Gold",
+  "customEmojiId": "5249116369823225791",
+  "rarityPermille": 13,
+  "originalRarityPermille": 15,
+  "rarity": 1.3,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "jinglebells",
+    "name": "Jingle Bells",
+    "id": "6001473264306619020"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/rose-gold.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/rose-gold.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/rose-gold.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/rose-gold.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jinglebells/models/rose-gold.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

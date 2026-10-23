@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "privateer",
+  "name": "Privateer",
+  "customEmojiId": "5357318269730598619",
+  "rarityPermille": 12,
+  "originalRarityPermille": 15,
+  "rarity": 1.2,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "resistancedog",
+    "name": "Resistance Dog",
+    "id": "5832279504491381684"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/privateer.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/privateer.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/privateer.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/privateer.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/resistancedog/models/privateer.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

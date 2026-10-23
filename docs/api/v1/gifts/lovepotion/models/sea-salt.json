@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sea-salt",
+  "name": "Sea Salt",
+  "customEmojiId": "5294468870826909489",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "lovepotion",
+    "name": "Love Potion",
+    "id": "5868348541058942091"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sea-salt.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sea-salt.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sea-salt.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sea-salt.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/sea-salt.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

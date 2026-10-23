@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "jazz-bar",
+  "name": "Jazz Bar",
+  "customEmojiId": "5318869512043393116",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "recordplayer",
+    "name": "Record Player",
+    "id": "5856973938650776169"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/jazz-bar.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/jazz-bar.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/jazz-bar.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/jazz-bar.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/recordplayer/models/jazz-bar.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

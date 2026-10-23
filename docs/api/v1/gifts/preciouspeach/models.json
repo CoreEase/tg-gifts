@@ -1,0 +1,1863 @@
+{
+  "gift": {
+    "slug": "preciouspeach",
+    "name": "Precious Peaches",
+    "apiName": "Precious Peach",
+    "id": "5933671725160989227",
+    "count": 2156,
+    "modelCount": 80,
+    "patternCount": 288,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/patterns.json"
+  },
+  "count": 80,
+  "items": [
+    {
+      "type": "model",
+      "slug": "caramel-red",
+      "name": "Caramel Red",
+      "customEmojiId": "5456279702119408051",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/caramel-red.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/caramel-red.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/caramel-red.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/caramel-red.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/caramel-red.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cherry-secret",
+      "name": "Cherry Secret",
+      "customEmojiId": "5456496052507008754",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cherry-secret.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cherry-secret.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cherry-secret.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cherry-secret.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/cherry-secret.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "shocking",
+      "name": "Shocking",
+      "customEmojiId": "5456636566657065486",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/shocking.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/shocking.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/shocking.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/shocking.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/shocking.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "smelting",
+      "name": "Smelting",
+      "customEmojiId": "5456245935086525723",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smelting.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smelting.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smelting.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smelting.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/smelting.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spanked",
+      "name": "Spanked",
+      "customEmojiId": "5453981559608599977",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/spanked.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/spanked.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/spanked.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/spanked.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/spanked.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "angelic",
+      "name": "Angelic",
+      "customEmojiId": "5456467151672075598",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/angelic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/angelic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/angelic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/angelic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/angelic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blizzard",
+      "name": "Blizzard",
+      "customEmojiId": "5456573344738470306",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/blizzard.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/blizzard.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/blizzard.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/blizzard.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/blizzard.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubbling-blue",
+      "name": "Bubbling Blue",
+      "customEmojiId": "5453935354350427095",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bubbling-blue.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bubbling-blue.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bubbling-blue.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bubbling-blue.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/bubbling-blue.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gleam-bite",
+      "name": "Gleam Bite",
+      "customEmojiId": "5456409319937433964",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/gleam-bite.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/gleam-bite.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/gleam-bite.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/gleam-bite.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/gleam-bite.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "impeached",
+      "name": "Impeached",
+      "customEmojiId": "5454264207111379469",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/impeached.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/impeached.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/impeached.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/impeached.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/impeached.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "saint-nickel",
+      "name": "Saint Nickel",
+      "customEmojiId": "5456464024935881291",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/saint-nickel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/saint-nickel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/saint-nickel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/saint-nickel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/saint-nickel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spoiled",
+      "name": "Spoiled",
+      "customEmojiId": "5454028825723692431",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/spoiled.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/spoiled.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/spoiled.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/spoiled.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/spoiled.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "xmas-lights",
+      "name": "Xmas Lights",
+      "customEmojiId": "5456501511410442137",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/xmas-lights.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/xmas-lights.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/xmas-lights.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/xmas-lights.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/xmas-lights.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "999-karat",
+      "name": "999 Karat",
+      "customEmojiId": "5454276207250005274",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/999-karat.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/999-karat.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/999-karat.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/999-karat.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/999-karat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "airy-bright",
+      "name": "Airy Bright",
+      "customEmojiId": "5456609873435321010",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/airy-bright.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/airy-bright.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/airy-bright.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/airy-bright.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/airy-bright.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bumblebee",
+      "name": "Bumblebee",
+      "customEmojiId": "5454032012589424010",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bumblebee.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bumblebee.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bumblebee.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bumblebee.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/bumblebee.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cherry-season",
+      "name": "Cherry Season",
+      "customEmojiId": "5454406241679861522",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cherry-season.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cherry-season.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cherry-season.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cherry-season.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/cherry-season.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crypto-orange",
+      "name": "Crypto Orange",
+      "customEmojiId": "5454399507171139184",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/crypto-orange.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/crypto-orange.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/crypto-orange.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/crypto-orange.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/crypto-orange.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cutout",
+      "name": "Cutout",
+      "customEmojiId": "5454201719632191950",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cutout.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cutout.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cutout.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cutout.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/cutout.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glass-heart",
+      "name": "Glass Heart",
+      "customEmojiId": "5456196388343800678",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glass-heart.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glass-heart.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glass-heart.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glass-heart.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/glass-heart.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jelly-bubble",
+      "name": "Jelly Bubble",
+      "customEmojiId": "5453935191141672870",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/jelly-bubble.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/jelly-bubble.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/jelly-bubble.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/jelly-bubble.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/jelly-bubble.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jelly-stars",
+      "name": "Jelly Stars",
+      "customEmojiId": "5456491577151087475",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/jelly-stars.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/jelly-stars.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/jelly-stars.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/jelly-stars.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/jelly-stars.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ladybug",
+      "name": "Ladybug",
+      "customEmojiId": "5456470329947872503",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ladybug.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ladybug.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ladybug.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ladybug.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/ladybug.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "morningstar",
+      "name": "Morningstar",
+      "customEmojiId": "5456618549269257087",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/morningstar.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/morningstar.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/morningstar.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/morningstar.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/morningstar.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mushroom",
+      "name": "Mushroom",
+      "customEmojiId": "5456246227144305754",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/mushroom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/mushroom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/mushroom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/mushroom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/mushroom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pink-cupid",
+      "name": "Pink Cupid",
+      "customEmojiId": "5456235335107239570",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pink-cupid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pink-cupid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pink-cupid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pink-cupid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/pink-cupid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "premium",
+      "name": "Premium",
+      "customEmojiId": "5454181344307338743",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/premium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/premium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/premium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/premium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/premium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rich-green",
+      "name": "Rich Green",
+      "customEmojiId": "5456368560697795689",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/rich-green.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/rich-green.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/rich-green.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/rich-green.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/rich-green.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "smooch",
+      "name": "Smooch",
+      "customEmojiId": "5453861154495423585",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smooch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smooch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smooch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smooch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/smooch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tonfruit",
+      "name": "Tonfruit",
+      "customEmojiId": "5456616315886263872",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/tonfruit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/tonfruit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/tonfruit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/tonfruit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/tonfruit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "yin-yang",
+      "name": "Yin Yang",
+      "customEmojiId": "5456264777108055256",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/yin-yang.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/yin-yang.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/yin-yang.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/yin-yang.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/yin-yang.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "berry-pit",
+      "name": "Berry Pit",
+      "customEmojiId": "5456198729100976253",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/berry-pit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/berry-pit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/berry-pit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/berry-pit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/berry-pit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bismuth",
+      "name": "Bismuth",
+      "customEmojiId": "5453905684716346179",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bismuth.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bismuth.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bismuth.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bismuth.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/bismuth.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bright-amber",
+      "name": "Bright Amber",
+      "customEmojiId": "5458537549247050762",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bright-amber.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bright-amber.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bright-amber.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bright-amber.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/bright-amber.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bright-coral",
+      "name": "Bright Coral",
+      "customEmojiId": "5458779364495747532",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bright-coral.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bright-coral.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bright-coral.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bright-coral.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/bright-coral.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bronze",
+      "name": "Bronze",
+      "customEmojiId": "5458455790249601599",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bronze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bronze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bronze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/bronze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/bronze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "christmas",
+      "name": "Christmas",
+      "customEmojiId": "5458757593306524346",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/christmas.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/christmas.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/christmas.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/christmas.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/christmas.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "clear-sky",
+      "name": "Clear Sky",
+      "customEmojiId": "5456444757712593156",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/clear-sky.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/clear-sky.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/clear-sky.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/clear-sky.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/clear-sky.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cold-iron",
+      "name": "Cold Iron",
+      "customEmojiId": "5458909119752725095",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cold-iron.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cold-iron.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cold-iron.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cold-iron.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/cold-iron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cozy-warmth",
+      "name": "Cozy Warmth",
+      "customEmojiId": "5456236013712073843",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cozy-warmth.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cozy-warmth.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cozy-warmth.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cozy-warmth.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/cozy-warmth.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cutie-pink",
+      "name": "Cutie Pink",
+      "customEmojiId": "5458735525764557397",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cutie-pink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cutie-pink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cutie-pink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/cutie-pink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/cutie-pink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dreamer",
+      "name": "Dreamer",
+      "customEmojiId": "5456536081602207771",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/dreamer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/dreamer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/dreamer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/dreamer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/dreamer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "elegance",
+      "name": "Elegance",
+      "customEmojiId": "5458419364631964489",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/elegance.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/elegance.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/elegance.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/elegance.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/elegance.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "faded-silver",
+      "name": "Faded Silver",
+      "customEmojiId": "5456580319765357564",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/faded-silver.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/faded-silver.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/faded-silver.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/faded-silver.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/faded-silver.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fuzzy-lilac",
+      "name": "Fuzzy Lilac",
+      "customEmojiId": "5458385129447647970",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/fuzzy-lilac.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/fuzzy-lilac.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/fuzzy-lilac.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/fuzzy-lilac.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/fuzzy-lilac.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glossy-pink",
+      "name": "Glossy Pink",
+      "customEmojiId": "5454372710870180796",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glossy-pink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glossy-pink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glossy-pink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glossy-pink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/glossy-pink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-shine",
+      "name": "Golden Shine",
+      "customEmojiId": "5454051709309444367",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/golden-shine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/golden-shine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/golden-shine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/golden-shine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/golden-shine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "heirloom",
+      "name": "Heirloom",
+      "customEmojiId": "5458597064608866739",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/heirloom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/heirloom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/heirloom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/heirloom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/heirloom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honey-gold",
+      "name": "Honey Gold",
+      "customEmojiId": "5458632648412914336",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/honey-gold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/honey-gold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/honey-gold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/honey-gold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/honey-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "iridescent",
+      "name": "Iridescent",
+      "customEmojiId": "5456230473204260000",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/iridescent.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/iridescent.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/iridescent.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/iridescent.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/iridescent.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "iron-blush",
+      "name": "Iron Blush",
+      "customEmojiId": "5458382986258966182",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/iron-blush.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/iron-blush.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/iron-blush.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/iron-blush.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/iron-blush.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "juicy-orange",
+      "name": "Juicy Orange",
+      "customEmojiId": "5454081065410912595",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/juicy-orange.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/juicy-orange.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/juicy-orange.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/juicy-orange.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/juicy-orange.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "juicy-tones",
+      "name": "Juicy Tones",
+      "customEmojiId": "5456193368981793016",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/juicy-tones.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/juicy-tones.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/juicy-tones.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/juicy-tones.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/juicy-tones.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lush-green",
+      "name": "Lush Green",
+      "customEmojiId": "5456267281073988174",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/lush-green.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/lush-green.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/lush-green.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/lush-green.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/lush-green.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "malachite",
+      "name": "Malachite",
+      "customEmojiId": "5456435785525912440",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/malachite.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/malachite.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/malachite.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/malachite.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/malachite.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mardi-gras",
+      "name": "Mardi Gras",
+      "customEmojiId": "5458674747682358788",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/mardi-gras.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/mardi-gras.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/mardi-gras.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/mardi-gras.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/mardi-gras.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "morning-haze",
+      "name": "Morning Haze",
+      "customEmojiId": "5458464148255959239",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/morning-haze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/morning-haze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/morning-haze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/morning-haze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/morning-haze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "moss-posh",
+      "name": "Moss Posh",
+      "customEmojiId": "5453865101570367871",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/moss-posh.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/moss-posh.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/moss-posh.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/moss-posh.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/moss-posh.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neo-chrome",
+      "name": "Neo-Chrome",
+      "customEmojiId": "5453862236827179971",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/neo-chrome.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/neo-chrome.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/neo-chrome.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/neo-chrome.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/neo-chrome.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "party-ready",
+      "name": "Party-Ready",
+      "customEmojiId": "5461144044639901887",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/party-ready.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/party-ready.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/party-ready.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/party-ready.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/party-ready.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peach-black",
+      "name": "Peach Black",
+      "customEmojiId": "5456503156382916971",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/peach-black.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/peach-black.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/peach-black.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/peach-black.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/peach-black.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "polaris",
+      "name": "Polaris",
+      "customEmojiId": "5458639292727325093",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/polaris.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/polaris.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/polaris.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/polaris.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/polaris.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pure-peach",
+      "name": "Pure Peach",
+      "customEmojiId": "5461169264687863754",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pure-peach.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pure-peach.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pure-peach.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pure-peach.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/pure-peach.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purple-glow",
+      "name": "Purple Glow",
+      "customEmojiId": "5458516675705989505",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/purple-glow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/purple-glow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/purple-glow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/purple-glow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/purple-glow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ripe-green",
+      "name": "Ripe Green",
+      "customEmojiId": "5456399956908729542",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ripe-green.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ripe-green.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ripe-green.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ripe-green.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/ripe-green.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ruby-red",
+      "name": "Ruby Red",
+      "customEmojiId": "5460831409675459868",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ruby-red.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ruby-red.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ruby-red.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ruby-red.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/ruby-red.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ruby-slice",
+      "name": "Ruby Slice",
+      "customEmojiId": "5458837952144634196",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ruby-slice.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ruby-slice.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ruby-slice.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ruby-slice.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/ruby-slice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "smooth-touch",
+      "name": "Smooth Touch",
+      "customEmojiId": "5458609760532196945",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smooth-touch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smooth-touch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smooth-touch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/smooth-touch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/smooth-touch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "soap-bubble",
+      "name": "Soap Bubble",
+      "customEmojiId": "5461053442304795125",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/soap-bubble.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/soap-bubble.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/soap-bubble.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/soap-bubble.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/soap-bubble.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stardust",
+      "name": "Stardust",
+      "customEmojiId": "5461049173107301344",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/stardust.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/stardust.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/stardust.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/stardust.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/stardust.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunset",
+      "name": "Sunset",
+      "customEmojiId": "5460671821575645198",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/sunset.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/sunset.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/sunset.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/sunset.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/sunset.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "terra-firma",
+      "name": "Terra Firma",
+      "customEmojiId": "5456582840911159714",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/terra-firma.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/terra-firma.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/terra-firma.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/terra-firma.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/terra-firma.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "twilight",
+      "name": "Twilight",
+      "customEmojiId": "5454269275172791604",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/twilight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/twilight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/twilight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/twilight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/twilight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glossy-finish",
+      "name": "Glossy Finish",
+      "customEmojiId": "5458869859456675958",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glossy-finish.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glossy-finish.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glossy-finish.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/glossy-finish.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/glossy-finish.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neptune",
+      "name": "Neptune",
+      "customEmojiId": "5460751192571270591",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/neptune.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/neptune.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/neptune.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/neptune.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/neptune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ogre-green",
+      "name": "Ogre Green",
+      "customEmojiId": "5461068831172613522",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ogre-green.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ogre-green.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ogre-green.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ogre-green.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/ogre-green.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pyrite",
+      "name": "Pyrite",
+      "customEmojiId": "5460838492076527400",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pyrite.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pyrite.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pyrite.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/pyrite.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/pyrite.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ripe-pink",
+      "name": "Ripe Pink",
+      "customEmojiId": "5458712096717957963",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ripe-pink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ripe-pink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ripe-pink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/ripe-pink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/ripe-pink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rosegold",
+      "name": "Rosegold",
+      "customEmojiId": "5458382286179297701",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/rosegold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/rosegold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/rosegold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/rosegold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/rosegold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "soft-sunset",
+      "name": "Soft Sunset",
+      "customEmojiId": "5458612066929634381",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "preciouspeach",
+        "name": "Precious Peach",
+        "id": "5933671725160989227"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/soft-sunset.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/soft-sunset.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/soft-sunset.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/soft-sunset.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/soft-sunset.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

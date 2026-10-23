@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "witch-brew",
+  "name": "Witch Brew",
+  "customEmojiId": "5206166069798014658",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "moneypot",
+    "name": "Money Pot",
+    "id": "5963238670868677492"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/witch-brew.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/witch-brew.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/witch-brew.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/witch-brew.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moneypot/models/witch-brew.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

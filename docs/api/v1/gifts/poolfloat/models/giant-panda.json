@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "giant-panda",
+  "name": "Giant Panda",
+  "customEmojiId": "5321521839032280270",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "poolfloat",
+    "name": "Pool Float",
+    "id": "5832644211639321671"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/giant-panda.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/giant-panda.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/giant-panda.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/giant-panda.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/poolfloat/models/giant-panda.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

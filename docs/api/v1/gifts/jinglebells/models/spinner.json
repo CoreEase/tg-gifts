@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "spinner",
+  "name": "Spinner",
+  "customEmojiId": "5246833517395997219",
+  "rarityPermille": 3,
+  "originalRarityPermille": 4,
+  "rarity": 0.3,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "jinglebells",
+    "name": "Jingle Bells",
+    "id": "6001473264306619020"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/spinner.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/spinner.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/spinner.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/spinner.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jinglebells/models/spinner.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "stonks",
+  "name": "Stonks",
+  "customEmojiId": "5321311763591894719",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "poolfloat",
+    "name": "Pool Float",
+    "id": "5832644211639321671"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/stonks.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/stonks.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/stonks.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/stonks.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/poolfloat/models/stonks.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pink-diamond",
+  "name": "Pink Diamond",
+  "customEmojiId": "5294467101300384316",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "diamondring",
+    "name": "Diamond Ring",
+    "id": "5868503709637411929"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/pink-diamond.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/pink-diamond.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/pink-diamond.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/pink-diamond.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/diamondring/models/pink-diamond.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

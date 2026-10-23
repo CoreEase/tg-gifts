@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "blockbuster",
+  "name": "Blockbuster",
+  "customEmojiId": "5262509117234244826",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "minioscar",
+    "name": "Mini Oscar",
+    "id": "5879737836550226478"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blockbuster.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blockbuster.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blockbuster.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blockbuster.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/blockbuster.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

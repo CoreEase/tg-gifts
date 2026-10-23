@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "crown-of-grace",
+  "name": "Crown of Grace",
+  "customEmojiId": "5453863838849992472",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "victorymedal",
+    "name": "Victory Medal",
+    "id": "5830340739074097859"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/crown-of-grace.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/crown-of-grace.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/crown-of-grace.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/crown-of-grace.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/victorymedal/models/crown-of-grace.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

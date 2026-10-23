@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "colossus",
+  "name": "Colossus",
+  "customEmojiId": "5309957609523022806",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "mightyarm",
+    "name": "Mighty Arm",
+    "id": "5895518353849582541"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/colossus.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/colossus.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/colossus.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/colossus.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/mightyarm/models/colossus.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

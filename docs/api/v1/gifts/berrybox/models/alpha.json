@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "alpha",
+  "name": "Alpha",
+  "customEmojiId": "5456488940041167886",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "berrybox",
+    "name": "Berry Box",
+    "id": "5882252952218894938"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/alpha.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/alpha.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/alpha.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/alpha.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/alpha.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

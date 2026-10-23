@@ -1,0 +1,25 @@
+{
+  "type": "model",
+  "slug": "hedgehogs",
+  "name": "Hedgehogs",
+  "customEmojiId": "5208583505025471863",
+  "rarityPermille": 0,
+  "originalRarityPermille": 0,
+  "rarity": 0,
+  "originalRarity": 0,
+  "crafted": true,
+  "rarityTier": "epic",
+  "gift": {
+    "slug": "jinglebells",
+    "name": "Jingle Bells",
+    "id": "6001473264306619020"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/hedgehogs.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/hedgehogs.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/hedgehogs.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/hedgehogs.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jinglebells/models/hedgehogs.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

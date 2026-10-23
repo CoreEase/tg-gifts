@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "purple-ribbon",
+  "name": "Purple Ribbon",
+  "customEmojiId": "5458449266194279547",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "berrybox",
+    "name": "Berry Box",
+    "id": "5882252952218894938"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/purple-ribbon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/purple-ribbon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/purple-ribbon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/purple-ribbon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/purple-ribbon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

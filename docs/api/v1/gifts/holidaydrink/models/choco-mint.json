@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "choco-mint",
+  "name": "Choco Mint",
+  "customEmojiId": "5269300053234712159",
+  "rarityPermille": 45,
+  "originalRarityPermille": 45,
+  "rarity": 4.5,
+  "originalRarity": 4.5,
+  "gift": {
+    "slug": "holidaydrink",
+    "name": "Holiday Drink",
+    "id": "6003735372041814769"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/choco-mint.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/choco-mint.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/choco-mint.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/choco-mint.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/choco-mint.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,2879 @@
+{
+  "gift": {
+    "slug": "petsnake",
+    "name": "Pet Snakes",
+    "apiName": "Pet Snake",
+    "id": "6023917088358269866",
+    "count": 11862,
+    "modelCount": 60,
+    "patternCount": 136,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns.json"
+  },
+  "count": 136,
+  "items": [
+    {
+      "type": "pattern",
+      "slug": "candy",
+      "name": "Candy",
+      "customEmojiId": "5199911012572105730",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/candy.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/candy.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dessert",
+      "name": "Dessert",
+      "customEmojiId": "5199456540607676981",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/dessert.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/dessert.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/dessert.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-pop",
+      "name": "Ice Pop",
+      "customEmojiId": "5202206762786127395",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/ice-pop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/ice-pop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/ice-pop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mistletoe",
+      "name": "Mistletoe",
+      "customEmojiId": "5199936279864708293",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mistletoe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mistletoe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/mistletoe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ornament",
+      "name": "Ornament",
+      "customEmojiId": "5199660508604566307",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/ornament.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/ornament.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/ornament.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "santa-hat",
+      "name": "Santa Hat",
+      "customEmojiId": "5199534056177437209",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/santa-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/santa-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/santa-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snow-angel",
+      "name": "Snow Angel",
+      "customEmojiId": "5199879135324836933",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/snow-angel.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/snow-angel.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/snow-angel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snowflake",
+      "name": "Snowflake",
+      "customEmojiId": "5199610674099031923",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/snowflake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/snowflake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/snowflake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "stocking",
+      "name": "Stocking",
+      "customEmojiId": "5199503016448790503",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/stocking.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/stocking.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/stocking.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "winter-house",
+      "name": "Winter House",
+      "customEmojiId": "5199701675866098449",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/winter-house.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/winter-house.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/winter-house.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "beer",
+      "name": "Beer",
+      "customEmojiId": "5199920405665583833",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/beer.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/beer.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/beer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bowtie",
+      "name": "Bowtie",
+      "customEmojiId": "5199828179832835125",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bowtie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bowtie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/bowtie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cat-mask",
+      "name": "Cat Mask",
+      "customEmojiId": "5199751016450395261",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cat-mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cat-mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/cat-mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chest",
+      "name": "Chest",
+      "customEmojiId": "5199799017004894591",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/chest.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/chest.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/chest.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coconut",
+      "name": "Coconut",
+      "customEmojiId": "5199939960651680778",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/coconut.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/coconut.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/coconut.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cookie",
+      "name": "Cookie",
+      "customEmojiId": "5199706417509992965",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cookie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cookie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/cookie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crystal",
+      "name": "Crystal",
+      "customEmojiId": "5199505833947336625",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/crystal.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/crystal.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/crystal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "doctor-hat",
+      "name": "Doctor Hat",
+      "customEmojiId": "5199584148381011556",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/doctor-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/doctor-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/doctor-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "drug",
+      "name": "Drug",
+      "customEmojiId": "5199963359633511195",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/drug.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/drug.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/drug.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "eikthyrnir",
+      "name": "Eikthyrnir",
+      "customEmojiId": "5199875514667404240",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/eikthyrnir.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/eikthyrnir.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/eikthyrnir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flipper",
+      "name": "Flipper",
+      "customEmojiId": "5199562548990477877",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/flipper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/flipper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/flipper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "genie-lamp",
+      "name": "Genie Lamp",
+      "customEmojiId": "5199760491148248638",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/genie-lamp.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/genie-lamp.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/genie-lamp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "heater-shield",
+      "name": "Heater Shield",
+      "customEmojiId": "5199906721899780489",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/heater-shield.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/heater-shield.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/heater-shield.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hippo",
+      "name": "Hippo",
+      "customEmojiId": "5199545558099857226",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/hippo.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/hippo.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/hippo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jumbo-pencil",
+      "name": "Jumbo Pencil",
+      "customEmojiId": "5199442723697888040",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/jumbo-pencil.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/jumbo-pencil.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/jumbo-pencil.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "keffiyeh",
+      "name": "Keffiyeh",
+      "customEmojiId": "5199444398735132234",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/keffiyeh.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/keffiyeh.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/keffiyeh.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "leprechaun",
+      "name": "Leprechaun",
+      "customEmojiId": "5199899240066749481",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/leprechaun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/leprechaun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/leprechaun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "love-lock",
+      "name": "Love Lock",
+      "customEmojiId": "5199543157213139030",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/love-lock.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/love-lock.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/love-lock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "meat-leg",
+      "name": "Meat Leg",
+      "customEmojiId": "5199442135287366557",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/meat-leg.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/meat-leg.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/meat-leg.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mittens",
+      "name": "Mittens",
+      "customEmojiId": "5199968565133871696",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mittens.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mittens.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/mittens.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "monarch",
+      "name": "Monarch",
+      "customEmojiId": "5199967568701462550",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/monarch.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/monarch.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/monarch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "nordic-wolf",
+      "name": "Nordic Wolf",
+      "customEmojiId": "5199895056768603137",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/nordic-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/nordic-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/nordic-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sharp-sword",
+      "name": "Sharp Sword",
+      "customEmojiId": "5199910510060932554",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sharp-sword.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sharp-sword.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/sharp-sword.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shooting-star",
+      "name": "Shooting Star",
+      "customEmojiId": "5199756398044416521",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/shooting-star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/shooting-star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/shooting-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sparks",
+      "name": "Sparks",
+      "customEmojiId": "5199534721897367416",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sparks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sparks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/sparks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tamagotchi",
+      "name": "Tamagotchi",
+      "customEmojiId": "5199853902391968563",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/tamagotchi.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/tamagotchi.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/tamagotchi.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "unicorn-head",
+      "name": "Unicorn Head",
+      "customEmojiId": "5199885517646234797",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/unicorn-head.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/unicorn-head.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/unicorn-head.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "worker-ant",
+      "name": "Worker Ant",
+      "customEmojiId": "5199496204630661208",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/worker-ant.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/worker-ant.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/worker-ant.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "candle",
+      "name": "Candle",
+      "customEmojiId": "5199639604998733687",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/candle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/candle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/candle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "champagne",
+      "name": "Champagne",
+      "customEmojiId": "5199679432230471443",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/champagne.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/champagne.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/champagne.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "christmas-tree",
+      "name": "Christmas Tree",
+      "customEmojiId": "5201690116875126303",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/christmas-tree.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/christmas-tree.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/christmas-tree.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cocktail",
+      "name": "Cocktail",
+      "customEmojiId": "5199925405007515741",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cocktail.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cocktail.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/cocktail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coin-purse",
+      "name": "Coin Purse",
+      "customEmojiId": "5199421974710879091",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/coin-purse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/coin-purse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/coin-purse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cupcake",
+      "name": "Cupcake",
+      "customEmojiId": "5199460788330335122",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cupcake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cupcake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/cupcake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "festive-wreath",
+      "name": "Festive Wreath",
+      "customEmojiId": "5199830851302495542",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/festive-wreath.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/festive-wreath.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/festive-wreath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fireworks",
+      "name": "Fireworks",
+      "customEmojiId": "5199661414842666249",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/fireworks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/fireworks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/fireworks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gift-box",
+      "name": "Gift Box",
+      "customEmojiId": "5199854971838826197",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/gift-box.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/gift-box.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/gift-box.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gingerbread",
+      "name": "Gingerbread",
+      "customEmojiId": "5199945376605439444",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/gingerbread.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/gingerbread.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/gingerbread.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hot-drink",
+      "name": "Hot Drink",
+      "customEmojiId": "5199502050081148019",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/hot-drink.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/hot-drink.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/hot-drink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-skates",
+      "name": "Ice Skates",
+      "customEmojiId": "5199870438016060797",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/ice-skates.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/ice-skates.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/ice-skates.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jingle-bell",
+      "name": "Jingle Bell",
+      "customEmojiId": "5199776322397706499",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/jingle-bell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/jingle-bell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/jingle-bell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "magic-wand",
+      "name": "Magic Wand",
+      "customEmojiId": "5199565744446145009",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/magic-wand.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/magic-wand.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/magic-wand.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "new-year-s-eve",
+      "name": "New Year’s Eve",
+      "customEmojiId": null,
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/new-year-s-eve.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/new-year-s-eve.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/new-year-s-eve.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "piggy-bank",
+      "name": "Piggy Bank",
+      "customEmojiId": "5199476082708878264",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/piggy-bank.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/piggy-bank.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/piggy-bank.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rudolph",
+      "name": "Rudolph",
+      "customEmojiId": "5199540056246747378",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/rudolph.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/rudolph.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/rudolph.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snowman",
+      "name": "Snowman",
+      "customEmojiId": "5199936215440198936",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/snowman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/snowman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/snowman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "star",
+      "name": "Star",
+      "customEmojiId": "5199425320490407263",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "white-deer",
+      "name": "White Deer",
+      "customEmojiId": "5199804858160416090",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/white-deer.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/white-deer.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/white-deer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "alert-serpent",
+      "name": "Alert Serpent",
+      "customEmojiId": "5199488392085146030",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/alert-serpent.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/alert-serpent.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/alert-serpent.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "apple",
+      "name": "Apple",
+      "customEmojiId": "5199834806967375335",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/apple.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/apple.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/apple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "arcane-mirror",
+      "name": "Arcane Mirror",
+      "customEmojiId": "5199560770874018874",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/arcane-mirror.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/arcane-mirror.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/arcane-mirror.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bow-tie",
+      "name": "Bow Tie",
+      "customEmojiId": "5199652756188594205",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bow-tie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bow-tie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/bow-tie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cap",
+      "name": "Cap",
+      "customEmojiId": "5199697466798143755",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cap.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cap.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/cap.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chef-hat",
+      "name": "Chef Hat",
+      "customEmojiId": "5199467063277553530",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/chef-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/chef-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/chef-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cricket-helmet",
+      "name": "Cricket Helmet",
+      "customEmojiId": "5199841202173676889",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cricket-helmet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/cricket-helmet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/cricket-helmet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crown",
+      "name": "Crown",
+      "customEmojiId": "5199763085308495651",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/crown.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/crown.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/crown.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crusader-cross",
+      "name": "Crusader Cross",
+      "customEmojiId": "5199468566516105305",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/crusader-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/crusader-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/crusader-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "diamonds",
+      "name": "Diamonds",
+      "customEmojiId": "5199700121087937827",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/diamonds.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/diamonds.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/diamonds.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "doghouse",
+      "name": "Doghouse",
+      "customEmojiId": "5199765365936130864",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/doghouse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/doghouse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/doghouse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "double-axe",
+      "name": "Double Axe",
+      "customEmojiId": "5199414905194712818",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/double-axe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/double-axe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/double-axe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "eagle",
+      "name": "Eagle",
+      "customEmojiId": "5199844350384703801",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/eagle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/eagle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/eagle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "easter-bunny",
+      "name": "Easter Bunny",
+      "customEmojiId": "5199627626334947886",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/easter-bunny.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/easter-bunny.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/easter-bunny.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hand-of-god",
+      "name": "Hand of God",
+      "customEmojiId": "5199440739422996762",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/hand-of-god.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/hand-of-god.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/hand-of-god.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hermit-shell",
+      "name": "Hermit Shell",
+      "customEmojiId": "5199762329394253336",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/hermit-shell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/hermit-shell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/hermit-shell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "horseshoe",
+      "name": "Horseshoe",
+      "customEmojiId": "5199843530045950060",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/horseshoe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/horseshoe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/horseshoe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "khinkali",
+      "name": "Khinkali",
+      "customEmojiId": "5199559430844221150",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/khinkali.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/khinkali.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/khinkali.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lemon",
+      "name": "Lemon",
+      "customEmojiId": "5199949400989796691",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lemon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lemon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/lemon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lemon-slice",
+      "name": "Lemon Slice",
+      "customEmojiId": "5199964953066377215",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lemon-slice.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lemon-slice.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/lemon-slice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lily",
+      "name": "Lily",
+      "customEmojiId": "5199594718295526169",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lily.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lily.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/lily.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mask",
+      "name": "Mask",
+      "customEmojiId": "5199413122783298258",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "monstera",
+      "name": "Monstera",
+      "customEmojiId": "5199712567903159375",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/monstera.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/monstera.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/monstera.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mountain-goat",
+      "name": "Mountain Goat",
+      "customEmojiId": "5199689319245190164",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mountain-goat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mountain-goat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/mountain-goat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "nemes",
+      "name": "Nemes",
+      "customEmojiId": "5199898990958646583",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/nemes.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/nemes.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/nemes.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "palette",
+      "name": "Palette",
+      "customEmojiId": "5199833587196661886",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/palette.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/palette.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/palette.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "party-hat",
+      "name": "Party Hat",
+      "customEmojiId": "5199420192299454140",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/party-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/party-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/party-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "peaked-cap",
+      "name": "Peaked Cap",
+      "customEmojiId": "5199944066640415730",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/peaked-cap.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/peaked-cap.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/peaked-cap.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pear",
+      "name": "Pear",
+      "customEmojiId": "5199711558585845500",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/pear.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/pear.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/pear.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pencil",
+      "name": "Pencil",
+      "customEmojiId": "5199649638042340721",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/pencil.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/pencil.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/pencil.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pirate-hat",
+      "name": "Pirate Hat",
+      "customEmojiId": "5199666663292700153",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/pirate-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/pirate-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/pirate-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "porrige",
+      "name": "Porrige",
+      "customEmojiId": "5199425857361315324",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/porrige.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/porrige.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/porrige.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sea-horse",
+      "name": "Sea Horse",
+      "customEmojiId": "5199693631392352882",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sea-horse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sea-horse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/sea-horse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snail",
+      "name": "Snail",
+      "customEmojiId": "5199427729967062308",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/snail.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/snail.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/snail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "steampunk-hat",
+      "name": "Steampunk Hat",
+      "customEmojiId": "5199923729970268578",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/steampunk-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/steampunk-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/steampunk-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "toilet-paper",
+      "name": "Toilet Paper",
+      "customEmojiId": "5199519908555163902",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/toilet-paper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/toilet-paper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/toilet-paper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "trickster-fox",
+      "name": "Trickster Fox",
+      "customEmojiId": "5199707800489464034",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/trickster-fox.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/trickster-fox.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/trickster-fox.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "winged-helmet",
+      "name": "Winged Helmet",
+      "customEmojiId": "5199518650129746938",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/winged-helmet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/winged-helmet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/winged-helmet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wontons",
+      "name": "Wontons",
+      "customEmojiId": "5199961989538942623",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/wontons.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/wontons.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/wontons.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "yogi-shaman",
+      "name": "Yogi Shaman",
+      "customEmojiId": "5199445571261203846",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/yogi-shaman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/yogi-shaman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/yogi-shaman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "banana",
+      "name": "Banana",
+      "customEmojiId": "5199719637419326222",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/banana.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/banana.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/banana.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bastet",
+      "name": "Bastet",
+      "customEmojiId": "5199520204907910380",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bastet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bastet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/bastet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "blood-drop",
+      "name": "Blood Drop",
+      "customEmojiId": "5199450016552355691",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/blood-drop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/blood-drop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/blood-drop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "boat",
+      "name": "Boat",
+      "customEmojiId": "5199564713653997766",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/boat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/boat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/boat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bobble-hat",
+      "name": "Bobble Hat",
+      "customEmojiId": "5199759262787603566",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bobble-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bobble-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/bobble-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bonsai",
+      "name": "Bonsai",
+      "customEmojiId": "5199553400710137770",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bonsai.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bonsai.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/bonsai.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "breeze",
+      "name": "Breeze",
+      "customEmojiId": "5199658631703859803",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/breeze.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/breeze.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/breeze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bubbles",
+      "name": "Bubbles",
+      "customEmojiId": "5199440863977046426",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bubbles.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bubbles.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/bubbles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bunny-ears",
+      "name": "Bunny Ears",
+      "customEmojiId": "5199774076129808154",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bunny-ears.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/bunny-ears.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/bunny-ears.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili",
+      "name": "Chili",
+      "customEmojiId": "5199718404763713565",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/chili.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/chili.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/chili.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crab",
+      "name": "Crab",
+      "customEmojiId": "5199541684039353419",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/crab.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/crab.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/crab.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fleur-de-lis",
+      "name": "Fleur-de-lis",
+      "customEmojiId": "5199655573687140713",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/fleur-de-lis.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/fleur-de-lis.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/fleur-de-lis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "greek-sun",
+      "name": "Greek Sun",
+      "customEmojiId": "5199681906131637748",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/greek-sun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/greek-sun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/greek-sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "griffon",
+      "name": "Griffon",
+      "customEmojiId": "5199733754976831104",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/griffon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/griffon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/griffon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "horned-helm",
+      "name": "Horned Helm",
+      "customEmojiId": "5199925937583456568",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/horned-helm.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/horned-helm.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/horned-helm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jewel",
+      "name": "Jewel",
+      "customEmojiId": "5199798166601371927",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/jewel.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/jewel.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/jewel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "legionary",
+      "name": "Legionary",
+      "customEmojiId": "5199428202413461386",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/legionary.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/legionary.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/legionary.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lightning",
+      "name": "Lightning",
+      "customEmojiId": "5202201454206549813",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lightning.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lightning.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/lightning.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lion-head",
+      "name": "Lion Head",
+      "customEmojiId": "5199655049701172498",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lion-head.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/lion-head.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/lion-head.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "manta-ray",
+      "name": "Manta Ray",
+      "customEmojiId": "5199852231649690419",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/manta-ray.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/manta-ray.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/manta-ray.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "maple-leaf",
+      "name": "Maple Leaf",
+      "customEmojiId": "5199771361710473077",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/maple-leaf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/maple-leaf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/maple-leaf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mustang",
+      "name": "Mustang",
+      "customEmojiId": "5199436757988311690",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mustang.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/mustang.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/mustang.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "narcissus",
+      "name": "Narcissus",
+      "customEmojiId": "5199732805789058517",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/narcissus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/narcissus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/narcissus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "peace-dove",
+      "name": "Peace Dove",
+      "customEmojiId": "5199441345013386136",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/peace-dove.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/peace-dove.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/peace-dove.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pirate-scull",
+      "name": "Pirate Scull",
+      "customEmojiId": "5199610403516089508",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/pirate-scull.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/pirate-scull.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/pirate-scull.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scorpion",
+      "name": "Scorpion",
+      "customEmojiId": "5199940630666579018",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/scorpion.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/scorpion.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/scorpion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shell",
+      "name": "Shell",
+      "customEmojiId": "5199502470987945576",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/shell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/shell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/shell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shield",
+      "name": "Shield",
+      "customEmojiId": "5199474497865945550",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/shield.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/shield.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/shield.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shortsword",
+      "name": "Shortsword",
+      "customEmojiId": "5199699219144807756",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/shortsword.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/shortsword.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/shortsword.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "silver-ibis",
+      "name": "Silver Ibis",
+      "customEmojiId": "5199513981500297130",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/silver-ibis.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/silver-ibis.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/silver-ibis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sumerian-bird",
+      "name": "Sumerian Bird",
+      "customEmojiId": "5199797367737452718",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sumerian-bird.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sumerian-bird.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/sumerian-bird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sun",
+      "name": "Sun",
+      "customEmojiId": "5199964983131145958",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sword-fight",
+      "name": "Sword Fight",
+      "customEmojiId": "5202054218432674026",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sword-fight.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/sword-fight.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/sword-fight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "teru-bozu",
+      "name": "Teru Bōzu",
+      "customEmojiId": "5199948172629150385",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/teru-bozu.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/teru-bozu.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/teru-bozu.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tiki-mask",
+      "name": "Tiki Mask",
+      "customEmojiId": "5199412916624854882",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/tiki-mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/tiki-mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/tiki-mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "totem-bear",
+      "name": "Totem Bear",
+      "customEmojiId": "5199656939486742424",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/totem-bear.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/totem-bear.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/totem-bear.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tsunami",
+      "name": "Tsunami",
+      "customEmojiId": "5199500714346319781",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/tsunami.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/tsunami.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/tsunami.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "turtle",
+      "name": "Turtle",
+      "customEmojiId": "5199802964079839347",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "petsnake",
+        "name": "Pet Snake",
+        "id": "6023917088358269866"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/turtle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/patterns/turtle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/patterns/turtle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

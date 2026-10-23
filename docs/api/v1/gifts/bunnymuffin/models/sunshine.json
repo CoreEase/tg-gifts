@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sunshine",
+  "name": "Sunshine",
+  "customEmojiId": "5251435080932417984",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "bunnymuffin",
+    "name": "Bunny Muffin",
+    "id": "5935936766358847989"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/sunshine.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/sunshine.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/sunshine.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/sunshine.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bunnymuffin/models/sunshine.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "electric",
+  "name": "Electric",
+  "customEmojiId": "5262757069991210986",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "minioscar",
+    "name": "Mini Oscar",
+    "id": "5879737836550226478"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/electric.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/electric.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/electric.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/electric.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/electric.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

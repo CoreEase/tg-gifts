@@ -1,0 +1,1449 @@
+{
+  "gift": {
+    "slug": "easteregg",
+    "name": "Easter Eggs",
+    "apiName": "Easter Egg",
+    "id": "5773668482394620318",
+    "count": 27726,
+    "modelCount": 62,
+    "patternCount": 256,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/patterns.json"
+  },
+  "count": 62,
+  "items": [
+    {
+      "type": "model",
+      "slug": "baby-chick",
+      "name": "Baby Chick",
+      "customEmojiId": "5199684126629719712",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/baby-chick.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/baby-chick.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/baby-chick.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/baby-chick.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/baby-chick.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "baby-turtle",
+      "name": "Baby Turtle",
+      "customEmojiId": "5199842915865618337",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/baby-turtle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/baby-turtle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/baby-turtle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/baby-turtle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/baby-turtle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "choco-bunny",
+      "name": "Choco Bunny",
+      "customEmojiId": "5197693392108155238",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/choco-bunny.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/choco-bunny.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/choco-bunny.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/choco-bunny.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/choco-bunny.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cryptid",
+      "name": "Cryptid",
+      "customEmojiId": "5197340663624003987",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/cryptid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/cryptid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/cryptid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/cryptid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/cryptid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "early-bird",
+      "name": "Early Bird",
+      "customEmojiId": "5199584835575770762",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/early-bird.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/early-bird.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/early-bird.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/early-bird.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/early-bird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "easter-bunny",
+      "name": "Easter Bunny",
+      "customEmojiId": "5197598142618432481",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/easter-bunny.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/easter-bunny.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/easter-bunny.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/easter-bunny.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/easter-bunny.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jurassic",
+      "name": "Jurassic",
+      "customEmojiId": "5199845046169400049",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/jurassic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/jurassic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/jurassic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/jurassic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/jurassic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "little-dino",
+      "name": "Little Dino",
+      "customEmojiId": "5199933638459812805",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/little-dino.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/little-dino.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/little-dino.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/little-dino.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/little-dino.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "little-doge",
+      "name": "Little Doge",
+      "customEmojiId": "5197297838505094236",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/little-doge.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/little-doge.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/little-doge.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/little-doge.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/little-doge.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-whelp",
+      "name": "Red Whelp",
+      "customEmojiId": "5199444381555257461",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/red-whelp.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/red-whelp.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/red-whelp.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/red-whelp.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/red-whelp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sea-turtle",
+      "name": "Sea Turtle",
+      "customEmojiId": "5199761466105818538",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/sea-turtle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/sea-turtle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/sea-turtle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/sea-turtle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/sea-turtle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "unicorn",
+      "name": "Unicorn",
+      "customEmojiId": "5197496162914953603",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/unicorn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/unicorn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/unicorn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/unicorn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/unicorn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cactus",
+      "name": "Cactus",
+      "customEmojiId": "5197644425186014875",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/cactus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/cactus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/cactus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/cactus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/cactus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chocolate",
+      "name": "Chocolate",
+      "customEmojiId": "5197262727147451203",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/chocolate.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/chocolate.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/chocolate.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/chocolate.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/chocolate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "deep-freeze",
+      "name": "Deep Freeze",
+      "customEmojiId": "5197563057030591285",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/deep-freeze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/deep-freeze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/deep-freeze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/deep-freeze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/deep-freeze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dogel-mogel",
+      "name": "Dogel Mogel",
+      "customEmojiId": "5199590492047699534",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/dogel-mogel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/dogel-mogel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/dogel-mogel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/dogel-mogel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/dogel-mogel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "egghead",
+      "name": "Egghead",
+      "customEmojiId": "5199890598592539738",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/egghead.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/egghead.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/egghead.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/egghead.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/egghead.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "faberge",
+      "name": "Faberge",
+      "customEmojiId": "5199418435657820697",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/faberge.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/faberge.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/faberge.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/faberge.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/faberge.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "koshchei",
+      "name": "Koshchei",
+      "customEmojiId": "5199464254368935081",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/koshchei.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/koshchei.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/koshchei.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/koshchei.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/koshchei.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "meowling",
+      "name": "Meowling",
+      "customEmojiId": "5199792909561391815",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/meowling.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/meowling.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/meowling.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/meowling.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/meowling.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pastel-candy",
+      "name": "Pastel Candy",
+      "customEmojiId": "5199465478434615019",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pastel-candy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pastel-candy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pastel-candy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pastel-candy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/pastel-candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pearl",
+      "name": "Pearl",
+      "customEmojiId": "5199715711819213744",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pearl.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pearl.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pearl.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pearl.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/pearl.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starry-gift",
+      "name": "Starry Gift",
+      "customEmojiId": "5199709621555589775",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/starry-gift.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/starry-gift.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/starry-gift.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/starry-gift.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/starry-gift.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dragon",
+      "name": "Dragon",
+      "customEmojiId": "5199460659481309927",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/dragon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/dragon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/dragon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/dragon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/dragon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eggmoji",
+      "name": "Eggmoji",
+      "customEmojiId": "5199940334313827470",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggmoji.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggmoji.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggmoji.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggmoji.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/eggmoji.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "foliage",
+      "name": "Foliage",
+      "customEmojiId": "5199678178100014732",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/foliage.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/foliage.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/foliage.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/foliage.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/foliage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ice-cream",
+      "name": "Ice Cream",
+      "customEmojiId": "5199850328979172556",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ice-cream.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ice-cream.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ice-cream.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ice-cream.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/ice-cream.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pure-gold",
+      "name": "Pure Gold",
+      "customEmojiId": "5199507410200327143",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pure-gold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pure-gold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pure-gold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pure-gold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/pure-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stained-glass",
+      "name": "Stained Glass",
+      "customEmojiId": "5197455502459562016",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stained-glass.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stained-glass.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stained-glass.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stained-glass.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/stained-glass.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "treasure-map",
+      "name": "Treasure Map",
+      "customEmojiId": "5199611309754182500",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/treasure-map.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/treasure-map.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/treasure-map.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/treasure-map.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/treasure-map.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "boiled-pepe",
+      "name": "Boiled Pepe",
+      "customEmojiId": "5197192130770004795",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/boiled-pepe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/boiled-pepe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/boiled-pepe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/boiled-pepe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/boiled-pepe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chicken",
+      "name": "Chicken",
+      "customEmojiId": "5199539867268182166",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/chicken.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/chicken.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/chicken.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/chicken.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/chicken.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "creeper",
+      "name": "Creeper",
+      "customEmojiId": "5199550394233023570",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/creeper.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/creeper.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/creeper.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/creeper.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/creeper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eggburger",
+      "name": "Eggburger",
+      "customEmojiId": "5199889185548300301",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggburger.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggburger.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggburger.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggburger.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/eggburger.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eggsecutive",
+      "name": "Eggsecutive",
+      "customEmojiId": "5197639851045843816",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggsecutive.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggsecutive.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggsecutive.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/eggsecutive.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/eggsecutive.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fine-silver",
+      "name": "Fine Silver",
+      "customEmojiId": "5199588649506728329",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/fine-silver.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/fine-silver.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/fine-silver.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/fine-silver.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/fine-silver.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fish-pod",
+      "name": "Fish Pod",
+      "customEmojiId": "5199480528000023397",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/fish-pod.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/fish-pod.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/fish-pod.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/fish-pod.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/fish-pod.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "free-flight",
+      "name": "Free Flight",
+      "customEmojiId": "5199938053686195841",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/free-flight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/free-flight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/free-flight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/free-flight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/free-flight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jupiter",
+      "name": "Jupiter",
+      "customEmojiId": "5199919834434925863",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/jupiter.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/jupiter.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/jupiter.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/jupiter.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/jupiter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ladybird",
+      "name": "Ladybird",
+      "customEmojiId": "5197674837849436164",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ladybird.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ladybird.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ladybird.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ladybird.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/ladybird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "magic-key",
+      "name": "Magic Key",
+      "customEmojiId": "5199968565133863135",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/magic-key.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/magic-key.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/magic-key.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/magic-key.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/magic-key.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "omeletron",
+      "name": "Omeletron",
+      "customEmojiId": "5199760942119807972",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/omeletron.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/omeletron.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/omeletron.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/omeletron.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/omeletron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "os-shell",
+      "name": "OS Shell",
+      "customEmojiId": "5199601281005545655",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/os-shell.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/os-shell.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/os-shell.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/os-shell.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/os-shell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "scrambull",
+      "name": "Scrambull",
+      "customEmojiId": "5199415631044179959",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/scrambull.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/scrambull.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/scrambull.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/scrambull.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/scrambull.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stamper",
+      "name": "Stamper",
+      "customEmojiId": "5199591497070047683",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stamper.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stamper.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stamper.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stamper.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/stamper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "3d-render",
+      "name": "3D Render",
+      "customEmojiId": "5199945930656212819",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/3d-render.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/3d-render.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/3d-render.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/3d-render.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/3d-render.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ball-of-steel",
+      "name": "Ball of Steel",
+      "customEmojiId": "5199660792072401537",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ball-of-steel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ball-of-steel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ball-of-steel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ball-of-steel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/ball-of-steel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "brick-wall",
+      "name": "Brick Wall",
+      "customEmojiId": "5199526879287076687",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/brick-wall.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/brick-wall.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/brick-wall.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/brick-wall.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/brick-wall.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bronze",
+      "name": "Bronze",
+      "customEmojiId": "5199607933909888987",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/bronze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/bronze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/bronze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/bronze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/bronze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crown-prince",
+      "name": "Crown Prince",
+      "customEmojiId": "5199764558482270587",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/crown-prince.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/crown-prince.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/crown-prince.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/crown-prince.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/crown-prince.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flower-bed",
+      "name": "Flower Bed",
+      "customEmojiId": "5199734918912960856",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/flower-bed.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/flower-bed.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/flower-bed.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/flower-bed.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/flower-bed.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flowers",
+      "name": "Flowers",
+      "customEmojiId": "5197326391447678503",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/flowers.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/flowers.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/flowers.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/flowers.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/flowers.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "frosted",
+      "name": "Frosted",
+      "customEmojiId": "5199638861969388278",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/frosted.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/frosted.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/frosted.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/frosted.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/frosted.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gzhel",
+      "name": "Gzhel",
+      "customEmojiId": "5199797728514698116",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/gzhel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/gzhel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/gzhel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/gzhel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/gzhel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "khokhloma",
+      "name": "Khokhloma",
+      "customEmojiId": "5199878894806658658",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/khokhloma.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/khokhloma.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/khokhloma.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/khokhloma.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/khokhloma.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "matryoshka",
+      "name": "Matryoshka",
+      "customEmojiId": "5199645673787521197",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/matryoshka.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/matryoshka.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/matryoshka.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/matryoshka.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/matryoshka.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "meadow",
+      "name": "Meadow",
+      "customEmojiId": "5197656618598167153",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/meadow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/meadow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/meadow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/meadow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/meadow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "moon-watch",
+      "name": "Moon Watch",
+      "customEmojiId": "5199829214919945719",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/moon-watch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/moon-watch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/moon-watch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/moon-watch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/moon-watch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mr-benedict",
+      "name": "Mr. Benedict",
+      "customEmojiId": "5199445472476949282",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/mr-benedict.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/mr-benedict.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/mr-benedict.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/mr-benedict.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/mr-benedict.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "porcelain",
+      "name": "Porcelain",
+      "customEmojiId": "5197609567231441007",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/porcelain.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/porcelain.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/porcelain.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/porcelain.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/porcelain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "protein-lamp",
+      "name": "Protein Lamp",
+      "customEmojiId": "5199498412243839552",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/protein-lamp.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/protein-lamp.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/protein-lamp.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/protein-lamp.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/protein-lamp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purple-bird",
+      "name": "Purple Bird",
+      "customEmojiId": "5199590715386000779",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "easteregg",
+        "name": "Easter Egg",
+        "id": "5773668482394620318"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/purple-bird.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/purple-bird.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/purple-bird.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/purple-bird.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/purple-bird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "birthday-cake",
+  "name": "Birthday Cake",
+  "customEmojiId": "5251594480053675576",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "voodoodoll",
+    "name": "Voodoo Doll",
+    "id": "5836780359634649414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/voodoodoll/assets/models/birthday-cake.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/voodoodoll/assets/models/birthday-cake.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/voodoodoll/assets/models/birthday-cake.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/voodoodoll/assets/models/birthday-cake.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/voodoodoll/models/birthday-cake.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

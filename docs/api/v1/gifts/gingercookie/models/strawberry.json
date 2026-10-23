@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "strawberry",
+  "name": "Strawberry",
+  "customEmojiId": "5265171335532798242",
+  "rarityPermille": 17,
+  "originalRarityPermille": 17,
+  "rarity": 1.7,
+  "originalRarity": 1.7,
+  "gift": {
+    "slug": "gingercookie",
+    "name": "Ginger Cookie",
+    "id": "5983484377902875708"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/strawberry.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/strawberry.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/strawberry.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/strawberry.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/gingercookie/models/strawberry.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

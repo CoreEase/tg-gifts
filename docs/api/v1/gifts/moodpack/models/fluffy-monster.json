@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fluffy-monster",
+  "name": "Fluffy Monster",
+  "customEmojiId": "5318997648097711555",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "moodpack",
+    "name": "Mood Pack",
+    "id": "5886756255493523118"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/fluffy-monster.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/fluffy-monster.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/fluffy-monster.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/fluffy-monster.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moodpack/models/fluffy-monster.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

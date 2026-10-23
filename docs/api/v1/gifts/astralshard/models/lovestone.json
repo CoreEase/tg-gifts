@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "lovestone",
+  "name": "Lovestone",
+  "customEmojiId": "5251201645164912504",
+  "rarityPermille": 13,
+  "originalRarityPermille": 13,
+  "rarity": 1.3,
+  "originalRarity": 1.3,
+  "gift": {
+    "slug": "astralshard",
+    "name": "Astral Shard",
+    "id": "5933629604416717361"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/lovestone.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/lovestone.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/lovestone.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/lovestone.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/models/lovestone.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

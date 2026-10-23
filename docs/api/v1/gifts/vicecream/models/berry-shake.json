@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "berry-shake",
+  "name": "Berry Shake",
+  "customEmojiId": "5352641492726880066",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "vicecream",
+    "name": "Vice Cream",
+    "id": "5898012527257715797"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/berry-shake.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/berry-shake.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/berry-shake.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/berry-shake.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/vicecream/models/berry-shake.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

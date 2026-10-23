@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fashion-bag",
+  "name": "Fashion Bag",
+  "customEmojiId": "5309788765768680072",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "artisanbrick",
+    "name": "Artisan Brick",
+    "id": "6005797617768858105"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/fashion-bag.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/fashion-bag.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/fashion-bag.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/fashion-bag.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/artisanbrick/models/fashion-bag.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

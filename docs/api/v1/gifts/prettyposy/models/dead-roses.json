@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "dead-roses",
+  "name": "Dead Roses",
+  "customEmojiId": "5206553819445497116",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "prettyposy",
+    "name": "Pretty Posy",
+    "id": "5933737850477478635"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/dead-roses.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/dead-roses.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/dead-roses.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/dead-roses.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/prettyposy/models/dead-roses.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

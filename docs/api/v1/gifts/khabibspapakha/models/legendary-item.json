@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "legendary-item",
+  "name": "Legendary Item",
+  "customEmojiId": "5265137057398821593",
+  "rarityPermille": 1,
+  "originalRarityPermille": 1,
+  "rarity": 0.1,
+  "originalRarity": 0.1,
+  "gift": {
+    "slug": "khabibspapakha",
+    "name": "Khabib's Papakha",
+    "id": "5839094187366024301"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/khabibspapakha/assets/models/legendary-item.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/khabibspapakha/assets/models/legendary-item.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/khabibspapakha/assets/models/legendary-item.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/khabibspapakha/assets/models/legendary-item.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/khabibspapakha/models/legendary-item.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

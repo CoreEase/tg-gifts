@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "warhol",
+  "name": "Warhol",
+  "customEmojiId": "5352816117507204346",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "libertyfigure",
+    "name": "Liberty Figure",
+    "id": "5999298447486747746"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/warhol.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/warhol.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/warhol.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/warhol.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/libertyfigure/models/warhol.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

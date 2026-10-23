@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "diamond-tear",
+  "name": "Diamond Tear",
+  "customEmojiId": "5823523071197190329",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "moonpendant",
+    "name": "Moon Pendant",
+    "id": "5998981470310368313"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/diamond-tear.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/diamond-tear.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/diamond-tear.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/diamond-tear.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moonpendant/models/diamond-tear.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

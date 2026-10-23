@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "love-potion",
+  "name": "Love Potion",
+  "customEmojiId": "5350570115899371235",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "luckylocket",
+    "name": "Lucky Locket",
+    "id": "5872744075014177223"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/love-potion.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/love-potion.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/love-potion.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/love-potion.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/luckylocket/models/love-potion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

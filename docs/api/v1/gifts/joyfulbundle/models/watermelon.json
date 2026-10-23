@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "watermelon",
+  "name": "Watermelon",
+  "customEmojiId": "5998880950895779915",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "joyfulbundle",
+    "name": "Joyful Bundle",
+    "id": "5870862540036113469"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/joyfulbundle/assets/models/watermelon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/joyfulbundle/assets/models/watermelon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/joyfulbundle/assets/models/watermelon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/joyfulbundle/assets/models/watermelon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/joyfulbundle/models/watermelon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

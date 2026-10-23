@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "spotlight",
+  "name": "Spotlight",
+  "customEmojiId": "5249036612280544304",
+  "rarityPermille": 4,
+  "originalRarityPermille": 4,
+  "rarity": 0.4,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "hangingstar",
+    "name": "Hanging Star",
+    "id": "5915733223018594841"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotlight.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotlight.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotlight.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotlight.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/spotlight.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "amaretto",
+  "name": "Amaretto",
+  "customEmojiId": "5262817036324596015",
+  "rarityPermille": 6,
+  "originalRarityPermille": 6,
+  "rarity": 0.6,
+  "originalRarity": 0.6,
+  "gift": {
+    "slug": "gingercookie",
+    "name": "Ginger Cookie",
+    "id": "5983484377902875708"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/amaretto.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/amaretto.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/amaretto.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/amaretto.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/gingercookie/models/amaretto.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,1633 @@
+{
+  "gift": {
+    "slug": "berrybox",
+    "name": "Berry Boxes",
+    "apiName": "Berry Box",
+    "id": "5882252952218894938",
+    "count": 9145,
+    "modelCount": 70,
+    "patternCount": 191,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/patterns.json"
+  },
+  "count": 70,
+  "items": [
+    {
+      "type": "model",
+      "slug": "berrific",
+      "name": "Berrific",
+      "customEmojiId": "5454064349398195404",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/berrific.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/berrific.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/berrific.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/berrific.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/berrific.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bumberries",
+      "name": "Bumberries",
+      "customEmojiId": "5454114407242031831",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/bumberries.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/bumberries.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/bumberries.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/bumberries.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/bumberries.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lady-bites",
+      "name": "Lady Bites",
+      "customEmojiId": "5456506506457407510",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lady-bites.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lady-bites.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lady-bites.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lady-bites.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/lady-bites.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "megabite",
+      "name": "Megabite",
+      "customEmojiId": "5454264207111379365",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/megabite.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/megabite.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/megabite.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/megabite.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/megabite.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sweet-kiss",
+      "name": "Sweet Kiss",
+      "customEmojiId": "5453943072406658855",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-kiss.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-kiss.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-kiss.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-kiss.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/sweet-kiss.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "anniversary",
+      "name": "Anniversary",
+      "customEmojiId": "5456164708665024464",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/anniversary.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/anniversary.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/anniversary.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/anniversary.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/anniversary.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "art-project",
+      "name": "Art Project",
+      "customEmojiId": "5456544607112292515",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/art-project.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/art-project.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/art-project.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/art-project.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/art-project.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "berryllium",
+      "name": "Berryllium",
+      "customEmojiId": "5454305056545332888",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/berryllium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/berryllium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/berryllium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/berryllium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/berryllium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "canis-major",
+      "name": "Canis Major",
+      "customEmojiId": "5456610431781074103",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/canis-major.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/canis-major.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/canis-major.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/canis-major.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/canis-major.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glitchberry",
+      "name": "Glitchberry",
+      "customEmojiId": "5454037106420639606",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/glitchberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/glitchberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/glitchberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/glitchberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/glitchberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "harlequin",
+      "name": "Harlequin",
+      "customEmojiId": "5456413267012380402",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/harlequin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/harlequin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/harlequin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/harlequin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/harlequin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "high-voltage",
+      "name": "High Voltage",
+      "customEmojiId": "5454112332772828398",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/high-voltage.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/high-voltage.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/high-voltage.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/high-voltage.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/high-voltage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "infrared",
+      "name": "Infrared",
+      "customEmojiId": "5456338895358680279",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/infrared.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/infrared.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/infrared.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/infrared.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/infrared.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "kawaii",
+      "name": "Kawaii",
+      "customEmojiId": "5454136633697787021",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/kawaii.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/kawaii.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/kawaii.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/kawaii.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/kawaii.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lovely-bites",
+      "name": "Lovely Bites",
+      "customEmojiId": "5453921241087894387",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovely-bites.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovely-bites.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovely-bites.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovely-bites.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/lovely-bites.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lovestorm",
+      "name": "Lovestorm",
+      "customEmojiId": "5453899246560372165",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovestorm.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovestorm.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovestorm.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovestorm.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/lovestorm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mood-ring",
+      "name": "Mood Ring",
+      "customEmojiId": "5453960260865777932",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/mood-ring.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/mood-ring.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/mood-ring.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/mood-ring.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/mood-ring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "natural",
+      "name": "Natural",
+      "customEmojiId": "5456547089603389305",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/natural.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/natural.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/natural.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/natural.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/natural.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nature-box",
+      "name": "Nature Box",
+      "customEmojiId": "5456120002350441448",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/nature-box.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/nature-box.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/nature-box.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/nature-box.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/nature-box.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "noir",
+      "name": "Noir",
+      "customEmojiId": "5456249194966703189",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/noir.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/noir.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/noir.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/noir.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/noir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sketchy",
+      "name": "Sketchy",
+      "customEmojiId": "5454001836149202648",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sketchy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sketchy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sketchy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sketchy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/sketchy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spring",
+      "name": "Spring",
+      "customEmojiId": "5454165362734033254",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/spring.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/spring.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/spring.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/spring.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/spring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "strobe",
+      "name": "Strobe",
+      "customEmojiId": "5456535020745286224",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/strobe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/strobe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/strobe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/strobe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/strobe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "wedded",
+      "name": "Wedded",
+      "customEmojiId": "5453991231874949589",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/wedded.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/wedded.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/wedded.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/wedded.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/wedded.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zomberry",
+      "name": "Zomberry",
+      "customEmojiId": "5456598818189544431",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/zomberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/zomberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/zomberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/zomberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/zomberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "alpha",
+      "name": "Alpha",
+      "customEmojiId": "5456488940041167886",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/alpha.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/alpha.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/alpha.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/alpha.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/alpha.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "anatomy",
+      "name": "Anatomy",
+      "customEmojiId": "5456600819644259980",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/anatomy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/anatomy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/anatomy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/anatomy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/anatomy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "atmosphere",
+      "name": "Atmosphere",
+      "customEmojiId": "5456196255199814892",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/atmosphere.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/atmosphere.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/atmosphere.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/atmosphere.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/atmosphere.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bowtied",
+      "name": "Bowtied",
+      "customEmojiId": "5456434694604217649",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/bowtied.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/bowtied.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/bowtied.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/bowtied.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/bowtied.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "clarity",
+      "name": "Clarity",
+      "customEmojiId": "5454094435644105961",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/clarity.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/clarity.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/clarity.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/clarity.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/clarity.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "comic-book",
+      "name": "Comic Book",
+      "customEmojiId": "5456659626336478218",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/comic-book.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/comic-book.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/comic-book.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/comic-book.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/comic-book.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "confetti",
+      "name": "Confetti",
+      "customEmojiId": "5456631721933955157",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/confetti.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/confetti.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/confetti.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/confetti.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/confetti.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cupid",
+      "name": "Cupid",
+      "customEmojiId": "5456119190601622899",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/cupid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/cupid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/cupid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/cupid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/cupid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "extra-berry",
+      "name": "Extra Berry",
+      "customEmojiId": "5456117880636596888",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/extra-berry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/extra-berry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/extra-berry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/extra-berry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/extra-berry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "frosty-icing",
+      "name": "Frosty Icing",
+      "customEmojiId": "5454231277597124050",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/frosty-icing.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/frosty-icing.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/frosty-icing.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/frosty-icing.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/frosty-icing.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glimglam",
+      "name": "Glimglam",
+      "customEmojiId": "5456622221466296263",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/glimglam.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/glimglam.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/glimglam.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/glimglam.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/glimglam.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gryffindor",
+      "name": "Gryffindor",
+      "customEmojiId": "5456647965500267842",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/gryffindor.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/gryffindor.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/gryffindor.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/gryffindor.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/gryffindor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ice-diamond",
+      "name": "Ice Diamond",
+      "customEmojiId": "5456166173248873459",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ice-diamond.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ice-diamond.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ice-diamond.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ice-diamond.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/ice-diamond.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lemon-lime",
+      "name": "Lemon Lime",
+      "customEmojiId": "5454162386321694447",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lemon-lime.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lemon-lime.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lemon-lime.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lemon-lime.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/lemon-lime.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lovey-dovey",
+      "name": "Lovey Dovey",
+      "customEmojiId": "5456165181111427434",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovey-dovey.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovey-dovey.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovey-dovey.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/lovey-dovey.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/lovey-dovey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "martian",
+      "name": "Martian",
+      "customEmojiId": "5453873292073001140",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/martian.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/martian.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/martian.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/martian.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/martian.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "milky-cows",
+      "name": "Milky Cows",
+      "customEmojiId": "5456356083817799954",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/milky-cows.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/milky-cows.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/milky-cows.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/milky-cows.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/milky-cows.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rawberry",
+      "name": "Rawberry",
+      "customEmojiId": "5454043110784916289",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rawberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rawberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rawberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rawberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/rawberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rose-gold",
+      "name": "Rose Gold",
+      "customEmojiId": "5456233402371957902",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rose-gold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rose-gold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rose-gold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rose-gold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/rose-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sine-wave",
+      "name": "Sine Wave",
+      "customEmojiId": "5456373813442798292",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sine-wave.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sine-wave.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sine-wave.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sine-wave.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/sine-wave.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starberry",
+      "name": "Starberry",
+      "customEmojiId": "5456616401785614092",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/starberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/starberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/starberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/starberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/starberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sweet-game",
+      "name": "Sweet Game",
+      "customEmojiId": "5456203655428466343",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-game.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-game.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-game.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-game.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/sweet-game.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "teeth-crush",
+      "name": "Teeth Crush",
+      "customEmojiId": "5456330146510298886",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/teeth-crush.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/teeth-crush.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/teeth-crush.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/teeth-crush.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/teeth-crush.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tuxedo",
+      "name": "Tuxedo",
+      "customEmojiId": "5453897760501685081",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/tuxedo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/tuxedo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/tuxedo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/tuxedo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/tuxedo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "unicorns",
+      "name": "Unicorns",
+      "customEmojiId": "5456191938757680823",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/unicorns.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/unicorns.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/unicorns.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/unicorns.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/unicorns.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "baubles",
+      "name": "Baubles",
+      "customEmojiId": "5458436591745787154",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/baubles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/baubles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/baubles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/baubles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/baubles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chillberry",
+      "name": "Chillberry",
+      "customEmojiId": "5458820965548975720",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/chillberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/chillberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/chillberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/chillberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/chillberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eiffel-95",
+      "name": "Eiffel 95",
+      "customEmojiId": "5461011420344769086",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/eiffel-95.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/eiffel-95.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/eiffel-95.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/eiffel-95.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/eiffel-95.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "foraged",
+      "name": "Foraged",
+      "customEmojiId": "5460932388651556519",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/foraged.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/foraged.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/foraged.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/foraged.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/foraged.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fresh",
+      "name": "Fresh",
+      "customEmojiId": "5461150804918425507",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/fresh.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/fresh.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/fresh.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/fresh.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/fresh.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-dip",
+      "name": "Golden Dip",
+      "customEmojiId": "5460708779769222820",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/golden-dip.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/golden-dip.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/golden-dip.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/golden-dip.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/golden-dip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "iridescent",
+      "name": "Iridescent",
+      "customEmojiId": "5458888989241011856",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/iridescent.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/iridescent.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/iridescent.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/iridescent.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/iridescent.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "luxury",
+      "name": "Luxury",
+      "customEmojiId": "5460782657501681996",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/luxury.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/luxury.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/luxury.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/luxury.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/luxury.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "magenta",
+      "name": "Magenta",
+      "customEmojiId": "5460666173693645615",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/magenta.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/magenta.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/magenta.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/magenta.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/magenta.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "manga",
+      "name": "Manga",
+      "customEmojiId": "5460652069021045800",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/manga.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/manga.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/manga.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/manga.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/manga.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "paparazzi",
+      "name": "Paparazzi",
+      "customEmojiId": "5461021152740662121",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/paparazzi.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/paparazzi.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/paparazzi.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/paparazzi.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/paparazzi.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pointilism",
+      "name": "Pointilism",
+      "customEmojiId": "5458923117051142127",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/pointilism.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/pointilism.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/pointilism.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/pointilism.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/pointilism.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purple-ribbon",
+      "name": "Purple Ribbon",
+      "customEmojiId": "5458449266194279547",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/purple-ribbon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/purple-ribbon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/purple-ribbon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/purple-ribbon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/purple-ribbon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rarity",
+      "name": "Rarity",
+      "customEmojiId": "5461008461112302631",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rarity.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rarity.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rarity.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rarity.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/rarity.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "refraction",
+      "name": "Refraction",
+      "customEmojiId": "5460690122431292332",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/refraction.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/refraction.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/refraction.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/refraction.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/refraction.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rgberry",
+      "name": "RGBerry",
+      "customEmojiId": "5460764957941455923",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rgberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rgberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rgberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/rgberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/rgberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ribbons",
+      "name": "Ribbons",
+      "customEmojiId": "5460997964212229685",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ribbons.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ribbons.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ribbons.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ribbons.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/ribbons.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sweet-star",
+      "name": "Sweet Star",
+      "customEmojiId": "5458836049474120059",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/sweet-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/sweet-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "valentine",
+      "name": "Valentine",
+      "customEmojiId": "5461053695707866470",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/valentine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/valentine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/valentine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/valentine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/valentine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-cocoa",
+      "name": "White Cocoa",
+      "customEmojiId": "5461094038335674193",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "berrybox",
+        "name": "Berry Box",
+        "id": "5882252952218894938"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/white-cocoa.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/white-cocoa.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/white-cocoa.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/white-cocoa.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/white-cocoa.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

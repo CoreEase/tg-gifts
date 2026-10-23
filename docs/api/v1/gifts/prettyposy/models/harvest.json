@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "harvest",
+  "name": "Harvest",
+  "customEmojiId": "5206585619383357517",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "prettyposy",
+    "name": "Pretty Posy",
+    "id": "5933737850477478635"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/harvest.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/harvest.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/harvest.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/harvest.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/prettyposy/models/harvest.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

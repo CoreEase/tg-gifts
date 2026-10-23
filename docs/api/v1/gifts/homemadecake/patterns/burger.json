@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "burger",
+  "name": "Burger",
+  "customEmojiId": "5199576765332229212",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "homemadecake",
+    "name": "Homemade Cake",
+    "id": "5783075783622787539"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/patterns/burger.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/patterns/burger.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/homemadecake/patterns/burger.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

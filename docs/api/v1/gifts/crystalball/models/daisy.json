@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "daisy",
+  "name": "Daisy",
+  "customEmojiId": "5253944548719095151",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "crystalball",
+    "name": "Crystal Ball",
+    "id": "5841336413697606412"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/daisy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/daisy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/daisy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/daisy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/crystalball/models/daisy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

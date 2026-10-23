@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cash-bunny",
+  "name": "Cash Bunny",
+  "customEmojiId": "6001243925937920227",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "springbasket",
+    "name": "Spring Basket",
+    "id": "5773725897517433693"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/cash-bunny.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/cash-bunny.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/cash-bunny.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/cash-bunny.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/springbasket/models/cash-bunny.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

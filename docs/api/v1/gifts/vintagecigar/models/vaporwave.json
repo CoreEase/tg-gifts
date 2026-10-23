@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "vaporwave",
+  "name": "Vaporwave",
+  "customEmojiId": "5456650276192676482",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "vintagecigar",
+    "name": "Vintage Cigar",
+    "id": "5857140566201991735"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/vaporwave.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/vaporwave.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/vaporwave.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/vaporwave.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/vintagecigar/models/vaporwave.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

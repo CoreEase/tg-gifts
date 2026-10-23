@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "morrigan",
+  "name": "Morrigan",
+  "customEmojiId": "5395795159453558326",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "witchhat",
+    "name": "Witch Hat",
+    "id": "5821384757304362229"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/witchhat/assets/models/morrigan.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/witchhat/assets/models/morrigan.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/witchhat/assets/models/morrigan.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/witchhat/assets/models/morrigan.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/witchhat/models/morrigan.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

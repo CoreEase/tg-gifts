@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "icarus",
+  "name": "Icarus",
+  "customEmojiId": "5195392324724625595",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "rarebird",
+    "name": "Rare Bird",
+    "id": "5999116401002939514"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/icarus.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/icarus.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/icarus.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/icarus.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/rarebird/models/icarus.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

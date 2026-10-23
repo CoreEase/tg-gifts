@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "racing-champ",
+  "name": "Racing Champ",
+  "customEmojiId": "5454095178673459582",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "victorymedal",
+    "name": "Victory Medal",
+    "id": "5830340739074097859"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/racing-champ.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/racing-champ.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/racing-champ.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/racing-champ.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/victorymedal/models/racing-champ.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

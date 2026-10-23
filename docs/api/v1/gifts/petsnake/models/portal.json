@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "portal",
+  "name": "Portal",
+  "customEmojiId": "5269761624780076041",
+  "rarityPermille": 1,
+  "originalRarityPermille": 1,
+  "rarity": 0.1,
+  "originalRarity": 0.1,
+  "gift": {
+    "slug": "petsnake",
+    "name": "Pet Snake",
+    "id": "6023917088358269866"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/portal.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/portal.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/portal.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/portal.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/models/portal.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

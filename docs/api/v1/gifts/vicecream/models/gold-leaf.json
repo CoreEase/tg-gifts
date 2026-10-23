@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold-leaf",
+  "name": "Gold Leaf",
+  "customEmojiId": "5355027411484317282",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "vicecream",
+    "name": "Vice Cream",
+    "id": "5898012527257715797"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/gold-leaf.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/gold-leaf.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/gold-leaf.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/gold-leaf.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/vicecream/models/gold-leaf.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

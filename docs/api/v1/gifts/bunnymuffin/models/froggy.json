@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "froggy",
+  "name": "Froggy",
+  "customEmojiId": "5251543846684224727",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "bunnymuffin",
+    "name": "Bunny Muffin",
+    "id": "5935936766358847989"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/froggy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/froggy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/froggy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/froggy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bunnymuffin/models/froggy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

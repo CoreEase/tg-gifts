@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "dim-sum",
+  "name": "Dim Sum",
+  "customEmojiId": "5206185500230057167",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "moneypot",
+    "name": "Money Pot",
+    "id": "5963238670868677492"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/dim-sum.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/dim-sum.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/dim-sum.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/dim-sum.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moneypot/models/dim-sum.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

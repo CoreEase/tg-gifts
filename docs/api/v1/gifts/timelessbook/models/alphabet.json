@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "alphabet",
+  "name": "Alphabet",
+  "customEmojiId": "5336854077710048344",
+  "rarityPermille": 35,
+  "originalRarityPermille": 35,
+  "rarity": 3.5,
+  "originalRarity": 3.5,
+  "gift": {
+    "slug": "timelessbook",
+    "name": "Timeless Book",
+    "id": "5886387158889005864"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/alphabet.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/alphabet.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/alphabet.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/alphabet.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/timelessbook/models/alphabet.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "old-bronze",
+  "name": "Old Bronze",
+  "customEmojiId": "5285314152330457912",
+  "rarityPermille": 35,
+  "originalRarityPermille": 35,
+  "rarity": 3.5,
+  "originalRarity": 3.5,
+  "gift": {
+    "slug": "gemsignet",
+    "name": "Gem Signet",
+    "id": "5859442703032386168"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/old-bronze.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/old-bronze.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/old-bronze.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/old-bronze.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/gemsignet/models/old-bronze.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

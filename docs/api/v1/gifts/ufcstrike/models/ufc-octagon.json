@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ufc-octagon",
+  "name": "UFC Octagon",
+  "customEmojiId": "5309923997108963109",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "ufcstrike",
+    "name": "UFC Strike",
+    "id": "5882260270843168924"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-octagon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-octagon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-octagon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-octagon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/ufcstrike/models/ufc-octagon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

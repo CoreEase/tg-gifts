@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hoverboard",
+  "name": "Hoverboard",
+  "customEmojiId": "5353037948273073329",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "surgeboard",
+    "name": "Surge Board",
+    "id": "5832497899283415733"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/hoverboard.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/hoverboard.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/hoverboard.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/hoverboard.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/surgeboard/models/hoverboard.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

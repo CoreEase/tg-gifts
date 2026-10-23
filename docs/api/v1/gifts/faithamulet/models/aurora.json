@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "aurora",
+  "name": "Aurora",
+  "customEmojiId": "6003586783353248973",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "faithamulet",
+    "name": "Faith Amulet",
+    "id": "6003456431095808759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/aurora.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/aurora.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/aurora.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/aurora.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/faithamulet/models/aurora.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "golden-zebra",
+  "name": "Golden Zebra",
+  "customEmojiId": "5318765032668949236",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "sleighbell",
+    "name": "Sleigh Bell",
+    "id": "5981026247860290310"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/golden-zebra.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/golden-zebra.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/golden-zebra.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/golden-zebra.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sleighbell/models/golden-zebra.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

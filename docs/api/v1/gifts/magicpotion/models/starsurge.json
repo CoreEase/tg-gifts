@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "starsurge",
+  "name": "Starsurge",
+  "customEmojiId": "5456336765054903379",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "magicpotion",
+    "name": "Magic Potion",
+    "id": "5846226946928673709"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/magicpotion/assets/models/starsurge.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/magicpotion/assets/models/starsurge.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/magicpotion/assets/models/starsurge.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/magicpotion/assets/models/starsurge.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/magicpotion/models/starsurge.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

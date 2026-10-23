@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "patriot",
+  "name": "Patriot",
+  "customEmojiId": "5454139399656726390",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "durovscap",
+    "name": "Durov's Cap",
+    "id": "5915521180483191380"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/patriot.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/patriot.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/patriot.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/patriot.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/patriot.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

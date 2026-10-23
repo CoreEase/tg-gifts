@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sponge-box",
+  "name": "Sponge Box",
+  "customEmojiId": "6003549296878688455",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "instantramen",
+    "name": "Instant Ramen",
+    "id": "6005564615793050414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/sponge-box.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/sponge-box.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/sponge-box.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/sponge-box.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/instantramen/models/sponge-box.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

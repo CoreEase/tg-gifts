@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "game-boy",
+  "name": "Game Boy",
+  "customEmojiId": "5269475369504768045",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "bigyear",
+    "name": "Big Year",
+    "id": "6028283532500009446"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/game-boy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/game-boy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/game-boy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/game-boy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bigyear/models/game-boy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

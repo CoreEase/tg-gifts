@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "the-emperor",
+  "name": "The Emperor",
+  "customEmojiId": "5192872819599381247",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "rarebird",
+    "name": "Rare Bird",
+    "id": "5999116401002939514"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/the-emperor.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/the-emperor.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/the-emperor.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/the-emperor.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/rarebird/models/the-emperor.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

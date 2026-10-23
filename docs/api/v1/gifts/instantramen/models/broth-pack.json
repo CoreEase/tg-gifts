@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "broth-pack",
+  "name": "Broth Pack",
+  "customEmojiId": "6003555447271856491",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "instantramen",
+    "name": "Instant Ramen",
+    "id": "6005564615793050414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/broth-pack.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/broth-pack.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/broth-pack.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/broth-pack.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/instantramen/models/broth-pack.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

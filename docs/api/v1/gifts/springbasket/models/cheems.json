@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cheems",
+  "name": "Cheems",
+  "customEmojiId": "6001048221458112121",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "springbasket",
+    "name": "Spring Basket",
+    "id": "5773725897517433693"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/cheems.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/cheems.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/cheems.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/cheems.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/springbasket/models/cheems.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

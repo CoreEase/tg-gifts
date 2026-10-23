@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "spicy-beef",
+  "name": "Spicy Beef",
+  "customEmojiId": "6003790828659546992",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "instantramen",
+    "name": "Instant Ramen",
+    "id": "6005564615793050414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/spicy-beef.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/spicy-beef.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/spicy-beef.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/spicy-beef.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/instantramen/models/spicy-beef.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

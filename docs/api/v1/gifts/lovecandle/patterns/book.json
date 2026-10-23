@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "book",
+  "name": "Book",
+  "customEmojiId": "5199463541404373712",
+  "rarityPermille": 4,
+  "originalRarityPermille": 4,
+  "rarity": 0.4,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "lovecandle",
+    "name": "Love Candle",
+    "id": "5915550639663874519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/patterns/book.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/patterns/book.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/patterns/book.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

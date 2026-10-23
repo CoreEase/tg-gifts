@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hello-cookie",
+  "name": "Hello Cookie",
+  "customEmojiId": "5262551963827986235",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "gingercookie",
+    "name": "Ginger Cookie",
+    "id": "5983484377902875708"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/hello-cookie.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/hello-cookie.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/hello-cookie.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/hello-cookie.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/gingercookie/models/hello-cookie.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

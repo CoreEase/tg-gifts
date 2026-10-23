@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "purple-swag",
+  "name": "Purple Swag",
+  "customEmojiId": "5318956321922380498",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "recordplayer",
+    "name": "Record Player",
+    "id": "5856973938650776169"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/purple-swag.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/purple-swag.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/purple-swag.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/purple-swag.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/recordplayer/models/purple-swag.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

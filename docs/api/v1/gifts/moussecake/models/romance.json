@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "romance",
+  "name": "Romance",
+  "customEmojiId": "6003370540339829350",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "moussecake",
+    "name": "Mousse Cake",
+    "id": "5935877878062253519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/romance.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/romance.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/romance.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/romance.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moussecake/models/romance.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "quacky",
+  "name": "Quacky",
+  "customEmojiId": "5321392710840522594",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "poolfloat",
+    "name": "Pool Float",
+    "id": "5832644211639321671"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/quacky.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/quacky.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/quacky.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/quacky.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/poolfloat/models/quacky.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "golden-alloy",
+  "name": "Golden Alloy",
+  "customEmojiId": "5456424146164539896",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "perfumebottle",
+    "name": "Perfume Bottle",
+    "id": "5913517067138499193"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/perfumebottle/assets/models/golden-alloy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/perfumebottle/assets/models/golden-alloy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/perfumebottle/assets/models/golden-alloy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/perfumebottle/assets/models/golden-alloy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/perfumebottle/models/golden-alloy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

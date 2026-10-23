@@ -1,0 +1,1173 @@
+{
+  "gift": {
+    "slug": "icecream",
+    "name": "Ice Creams",
+    "apiName": "Ice Cream",
+    "id": "5900177027566142759",
+    "count": 36712,
+    "modelCount": 50,
+    "patternCount": 200,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/patterns.json"
+  },
+  "count": 50,
+  "items": [
+    {
+      "type": "model",
+      "slug": "cryo-pepe",
+      "name": "Cryo Pepe",
+      "customEmojiId": "6001575106571147908",
+      "rarityPermille": 1,
+      "originalRarityPermille": 1,
+      "rarity": 0.1,
+      "originalRarity": 0.1,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cryo-pepe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cryo-pepe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cryo-pepe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cryo-pepe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/cryo-pepe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "poopsicle",
+      "name": "Poopsicle",
+      "customEmojiId": "6003565106653306027",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/poopsicle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/poopsicle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/poopsicle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/poopsicle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/poopsicle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "resistance",
+      "name": "Resistance",
+      "customEmojiId": "6001433574513842985",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/resistance.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/resistance.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/resistance.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/resistance.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/resistance.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-drake",
+      "name": "Golden Drake",
+      "customEmojiId": "6003800887472954172",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/golden-drake.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/golden-drake.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/golden-drake.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/golden-drake.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/golden-drake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "kraken",
+      "name": "Kraken",
+      "customEmojiId": "6001499755664906998",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/kraken.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/kraken.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/kraken.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/kraken.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/kraken.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crystal",
+      "name": "Crystal",
+      "customEmojiId": "6001270571915024922",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/crystal.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/crystal.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/crystal.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/crystal.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/crystal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "emperor",
+      "name": "Emperor",
+      "customEmojiId": "6003466421189744493",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/emperor.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/emperor.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/emperor.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/emperor.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/emperor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gold-ingot",
+      "name": "Gold Ingot",
+      "customEmojiId": "6003552810161936818",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/gold-ingot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/gold-ingot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/gold-ingot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/gold-ingot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/gold-ingot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pharaoh",
+      "name": "Pharaoh",
+      "customEmojiId": "6003671149395845328",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pharaoh.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pharaoh.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pharaoh.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pharaoh.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/pharaoh.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "shivery",
+      "name": "Shivery",
+      "customEmojiId": "6001415106154469605",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/shivery.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/shivery.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/shivery.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/shivery.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/shivery.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stardust",
+      "name": "Stardust",
+      "customEmojiId": "6003651091898571455",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/stardust.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/stardust.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/stardust.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/stardust.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/stardust.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "utya-pop",
+      "name": "Utya Pop",
+      "customEmojiId": "6001491200090053409",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/utya-pop.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/utya-pop.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/utya-pop.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/utya-pop.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/utya-pop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bitecoin",
+      "name": "BiteCoin",
+      "customEmojiId": "6001135340574743631",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bitecoin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bitecoin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bitecoin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bitecoin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/bitecoin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "brain-freeze",
+      "name": "Brain Freeze",
+      "customEmojiId": "6001408169782286967",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/brain-freeze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/brain-freeze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/brain-freeze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/brain-freeze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/brain-freeze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "divine-justice",
+      "name": "Divine Justice",
+      "customEmojiId": "6003516582112795338",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/divine-justice.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/divine-justice.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/divine-justice.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/divine-justice.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/divine-justice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fried-chicken",
+      "name": "Fried Chicken",
+      "customEmojiId": "6001427772013025349",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/fried-chicken.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/fried-chicken.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/fried-chicken.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/fried-chicken.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/fried-chicken.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ghost-biters",
+      "name": "Ghost Biters",
+      "customEmojiId": "6001058598099101392",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ghost-biters.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ghost-biters.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ghost-biters.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ghost-biters.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/ghost-biters.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "granite",
+      "name": "Granite",
+      "customEmojiId": "6003525120507779100",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/granite.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/granite.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/granite.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/granite.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/granite.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ice-craft",
+      "name": "Ice Craft",
+      "customEmojiId": "6003804405051170497",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ice-craft.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ice-craft.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ice-craft.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ice-craft.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/ice-craft.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tnt-stick",
+      "name": "TNT Stick",
+      "customEmojiId": "6003615417900211007",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/tnt-stick.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/tnt-stick.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/tnt-stick.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/tnt-stick.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/tnt-stick.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ton-cone",
+      "name": "Ton Cone",
+      "customEmojiId": "6001472362363494652",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ton-cone.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ton-cone.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ton-cone.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/ton-cone.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/ton-cone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubbles",
+      "name": "Bubbles",
+      "customEmojiId": "6001600614381918016",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bubbles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bubbles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bubbles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bubbles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/bubbles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cold-fusion",
+      "name": "Cold Fusion",
+      "customEmojiId": "6001247980387050294",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cold-fusion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cold-fusion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cold-fusion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cold-fusion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/cold-fusion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "extra-spicy",
+      "name": "Extra Spicy",
+      "customEmojiId": "6003788590981585452",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/extra-spicy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/extra-spicy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/extra-spicy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/extra-spicy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/extra-spicy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pawpsicle",
+      "name": "Pawpsicle",
+      "customEmojiId": "6001430151424907627",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pawpsicle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pawpsicle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pawpsicle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pawpsicle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/pawpsicle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pigeon",
+      "name": "Pigeon",
+      "customEmojiId": "6003713244370311658",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pigeon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pigeon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pigeon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pigeon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/pigeon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starlit",
+      "name": "Starlit",
+      "customEmojiId": "6001517910491667233",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/starlit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/starlit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/starlit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/starlit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/starlit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "apple-dip",
+      "name": "Apple Dip",
+      "customEmojiId": "6001162669451648570",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/apple-dip.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/apple-dip.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/apple-dip.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/apple-dip.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/apple-dip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "beehive",
+      "name": "Beehive",
+      "customEmojiId": "6001125981841004810",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/beehive.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/beehive.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/beehive.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/beehive.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/beehive.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cupid-aim",
+      "name": "Cupid Aim",
+      "customEmojiId": "6001501851608947546",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cupid-aim.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cupid-aim.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cupid-aim.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cupid-aim.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/cupid-aim.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "funky-disco",
+      "name": "Funky Disco",
+      "customEmojiId": "6001214350793120078",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/funky-disco.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/funky-disco.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/funky-disco.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/funky-disco.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/funky-disco.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "plastic-pop",
+      "name": "Plastic Pop",
+      "customEmojiId": "6001583941318875760",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/plastic-pop.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/plastic-pop.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/plastic-pop.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/plastic-pop.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/plastic-pop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "whisker",
+      "name": "Whisker",
+      "customEmojiId": "6003774267265652836",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/whisker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/whisker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/whisker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/whisker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/whisker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "banana",
+      "name": "Banana",
+      "customEmojiId": "6001202496683383113",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/banana.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/banana.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/banana.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/banana.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/banana.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "berry-split",
+      "name": "Berry Split",
+      "customEmojiId": "6001148852541857200",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/berry-split.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/berry-split.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/berry-split.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/berry-split.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/berry-split.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bite-size",
+      "name": "Bite-Size",
+      "customEmojiId": "6003750374362585406",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bite-size.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bite-size.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bite-size.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/bite-size.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/bite-size.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "choco-almond",
+      "name": "Choco Almond",
+      "customEmojiId": "6003844455621204647",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/choco-almond.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/choco-almond.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/choco-almond.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/choco-almond.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/choco-almond.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "citrus",
+      "name": "Citrus",
+      "customEmojiId": "6003750464556898694",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/citrus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/citrus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/citrus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/citrus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/citrus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cold-steel",
+      "name": "Cold Steel",
+      "customEmojiId": "6003579022347344034",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cold-steel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cold-steel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cold-steel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cold-steel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/cold-steel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crude-oil",
+      "name": "Crude Oil",
+      "customEmojiId": "6001378190910561560",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/crude-oil.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/crude-oil.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/crude-oil.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/crude-oil.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/crude-oil.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cucumber",
+      "name": "Cucumber",
+      "customEmojiId": "6001392183914011577",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cucumber.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cucumber.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cucumber.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cucumber.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/cucumber.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cyclone",
+      "name": "Cyclone",
+      "customEmojiId": "6001425474205523633",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cyclone.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cyclone.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cyclone.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/cyclone.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/cyclone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fresh-berry",
+      "name": "Fresh Berry",
+      "customEmojiId": "6001444865982864063",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/fresh-berry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/fresh-berry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/fresh-berry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/fresh-berry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/fresh-berry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "kiwi-sorbet",
+      "name": "Kiwi Sorbet",
+      "customEmojiId": "6003614425762764616",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/kiwi-sorbet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/kiwi-sorbet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/kiwi-sorbet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/kiwi-sorbet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/kiwi-sorbet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "precious",
+      "name": "Precious",
+      "customEmojiId": "6003516869875606626",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/precious.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/precious.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/precious.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/precious.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/precious.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starship",
+      "name": "Starship",
+      "customEmojiId": "6001127802907138980",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/starship.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/starship.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/starship.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/starship.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/starship.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "strawberry",
+      "name": "Strawberry",
+      "customEmojiId": "6001225324434561792",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/strawberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/strawberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/strawberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/strawberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/strawberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "trio-scoop",
+      "name": "Trio Scoop",
+      "customEmojiId": "6003736634762206788",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/trio-scoop.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/trio-scoop.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/trio-scoop.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/trio-scoop.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/trio-scoop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vice-dream",
+      "name": "Vice Dream",
+      "customEmojiId": "6003843721181797561",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/vice-dream.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/vice-dream.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/vice-dream.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/vice-dream.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/vice-dream.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "watermelon",
+      "name": "Watermelon",
+      "customEmojiId": "6001140331326740576",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "icecream",
+        "name": "Ice Cream",
+        "id": "5900177027566142759"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/watermelon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/watermelon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/watermelon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/watermelon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/watermelon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

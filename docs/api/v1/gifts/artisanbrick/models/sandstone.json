@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sandstone",
+  "name": "Sandstone",
+  "customEmojiId": "5309997252071162248",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "artisanbrick",
+    "name": "Artisan Brick",
+    "id": "6005797617768858105"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/sandstone.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/sandstone.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/sandstone.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/sandstone.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/artisanbrick/models/sandstone.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

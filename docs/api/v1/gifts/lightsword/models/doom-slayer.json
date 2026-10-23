@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "doom-slayer",
+  "name": "Doom Slayer",
+  "customEmojiId": "5285087996532521990",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "lightsword",
+    "name": "Light Sword",
+    "id": "5897581235231785485"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/doom-slayer.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/doom-slayer.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/doom-slayer.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/doom-slayer.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/doom-slayer.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

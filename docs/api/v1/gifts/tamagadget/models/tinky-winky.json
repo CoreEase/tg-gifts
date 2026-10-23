@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "tinky-winky",
+  "name": "Tinky Winky",
+  "customEmojiId": "5354813655256953277",
+  "rarityPermille": 11,
+  "originalRarityPermille": 11,
+  "rarity": 1.1,
+  "originalRarity": 1.1,
+  "gift": {
+    "slug": "tamagadget",
+    "name": "Tama Gadget",
+    "id": "6023752243218481939"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/tinky-winky.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/tinky-winky.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/tinky-winky.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/tinky-winky.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tamagadget/models/tinky-winky.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rare-drop",
+  "name": "Rare Drop",
+  "customEmojiId": "5319176920032648233",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "moodpack",
+    "name": "Mood Pack",
+    "id": "5886756255493523118"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/rare-drop.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/rare-drop.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/rare-drop.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/rare-drop.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moodpack/models/rare-drop.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

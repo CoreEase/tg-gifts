@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bubble-gum",
+  "name": "Bubble Gum",
+  "customEmojiId": "5247160257033039505",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "hangingstar",
+    "name": "Hanging Star",
+    "id": "5915733223018594841"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bubble-gum.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bubble-gum.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bubble-gum.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bubble-gum.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/bubble-gum.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

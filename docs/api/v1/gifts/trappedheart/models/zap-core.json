@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "zap-core",
+  "name": "Zap Core",
+  "customEmojiId": "5454094285320250518",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "trappedheart",
+    "name": "Trapped Heart",
+    "id": "5841391256135008713"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/zap-core.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/zap-core.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/zap-core.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/zap-core.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/trappedheart/models/zap-core.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,25 @@
+{
+  "type": "model",
+  "slug": "peonies",
+  "name": "Peonies",
+  "customEmojiId": "5206391254933344431",
+  "rarityPermille": 0,
+  "originalRarityPermille": 0,
+  "rarity": 0,
+  "originalRarity": 0,
+  "crafted": true,
+  "rarityTier": "uncommon",
+  "gift": {
+    "slug": "jinglebells",
+    "name": "Jingle Bells",
+    "id": "6001473264306619020"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/peonies.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/peonies.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/peonies.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/peonies.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jinglebells/models/peonies.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

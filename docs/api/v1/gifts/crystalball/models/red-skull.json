@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-skull",
+  "name": "Red Skull",
+  "customEmojiId": "5253466226801273385",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "crystalball",
+    "name": "Crystal Ball",
+    "id": "5841336413697606412"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/red-skull.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/red-skull.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/red-skull.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/red-skull.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/crystalball/models/red-skull.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

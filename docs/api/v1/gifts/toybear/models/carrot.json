@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "carrot",
+  "name": "Carrot",
+  "customEmojiId": "5292026499019336972",
+  "rarityPermille": 22,
+  "originalRarityPermille": 22,
+  "rarity": 2.2,
+  "originalRarity": 2.2,
+  "gift": {
+    "slug": "toybear",
+    "name": "Toy Bear",
+    "id": "5868220813026526561"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/carrot.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/carrot.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/carrot.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/carrot.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/toybear/models/carrot.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "potion",
+  "name": "Potion",
+  "customEmojiId": "5199510532641560275",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "bunnymuffin",
+    "name": "Bunny Muffin",
+    "id": "5935936766358847989"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/patterns/potion.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/patterns/potion.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bunnymuffin/patterns/potion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

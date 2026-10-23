@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "royal-pavo",
+  "name": "Royal Pavo",
+  "customEmojiId": "5195161410102923927",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "rarebird",
+    "name": "Rare Bird",
+    "id": "5999116401002939514"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/royal-pavo.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/royal-pavo.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/royal-pavo.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/royal-pavo.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/rarebird/models/royal-pavo.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

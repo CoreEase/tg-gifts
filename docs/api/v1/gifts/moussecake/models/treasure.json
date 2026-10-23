@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "treasure",
+  "name": "Treasure",
+  "customEmojiId": "6001109068259793241",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "moussecake",
+    "name": "Mousse Cake",
+    "id": "5935877878062253519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/treasure.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/treasure.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/treasure.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/treasure.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moussecake/models/treasure.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "wishlist",
+  "name": "Wishlist",
+  "customEmojiId": "5456485491182428238",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "homemadecake",
+    "name": "Homemade Cake",
+    "id": "5783075783622787539"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/wishlist.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/wishlist.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/wishlist.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/wishlist.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/homemadecake/models/wishlist.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

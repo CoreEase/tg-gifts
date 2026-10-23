@@ -1,0 +1,1863 @@
+{
+  "gift": {
+    "slug": "eternalcandle",
+    "name": "Eternal Candles",
+    "apiName": "Eternal Candle",
+    "id": "5821205665758053411",
+    "count": 12663,
+    "modelCount": 80,
+    "patternCount": 136,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/patterns.json"
+  },
+  "count": 80,
+  "items": [
+    {
+      "type": "model",
+      "slug": "bubble-bath",
+      "name": "Bubble Bath",
+      "customEmojiId": "5254006490737434115",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/bubble-bath.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/bubble-bath.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/bubble-bath.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/bubble-bath.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/bubble-bath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cherry-burn",
+      "name": "Cherry Burn",
+      "customEmojiId": "5253824216620365870",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cherry-burn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cherry-burn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cherry-burn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cherry-burn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/cherry-burn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "healing-mist",
+      "name": "Healing Mist",
+      "customEmojiId": "5253720304181602306",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/healing-mist.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/healing-mist.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/healing-mist.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/healing-mist.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/healing-mist.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-cocoa",
+      "name": "Hot Cocoa",
+      "customEmojiId": "5253542771708423449",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-cocoa.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-cocoa.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-cocoa.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-cocoa.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/hot-cocoa.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "little-star",
+      "name": "Little Star",
+      "customEmojiId": "5253637166499654884",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/little-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/little-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/little-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/little-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/little-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rare-jewels",
+      "name": "Rare Jewels",
+      "customEmojiId": "5253990260056024572",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rare-jewels.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rare-jewels.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rare-jewels.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rare-jewels.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/rare-jewels.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "satin-bow",
+      "name": "Satin Bow",
+      "customEmojiId": "5256190700650785555",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/satin-bow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/satin-bow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/satin-bow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/satin-bow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/satin-bow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sequin",
+      "name": "Sequin",
+      "customEmojiId": "5253709674137547792",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sequin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sequin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sequin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sequin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/sequin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snake-skin",
+      "name": "Snake Skin",
+      "customEmojiId": "5253476105226055225",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/snake-skin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/snake-skin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/snake-skin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/snake-skin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/snake-skin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "wildflowers",
+      "name": "Wildflowers",
+      "customEmojiId": "5253572896609036255",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/wildflowers.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/wildflowers.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/wildflowers.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/wildflowers.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/wildflowers.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "baphomet",
+      "name": "Baphomet",
+      "customEmojiId": "5256086466089476288",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/baphomet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/baphomet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/baphomet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/baphomet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/baphomet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cult-candle",
+      "name": "Cult Candle",
+      "customEmojiId": "5255908564249110159",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cult-candle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cult-candle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cult-candle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cult-candle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/cult-candle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "floral-scent",
+      "name": "Floral Scent",
+      "customEmojiId": "5253796797549143271",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/floral-scent.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/floral-scent.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/floral-scent.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/floral-scent.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/floral-scent.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gold-stars",
+      "name": "Gold Stars",
+      "customEmojiId": "5253469349242498717",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gold-stars.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gold-stars.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gold-stars.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gold-stars.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/gold-stars.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gruyere",
+      "name": "Gruyere",
+      "customEmojiId": "5256030661579398496",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gruyere.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gruyere.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gruyere.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gruyere.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/gruyere.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honeycomb",
+      "name": "Honeycomb",
+      "customEmojiId": "5255962255635276623",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/honeycomb.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/honeycomb.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/honeycomb.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/honeycomb.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/honeycomb.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "horoscope",
+      "name": "Horoscope",
+      "customEmojiId": "5253471891863136610",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/horoscope.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/horoscope.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/horoscope.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/horoscope.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/horoscope.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-kiss",
+      "name": "Hot Kiss",
+      "customEmojiId": "5253476594852327718",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-kiss.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-kiss.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-kiss.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-kiss.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/hot-kiss.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "iceberg",
+      "name": "Iceberg",
+      "customEmojiId": "5255736701132759868",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/iceberg.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/iceberg.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/iceberg.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/iceberg.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/iceberg.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "krakatoa",
+      "name": "Krakatoa",
+      "customEmojiId": "5253832724950577165",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/krakatoa.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/krakatoa.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/krakatoa.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/krakatoa.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/krakatoa.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "love-dreams",
+      "name": "Love Dreams",
+      "customEmojiId": "5253754586610559870",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/love-dreams.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/love-dreams.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/love-dreams.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/love-dreams.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/love-dreams.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mirkwood",
+      "name": "Mirkwood",
+      "customEmojiId": "5253689973122560052",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/mirkwood.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/mirkwood.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/mirkwood.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/mirkwood.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/mirkwood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pearl-clam",
+      "name": "Pearl Clam",
+      "customEmojiId": "5256176578798312472",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pearl-clam.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pearl-clam.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pearl-clam.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pearl-clam.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/pearl-clam.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "poison-ivy",
+      "name": "Poison Ivy",
+      "customEmojiId": "5253740550657435926",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/poison-ivy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/poison-ivy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/poison-ivy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/poison-ivy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/poison-ivy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "proposal",
+      "name": "Proposal",
+      "customEmojiId": "5253732630737742356",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/proposal.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/proposal.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/proposal.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/proposal.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/proposal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rose-tea",
+      "name": "Rose Tea",
+      "customEmojiId": "5255762354972417635",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rose-tea.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rose-tea.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rose-tea.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rose-tea.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/rose-tea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sacred-lotus",
+      "name": "Sacred Lotus",
+      "customEmojiId": "5253563013889288209",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sacred-lotus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sacred-lotus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sacred-lotus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sacred-lotus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/sacred-lotus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spring-bloom",
+      "name": "Spring Bloom",
+      "customEmojiId": "5256120843007713049",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/spring-bloom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/spring-bloom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/spring-bloom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/spring-bloom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/spring-bloom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sugar-skull",
+      "name": "Sugar Skull",
+      "customEmojiId": "5253913564825022237",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sugar-skull.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sugar-skull.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sugar-skull.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sugar-skull.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/sugar-skull.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tortuga",
+      "name": "Tortuga",
+      "customEmojiId": "5256238928838549609",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/tortuga.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/tortuga.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/tortuga.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/tortuga.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/tortuga.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blue-beam",
+      "name": "Blue Beam",
+      "customEmojiId": "5256034600064411927",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/blue-beam.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/blue-beam.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/blue-beam.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/blue-beam.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/blue-beam.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blue-steel",
+      "name": "Blue Steel",
+      "customEmojiId": "5255801619563440981",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/blue-steel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/blue-steel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/blue-steel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/blue-steel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/blue-steel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bronze-rose",
+      "name": "Bronze Rose",
+      "customEmojiId": "5253683367462858942",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/bronze-rose.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/bronze-rose.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/bronze-rose.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/bronze-rose.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/bronze-rose.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "burnt-amber",
+      "name": "Burnt Amber",
+      "customEmojiId": "5256023553408525681",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/burnt-amber.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/burnt-amber.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/burnt-amber.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/burnt-amber.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/burnt-amber.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "candyman",
+      "name": "Candyman",
+      "customEmojiId": "5253862566383348518",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/candyman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/candyman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/candyman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/candyman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/candyman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "carnation",
+      "name": "Carnation",
+      "customEmojiId": "5253687348897540271",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/carnation.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/carnation.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/carnation.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/carnation.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/carnation.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "citrus-burst",
+      "name": "Citrus Burst",
+      "customEmojiId": "5253688641682696893",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/citrus-burst.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/citrus-burst.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/citrus-burst.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/citrus-burst.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/citrus-burst.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "coastal-cove",
+      "name": "Coastal Cove",
+      "customEmojiId": "5253877603063851070",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/coastal-cove.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/coastal-cove.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/coastal-cove.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/coastal-cove.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/coastal-cove.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cool-metal",
+      "name": "Cool Metal",
+      "customEmojiId": "5253720987081400979",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cool-metal.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cool-metal.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cool-metal.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cool-metal.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/cool-metal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cranberry",
+      "name": "Cranberry",
+      "customEmojiId": "5255728248637118480",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cranberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cranberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cranberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/cranberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/cranberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dark-desire",
+      "name": "Dark Desire",
+      "customEmojiId": "5256246947542490993",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/dark-desire.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/dark-desire.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/dark-desire.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/dark-desire.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/dark-desire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "deep-sea",
+      "name": "Deep Sea",
+      "customEmojiId": "5253976284232443408",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/deep-sea.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/deep-sea.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/deep-sea.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/deep-sea.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/deep-sea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dreamscape",
+      "name": "Dreamscape",
+      "customEmojiId": "5253605379446698175",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/dreamscape.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/dreamscape.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/dreamscape.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/dreamscape.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/dreamscape.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ephemeral",
+      "name": "Ephemeral",
+      "customEmojiId": "5253918121785322599",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/ephemeral.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/ephemeral.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/ephemeral.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/ephemeral.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/ephemeral.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "evening-star",
+      "name": "Evening Star",
+      "customEmojiId": "5255936550256009988",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/evening-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/evening-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/evening-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/evening-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/evening-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "first-dawn",
+      "name": "First Dawn",
+      "customEmojiId": "5253498993106774533",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/first-dawn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/first-dawn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/first-dawn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/first-dawn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/first-dawn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "frosted-glass",
+      "name": "Frosted Glass",
+      "customEmojiId": "5253471329222421087",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/frosted-glass.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/frosted-glass.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/frosted-glass.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/frosted-glass.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/frosted-glass.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gradient-wax",
+      "name": "Gradient Wax",
+      "customEmojiId": "5255885740792895623",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gradient-wax.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gradient-wax.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gradient-wax.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gradient-wax.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/gradient-wax.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "half-moon",
+      "name": "Half Moon",
+      "customEmojiId": "5256040913666335243",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/half-moon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/half-moon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/half-moon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/half-moon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/half-moon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-emerald",
+      "name": "Hot Emerald",
+      "customEmojiId": "5253575310380655632",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-emerald.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-emerald.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-emerald.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hot-emerald.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/hot-emerald.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hydrangea",
+      "name": "Hydrangea",
+      "customEmojiId": "5255876223145373737",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hydrangea.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hydrangea.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hydrangea.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/hydrangea.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/hydrangea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "indiglow",
+      "name": "Indiglow",
+      "customEmojiId": "5253860474734277193",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/indiglow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/indiglow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/indiglow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/indiglow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/indiglow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jasmine",
+      "name": "Jasmine",
+      "customEmojiId": "5253508476394562468",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/jasmine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/jasmine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/jasmine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/jasmine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/jasmine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "late-dusk",
+      "name": "Late Dusk",
+      "customEmojiId": "5255705115943266442",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/late-dusk.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/late-dusk.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/late-dusk.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/late-dusk.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/late-dusk.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mermaid",
+      "name": "Mermaid",
+      "customEmojiId": "5253689139898902664",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/mermaid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/mermaid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/mermaid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/mermaid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/mermaid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "my-precious",
+      "name": "My Precious",
+      "customEmojiId": "5253580713449515492",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/my-precious.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/my-precious.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/my-precious.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/my-precious.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/my-precious.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neroli-noir",
+      "name": "Neroli Noir",
+      "customEmojiId": "5253690230820596250",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/neroli-noir.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/neroli-noir.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/neroli-noir.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/neroli-noir.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/neroli-noir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pinstripe",
+      "name": "Pinstripe",
+      "customEmojiId": "5255706017886397959",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pinstripe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pinstripe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pinstripe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pinstripe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/pinstripe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pop-art",
+      "name": "Pop Art",
+      "customEmojiId": "5256140539727732147",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pop-art.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pop-art.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pop-art.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/pop-art.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/pop-art.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purple-wave",
+      "name": "Purple Wave",
+      "customEmojiId": "5254011429949829732",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/purple-wave.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/purple-wave.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/purple-wave.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/purple-wave.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/purple-wave.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rainbow",
+      "name": "Rainbow",
+      "customEmojiId": "5253670319352212043",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rainbow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rainbow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rainbow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rainbow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/rainbow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-melter",
+      "name": "Red Melter",
+      "customEmojiId": "5253785647814045104",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/red-melter.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/red-melter.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/red-melter.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/red-melter.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/red-melter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "saturated",
+      "name": "Saturated",
+      "customEmojiId": "5253929907175585185",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/saturated.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/saturated.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/saturated.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/saturated.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/saturated.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "serenity",
+      "name": "Serenity",
+      "customEmojiId": "5253915463200568093",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/serenity.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/serenity.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/serenity.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/serenity.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/serenity.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-spark",
+      "name": "Silver Spark",
+      "customEmojiId": "5253875060443212995",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/silver-spark.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/silver-spark.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/silver-spark.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/silver-spark.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/silver-spark.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spiced-apple",
+      "name": "Spiced Apple",
+      "customEmojiId": "5253741701708670764",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/spiced-apple.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/spiced-apple.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/spiced-apple.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/spiced-apple.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/spiced-apple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunrise",
+      "name": "Sunrise",
+      "customEmojiId": "5255813718486310981",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sunrise.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sunrise.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sunrise.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/sunrise.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/sunrise.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "supernova",
+      "name": "Supernova",
+      "customEmojiId": "5255702401523933769",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/supernova.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/supernova.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/supernova.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/supernova.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/supernova.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "thick-honey",
+      "name": "Thick Honey",
+      "customEmojiId": "5253529826676993422",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/thick-honey.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/thick-honey.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/thick-honey.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/thick-honey.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/thick-honey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "toxic-smoke",
+      "name": "Toxic Smoke",
+      "customEmojiId": "5255972825549791511",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/toxic-smoke.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/toxic-smoke.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/toxic-smoke.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/toxic-smoke.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/toxic-smoke.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "twilight",
+      "name": "Twilight",
+      "customEmojiId": "5255725083246224301",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/twilight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/twilight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/twilight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/twilight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/twilight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "two-tone",
+      "name": "Two-Tone",
+      "customEmojiId": "5253994335979988019",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/two-tone.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/two-tone.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/two-tone.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/two-tone.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/two-tone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "unicorn",
+      "name": "Unicorn",
+      "customEmojiId": "5253473665684631844",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/unicorn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/unicorn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/unicorn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/unicorn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/unicorn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vanilla-oasis",
+      "name": "Vanilla Oasis",
+      "customEmojiId": "5256037628016355412",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/vanilla-oasis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/vanilla-oasis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/vanilla-oasis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/vanilla-oasis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/vanilla-oasis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "warm-embrace",
+      "name": "Warm Embrace",
+      "customEmojiId": "5256006785856199186",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/warm-embrace.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/warm-embrace.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/warm-embrace.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/warm-embrace.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/warm-embrace.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-ash",
+      "name": "White Ash",
+      "customEmojiId": "5253698223754736214",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/white-ash.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/white-ash.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/white-ash.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/white-ash.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/white-ash.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "winter-mist",
+      "name": "Winter Mist",
+      "customEmojiId": "5253546619999121337",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/winter-mist.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/winter-mist.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/winter-mist.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/winter-mist.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/winter-mist.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "witch-s-candle",
+      "name": "Witch’s Candle",
+      "customEmojiId": "5255921049719035643",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/witch-s-candle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/witch-s-candle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/witch-s-candle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/witch-s-candle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/witch-s-candle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "wolfsbane",
+      "name": "Wolfsbane",
+      "customEmojiId": "5253839051437402214",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/wolfsbane.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/wolfsbane.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/wolfsbane.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/wolfsbane.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/wolfsbane.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "yellow-gold",
+      "name": "Yellow Gold",
+      "customEmojiId": "5253533808111676687",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "eternalcandle",
+        "name": "Eternal Candle",
+        "id": "5821205665758053411"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/yellow-gold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/yellow-gold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/yellow-gold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/yellow-gold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/yellow-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

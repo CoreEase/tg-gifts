@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "tonfruit",
+  "name": "Tonfruit",
+  "customEmojiId": "5456616315886263872",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "preciouspeach",
+    "name": "Precious Peach",
+    "id": "5933671725160989227"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/tonfruit.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/tonfruit.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/tonfruit.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/preciouspeach/assets/models/tonfruit.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/preciouspeach/models/tonfruit.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

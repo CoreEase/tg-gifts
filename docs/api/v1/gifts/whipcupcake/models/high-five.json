@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "high-five",
+  "name": "High Five",
+  "customEmojiId": "5998857929871071206",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "whipcupcake",
+    "name": "Whip Cupcake",
+    "id": "5933543975653737112"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/whipcupcake/assets/models/high-five.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/whipcupcake/assets/models/high-five.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/whipcupcake/assets/models/high-five.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/whipcupcake/assets/models/high-five.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/whipcupcake/models/high-five.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

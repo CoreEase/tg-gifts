@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "party-drink",
+  "name": "Party Drink",
+  "customEmojiId": "5244578384687687197",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "jesterhat",
+    "name": "Jester Hat",
+    "id": "5933590374185435592"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/party-drink.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/party-drink.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/party-drink.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/party-drink.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jesterhat/models/party-drink.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

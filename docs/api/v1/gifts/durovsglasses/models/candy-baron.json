@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "candy-baron",
+  "name": "Candy Baron",
+  "customEmojiId": "5418010937921677823",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "durovsglasses",
+    "name": "Durov's Glasses",
+    "id": "5834651202612102354"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/candy-baron.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/candy-baron.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/candy-baron.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/candy-baron.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovsglasses/models/candy-baron.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

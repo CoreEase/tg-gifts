@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "vault",
+  "name": "Vault",
+  "customEmojiId": "5999241874177531107",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "cupidcharm",
+    "name": "Cupid Charm",
+    "id": "5868561433997870501"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/vault.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/vault.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/vault.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/vault.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cupidcharm/models/vault.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

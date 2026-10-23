@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "zombie-rider",
+  "name": "Zombie Rider",
+  "customEmojiId": "5193015335204197525",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "rarebird",
+    "name": "Rare Bird",
+    "id": "5999116401002939514"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/zombie-rider.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/zombie-rider.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/zombie-rider.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/zombie-rider.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/rarebird/models/zombie-rider.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

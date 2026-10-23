@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "dandelion",
+  "name": "Dandelion",
+  "customEmojiId": "5458776504047528964",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "santahat",
+    "name": "Santa Hat",
+    "id": "5983471780763796287"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/models/dandelion.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/models/dandelion.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/models/dandelion.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/models/dandelion.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/models/dandelion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

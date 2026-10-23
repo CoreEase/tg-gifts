@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sugar-bricks",
+  "name": "Sugar Bricks",
+  "customEmojiId": "6003714043234229409",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "moussecake",
+    "name": "Mousse Cake",
+    "id": "5935877878062253519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/sugar-bricks.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/sugar-bricks.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/sugar-bricks.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/sugar-bricks.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moussecake/models/sugar-bricks.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "luna",
+  "name": "Luna",
+  "customEmojiId": "5891268762883069940",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "heartlocket",
+    "name": "Heart Locket",
+    "id": "5868455043362980631"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/luna.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/luna.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/luna.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/luna.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/luna.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

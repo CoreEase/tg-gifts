@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "wink-wink",
+  "name": "Wink Wink",
+  "customEmojiId": "5249027171942428693",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "cookieheart",
+    "name": "Cookie Heart",
+    "id": "6001538689543439169"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/wink-wink.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/wink-wink.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/wink-wink.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/wink-wink.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cookieheart/models/wink-wink.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

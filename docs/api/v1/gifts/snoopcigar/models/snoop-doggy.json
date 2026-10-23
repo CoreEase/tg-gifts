@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "snoop-doggy",
+  "name": "Snoop Doggy",
+  "customEmojiId": "5438574927802303104",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "snoopcigar",
+    "name": "Snoop Cigar",
+    "id": "6012435906336654262"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/snoop-doggy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/snoop-doggy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/snoop-doggy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/snoop-doggy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snoopcigar/models/snoop-doggy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

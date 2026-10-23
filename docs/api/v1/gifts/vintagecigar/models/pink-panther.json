@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pink-panther",
+  "name": "Pink Panther",
+  "customEmojiId": "5456293497554363669",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "vintagecigar",
+    "name": "Vintage Cigar",
+    "id": "5857140566201991735"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/pink-panther.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/pink-panther.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/pink-panther.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/pink-panther.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/vintagecigar/models/pink-panther.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

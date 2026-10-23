@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rubber-duck",
+  "name": "Rubber Duck",
+  "customEmojiId": "5262904821161158323",
+  "rarityPermille": 17,
+  "originalRarityPermille": 17,
+  "rarity": 1.7,
+  "originalRarity": 1.7,
+  "gift": {
+    "slug": "gingercookie",
+    "name": "Ginger Cookie",
+    "id": "5983484377902875708"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/rubber-duck.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/rubber-duck.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/rubber-duck.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gingercookie/assets/models/rubber-duck.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/gingercookie/models/rubber-duck.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

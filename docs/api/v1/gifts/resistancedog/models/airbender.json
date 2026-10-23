@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "airbender",
+  "name": "Airbender",
+  "customEmojiId": "5355013104948263436",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "resistancedog",
+    "name": "Resistance Dog",
+    "id": "5832279504491381684"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/airbender.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/airbender.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/airbender.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/airbender.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/resistancedog/models/airbender.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

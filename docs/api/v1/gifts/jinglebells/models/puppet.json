@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "puppet",
+  "name": "Puppet",
+  "customEmojiId": "5246728307877114364",
+  "rarityPermille": 3,
+  "originalRarityPermille": 4,
+  "rarity": 0.3,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "jinglebells",
+    "name": "Jingle Bells",
+    "id": "6001473264306619020"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/puppet.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/puppet.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/puppet.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/puppet.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jinglebells/models/puppet.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

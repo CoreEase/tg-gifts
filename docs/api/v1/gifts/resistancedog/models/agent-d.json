@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "agent-d",
+  "name": "Agent D",
+  "customEmojiId": "5357114980338544776",
+  "rarityPermille": 14,
+  "originalRarityPermille": 15,
+  "rarity": 1.4,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "resistancedog",
+    "name": "Resistance Dog",
+    "id": "5832279504491381684"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/agent-d.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/agent-d.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/agent-d.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/agent-d.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/resistancedog/models/agent-d.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

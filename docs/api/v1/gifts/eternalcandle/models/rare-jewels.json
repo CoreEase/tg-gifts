@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rare-jewels",
+  "name": "Rare Jewels",
+  "customEmojiId": "5253990260056024572",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "eternalcandle",
+    "name": "Eternal Candle",
+    "id": "5821205665758053411"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rare-jewels.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rare-jewels.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rare-jewels.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/rare-jewels.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/rare-jewels.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

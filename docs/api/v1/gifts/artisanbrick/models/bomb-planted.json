@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bomb-planted",
+  "name": "Bomb Planted",
+  "customEmojiId": "5309962608864953141",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "artisanbrick",
+    "name": "Artisan Brick",
+    "id": "6005797617768858105"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/bomb-planted.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/bomb-planted.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/bomb-planted.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/bomb-planted.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/artisanbrick/models/bomb-planted.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

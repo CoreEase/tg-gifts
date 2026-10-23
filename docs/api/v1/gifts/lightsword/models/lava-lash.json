@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "lava-lash",
+  "name": "Lava Lash",
+  "customEmojiId": "5285111301025068583",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "lightsword",
+    "name": "Light Sword",
+    "id": "5897581235231785485"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-lash.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-lash.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-lash.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-lash.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/lava-lash.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

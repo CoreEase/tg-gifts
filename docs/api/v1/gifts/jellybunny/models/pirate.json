@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pirate",
+  "name": "Pirate",
+  "customEmojiId": "5458885488842665507",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "jellybunny",
+    "name": "Jelly Bunny",
+    "id": "5915502858152706668"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/pirate.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/pirate.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/pirate.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/pirate.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jellybunny/models/pirate.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

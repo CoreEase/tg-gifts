@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fist-bump",
+  "name": "Fist Bump",
+  "customEmojiId": "5310061620746032626",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "ufcstrike",
+    "name": "UFC Strike",
+    "id": "5882260270843168924"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/fist-bump.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/fist-bump.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/fist-bump.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/fist-bump.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/ufcstrike/models/fist-bump.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

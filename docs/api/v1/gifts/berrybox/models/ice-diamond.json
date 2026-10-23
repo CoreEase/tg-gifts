@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ice-diamond",
+  "name": "Ice Diamond",
+  "customEmojiId": "5456166173248873459",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "berrybox",
+    "name": "Berry Box",
+    "id": "5882252952218894938"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ice-diamond.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ice-diamond.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ice-diamond.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/ice-diamond.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/ice-diamond.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

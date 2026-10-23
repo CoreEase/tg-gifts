@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "glacier",
+  "name": "Glacier",
+  "customEmojiId": "5249278487658785588",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "hangingstar",
+    "name": "Hanging Star",
+    "id": "5915733223018594841"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/glacier.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/glacier.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/glacier.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/glacier.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/glacier.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

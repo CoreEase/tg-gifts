@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "mirage",
+  "name": "Mirage",
+  "customEmojiId": "5823332426188854585",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "moonpendant",
+    "name": "Moon Pendant",
+    "id": "5998981470310368313"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/mirage.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/mirage.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/mirage.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/mirage.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moonpendant/models/mirage.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

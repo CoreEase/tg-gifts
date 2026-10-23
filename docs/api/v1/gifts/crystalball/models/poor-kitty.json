@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "poor-kitty",
+  "name": "Poor Kitty",
+  "customEmojiId": "5253831402100649238",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "crystalball",
+    "name": "Crystal Ball",
+    "id": "5841336413697606412"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/poor-kitty.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/poor-kitty.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/poor-kitty.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/poor-kitty.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/crystalball/models/poor-kitty.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

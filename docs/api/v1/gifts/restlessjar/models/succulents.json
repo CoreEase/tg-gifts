@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "succulents",
+  "name": "Succulents",
+  "customEmojiId": "5870652687934036768",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "restlessjar",
+    "name": "Restless Jar",
+    "id": "5870784783948186838"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/succulents.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/succulents.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/succulents.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/succulents.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/succulents.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

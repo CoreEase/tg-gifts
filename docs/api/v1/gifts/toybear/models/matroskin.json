@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "matroskin",
+  "name": "Matroskin",
+  "customEmojiId": "5294052125855212656",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "toybear",
+    "name": "Toy Bear",
+    "id": "5868220813026526561"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/matroskin.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/matroskin.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/matroskin.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/matroskin.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/toybear/models/matroskin.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

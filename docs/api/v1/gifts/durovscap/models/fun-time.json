@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fun-time",
+  "name": "Fun Time",
+  "customEmojiId": "5453896618040386188",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "durovscap",
+    "name": "Durov's Cap",
+    "id": "5915521180483191380"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/fun-time.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/fun-time.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/fun-time.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/fun-time.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/fun-time.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

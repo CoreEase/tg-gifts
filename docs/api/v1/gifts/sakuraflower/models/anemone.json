@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "anemone",
+  "name": "Anemone",
+  "customEmojiId": "5318961304084444636",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "sakuraflower",
+    "name": "Sakura Flower",
+    "id": "5167939598143193218"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/anemone.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/anemone.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/anemone.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/anemone.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/anemone.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,92 @@
+{
+  "gift": {
+    "slug": "intelligencecup",
+    "name": "Intelligence Cups",
+    "apiName": "Intelligence Cup",
+    "id": "6046499901846586791",
+    "count": 25,
+    "modelCount": 3,
+    "patternCount": 199,
+    "backdropCount": 19,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/intelligencecup/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/intelligencecup/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/intelligencecup/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/intelligencecup/patterns.json"
+  },
+  "count": 3,
+  "items": [
+    {
+      "type": "model",
+      "slug": "gold",
+      "name": "Gold",
+      "customEmojiId": "5469668742973662988",
+      "rarityPermille": 167,
+      "originalRarityPermille": 167,
+      "rarity": 16.7,
+      "originalRarity": 16.7,
+      "gift": {
+        "slug": "intelligencecup",
+        "name": "Intelligence Cup",
+        "id": "6046499901846586791"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/gold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/gold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/gold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/gold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/intelligencecup/models/gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver",
+      "name": "Silver",
+      "customEmojiId": "5469834898078477178",
+      "rarityPermille": 333,
+      "originalRarityPermille": 333,
+      "rarity": 33.3,
+      "originalRarity": 33.3,
+      "gift": {
+        "slug": "intelligencecup",
+        "name": "Intelligence Cup",
+        "id": "6046499901846586791"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/silver.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/silver.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/silver.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/silver.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/intelligencecup/models/silver.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bronze",
+      "name": "Bronze",
+      "customEmojiId": "5470073938778305649",
+      "rarityPermille": 500,
+      "originalRarityPermille": 500,
+      "rarity": 50,
+      "originalRarity": 50,
+      "gift": {
+        "slug": "intelligencecup",
+        "name": "Intelligence Cup",
+        "id": "6046499901846586791"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/bronze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/bronze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/bronze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/models/bronze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/intelligencecup/models/bronze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

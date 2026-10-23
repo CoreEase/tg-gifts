@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "elephant",
+  "name": "Elephant",
+  "customEmojiId": "5199694971422146836",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "jollychimp",
+    "name": "Jolly Chimp",
+    "id": "6005880141270483700"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jollychimp/assets/patterns/elephant.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jollychimp/assets/patterns/elephant.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jollychimp/patterns/elephant.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,1863 @@
+{
+  "gift": {
+    "slug": "hexpot",
+    "name": "Hex Pots",
+    "apiName": "Hex Pot",
+    "id": "5825801628657124140",
+    "count": 14748,
+    "modelCount": 80,
+    "patternCount": 138,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/patterns.json"
+  },
+  "count": 80,
+  "items": [
+    {
+      "type": "model",
+      "slug": "amortentia",
+      "name": "Amortentia",
+      "customEmojiId": "5456648304802687102",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/amortentia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/amortentia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/amortentia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/amortentia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/amortentia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "defensive",
+      "name": "Defensive",
+      "customEmojiId": "5454252000814328233",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/defensive.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/defensive.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/defensive.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/defensive.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/defensive.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "felix-felicis",
+      "name": "Felix Felicis",
+      "customEmojiId": "5456668439609367338",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/felix-felicis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/felix-felicis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/felix-felicis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/felix-felicis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/felix-felicis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fire-storm",
+      "name": "Fire Storm",
+      "customEmojiId": "5456633749158520837",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fire-storm.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fire-storm.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fire-storm.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fire-storm.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/fire-storm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gust-of-wind",
+      "name": "Gust of Wind",
+      "customEmojiId": "5453931699333259940",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/gust-of-wind.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/gust-of-wind.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/gust-of-wind.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/gust-of-wind.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/gust-of-wind.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pikabrew",
+      "name": "Pikabrew",
+      "customEmojiId": "5454371293530972263",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/pikabrew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/pikabrew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/pikabrew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/pikabrew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/pikabrew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "beholder",
+      "name": "Beholder",
+      "customEmojiId": "5454153723372659478",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/beholder.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/beholder.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/beholder.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/beholder.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/beholder.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubble-bath",
+      "name": "Bubble Bath",
+      "customEmojiId": "5456204656155845927",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/bubble-bath.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/bubble-bath.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/bubble-bath.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/bubble-bath.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/bubble-bath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "coldbrew",
+      "name": "Coldbrew",
+      "customEmojiId": "5456565128466031542",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/coldbrew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/coldbrew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/coldbrew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/coldbrew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/coldbrew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "backstroke",
+      "name": "Backstroke",
+      "customEmojiId": "5456444920921349796",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/backstroke.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/backstroke.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/backstroke.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/backstroke.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/backstroke.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "banana-split",
+      "name": "Banana Split",
+      "customEmojiId": "5456169132481339673",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/banana-split.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/banana-split.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/banana-split.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/banana-split.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/banana-split.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blueprint",
+      "name": "Blueprint",
+      "customEmojiId": "5456252248688452613",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/blueprint.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/blueprint.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/blueprint.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/blueprint.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/blueprint.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cherry-bomb",
+      "name": "Cherry Bomb",
+      "customEmojiId": "5456482330086499596",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/cherry-bomb.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/cherry-bomb.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/cherry-bomb.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/cherry-bomb.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/cherry-bomb.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "choco-cloud",
+      "name": "Choco Cloud",
+      "customEmojiId": "5456234759581623105",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/choco-cloud.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/choco-cloud.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/choco-cloud.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/choco-cloud.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/choco-cloud.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "citrus-bubbles",
+      "name": "Citrus Bubbles",
+      "customEmojiId": "5454034963231956650",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/citrus-bubbles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/citrus-bubbles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/citrus-bubbles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/citrus-bubbles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/citrus-bubbles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "code-red",
+      "name": "Code Red",
+      "customEmojiId": "5456274797266755674",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/code-red.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/code-red.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/code-red.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/code-red.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/code-red.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "daiquiri",
+      "name": "Daiquiri",
+      "customEmojiId": "5456508520797068723",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/daiquiri.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/daiquiri.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/daiquiri.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/daiquiri.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/daiquiri.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "death-star",
+      "name": "Death Star",
+      "customEmojiId": "5453882977224253520",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/death-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/death-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/death-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/death-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/death-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "desert-friend",
+      "name": "Desert Friend",
+      "customEmojiId": "5456590786600657559",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/desert-friend.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/desert-friend.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/desert-friend.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/desert-friend.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/desert-friend.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "digital-sap",
+      "name": "Digital Sap",
+      "customEmojiId": "5456417832562623721",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/digital-sap.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/digital-sap.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/digital-sap.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/digital-sap.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/digital-sap.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fine-wine",
+      "name": "Fine Wine",
+      "customEmojiId": "5456331963281465349",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fine-wine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fine-wine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fine-wine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fine-wine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/fine-wine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "halloween-brew",
+      "name": "Halloween Brew",
+      "customEmojiId": "5454076272227407926",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/halloween-brew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/halloween-brew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/halloween-brew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/halloween-brew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/halloween-brew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "holiday-spirit",
+      "name": "Holiday Spirit",
+      "customEmojiId": "5453893864966348143",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/holiday-spirit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/holiday-spirit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/holiday-spirit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/holiday-spirit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/holiday-spirit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hypnosis",
+      "name": "Hypnosis",
+      "customEmojiId": "5456263462848060568",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/hypnosis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/hypnosis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/hypnosis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/hypnosis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/hypnosis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ice-citrus",
+      "name": "Ice Citrus",
+      "customEmojiId": "5454045361347780875",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/ice-citrus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/ice-citrus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/ice-citrus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/ice-citrus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/ice-citrus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "inky",
+      "name": "Inky",
+      "customEmojiId": "5454243471009276168",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/inky.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/inky.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/inky.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/inky.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/inky.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lava",
+      "name": "Lava",
+      "customEmojiId": "5454086597328791207",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/lava.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/lava.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/lava.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/lava.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/lava.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mad-eye",
+      "name": "Mad Eye",
+      "customEmojiId": "5453893469829358265",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/mad-eye.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/mad-eye.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/mad-eye.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/mad-eye.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/mad-eye.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "malibu",
+      "name": "Malibu",
+      "customEmojiId": "5453900363251867465",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/malibu.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/malibu.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/malibu.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/malibu.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/malibu.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "matrix",
+      "name": "Matrix",
+      "customEmojiId": "5456549786842849814",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/matrix.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/matrix.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/matrix.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/matrix.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/matrix.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "melon-brew",
+      "name": "Melon Brew",
+      "customEmojiId": "5456313383252941806",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/melon-brew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/melon-brew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/melon-brew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/melon-brew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/melon-brew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "movie-night",
+      "name": "Movie Night",
+      "customEmojiId": "5454158022634921809",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/movie-night.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/movie-night.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/movie-night.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/movie-night.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/movie-night.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neon",
+      "name": "Neon",
+      "customEmojiId": "5454060591301811965",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/neon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/neon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/neon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/neon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/neon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peachy-fume",
+      "name": "Peachy Fume",
+      "customEmojiId": "5456383953860583932",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/peachy-fume.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/peachy-fume.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/peachy-fume.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/peachy-fume.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/peachy-fume.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peppermint",
+      "name": "Peppermint",
+      "customEmojiId": "5456612712408704881",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/peppermint.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/peppermint.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/peppermint.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/peppermint.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/peppermint.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "quicksilver",
+      "name": "Quicksilver",
+      "customEmojiId": "5453948153352969428",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/quicksilver.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/quicksilver.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/quicksilver.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/quicksilver.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/quicksilver.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rainbow-pearl",
+      "name": "Rainbow Pearl",
+      "customEmojiId": "5453979029872861571",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/rainbow-pearl.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/rainbow-pearl.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/rainbow-pearl.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/rainbow-pearl.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/rainbow-pearl.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starlight",
+      "name": "Starlight",
+      "customEmojiId": "5454022924438625277",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/starlight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/starlight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/starlight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/starlight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/starlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "strike",
+      "name": "Strike",
+      "customEmojiId": "5454297505992824829",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/strike.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/strike.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/strike.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/strike.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/strike.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunset",
+      "name": "Sunset",
+      "customEmojiId": "5453916443609423672",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/sunset.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/sunset.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/sunset.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/sunset.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/sunset.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tornado",
+      "name": "Tornado",
+      "customEmojiId": "5456515783586767330",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/tornado.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/tornado.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/tornado.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/tornado.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/tornado.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "firefly",
+      "name": "Firefly",
+      "customEmojiId": "5456658866127265295",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/firefly.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/firefly.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/firefly.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/firefly.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/firefly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "butterbeer",
+      "name": "Butterbeer",
+      "customEmojiId": "5454418353487635944",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/butterbeer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/butterbeer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/butterbeer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/butterbeer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/butterbeer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fairy-fluff",
+      "name": "Fairy Fluff",
+      "customEmojiId": "5458523994330261127",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fairy-fluff.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fairy-fluff.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fairy-fluff.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fairy-fluff.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/fairy-fluff.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-glow",
+      "name": "Golden Glow",
+      "customEmojiId": "5454133764659634640",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/golden-glow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/golden-glow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/golden-glow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/golden-glow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/golden-glow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "greenwitch",
+      "name": "Greenwitch",
+      "customEmojiId": "5454107097207693391",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/greenwitch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/greenwitch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/greenwitch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/greenwitch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/greenwitch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gummy-worm",
+      "name": "Gummy Worm",
+      "customEmojiId": "5461018184918261765",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/gummy-worm.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/gummy-worm.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/gummy-worm.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/gummy-worm.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/gummy-worm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "heat-map",
+      "name": "Heat Map",
+      "customEmojiId": "5461033251663536090",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/heat-map.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/heat-map.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/heat-map.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/heat-map.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/heat-map.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "minty-fresh",
+      "name": "Minty Fresh",
+      "customEmojiId": "5454249140366106249",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/minty-fresh.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/minty-fresh.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/minty-fresh.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/minty-fresh.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/minty-fresh.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "moonlight",
+      "name": "Moonlight",
+      "customEmojiId": "5456366400329248191",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/moonlight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/moonlight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/moonlight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/moonlight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/moonlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "night-mixture",
+      "name": "Night Mixture",
+      "customEmojiId": "5458400492545664738",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/night-mixture.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/night-mixture.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/night-mixture.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/night-mixture.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/night-mixture.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "petalwine",
+      "name": "Petalwine",
+      "customEmojiId": "5453966106316267990",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/petalwine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/petalwine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/petalwine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/petalwine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/petalwine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purple-haze",
+      "name": "Purple Haze",
+      "customEmojiId": "5458779639373656036",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/purple-haze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/purple-haze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/purple-haze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/purple-haze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/purple-haze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-shift",
+      "name": "Red Shift",
+      "customEmojiId": "5456342941217872817",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/red-shift.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/red-shift.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/red-shift.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/red-shift.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/red-shift.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ruby-ocean",
+      "name": "Ruby Ocean",
+      "customEmojiId": "5460797432189178714",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/ruby-ocean.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/ruby-ocean.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/ruby-ocean.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/ruby-ocean.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/ruby-ocean.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "soft-coral",
+      "name": "Soft Coral",
+      "customEmojiId": "5456405879668629242",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/soft-coral.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/soft-coral.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/soft-coral.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/soft-coral.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/soft-coral.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spectral-dew",
+      "name": "Spectral Dew",
+      "customEmojiId": "5460876085925274793",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/spectral-dew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/spectral-dew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/spectral-dew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/spectral-dew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/spectral-dew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aurora",
+      "name": "Aurora",
+      "customEmojiId": "5458811362002101361",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/aurora.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/aurora.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/aurora.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/aurora.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/aurora.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "burned-love",
+      "name": "Burned Love",
+      "customEmojiId": "5460751484629048087",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burned-love.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burned-love.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burned-love.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burned-love.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/burned-love.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "burnt-petals",
+      "name": "Burnt Petals",
+      "customEmojiId": "5458778342293531430",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burnt-petals.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burnt-petals.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burnt-petals.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burnt-petals.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/burnt-petals.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "burnt-roses",
+      "name": "Burnt Roses",
+      "customEmojiId": "5460667432119064124",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burnt-roses.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burnt-roses.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burnt-roses.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/burnt-roses.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/burnt-roses.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honeydew",
+      "name": "Honeydew",
+      "customEmojiId": "5458588809681725667",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/honeydew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/honeydew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/honeydew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/honeydew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/honeydew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-mirage",
+      "name": "Red Mirage",
+      "customEmojiId": "5460793094272211422",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/red-mirage.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/red-mirage.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/red-mirage.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/red-mirage.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/red-mirage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "violet-veil",
+      "name": "Violet Veil",
+      "customEmojiId": "5458624518039823957",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/violet-veil.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/violet-veil.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/violet-veil.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/violet-veil.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/violet-veil.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "citrus",
+      "name": "Citrus",
+      "customEmojiId": "5458603051793278807",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/citrus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/citrus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/citrus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/citrus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/citrus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "full-moon",
+      "name": "Full Moon",
+      "customEmojiId": "5460752373687292137",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/full-moon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/full-moon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/full-moon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/full-moon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/full-moon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "indigo-storm",
+      "name": "Indigo Storm",
+      "customEmojiId": "5458817422200956832",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/indigo-storm.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/indigo-storm.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/indigo-storm.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/indigo-storm.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/indigo-storm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jade-grog",
+      "name": "Jade Grog",
+      "customEmojiId": "5460708882848440124",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/jade-grog.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/jade-grog.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/jade-grog.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/jade-grog.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/jade-grog.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sangria",
+      "name": "Sangria",
+      "customEmojiId": "5458667235784548858",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/sangria.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/sangria.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/sangria.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/sangria.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/sangria.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "scarlet-sun",
+      "name": "Scarlet Sun",
+      "customEmojiId": "5458834262767724450",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/scarlet-sun.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/scarlet-sun.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/scarlet-sun.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/scarlet-sun.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/scarlet-sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "skygold",
+      "name": "Skygold",
+      "customEmojiId": "5458841882039708674",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/skygold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/skygold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/skygold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/skygold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/skygold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "skywash",
+      "name": "Skywash",
+      "customEmojiId": "5460967345390377049",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/skywash.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/skywash.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/skywash.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/skywash.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/skywash.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vermilion",
+      "name": "Vermilion",
+      "customEmojiId": "5460975823655820026",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/vermilion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/vermilion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/vermilion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/vermilion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/vermilion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "amethyst",
+      "name": "Amethyst",
+      "customEmojiId": "5460910621757301254",
+      "rarityPermille": 26,
+      "originalRarityPermille": 26,
+      "rarity": 2.6,
+      "originalRarity": 2.6,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/amethyst.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/amethyst.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/amethyst.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/amethyst.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/amethyst.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blue-inferno",
+      "name": "Blue Inferno",
+      "customEmojiId": "5458434019060378777",
+      "rarityPermille": 26,
+      "originalRarityPermille": 26,
+      "rarity": 2.6,
+      "originalRarity": 2.6,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/blue-inferno.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/blue-inferno.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/blue-inferno.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/blue-inferno.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/blue-inferno.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fairy",
+      "name": "Fairy",
+      "customEmojiId": "5458786034579958601",
+      "rarityPermille": 26,
+      "originalRarityPermille": 26,
+      "rarity": 2.6,
+      "originalRarity": 2.6,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fairy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fairy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fairy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/fairy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/fairy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "orchid-volt",
+      "name": "Orchid Volt",
+      "customEmojiId": "5458402970741794751",
+      "rarityPermille": 26,
+      "originalRarityPermille": 26,
+      "rarity": 2.6,
+      "originalRarity": 2.6,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/orchid-volt.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/orchid-volt.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/orchid-volt.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/orchid-volt.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/orchid-volt.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "potpourri",
+      "name": "Potpourri",
+      "customEmojiId": "5458660943657464120",
+      "rarityPermille": 26,
+      "originalRarityPermille": 26,
+      "rarity": 2.6,
+      "originalRarity": 2.6,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/potpourri.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/potpourri.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/potpourri.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/potpourri.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/potpourri.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rusty",
+      "name": "Rusty",
+      "customEmojiId": "5458772999354216495",
+      "rarityPermille": 26,
+      "originalRarityPermille": 26,
+      "rarity": 2.6,
+      "originalRarity": 2.6,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/rusty.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/rusty.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/rusty.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/rusty.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/rusty.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "witchy",
+      "name": "Witchy",
+      "customEmojiId": "5460828287234236945",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "hexpot",
+        "name": "Hex Pot",
+        "id": "5825801628657124140"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/witchy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/witchy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/witchy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hexpot/assets/models/witchy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hexpot/models/witchy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

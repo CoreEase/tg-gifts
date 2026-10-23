@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "nezuko",
+  "name": "Nezuko",
+  "customEmojiId": "5318783720071667562",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "moodpack",
+    "name": "Mood Pack",
+    "id": "5886756255493523118"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/nezuko.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/nezuko.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/nezuko.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/nezuko.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moodpack/models/nezuko.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

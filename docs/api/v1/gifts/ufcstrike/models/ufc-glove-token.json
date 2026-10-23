@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ufc-glove-token",
+  "name": "UFC Glove Token",
+  "customEmojiId": "5310015651711062282",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "ufcstrike",
+    "name": "UFC Strike",
+    "id": "5882260270843168924"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-glove-token.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-glove-token.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-glove-token.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-glove-token.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/ufcstrike/models/ufc-glove-token.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

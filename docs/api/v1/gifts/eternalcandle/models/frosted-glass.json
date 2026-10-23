@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "frosted-glass",
+  "name": "Frosted Glass",
+  "customEmojiId": "5253471329222421087",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "eternalcandle",
+    "name": "Eternal Candle",
+    "id": "5821205665758053411"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/frosted-glass.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/frosted-glass.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/frosted-glass.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/frosted-glass.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/frosted-glass.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

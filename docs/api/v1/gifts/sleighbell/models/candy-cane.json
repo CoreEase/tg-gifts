@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "candy-cane",
+  "name": "Candy Cane",
+  "customEmojiId": "5318907685712721748",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "sleighbell",
+    "name": "Sleigh Bell",
+    "id": "5981026247860290310"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/candy-cane.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/candy-cane.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/candy-cane.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/candy-cane.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sleighbell/models/candy-cane.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

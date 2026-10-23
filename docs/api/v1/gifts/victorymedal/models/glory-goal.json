@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "glory-goal",
+  "name": "Glory Goal",
+  "customEmojiId": "5453972016191279871",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "victorymedal",
+    "name": "Victory Medal",
+    "id": "5830340739074097859"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/glory-goal.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/glory-goal.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/glory-goal.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/glory-goal.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/victorymedal/models/glory-goal.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

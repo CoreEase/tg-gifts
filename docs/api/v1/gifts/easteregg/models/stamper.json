@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "stamper",
+  "name": "Stamper",
+  "customEmojiId": "5199591497070047683",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "easteregg",
+    "name": "Easter Egg",
+    "id": "5773668482394620318"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stamper.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stamper.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stamper.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/stamper.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/stamper.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

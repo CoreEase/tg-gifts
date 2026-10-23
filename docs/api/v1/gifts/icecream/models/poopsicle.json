@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "poopsicle",
+  "name": "Poopsicle",
+  "customEmojiId": "6003565106653306027",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "icecream",
+    "name": "Ice Cream",
+    "id": "5900177027566142759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/poopsicle.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/poopsicle.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/poopsicle.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/poopsicle.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/poopsicle.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

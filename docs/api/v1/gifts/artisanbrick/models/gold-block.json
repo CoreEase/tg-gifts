@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold-block",
+  "name": "Gold Block",
+  "customEmojiId": "5309926445240322904",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "artisanbrick",
+    "name": "Artisan Brick",
+    "id": "6005797617768858105"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/gold-block.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/gold-block.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/gold-block.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/gold-block.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/artisanbrick/models/gold-block.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

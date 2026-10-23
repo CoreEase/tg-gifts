@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "trash-pigeon",
+  "name": "Trash Pigeon",
+  "customEmojiId": "6001103974428580282",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "springbasket",
+    "name": "Spring Basket",
+    "id": "5773725897517433693"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/trash-pigeon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/trash-pigeon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/trash-pigeon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/trash-pigeon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/springbasket/models/trash-pigeon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

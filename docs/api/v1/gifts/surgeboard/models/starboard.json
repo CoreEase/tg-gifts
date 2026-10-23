@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "starboard",
+  "name": "Starboard",
+  "customEmojiId": "5352966230909163859",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "surgeboard",
+    "name": "Surge Board",
+    "id": "5832497899283415733"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/starboard.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/starboard.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/starboard.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/starboard.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/surgeboard/models/starboard.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

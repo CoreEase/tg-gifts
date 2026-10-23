@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sherlock",
+  "name": "Sherlock",
+  "customEmojiId": "5267034565360256002",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "bigyear",
+    "name": "Big Year",
+    "id": "6028283532500009446"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/sherlock.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/sherlock.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/sherlock.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/sherlock.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bigyear/models/sherlock.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

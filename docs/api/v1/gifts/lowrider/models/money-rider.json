@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "money-rider",
+  "name": "Money Rider",
+  "customEmojiId": "5436088317831577388",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "lowrider",
+    "name": "Low Rider",
+    "id": "6014675319464657779"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/money-rider.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/money-rider.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/money-rider.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/money-rider.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lowrider/models/money-rider.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bank-vault",
+  "name": "Bank Vault",
+  "customEmojiId": "5319273745775375068",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "moodpack",
+    "name": "Mood Pack",
+    "id": "5886756255493523118"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/bank-vault.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/bank-vault.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/bank-vault.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/bank-vault.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moodpack/models/bank-vault.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

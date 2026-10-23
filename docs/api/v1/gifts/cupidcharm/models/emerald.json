@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "emerald",
+  "name": "Emerald",
+  "customEmojiId": "5999078407722244218",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "cupidcharm",
+    "name": "Cupid Charm",
+    "id": "5868561433997870501"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/emerald.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/emerald.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/emerald.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/emerald.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cupidcharm/models/emerald.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "utya-pop",
+  "name": "Utya Pop",
+  "customEmojiId": "6001491200090053409",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "icecream",
+    "name": "Ice Cream",
+    "id": "5900177027566142759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/utya-pop.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/utya-pop.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/utya-pop.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/utya-pop.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/utya-pop.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

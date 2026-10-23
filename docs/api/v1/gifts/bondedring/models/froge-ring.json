@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "froge-ring",
+  "name": "Froge Ring",
+  "customEmojiId": "5269536151881940118",
+  "rarityPermille": 18,
+  "originalRarityPermille": 18,
+  "rarity": 1.8,
+  "originalRarity": 1.8,
+  "gift": {
+    "slug": "bondedring",
+    "name": "Bonded Ring",
+    "id": "5870661333703197240"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/froge-ring.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/froge-ring.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/froge-ring.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/froge-ring.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/froge-ring.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

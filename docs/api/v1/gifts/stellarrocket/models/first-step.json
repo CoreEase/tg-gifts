@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "first-step",
+  "name": "First Step",
+  "customEmojiId": "5823627838334442127",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "stellarrocket",
+    "name": "Stellar Rocket",
+    "id": "6042113507581755979"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/first-step.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/first-step.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/first-step.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/first-step.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/stellarrocket/models/first-step.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-velvet",
+  "name": "Red Velvet",
+  "customEmojiId": "5454001728775023939",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "homemadecake",
+    "name": "Homemade Cake",
+    "id": "5783075783622787539"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/red-velvet.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/red-velvet.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/red-velvet.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/red-velvet.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/homemadecake/models/red-velvet.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

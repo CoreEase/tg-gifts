@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cool-breeze",
+  "name": "Cool Breeze",
+  "customEmojiId": "6003670616819898908",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "faithamulet",
+    "name": "Faith Amulet",
+    "id": "6003456431095808759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/cool-breeze.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/cool-breeze.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/cool-breeze.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/cool-breeze.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/faithamulet/models/cool-breeze.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

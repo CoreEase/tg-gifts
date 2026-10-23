@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "popsicle",
+  "name": "Popsicle",
+  "customEmojiId": "5823544838091446063",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "stellarrocket",
+    "name": "Stellar Rocket",
+    "id": "6042113507581755979"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/popsicle.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/popsicle.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/popsicle.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/popsicle.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/stellarrocket/models/popsicle.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "festivity",
+  "name": "Festivity",
+  "customEmojiId": "5354808157698814338",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "winterwreath",
+    "name": "Winter Wreath",
+    "id": "5983259145522906006"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/festivity.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/festivity.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/festivity.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/festivity.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/models/festivity.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

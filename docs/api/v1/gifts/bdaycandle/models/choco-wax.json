@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "choco-wax",
+  "name": "Choco Wax",
+  "customEmojiId": "5251414241751099129",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "bdaycandle",
+    "name": "B-Day Candle",
+    "id": "5782984811920491178"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/choco-wax.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/choco-wax.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/choco-wax.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/choco-wax.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bdaycandle/models/choco-wax.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

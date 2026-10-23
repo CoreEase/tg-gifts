@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "carrot-bunny",
+  "name": "Carrot Bunny",
+  "customEmojiId": "5872725439151085595",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "nailbracelet",
+    "name": "Nail Bracelet",
+    "id": "5870720080265871962"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/carrot-bunny.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/carrot-bunny.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/carrot-bunny.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/carrot-bunny.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/nailbracelet/models/carrot-bunny.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

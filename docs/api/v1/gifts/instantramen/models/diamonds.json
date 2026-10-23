@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "diamonds",
+  "name": "Diamonds",
+  "customEmojiId": "6001057416983091653",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "instantramen",
+    "name": "Instant Ramen",
+    "id": "6005564615793050414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/diamonds.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/diamonds.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/diamonds.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/diamonds.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/instantramen/models/diamonds.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

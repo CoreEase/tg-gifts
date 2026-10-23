@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fluffy",
+  "name": "Fluffy",
+  "customEmojiId": "5354799198397030313",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "winterwreath",
+    "name": "Winter Wreath",
+    "id": "5983259145522906006"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/fluffy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/fluffy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/fluffy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/fluffy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/models/fluffy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

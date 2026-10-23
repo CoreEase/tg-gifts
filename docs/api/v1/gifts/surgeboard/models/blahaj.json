@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "blahaj",
+  "name": "Blåhaj",
+  "customEmojiId": "5352745791712698487",
+  "rarityPermille": 40,
+  "originalRarityPermille": 40,
+  "rarity": 4,
+  "originalRarity": 4,
+  "gift": {
+    "slug": "surgeboard",
+    "name": "Surge Board",
+    "id": "5832497899283415733"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/blahaj.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/blahaj.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/blahaj.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/blahaj.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/surgeboard/models/blahaj.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

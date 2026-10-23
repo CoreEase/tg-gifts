@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "glitterwine",
+  "name": "Glitterwine",
+  "customEmojiId": "5454101264642105274",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "spicedwine",
+    "name": "Spiced Wine",
+    "id": "5913442287462908725"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spicedwine/assets/models/glitterwine.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spicedwine/assets/models/glitterwine.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spicedwine/assets/models/glitterwine.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spicedwine/assets/models/glitterwine.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/spicedwine/models/glitterwine.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

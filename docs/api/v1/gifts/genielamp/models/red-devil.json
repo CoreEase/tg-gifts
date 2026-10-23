@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-devil",
+  "name": "Red Devil",
+  "customEmojiId": "5244871902752697451",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "genielamp",
+    "name": "Genie Lamp",
+    "id": "5933531623327795414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/red-devil.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/red-devil.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/red-devil.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/red-devil.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/genielamp/models/red-devil.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

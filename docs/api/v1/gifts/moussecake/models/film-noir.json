@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "film-noir",
+  "name": "Film Noir",
+  "customEmojiId": "6001480252218414876",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "moussecake",
+    "name": "Mousse Cake",
+    "id": "5935877878062253519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/film-noir.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/film-noir.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/film-noir.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/film-noir.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moussecake/models/film-noir.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

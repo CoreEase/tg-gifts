@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "herbalist",
+  "name": "Herbalist",
+  "customEmojiId": "5458373193733531056",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "spyagaric",
+    "name": "Spy Agaric",
+    "id": "5821261908354794038"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/herbalist.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/herbalist.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/herbalist.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/herbalist.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/spyagaric/models/herbalist.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

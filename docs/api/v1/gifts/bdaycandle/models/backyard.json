@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "backyard",
+  "name": "Backyard",
+  "customEmojiId": "5251652354737990312",
+  "rarityPermille": 6,
+  "originalRarityPermille": 6,
+  "rarity": 0.6,
+  "originalRarity": 0.6,
+  "gift": {
+    "slug": "bdaycandle",
+    "name": "B-Day Candle",
+    "id": "5782984811920491178"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/backyard.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/backyard.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/backyard.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/backyard.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bdaycandle/models/backyard.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

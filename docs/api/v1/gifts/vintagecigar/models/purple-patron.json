@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "purple-patron",
+  "name": "Purple Patron",
+  "customEmojiId": "5456274028467611465",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "vintagecigar",
+    "name": "Vintage Cigar",
+    "id": "5857140566201991735"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/purple-patron.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/purple-patron.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/purple-patron.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/purple-patron.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/vintagecigar/models/purple-patron.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

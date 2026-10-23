@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gameboy",
+  "name": "Gameboy",
+  "customEmojiId": "5255949890424430613",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "swisswatch",
+    "name": "Swiss Watch",
+    "id": "5936043693864651359"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/gameboy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/gameboy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/gameboy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/gameboy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swisswatch/models/gameboy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

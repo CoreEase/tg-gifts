@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "lost-color",
+  "name": "Lost Color",
+  "customEmojiId": "5354938153473963601",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "snowglobe",
+    "name": "Snow Globe",
+    "id": "5981132629905245483"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lost-color.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lost-color.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lost-color.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lost-color.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/lost-color.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

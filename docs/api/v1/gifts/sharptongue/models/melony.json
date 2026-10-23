@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "melony",
+  "name": "Melony",
+  "customEmojiId": "5454038837292462115",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "sharptongue",
+    "name": "Sharp Tongue",
+    "id": "5841689550203650524"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/melony.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/melony.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/melony.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/melony.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sharptongue/models/melony.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

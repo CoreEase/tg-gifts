@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "golden-dust",
+  "name": "Golden Dust",
+  "customEmojiId": "5458476367437916608",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "spyagaric",
+    "name": "Spy Agaric",
+    "id": "5821261908354794038"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/golden-dust.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/golden-dust.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/golden-dust.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/golden-dust.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/spyagaric/models/golden-dust.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

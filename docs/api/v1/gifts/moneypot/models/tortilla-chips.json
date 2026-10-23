@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "tortilla-chips",
+  "name": "Tortilla Chips",
+  "customEmojiId": "5204022339951432691",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "moneypot",
+    "name": "Money Pot",
+    "id": "5963238670868677492"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/tortilla-chips.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/tortilla-chips.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/tortilla-chips.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/tortilla-chips.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moneypot/models/tortilla-chips.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

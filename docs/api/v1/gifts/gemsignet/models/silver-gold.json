@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "silver-gold",
+  "name": "Silver Gold",
+  "customEmojiId": "5285246845897965657",
+  "rarityPermille": 40,
+  "originalRarityPermille": 40,
+  "rarity": 4,
+  "originalRarity": 4,
+  "gift": {
+    "slug": "gemsignet",
+    "name": "Gem Signet",
+    "id": "5859442703032386168"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/silver-gold.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/silver-gold.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/silver-gold.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/silver-gold.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/gemsignet/models/silver-gold.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "comics",
+  "name": "Comics",
+  "customEmojiId": "5355321440650423633",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "winterwreath",
+    "name": "Winter Wreath",
+    "id": "5983259145522906006"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/comics.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/comics.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/comics.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/comics.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/models/comics.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

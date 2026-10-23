@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "stained-glass",
+  "name": "Stained Glass",
+  "customEmojiId": "5823257440354834781",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "moonpendant",
+    "name": "Moon Pendant",
+    "id": "5998981470310368313"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/stained-glass.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/stained-glass.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/stained-glass.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/stained-glass.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moonpendant/models/stained-glass.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

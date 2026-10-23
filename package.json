@@ -2,11 +2,10 @@
   "name": "@coreease/tg-gifts",
   "version": "1.0.0",
   "private": true,
-  "description": "Structured TypeScript data for Telegram gifts, collections, models, patterns and backdrops.",
+  "description": "Structured TypeScript data and a static JSON API for Telegram gifts, models, patterns and backdrops.",
   "type": "module",
   "scripts": {
-    "download-originals": "node script/download-originals.mjs",
-    "download-assets": "node script/download-assets.mjs",
+    "sync-gifts": "node script/sync-gifts.mjs",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {

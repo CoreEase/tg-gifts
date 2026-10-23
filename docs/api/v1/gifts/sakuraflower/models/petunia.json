@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "petunia",
+  "name": "Petunia",
+  "customEmojiId": "5321538494915435336",
+  "rarityPermille": 11,
+  "originalRarityPermille": 11,
+  "rarity": 1.1,
+  "originalRarity": 1.1,
+  "gift": {
+    "slug": "sakuraflower",
+    "name": "Sakura Flower",
+    "id": "5167939598143193218"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/petunia.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/petunia.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/petunia.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/petunia.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/petunia.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

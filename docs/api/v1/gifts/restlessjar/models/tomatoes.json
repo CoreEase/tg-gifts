@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "tomatoes",
+  "name": "Tomatoes",
+  "customEmojiId": "5872956048830110794",
+  "rarityPermille": 17,
+  "originalRarityPermille": 17,
+  "rarity": 1.7,
+  "originalRarity": 1.7,
+  "gift": {
+    "slug": "restlessjar",
+    "name": "Restless Jar",
+    "id": "5870784783948186838"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tomatoes.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tomatoes.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tomatoes.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tomatoes.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/tomatoes.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

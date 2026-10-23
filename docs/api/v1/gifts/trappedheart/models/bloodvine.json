@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bloodvine",
+  "name": "Bloodvine",
+  "customEmojiId": "5454183693654449438",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "trappedheart",
+    "name": "Trapped Heart",
+    "id": "5841391256135008713"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/bloodvine.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/bloodvine.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/bloodvine.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/bloodvine.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/trappedheart/models/bloodvine.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

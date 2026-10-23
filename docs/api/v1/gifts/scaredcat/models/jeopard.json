@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "jeopard",
+  "name": "Jeopard",
+  "customEmojiId": "5456560906513179901",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "scaredcat",
+    "name": "Scared Cat",
+    "id": "5837059369300132790"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/jeopard.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/jeopard.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/jeopard.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/jeopard.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/scaredcat/models/jeopard.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

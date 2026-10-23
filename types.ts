@@ -1,6 +1,12 @@
 export interface GiftModel {
   name: string;
   customEmojiId: string | null;
+  rarityPermille: number | null;
+  originalRarityPermille: number | null;
+  rarity: number | null;
+  originalRarity: number | null;
+  crafted?: boolean;
+  rarityTier?: string | null;
   assets: {
     svg: string;
     tgs: string;
@@ -10,6 +16,10 @@ export interface GiftModel {
 export interface GiftPattern {
   name: string;
   customEmojiId: string | null;
+  rarityPermille: number | null;
+  originalRarityPermille: number | null;
+  rarity: number | null;
+  originalRarity: number | null;
   assets: {
     png: string;
   };
@@ -17,7 +27,16 @@ export interface GiftPattern {
 
 export interface Backdrop {
   name: string;
-  customEmojiId: string;
+  backdropId: number | null;
+  customEmojiId: string | null;
+  centerColor: number | null;
+  edgeColor: number | null;
+  patternColor: number | null;
+  textColor: number | null;
+  rarityPermille: number | null;
+  originalRarityPermille: number | null;
+  rarity: number | null;
+  originalRarity: number | null;
   hex: {
     centerColor: string;
     edgeColor: string;

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold-nugget",
+  "name": "Gold Nugget",
+  "customEmojiId": "6003628831083075884",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "happybrownie",
+    "name": "Happy Brownie",
+    "id": "6006064678835323371"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/gold-nugget.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/gold-nugget.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/gold-nugget.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/gold-nugget.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/happybrownie/models/gold-nugget.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

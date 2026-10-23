@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "teddy",
+  "name": "Teddy",
+  "customEmojiId": "5350365718405762418",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "luckylocket",
+    "name": "Lucky Locket",
+    "id": "5872744075014177223"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/teddy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/teddy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/teddy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/teddy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/luckylocket/models/teddy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

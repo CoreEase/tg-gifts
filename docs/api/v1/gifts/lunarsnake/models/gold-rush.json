@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold-rush",
+  "name": "Gold Rush",
+  "customEmojiId": "5246725898400458230",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "lunarsnake",
+    "name": "Lunar Snake",
+    "id": "6028426950047957932"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/gold-rush.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/gold-rush.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/gold-rush.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/gold-rush.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lunarsnake/models/gold-rush.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

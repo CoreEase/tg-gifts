@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cockcrow",
+  "name": "Cockcrow",
+  "customEmojiId": "5429263460179409721",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "jackinthebox",
+    "name": "Jack-in-the-Box",
+    "id": "6005659564635063386"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/cockcrow.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/cockcrow.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/cockcrow.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/cockcrow.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jackinthebox/models/cockcrow.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,104 @@
+name: Sync Telegram gift catalog and API
+
+on:
+  workflow_dispatch:
+    inputs:
+      refresh_media:
+        description: Re-download all model, pattern, and original assets
+        required: false
+        type: boolean
+        default: false
+  schedule:
+    - cron: '17 4 * * 1'
+
+concurrency:
+  group: tg-gifts-weekly-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Verify, sync, and build static API
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+    outputs:
+      pages_enabled: ${{ steps.pages-flag.outputs.enabled }}
+    steps:
+      - name: Check out default branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install TypeScript for the type check
+        run: npm install --no-package-lock --ignore-scripts --no-audit --no-fund
+
+      - name: Validate script syntax
+        run: node --check script/sync-gifts.mjs
+
+      - name: Sync complete catalog and assets
+        env:
+          REFRESH_MEDIA: ${{ github.event_name == 'workflow_dispatch' && inputs.refresh_media || false }}
+          ASSET_DOWNLOAD_CONCURRENCY: '6'
+          GITHUB_PAGES_BASE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          ASSET_PUBLIC_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main
+        run: |
+          if [[ "$REFRESH_MEDIA" == "true" ]]; then
+            node script/sync-gifts.mjs --refresh
+          else
+            node script/sync-gifts.mjs
+          fi
+
+      - name: Type-check generated TypeScript
+        run: npm run typecheck
+
+      - name: Record whether GitHub Pages is enabled
+        id: pages-flag
+        run: echo "enabled=${{ github.event.repository.has_pages }}" >> "$GITHUB_OUTPUT"
+
+      - name: Commit synchronized catalog and API
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- .gitignore docs gifts index.ts package.json script types.ts .github/workflows
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: sync gift catalog and API"
+          else
+            echo "Catalog, assets, and API are already up to date."
+          fi
+          git fetch origin "$DEFAULT_BRANCH"
+          git rebase "origin/$DEFAULT_BRANCH"
+          npm run typecheck
+          if [[ "$(git rev-list --count "origin/${DEFAULT_BRANCH}..HEAD")" -gt 0 ]]; then
+            git push origin "HEAD:${DEFAULT_BRANCH}"
+          fi
+
+      - name: Upload API site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+  publish-pages:
+    name: Publish API to GitHub Pages when enabled
+    needs: sync
+    if: needs.sync.outputs.pages_enabled == 'true'
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+      contents: read
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy docs artifact
+        id: deployment
+        uses: actions/deploy-pages@v4

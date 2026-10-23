@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "macintosh",
+  "name": "Macintosh",
+  "customEmojiId": "5456183859924199993",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "durovscap",
+    "name": "Durov's Cap",
+    "id": "5915521180483191380"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/macintosh.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/macintosh.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/macintosh.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/macintosh.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/macintosh.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

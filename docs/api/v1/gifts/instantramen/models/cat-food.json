@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cat-food",
+  "name": "Cat Food",
+  "customEmojiId": "6001588738797346719",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "instantramen",
+    "name": "Instant Ramen",
+    "id": "6005564615793050414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/cat-food.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/cat-food.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/cat-food.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/instantramen/assets/models/cat-food.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/instantramen/models/cat-food.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

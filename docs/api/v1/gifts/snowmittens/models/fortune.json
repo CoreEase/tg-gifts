@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fortune",
+  "name": "Fortune",
+  "customEmojiId": "5248994573140646908",
+  "rarityPermille": 4,
+  "originalRarityPermille": 4,
+  "rarity": 0.4,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "snowmittens",
+    "name": "Snow Mittens",
+    "id": "5980789805615678057"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/fortune.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/fortune.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/fortune.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/fortune.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowmittens/models/fortune.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "egghead",
+  "name": "Egghead",
+  "customEmojiId": "5199890598592539738",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "easteregg",
+    "name": "Easter Egg",
+    "id": "5773668482394620318"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/egghead.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/egghead.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/egghead.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/egghead.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/egghead.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

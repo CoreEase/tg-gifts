@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "happy-face",
+  "name": "Happy Face",
+  "customEmojiId": "5438478299628079875",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "snoopcigar",
+    "name": "Snoop Cigar",
+    "id": "6012435906336654262"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/happy-face.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/happy-face.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/happy-face.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/happy-face.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snoopcigar/models/happy-face.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

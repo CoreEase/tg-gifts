@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sea-horse",
+  "name": "Sea Horse",
+  "customEmojiId": "5339370597833024198",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "chillflame",
+    "name": "Chill Flame",
+    "id": "5999277561060787166"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/sea-horse.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/sea-horse.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/sea-horse.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/sea-horse.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/chillflame/models/sea-horse.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

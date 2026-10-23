@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "mouthwash",
+  "name": "Mouthwash",
+  "customEmojiId": "5292041767628073717",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "lovepotion",
+    "name": "Love Potion",
+    "id": "5868348541058942091"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mouthwash.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mouthwash.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mouthwash.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mouthwash.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/mouthwash.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "burn-book",
+  "name": "Burn Book",
+  "customEmojiId": "5337285107742973333",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "timelessbook",
+    "name": "Timeless Book",
+    "id": "5886387158889005864"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/burn-book.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/burn-book.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/burn-book.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/burn-book.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/timelessbook/models/burn-book.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

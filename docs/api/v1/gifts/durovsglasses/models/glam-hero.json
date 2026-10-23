@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "glam-hero",
+  "name": "Glam Hero",
+  "customEmojiId": "5420195156424958623",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "durovsglasses",
+    "name": "Durov's Glasses",
+    "id": "5834651202612102354"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/glam-hero.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/glam-hero.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/glam-hero.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/glam-hero.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovsglasses/models/glam-hero.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

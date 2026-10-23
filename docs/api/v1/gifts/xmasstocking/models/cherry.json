@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cherry",
+  "name": "Cherry",
+  "customEmojiId": "5269251941011061647",
+  "rarityPermille": 22,
+  "originalRarityPermille": 22,
+  "rarity": 2.2,
+  "originalRarity": 2.2,
+  "gift": {
+    "slug": "xmasstocking",
+    "name": "Xmas Stocking",
+    "id": "6003767644426076664"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/xmasstocking/assets/models/cherry.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/xmasstocking/assets/models/cherry.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/xmasstocking/assets/models/cherry.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/xmasstocking/assets/models/cherry.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/xmasstocking/models/cherry.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

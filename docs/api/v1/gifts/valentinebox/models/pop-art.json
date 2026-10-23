@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pop-art",
+  "name": "Pop Art",
+  "customEmojiId": "5999328950344490048",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "valentinebox",
+    "name": "Valentine Box",
+    "id": "5868595669182186720"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/pop-art.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/pop-art.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/pop-art.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/pop-art.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/valentinebox/models/pop-art.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

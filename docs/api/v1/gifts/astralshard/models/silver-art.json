@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "silver-art",
+  "name": "Silver Art",
+  "customEmojiId": "5251724634742616173",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "astralshard",
+    "name": "Astral Shard",
+    "id": "5933629604416717361"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/silver-art.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/silver-art.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/silver-art.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/silver-art.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/models/silver-art.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

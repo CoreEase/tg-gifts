@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold-bar",
+  "name": "Gold Bar",
+  "customEmojiId": "5249345489148600284",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "cookieheart",
+    "name": "Cookie Heart",
+    "id": "6001538689543439169"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/gold-bar.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/gold-bar.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/gold-bar.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/gold-bar.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cookieheart/models/gold-bar.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

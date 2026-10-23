@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "renegade",
+  "name": "Renegade",
+  "customEmojiId": "5355093734369308126",
+  "rarityPermille": 8,
+  "originalRarityPermille": 10,
+  "rarity": 0.8,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "resistancedog",
+    "name": "Resistance Dog",
+    "id": "5832279504491381684"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/renegade.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/renegade.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/renegade.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/renegade.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/resistancedog/models/renegade.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

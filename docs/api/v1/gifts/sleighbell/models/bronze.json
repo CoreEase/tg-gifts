@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bronze",
+  "name": "Bronze",
+  "customEmojiId": "5318860136129785293",
+  "rarityPermille": 40,
+  "originalRarityPermille": 40,
+  "rarity": 4,
+  "originalRarity": 4,
+  "gift": {
+    "slug": "sleighbell",
+    "name": "Sleigh Bell",
+    "id": "5981026247860290310"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/bronze.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/bronze.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/bronze.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/bronze.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sleighbell/models/bronze.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

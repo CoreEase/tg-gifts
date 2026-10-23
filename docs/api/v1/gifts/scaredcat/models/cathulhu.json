@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cathulhu",
+  "name": "Cathulhu",
+  "customEmojiId": "5456136048348258952",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "scaredcat",
+    "name": "Scared Cat",
+    "id": "5837059369300132790"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/cathulhu.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/cathulhu.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/cathulhu.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/cathulhu.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/scaredcat/models/cathulhu.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

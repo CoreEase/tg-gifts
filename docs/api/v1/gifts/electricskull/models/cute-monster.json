@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cute-monster",
+  "name": "Cute Monster",
+  "customEmojiId": "5354980609225683452",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "electricskull",
+    "name": "Electric Skull",
+    "id": "5846192273657692751"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/cute-monster.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/cute-monster.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/cute-monster.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/cute-monster.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/electricskull/models/cute-monster.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

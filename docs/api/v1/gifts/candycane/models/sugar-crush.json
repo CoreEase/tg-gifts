@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sugar-crush",
+  "name": "Sugar Crush",
+  "customEmojiId": "5354929602194074856",
+  "rarityPermille": 26,
+  "originalRarityPermille": 26,
+  "rarity": 2.6,
+  "originalRarity": 2.6,
+  "gift": {
+    "slug": "candycane",
+    "name": "Candy Cane",
+    "id": "6003373314888696650"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/sugar-crush.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/sugar-crush.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/sugar-crush.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/sugar-crush.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/models/sugar-crush.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "arrakis",
+  "name": "Arrakis",
+  "customEmojiId": "5357309443572802913",
+  "rarityPermille": 9,
+  "originalRarityPermille": 10,
+  "rarity": 0.9,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "resistancedog",
+    "name": "Resistance Dog",
+    "id": "5832279504491381684"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/arrakis.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/arrakis.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/arrakis.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/models/arrakis.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/resistancedog/models/arrakis.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

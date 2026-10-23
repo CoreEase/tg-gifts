@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "doge",
+  "name": "DOGE",
+  "customEmojiId": "5350797160755536675",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "luckylocket",
+    "name": "Lucky Locket",
+    "id": "5872744075014177223"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/doge.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/doge.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/doge.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/doge.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/luckylocket/models/doge.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

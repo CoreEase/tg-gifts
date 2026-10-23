@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "frosted",
+  "name": "Frosted",
+  "customEmojiId": "5251738077990253534",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "bunnymuffin",
+    "name": "Bunny Muffin",
+    "id": "5935936766358847989"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/frosted.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/frosted.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/frosted.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bunnymuffin/assets/models/frosted.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bunnymuffin/models/frosted.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

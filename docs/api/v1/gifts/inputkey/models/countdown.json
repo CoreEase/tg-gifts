@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "countdown",
+  "name": "Countdown",
+  "customEmojiId": "5307726653185620431",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "inputkey",
+    "name": "Input Key",
+    "id": "5870972044522291836"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/countdown.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/countdown.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/countdown.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/countdown.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/countdown.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

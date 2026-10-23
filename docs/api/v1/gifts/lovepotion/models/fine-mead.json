@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fine-mead",
+  "name": "Fine Mead",
+  "customEmojiId": "5294415467203552719",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lovepotion",
+    "name": "Love Potion",
+    "id": "5868348541058942091"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fine-mead.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fine-mead.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fine-mead.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fine-mead.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/fine-mead.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

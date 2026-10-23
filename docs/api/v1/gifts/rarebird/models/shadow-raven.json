@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "shadow-raven",
+  "name": "Shadow Raven",
+  "customEmojiId": "5195129932287611384",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "rarebird",
+    "name": "Rare Bird",
+    "id": "5999116401002939514"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/shadow-raven.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/shadow-raven.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/shadow-raven.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/rarebird/assets/models/shadow-raven.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/rarebird/models/shadow-raven.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

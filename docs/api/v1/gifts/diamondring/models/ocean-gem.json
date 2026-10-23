@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ocean-gem",
+  "name": "Ocean Gem",
+  "customEmojiId": "5292079619174852549",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "diamondring",
+    "name": "Diamond Ring",
+    "id": "5868503709637411929"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/ocean-gem.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/ocean-gem.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/ocean-gem.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/ocean-gem.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/diamondring/models/ocean-gem.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

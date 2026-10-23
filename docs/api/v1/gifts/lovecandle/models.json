@@ -1,0 +1,1173 @@
+{
+  "gift": {
+    "slug": "lovecandle",
+    "name": "Love Candles",
+    "apiName": "Love Candle",
+    "id": "5915550639663874519",
+    "count": 3305,
+    "modelCount": 50,
+    "patternCount": 189,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/patterns.json"
+  },
+  "count": 50,
+  "items": [
+    {
+      "type": "model",
+      "slug": "blood-burner",
+      "name": "Blood Burner",
+      "customEmojiId": "5247058779840736769",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/blood-burner.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/blood-burner.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/blood-burner.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/blood-burner.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/blood-burner.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cyberpunk",
+      "name": "Cyberpunk",
+      "customEmojiId": "5249272835481820881",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/cyberpunk.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/cyberpunk.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/cyberpunk.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/cyberpunk.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/cyberpunk.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "harvest",
+      "name": "Harvest",
+      "customEmojiId": "5249372027751525195",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/harvest.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/harvest.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/harvest.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/harvest.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/harvest.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "iceberg",
+      "name": "Iceberg",
+      "customEmojiId": "5249094899281716118",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/iceberg.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/iceberg.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/iceberg.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/iceberg.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/iceberg.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "love-bubbles",
+      "name": "Love Bubbles",
+      "customEmojiId": "5249502225390134814",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/love-bubbles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/love-bubbles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/love-bubbles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/love-bubbles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/love-bubbles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mistletoe",
+      "name": "Mistletoe",
+      "customEmojiId": "5249423434215089049",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mistletoe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mistletoe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mistletoe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mistletoe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/mistletoe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "moonlight",
+      "name": "Moonlight",
+      "customEmojiId": "5246859514833040001",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/moonlight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/moonlight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/moonlight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/moonlight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/moonlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "north-pole",
+      "name": "North Pole",
+      "customEmojiId": "5246982290768160116",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/north-pole.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/north-pole.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/north-pole.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/north-pole.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/north-pole.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "phantom",
+      "name": "Phantom",
+      "customEmojiId": "5249026115380469671",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/phantom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/phantom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/phantom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/phantom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/phantom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pure-lavender",
+      "name": "Pure Lavender",
+      "customEmojiId": "5247039435308034294",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/pure-lavender.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/pure-lavender.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/pure-lavender.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/pure-lavender.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/pure-lavender.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vivid-foam",
+      "name": "Vivid Foam",
+      "customEmojiId": "5249183654780892230",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/vivid-foam.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/vivid-foam.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/vivid-foam.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/vivid-foam.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/vivid-foam.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "waikiki",
+      "name": "Waikiki",
+      "customEmojiId": "5246958505239277572",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/waikiki.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/waikiki.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/waikiki.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/waikiki.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/waikiki.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bronzed-ember",
+      "name": "Bronzed Ember",
+      "customEmojiId": "5249393365149050189",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/bronzed-ember.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/bronzed-ember.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/bronzed-ember.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/bronzed-ember.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/bronzed-ember.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-glow",
+      "name": "Golden Glow",
+      "customEmojiId": "5249098313780716908",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/golden-glow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/golden-glow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/golden-glow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/golden-glow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/golden-glow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gouda-wax",
+      "name": "Gouda Wax",
+      "customEmojiId": "5246869831344484983",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gouda-wax.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gouda-wax.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gouda-wax.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gouda-wax.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/gouda-wax.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silverstone",
+      "name": "Silverstone",
+      "customEmojiId": "5246917544136174170",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/silverstone.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/silverstone.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/silverstone.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/silverstone.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/silverstone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blue-vapor",
+      "name": "Blue Vapor",
+      "customEmojiId": "5249398441800395531",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/blue-vapor.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/blue-vapor.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/blue-vapor.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/blue-vapor.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/blue-vapor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "celebrity",
+      "name": "Celebrity",
+      "customEmojiId": "5247059024653874193",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/celebrity.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/celebrity.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/celebrity.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/celebrity.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/celebrity.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cloud",
+      "name": "Cloud",
+      "customEmojiId": "5249147323652529240",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/cloud.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/cloud.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/cloud.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/cloud.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/cloud.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gothic-tears",
+      "name": "Gothic Tears",
+      "customEmojiId": "5249158387488287903",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gothic-tears.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gothic-tears.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gothic-tears.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gothic-tears.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/gothic-tears.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rose-garden",
+      "name": "Rose Garden",
+      "customEmojiId": "5249248762190128632",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/rose-garden.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/rose-garden.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/rose-garden.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/rose-garden.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/rose-garden.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "surprise",
+      "name": "Surprise",
+      "customEmojiId": "5249264726583568601",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/surprise.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/surprise.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/surprise.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/surprise.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/surprise.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "noir-blanc",
+      "name": "Noir & Blanc",
+      "customEmojiId": "5249492059202546772",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/noir-blanc.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/noir-blanc.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/noir-blanc.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/noir-blanc.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/noir-blanc.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vibrant-trio",
+      "name": "Vibrant Trio",
+      "customEmojiId": "5248971973022736141",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/vibrant-trio.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/vibrant-trio.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/vibrant-trio.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/vibrant-trio.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/vibrant-trio.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-wax",
+      "name": "White Wax",
+      "customEmojiId": "5247049872078564390",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/white-wax.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/white-wax.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/white-wax.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/white-wax.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/white-wax.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "afterglow",
+      "name": "Afterglow",
+      "customEmojiId": "5249114892354478395",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/afterglow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/afterglow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/afterglow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/afterglow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/afterglow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "apricot",
+      "name": "Apricot",
+      "customEmojiId": "5248958156112947881",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/apricot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/apricot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/apricot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/apricot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/apricot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "arabian-night",
+      "name": "Arabian Night",
+      "customEmojiId": "5249162201419244609",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/arabian-night.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/arabian-night.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/arabian-night.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/arabian-night.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/arabian-night.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "celadon",
+      "name": "Celadon",
+      "customEmojiId": "5247111711017693631",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/celadon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/celadon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/celadon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/celadon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/celadon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "coral-reef",
+      "name": "Coral Reef",
+      "customEmojiId": "5247097559100451362",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/coral-reef.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/coral-reef.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/coral-reef.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/coral-reef.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/coral-reef.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crystal-dream",
+      "name": "Crystal Dream",
+      "customEmojiId": "5248945730772562589",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/crystal-dream.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/crystal-dream.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/crystal-dream.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/crystal-dream.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/crystal-dream.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dreamscape",
+      "name": "Dreamscape",
+      "customEmojiId": "5249063120818691070",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/dreamscape.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/dreamscape.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/dreamscape.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/dreamscape.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/dreamscape.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gentle-wind",
+      "name": "Gentle Wind",
+      "customEmojiId": "5249234322510078369",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gentle-wind.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gentle-wind.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gentle-wind.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gentle-wind.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/gentle-wind.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gray-smoke",
+      "name": "Gray Smoke",
+      "customEmojiId": "5249483795685464933",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gray-smoke.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gray-smoke.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gray-smoke.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/gray-smoke.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/gray-smoke.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "herbal-bliss",
+      "name": "Herbal Bliss",
+      "customEmojiId": "5249379131627431679",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/herbal-bliss.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/herbal-bliss.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/herbal-bliss.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/herbal-bliss.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/herbal-bliss.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "midnight-rose",
+      "name": "Midnight Rose",
+      "customEmojiId": "5249278285795322743",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/midnight-rose.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/midnight-rose.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/midnight-rose.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/midnight-rose.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/midnight-rose.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mulberry",
+      "name": "Mulberry",
+      "customEmojiId": "5249253280495723072",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mulberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mulberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mulberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mulberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/mulberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mykonos",
+      "name": "Mykonos",
+      "customEmojiId": "5249098807701956320",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mykonos.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mykonos.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mykonos.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/mykonos.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/mykonos.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nectarine",
+      "name": "Nectarine",
+      "customEmojiId": "5249152267159891347",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/nectarine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/nectarine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/nectarine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/nectarine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/nectarine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ocean-breeze",
+      "name": "Ocean Breeze",
+      "customEmojiId": "5249030436117568343",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/ocean-breeze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/ocean-breeze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/ocean-breeze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/ocean-breeze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/ocean-breeze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "passion",
+      "name": "Passion",
+      "customEmojiId": "5247023312000806213",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/passion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/passion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/passion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/passion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/passion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peach-perfume",
+      "name": "Peach Perfume",
+      "customEmojiId": "5249441159545116842",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/peach-perfume.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/peach-perfume.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/peach-perfume.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/peach-perfume.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/peach-perfume.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "porcelain",
+      "name": "Porcelain",
+      "customEmojiId": "5249155428255817911",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/porcelain.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/porcelain.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/porcelain.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/porcelain.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/porcelain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "serenity",
+      "name": "Serenity",
+      "customEmojiId": "5249240047701486172",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/serenity.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/serenity.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/serenity.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/serenity.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/serenity.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "setting-sun",
+      "name": "Setting Sun",
+      "customEmojiId": "5247037725911053699",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/setting-sun.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/setting-sun.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/setting-sun.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/setting-sun.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/setting-sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-temple",
+      "name": "Silver Temple",
+      "customEmojiId": "5248980176410273390",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/silver-temple.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/silver-temple.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/silver-temple.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/silver-temple.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/silver-temple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "timber-glow",
+      "name": "Timber Glow",
+      "customEmojiId": "5249102497078862867",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/timber-glow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/timber-glow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/timber-glow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/timber-glow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/timber-glow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tropical-rain",
+      "name": "Tropical Rain",
+      "customEmojiId": "5249399077455554393",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/tropical-rain.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/tropical-rain.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/tropical-rain.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/tropical-rain.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/tropical-rain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "twilight",
+      "name": "Twilight",
+      "customEmojiId": "5246995837095015321",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/twilight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/twilight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/twilight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/twilight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/twilight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zen-garden",
+      "name": "Zen Garden",
+      "customEmojiId": "5248967927163546617",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lovecandle",
+        "name": "Love Candle",
+        "id": "5915550639663874519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/zen-garden.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/zen-garden.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/zen-garden.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/zen-garden.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/zen-garden.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

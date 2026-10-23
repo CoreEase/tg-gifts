@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "strawberry",
+  "name": "Strawberry",
+  "customEmojiId": "5357338971472949441",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "nekohelmet",
+    "name": "Neko Helmet",
+    "id": "5933793770951673155"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/strawberry.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/strawberry.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/strawberry.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/strawberry.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/nekohelmet/models/strawberry.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "celestara",
+  "name": "Celestara",
+  "customEmojiId": "5319244162040621627",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "sakuraflower",
+    "name": "Sakura Flower",
+    "id": "5167939598143193218"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/celestara.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/celestara.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/celestara.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/celestara.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/celestara.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

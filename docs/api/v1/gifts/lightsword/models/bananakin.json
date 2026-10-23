@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bananakin",
+  "name": "Bananakin",
+  "customEmojiId": "5287386804763257848",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "lightsword",
+    "name": "Light Sword",
+    "id": "5897581235231785485"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bananakin.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bananakin.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bananakin.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bananakin.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/bananakin.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

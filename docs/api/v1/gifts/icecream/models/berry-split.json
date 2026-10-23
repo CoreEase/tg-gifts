@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "berry-split",
+  "name": "Berry Split",
+  "customEmojiId": "6001148852541857200",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "icecream",
+    "name": "Ice Cream",
+    "id": "5900177027566142759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/berry-split.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/berry-split.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/berry-split.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/berry-split.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/berry-split.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

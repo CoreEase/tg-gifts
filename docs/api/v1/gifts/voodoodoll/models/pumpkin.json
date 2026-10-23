@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pumpkin",
+  "name": "Pumpkin",
+  "customEmojiId": "5251611427994622756",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "voodoodoll",
+    "name": "Voodoo Doll",
+    "id": "5836780359634649414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/voodoodoll/assets/models/pumpkin.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/voodoodoll/assets/models/pumpkin.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/voodoodoll/assets/models/pumpkin.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/voodoodoll/assets/models/pumpkin.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/voodoodoll/models/pumpkin.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

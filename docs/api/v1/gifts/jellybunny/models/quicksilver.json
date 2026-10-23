@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "quicksilver",
+  "name": "Quicksilver",
+  "customEmojiId": "5456426018770280998",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "jellybunny",
+    "name": "Jelly Bunny",
+    "id": "5915502858152706668"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/quicksilver.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/quicksilver.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/quicksilver.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/quicksilver.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jellybunny/models/quicksilver.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

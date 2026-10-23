@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "trailer",
+  "name": "Trailer",
+  "customEmojiId": "5262877582478564705",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "minioscar",
+    "name": "Mini Oscar",
+    "id": "5879737836550226478"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/trailer.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/trailer.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/trailer.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/trailer.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/trailer.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

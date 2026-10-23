@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "blue-parrot",
+  "name": "Blue Parrot",
+  "customEmojiId": "5879942032180387169",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "heroichelmet",
+    "name": "Heroic Helmet",
+    "id": "5895328365971244193"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/blue-parrot.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/blue-parrot.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/blue-parrot.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/blue-parrot.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heroichelmet/models/blue-parrot.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

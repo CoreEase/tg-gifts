@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pigeon",
+  "name": "Pigeon",
+  "customEmojiId": "6003713244370311658",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "icecream",
+    "name": "Ice Cream",
+    "id": "5900177027566142759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pigeon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pigeon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pigeon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/icecream/assets/models/pigeon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/icecream/models/pigeon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

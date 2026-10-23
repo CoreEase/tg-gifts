@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "energon",
+  "name": "Energon",
+  "customEmojiId": "5262802274522002271",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "iongem",
+    "name": "Ion Gem",
+    "id": "5843762284240831056"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/iongem/assets/models/energon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/iongem/assets/models/energon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/iongem/assets/models/energon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/iongem/assets/models/energon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/iongem/models/energon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

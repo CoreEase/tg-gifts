@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "lemon-cake",
+  "name": "Lemon Cake",
+  "customEmojiId": "5354956269646015687",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "winterwreath",
+    "name": "Winter Wreath",
+    "id": "5983259145522906006"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/lemon-cake.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/lemon-cake.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/lemon-cake.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/lemon-cake.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/models/lemon-cake.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

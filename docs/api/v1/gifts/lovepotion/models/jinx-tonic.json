@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "jinx-tonic",
+  "name": "Jinx Tonic",
+  "customEmojiId": "5292124995504336301",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "lovepotion",
+    "name": "Love Potion",
+    "id": "5868348541058942091"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/jinx-tonic.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/jinx-tonic.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/jinx-tonic.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/jinx-tonic.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/jinx-tonic.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

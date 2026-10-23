@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "wizard",
+  "name": "Wizard",
+  "customEmojiId": "5292193611901857527",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "toybear",
+    "name": "Toy Bear",
+    "id": "5868220813026526561"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/wizard.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/wizard.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/wizard.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/wizard.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/toybear/models/wizard.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

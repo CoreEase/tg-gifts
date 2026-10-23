@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "little-star",
+  "name": "Little Star",
+  "customEmojiId": "5456454159396003630",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "signetring",
+    "name": "Signet Ring",
+    "id": "5936085638515261992"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/little-star.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/little-star.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/little-star.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/little-star.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/signetring/models/little-star.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

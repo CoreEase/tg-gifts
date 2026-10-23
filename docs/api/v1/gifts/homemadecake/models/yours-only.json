@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "yours-only",
+  "name": "Yours Only",
+  "customEmojiId": "5456511325410714426",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "homemadecake",
+    "name": "Homemade Cake",
+    "id": "5783075783622787539"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/yours-only.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/yours-only.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/yours-only.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/homemadecake/assets/models/yours-only.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/homemadecake/models/yours-only.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

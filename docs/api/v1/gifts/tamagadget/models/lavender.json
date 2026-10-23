@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "lavender",
+  "name": "Lavender",
+  "customEmojiId": "5354783105154575896",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "tamagadget",
+    "name": "Tama Gadget",
+    "id": "6023752243218481939"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/lavender.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/lavender.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/lavender.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/lavender.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tamagadget/models/lavender.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

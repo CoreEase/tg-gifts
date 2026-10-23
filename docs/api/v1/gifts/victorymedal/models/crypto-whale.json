@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "crypto-whale",
+  "name": "Crypto Whale",
+  "customEmojiId": "5454129267828886924",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "victorymedal",
+    "name": "Victory Medal",
+    "id": "5830340739074097859"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/crypto-whale.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/crypto-whale.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/crypto-whale.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/crypto-whale.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/victorymedal/models/crypto-whale.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hextech",
+  "name": "Hextech",
+  "customEmojiId": "5253998729731534054",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "flyingbroom",
+    "name": "Flying Broom",
+    "id": "5837063436634161765"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/flyingbroom/assets/models/hextech.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/flyingbroom/assets/models/hextech.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/flyingbroom/assets/models/hextech.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/flyingbroom/assets/models/hextech.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/flyingbroom/models/hextech.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "calavera",
+  "name": "Calavera",
+  "customEmojiId": "5456625588720656270",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "skullflower",
+    "name": "Skull Flower",
+    "id": "5839038009193792264"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skullflower/assets/models/calavera.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skullflower/assets/models/calavera.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skullflower/assets/models/calavera.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skullflower/assets/models/calavera.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/skullflower/models/calavera.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

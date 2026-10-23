@@ -1,0 +1,1173 @@
+{
+  "gift": {
+    "slug": "holidaydrink",
+    "name": "Holiday Drinks",
+    "apiName": "Holiday Drink",
+    "id": "6003735372041814769",
+    "count": 6567,
+    "modelCount": 50,
+    "patternCount": 202,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/patterns.json"
+  },
+  "count": 50,
+  "items": [
+    {
+      "type": "model",
+      "slug": "gold-dust",
+      "name": "Gold Dust",
+      "customEmojiId": "5269340395862520400",
+      "rarityPermille": 1,
+      "originalRarityPermille": 1,
+      "rarity": 0.1,
+      "originalRarity": 0.1,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/gold-dust.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/gold-dust.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/gold-dust.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/gold-dust.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/gold-dust.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cyber-mix",
+      "name": "Cyber Mix",
+      "customEmojiId": "5269573406428266717",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cyber-mix.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cyber-mix.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cyber-mix.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cyber-mix.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/cyber-mix.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "brain-gum",
+      "name": "Brain Gum",
+      "customEmojiId": "5267502553586758923",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/brain-gum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/brain-gum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/brain-gum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/brain-gum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/brain-gum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "depresso",
+      "name": "Depresso",
+      "customEmojiId": "5269397450208078614",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/depresso.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/depresso.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/depresso.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/depresso.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/depresso.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honolulu",
+      "name": "Honolulu",
+      "customEmojiId": "5269215622767606205",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honolulu.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honolulu.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honolulu.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honolulu.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/honolulu.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ogre-latte",
+      "name": "Ogre Latte",
+      "customEmojiId": "5267244954333253124",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/ogre-latte.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/ogre-latte.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/ogre-latte.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/ogre-latte.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/ogre-latte.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pumpkin-juice",
+      "name": "Pumpkin Juice",
+      "customEmojiId": "5269694180908624962",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/pumpkin-juice.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/pumpkin-juice.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/pumpkin-juice.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/pumpkin-juice.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/pumpkin-juice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mermaid",
+      "name": "Mermaid",
+      "customEmojiId": "5269660078868295020",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mermaid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mermaid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mermaid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mermaid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/mermaid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "darkside",
+      "name": "Darkside",
+      "customEmojiId": "5266966159416129661",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/darkside.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/darkside.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/darkside.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/darkside.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/darkside.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fish-basket",
+      "name": "Fish Basket",
+      "customEmojiId": "5269657965744385817",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/fish-basket.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/fish-basket.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/fish-basket.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/fish-basket.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/fish-basket.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lizard-blood",
+      "name": "Lizard Blood",
+      "customEmojiId": "5269680797790536838",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lizard-blood.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lizard-blood.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lizard-blood.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lizard-blood.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/lizard-blood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "milky-way",
+      "name": "Milky Way",
+      "customEmojiId": "5267373910726310340",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/milky-way.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/milky-way.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/milky-way.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/milky-way.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/milky-way.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "emo-drip",
+      "name": "Emo Drip",
+      "customEmojiId": "5269330143775581761",
+      "rarityPermille": 9,
+      "originalRarityPermille": 9,
+      "rarity": 0.9,
+      "originalRarity": 0.9,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/emo-drip.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/emo-drip.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/emo-drip.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/emo-drip.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/emo-drip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "leprechaun",
+      "name": "Leprechaun",
+      "customEmojiId": "5267076759118970787",
+      "rarityPermille": 9,
+      "originalRarityPermille": 9,
+      "rarity": 0.9,
+      "originalRarity": 0.9,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/leprechaun.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/leprechaun.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/leprechaun.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/leprechaun.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/leprechaun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "checkmate",
+      "name": "Checkmate",
+      "customEmojiId": "5269736782689238253",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/checkmate.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/checkmate.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/checkmate.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/checkmate.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/checkmate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "toxic-waste",
+      "name": "Toxic Waste",
+      "customEmojiId": "5269760692772173809",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/toxic-waste.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/toxic-waste.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/toxic-waste.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/toxic-waste.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/toxic-waste.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "area-51",
+      "name": "Area 51",
+      "customEmojiId": "5267138434849342387",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/area-51.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/area-51.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/area-51.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/area-51.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/area-51.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blue-taser",
+      "name": "Blue Taser",
+      "customEmojiId": "5269563596722962280",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/blue-taser.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/blue-taser.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/blue-taser.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/blue-taser.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/blue-taser.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bowser-brew",
+      "name": "Bowser Brew",
+      "customEmojiId": "5267363345106763684",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/bowser-brew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/bowser-brew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/bowser-brew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/bowser-brew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/bowser-brew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mr-freeze",
+      "name": "Mr. Freeze",
+      "customEmojiId": "5269694971182610428",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mr-freeze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mr-freeze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mr-freeze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mr-freeze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/mr-freeze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crystal-shot",
+      "name": "Crystal Shot",
+      "customEmojiId": "5269423142702445845",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/crystal-shot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/crystal-shot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/crystal-shot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/crystal-shot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/crystal-shot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cubism",
+      "name": "Cubism",
+      "customEmojiId": "5269682266669347979",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cubism.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cubism.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cubism.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cubism.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/cubism.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fire-chariot",
+      "name": "Fire Chariot",
+      "customEmojiId": "5269740115583860199",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/fire-chariot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/fire-chariot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/fire-chariot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/fire-chariot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/fire-chariot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flaming-b-52",
+      "name": "Flaming B-52",
+      "customEmojiId": "5269403428802559105",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/flaming-b-52.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/flaming-b-52.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/flaming-b-52.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/flaming-b-52.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/flaming-b-52.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "love-potion",
+      "name": "Love Potion",
+      "customEmojiId": "5269419298706715713",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/love-potion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/love-potion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/love-potion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/love-potion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/love-potion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lucid-roast",
+      "name": "Lucid Roast",
+      "customEmojiId": "5269490135602325283",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lucid-roast.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lucid-roast.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lucid-roast.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lucid-roast.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/lucid-roast.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "candyman",
+      "name": "Candyman",
+      "customEmojiId": "5267075900125510234",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/candyman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/candyman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/candyman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/candyman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/candyman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stickers",
+      "name": "Stickers",
+      "customEmojiId": null,
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/stickers.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/stickers.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/stickers.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/stickers.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/stickers.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "berry-pixel",
+      "name": "Berry Pixel",
+      "customEmojiId": "5267160150203987646",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/berry-pixel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/berry-pixel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/berry-pixel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/berry-pixel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/berry-pixel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peach-latte",
+      "name": "Peach Latte",
+      "customEmojiId": "5269756372035072686",
+      "rarityPermille": 17,
+      "originalRarityPermille": 17,
+      "rarity": 1.7,
+      "originalRarity": 1.7,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/peach-latte.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/peach-latte.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/peach-latte.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/peach-latte.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/peach-latte.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "low-poly",
+      "name": "Low Poly",
+      "customEmojiId": "5267233804598148550",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/low-poly.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/low-poly.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/low-poly.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/low-poly.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/low-poly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "kiwi-box",
+      "name": "Kiwi Box",
+      "customEmojiId": "5269697530983115685",
+      "rarityPermille": 19,
+      "originalRarityPermille": 19,
+      "rarity": 1.9,
+      "originalRarity": 1.9,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/kiwi-box.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/kiwi-box.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/kiwi-box.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/kiwi-box.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/kiwi-box.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "orange-ghost",
+      "name": "Orange Ghost",
+      "customEmojiId": "5266965029839731083",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/orange-ghost.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/orange-ghost.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/orange-ghost.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/orange-ghost.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/orange-ghost.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-fuchsia",
+      "name": "Hot Fuchsia",
+      "customEmojiId": "5269693016972487081",
+      "rarityPermille": 26,
+      "originalRarityPermille": 26,
+      "rarity": 2.6,
+      "originalRarity": 2.6,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hot-fuchsia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hot-fuchsia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hot-fuchsia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hot-fuchsia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/hot-fuchsia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cotton-candy",
+      "name": "Cotton Candy",
+      "customEmojiId": "5267463319060511567",
+      "rarityPermille": 27,
+      "originalRarityPermille": 27,
+      "rarity": 2.7,
+      "originalRarity": 2.7,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cotton-candy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cotton-candy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cotton-candy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/cotton-candy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/cotton-candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honeyfire",
+      "name": "Honeyfire",
+      "customEmojiId": "5267312398204699458",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honeyfire.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honeyfire.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honeyfire.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honeyfire.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/honeyfire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ginger-joker",
+      "name": "Ginger Joker",
+      "customEmojiId": "5269477173391029102",
+      "rarityPermille": 31,
+      "originalRarityPermille": 31,
+      "rarity": 3.1,
+      "originalRarity": 3.1,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/ginger-joker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/ginger-joker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/ginger-joker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/ginger-joker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/ginger-joker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "matcha",
+      "name": "Matcha",
+      "customEmojiId": "5269769944131728569",
+      "rarityPermille": 32,
+      "originalRarityPermille": 32,
+      "rarity": 3.2,
+      "originalRarity": 3.2,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/matcha.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/matcha.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/matcha.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/matcha.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/matcha.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hibiscus-tea",
+      "name": "Hibiscus Tea",
+      "customEmojiId": "5269262742853810364",
+      "rarityPermille": 33,
+      "originalRarityPermille": 33,
+      "rarity": 3.3,
+      "originalRarity": 3.3,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hibiscus-tea.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hibiscus-tea.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hibiscus-tea.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hibiscus-tea.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/hibiscus-tea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lavender-tea",
+      "name": "Lavender Tea",
+      "customEmojiId": "5267100643432102521",
+      "rarityPermille": 34,
+      "originalRarityPermille": 34,
+      "rarity": 3.4,
+      "originalRarity": 3.4,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lavender-tea.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lavender-tea.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lavender-tea.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/lavender-tea.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/lavender-tea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "moonberry",
+      "name": "Moonberry",
+      "customEmojiId": "5269440099233330242",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/moonberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/moonberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/moonberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/moonberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/moonberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "marigold",
+      "name": "Marigold",
+      "customEmojiId": "5267026958973174940",
+      "rarityPermille": 36,
+      "originalRarityPermille": 36,
+      "rarity": 3.6,
+      "originalRarity": 3.6,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/marigold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/marigold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/marigold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/marigold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/marigold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "citrus",
+      "name": "Citrus",
+      "customEmojiId": "5267234006461609610",
+      "rarityPermille": 37,
+      "originalRarityPermille": 37,
+      "rarity": 3.7,
+      "originalRarity": 3.7,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/citrus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/citrus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/citrus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/citrus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/citrus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubblegum",
+      "name": "Bubblegum",
+      "customEmojiId": "5267017329656493677",
+      "rarityPermille": 39,
+      "originalRarityPermille": 39,
+      "rarity": 3.9,
+      "originalRarity": 3.9,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/bubblegum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/bubblegum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/bubblegum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/bubblegum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/bubblegum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "choco-mint",
+      "name": "Choco Mint",
+      "customEmojiId": "5269300053234712159",
+      "rarityPermille": 45,
+      "originalRarityPermille": 45,
+      "rarity": 4.5,
+      "originalRarity": 4.5,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/choco-mint.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/choco-mint.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/choco-mint.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/choco-mint.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/choco-mint.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "black-russian",
+      "name": "Black Russian",
+      "customEmojiId": "5267485262048426365",
+      "rarityPermille": 47,
+      "originalRarityPermille": 47,
+      "rarity": 4.7,
+      "originalRarity": 4.7,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/black-russian.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/black-russian.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/black-russian.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/black-russian.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/black-russian.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rose-velvet",
+      "name": "Rose Velvet",
+      "customEmojiId": "5269425298776025077",
+      "rarityPermille": 48,
+      "originalRarityPermille": 48,
+      "rarity": 4.8,
+      "originalRarity": 4.8,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/rose-velvet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/rose-velvet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/rose-velvet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/rose-velvet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/rose-velvet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "banana-split",
+      "name": "Banana Split",
+      "customEmojiId": "5269536216306447589",
+      "rarityPermille": 49,
+      "originalRarityPermille": 49,
+      "rarity": 4.9,
+      "originalRarity": 4.9,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/banana-split.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/banana-split.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/banana-split.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/banana-split.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/banana-split.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mango-blast",
+      "name": "Mango Blast",
+      "customEmojiId": "5267421894100941882",
+      "rarityPermille": 49,
+      "originalRarityPermille": 49,
+      "rarity": 4.9,
+      "originalRarity": 4.9,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mango-blast.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mango-blast.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mango-blast.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/mango-blast.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/mango-blast.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "apple-mousse",
+      "name": "Apple Mousse",
+      "customEmojiId": "5267100875360336185",
+      "rarityPermille": 50,
+      "originalRarityPermille": 50,
+      "rarity": 5,
+      "originalRarity": 5,
+      "gift": {
+        "slug": "holidaydrink",
+        "name": "Holiday Drink",
+        "id": "6003735372041814769"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/apple-mousse.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/apple-mousse.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/apple-mousse.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/apple-mousse.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/apple-mousse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

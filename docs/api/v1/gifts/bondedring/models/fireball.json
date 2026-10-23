@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fireball",
+  "name": "Fireball",
+  "customEmojiId": "5269760164491198904",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "bondedring",
+    "name": "Bonded Ring",
+    "id": "5870661333703197240"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/fireball.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/fireball.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/fireball.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/fireball.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/fireball.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "copper-clock",
+  "name": "Copper Clock",
+  "customEmojiId": "5253950514428667276",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "swisswatch",
+    "name": "Swiss Watch",
+    "id": "5936043693864651359"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/copper-clock.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/copper-clock.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/copper-clock.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/copper-clock.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swisswatch/models/copper-clock.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

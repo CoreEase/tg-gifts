@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "blue-sky",
+  "name": "Blue Sky",
+  "customEmojiId": "5262529080242238936",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "minioscar",
+    "name": "Mini Oscar",
+    "id": "5879737836550226478"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-sky.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-sky.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-sky.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-sky.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/blue-sky.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

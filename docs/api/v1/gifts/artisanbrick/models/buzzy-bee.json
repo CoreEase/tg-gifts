@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "buzzy-bee",
+  "name": "Buzzy Bee",
+  "customEmojiId": "5309751421028042661",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "artisanbrick",
+    "name": "Artisan Brick",
+    "id": "6005797617768858105"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/buzzy-bee.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/buzzy-bee.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/buzzy-bee.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/artisanbrick/assets/models/buzzy-bee.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/artisanbrick/models/buzzy-bee.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

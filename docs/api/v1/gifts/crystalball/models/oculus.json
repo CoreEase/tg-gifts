@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "oculus",
+  "name": "Oculus",
+  "customEmojiId": "5255773096685627278",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "crystalball",
+    "name": "Crystal Ball",
+    "id": "5841336413697606412"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/oculus.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/oculus.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/oculus.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/crystalball/assets/models/oculus.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/crystalball/models/oculus.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

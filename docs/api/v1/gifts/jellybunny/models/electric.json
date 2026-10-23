@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "electric",
+  "name": "Electric",
+  "customEmojiId": "5460752828953812205",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "jellybunny",
+    "name": "Jelly Bunny",
+    "id": "5915502858152706668"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/electric.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/electric.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/electric.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/electric.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jellybunny/models/electric.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

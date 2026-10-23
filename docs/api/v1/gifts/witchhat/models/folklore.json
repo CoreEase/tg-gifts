@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "folklore",
+  "name": "Folklore",
+  "customEmojiId": "5395627599894441220",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "witchhat",
+    "name": "Witch Hat",
+    "id": "5821384757304362229"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/witchhat/assets/models/folklore.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/witchhat/assets/models/folklore.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/witchhat/assets/models/folklore.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/witchhat/assets/models/folklore.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/witchhat/models/folklore.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

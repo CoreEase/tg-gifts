@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "honeymoon",
+  "name": "Honeymoon",
+  "customEmojiId": "5249116769255189868",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "cookieheart",
+    "name": "Cookie Heart",
+    "id": "6001538689543439169"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/honeymoon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/honeymoon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/honeymoon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/honeymoon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cookieheart/models/honeymoon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

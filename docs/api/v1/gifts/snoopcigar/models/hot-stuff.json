@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hot-stuff",
+  "name": "Hot Stuff",
+  "customEmojiId": "5438476242338741533",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "snoopcigar",
+    "name": "Snoop Cigar",
+    "id": "6012435906336654262"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/hot-stuff.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/hot-stuff.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/hot-stuff.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopcigar/assets/models/hot-stuff.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snoopcigar/models/hot-stuff.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

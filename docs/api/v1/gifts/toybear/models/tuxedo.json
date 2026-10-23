@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "tuxedo",
+  "name": "Tuxedo",
+  "customEmojiId": "5294055974145910519",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "toybear",
+    "name": "Toy Bear",
+    "id": "5868220813026526561"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/tuxedo.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/tuxedo.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/tuxedo.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/tuxedo.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/toybear/models/tuxedo.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

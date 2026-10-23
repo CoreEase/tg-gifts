@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "banana-split",
+  "name": "Banana Split",
+  "customEmojiId": "5269536216306447589",
+  "rarityPermille": 49,
+  "originalRarityPermille": 49,
+  "rarity": 4.9,
+  "originalRarity": 4.9,
+  "gift": {
+    "slug": "holidaydrink",
+    "name": "Holiday Drink",
+    "id": "6003735372041814769"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/banana-split.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/banana-split.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/banana-split.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/banana-split.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/banana-split.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

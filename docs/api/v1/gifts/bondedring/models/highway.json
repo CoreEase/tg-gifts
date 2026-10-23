@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "highway",
+  "name": "Highway",
+  "customEmojiId": "5269520921927907595",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "bondedring",
+    "name": "Bonded Ring",
+    "id": "5870661333703197240"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/highway.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/highway.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/highway.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/highway.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/highway.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

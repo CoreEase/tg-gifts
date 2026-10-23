@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sticky-sweet",
+  "name": "Sticky Sweet",
+  "customEmojiId": "5355058498457595359",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "candycane",
+    "name": "Candy Cane",
+    "id": "6003373314888696650"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/sticky-sweet.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/sticky-sweet.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/sticky-sweet.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/sticky-sweet.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/models/sticky-sweet.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

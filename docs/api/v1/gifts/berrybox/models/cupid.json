@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cupid",
+  "name": "Cupid",
+  "customEmojiId": "5456119190601622899",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "berrybox",
+    "name": "Berry Box",
+    "id": "5882252952218894938"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/cupid.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/cupid.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/cupid.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/cupid.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/cupid.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

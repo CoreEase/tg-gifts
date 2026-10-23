@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ancient-gold",
+  "name": "Ancient Gold",
+  "customEmojiId": "5881937753158981607",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "heroichelmet",
+    "name": "Heroic Helmet",
+    "id": "5895328365971244193"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/ancient-gold.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/ancient-gold.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/ancient-gold.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/ancient-gold.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heroichelmet/models/ancient-gold.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,2921 @@
+{
+  "gift": {
+    "slug": "santahat",
+    "name": "Santa Hats",
+    "apiName": "Santa Hat",
+    "id": "5983471780763796287",
+    "count": 12691,
+    "modelCount": 70,
+    "patternCount": 138,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns.json"
+  },
+  "count": 138,
+  "items": [
+    {
+      "type": "pattern",
+      "slug": "alarm",
+      "name": "Alarm",
+      "customEmojiId": "5199575713065239188",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/alarm.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/alarm.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/alarm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "avocado",
+      "name": "Avocado",
+      "customEmojiId": "5199464318793453067",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/avocado.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/avocado.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/avocado.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ball",
+      "name": "Ball",
+      "customEmojiId": "5199921152989891702",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ball.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ball.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/ball.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "baphomet",
+      "name": "Baphomet",
+      "customEmojiId": "5199603441374108638",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/baphomet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/baphomet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/baphomet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bastet",
+      "name": "Bastet",
+      "customEmojiId": "5199520204907910380",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bastet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bastet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/bastet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bee",
+      "name": "Bee",
+      "customEmojiId": "5199604974677428405",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bee.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bee.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/bee.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bell-pepper",
+      "name": "Bell Pepper",
+      "customEmojiId": "5199683718607834440",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bell-pepper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bell-pepper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/bell-pepper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "birthday-cake",
+      "name": "Birthday Cake",
+      "customEmojiId": "5199528562914267487",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/birthday-cake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/birthday-cake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/birthday-cake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "blood-drop",
+      "name": "Blood Drop",
+      "customEmojiId": "5199450016552355691",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/blood-drop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/blood-drop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/blood-drop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "boat",
+      "name": "Boat",
+      "customEmojiId": "5199564713653997766",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/boat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/boat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/boat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "book",
+      "name": "Book",
+      "customEmojiId": "5199463541404373712",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/book.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/book.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/book.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bottle",
+      "name": "Bottle",
+      "customEmojiId": "5199580759651813806",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bottle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bottle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/bottle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "brain",
+      "name": "Brain",
+      "customEmojiId": "5199813422325207751",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/brain.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/brain.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/brain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bunny",
+      "name": "Bunny",
+      "customEmojiId": "5199800120811489322",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bunny.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bunny.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/bunny.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "burger",
+      "name": "Burger",
+      "customEmojiId": "5199576765332229212",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/burger.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/burger.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/burger.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "car",
+      "name": "Car",
+      "customEmojiId": "5199704214191765603",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/car.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/car.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/car.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "carambola",
+      "name": "Carambola",
+      "customEmojiId": "5199563687156815774",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/carambola.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/carambola.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/carambola.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cherry",
+      "name": "Cherry",
+      "customEmojiId": "5199513358730037370",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cherry.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cherry.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/cherry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili",
+      "name": "Chili",
+      "customEmojiId": "5199718404763713565",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/chili.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/chili.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/chili.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili-pepper",
+      "name": "Chili Pepper",
+      "customEmojiId": "5199643277195772037",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/chili-pepper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/chili-pepper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/chili-pepper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cicada",
+      "name": "Cicada",
+      "customEmojiId": "5199501453080693075",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cicada.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cicada.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/cicada.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cobra",
+      "name": "Cobra",
+      "customEmojiId": "5199726195834392948",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cobra.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cobra.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/cobra.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coffee-bean",
+      "name": "Coffee Bean",
+      "customEmojiId": "5199617662010820206",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/coffee-bean.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/coffee-bean.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/coffee-bean.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cone",
+      "name": "Cone",
+      "customEmojiId": "5199449329357589107",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cone.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cone.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/cone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "croissant",
+      "name": "Croissant",
+      "customEmojiId": "5199706980150706028",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/croissant.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/croissant.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/croissant.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "diamonds",
+      "name": "Diamonds",
+      "customEmojiId": "5199700121087937827",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/diamonds.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/diamonds.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/diamonds.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dragonfly",
+      "name": "Dragonfly",
+      "customEmojiId": "5199491647670355164",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/dragonfly.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/dragonfly.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/dragonfly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fehu-rune",
+      "name": "Fehu Rune",
+      "customEmojiId": "5201658535980598965",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/fehu-rune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/fehu-rune.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/fehu-rune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flashlight",
+      "name": "Flashlight",
+      "customEmojiId": "5199659250179147232",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/flashlight.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/flashlight.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/flashlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fleur-de-lis",
+      "name": "Fleur-de-lis",
+      "customEmojiId": "5199655573687140713",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/fleur-de-lis.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/fleur-de-lis.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/fleur-de-lis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flower-cross",
+      "name": "Flower Cross",
+      "customEmojiId": "5199741412903518768",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/flower-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/flower-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/flower-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flower-tulip",
+      "name": "Flower Tulip",
+      "customEmojiId": "5199785517922683567",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/flower-tulip.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/flower-tulip.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/flower-tulip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gamepad",
+      "name": "Gamepad",
+      "customEmojiId": "5199672727786522651",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/gamepad.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/gamepad.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/gamepad.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gem",
+      "name": "Gem",
+      "customEmojiId": "5199568523289988128",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/gem.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/gem.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/gem.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "genie-lamp",
+      "name": "Genie Lamp",
+      "customEmojiId": "5199760491148248638",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/genie-lamp.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/genie-lamp.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/genie-lamp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "glasses",
+      "name": "Glasses",
+      "customEmojiId": "5199843323887519152",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/glasses.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/glasses.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/glasses.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "grape",
+      "name": "Grape",
+      "customEmojiId": "5199618417925067376",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/grape.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/grape.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/grape.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "grenade",
+      "name": "Grenade",
+      "customEmojiId": "5199860864533955715",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/grenade.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/grenade.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/grenade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hamburger",
+      "name": "Hamburger",
+      "customEmojiId": "5199558610505467372",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/hamburger.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/hamburger.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/hamburger.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "heart",
+      "name": "Heart",
+      "customEmojiId": "5199448474659098272",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/heart.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/heart.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/heart.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hermit-shell",
+      "name": "Hermit Shell",
+      "customEmojiId": "5199762329394253336",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/hermit-shell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/hermit-shell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/hermit-shell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "high-heels",
+      "name": "High Heels",
+      "customEmojiId": "5199687292020627714",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/high-heels.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/high-heels.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/high-heels.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "illuminati",
+      "name": "Illuminati",
+      "customEmojiId": "5199959970904312871",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/illuminati.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/illuminati.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/illuminati.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jellyfish",
+      "name": "Jellyfish",
+      "customEmojiId": "5199463842052082744",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/jellyfish.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/jellyfish.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/jellyfish.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "kite",
+      "name": "Kite",
+      "customEmojiId": "5199550252499111740",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/kite.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/kite.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/kite.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lemon",
+      "name": "Lemon",
+      "customEmojiId": "5199949400989796691",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/lemon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/lemon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/lemon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "light-bulb",
+      "name": "Light Bulb",
+      "customEmojiId": "5199494031377208082",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/light-bulb.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/light-bulb.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/light-bulb.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lightning",
+      "name": "Lightning",
+      "customEmojiId": "5202201454206549813",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/lightning.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/lightning.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/lightning.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "like",
+      "name": "Like",
+      "customEmojiId": "5199438957011572772",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/like.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/like.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/like.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lily",
+      "name": "Lily",
+      "customEmojiId": "5199594718295526169",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/lily.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/lily.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/lily.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lion-head",
+      "name": "Lion Head",
+      "customEmojiId": "5199655049701172498",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/lion-head.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/lion-head.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/lion-head.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "love-letter",
+      "name": "Love Letter",
+      "customEmojiId": "5199624482418887229",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/love-letter.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/love-letter.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/love-letter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "love-lock",
+      "name": "Love Lock",
+      "customEmojiId": "5199543157213139030",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/love-lock.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/love-lock.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/love-lock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "maple",
+      "name": "Maple",
+      "customEmojiId": "5199893351666582880",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/maple.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/maple.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/maple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mask",
+      "name": "Mask",
+      "customEmojiId": "5199413122783298258",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "monstera",
+      "name": "Monstera",
+      "customEmojiId": "5199712567903159375",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/monstera.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/monstera.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/monstera.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon",
+      "name": "Moon",
+      "customEmojiId": "5199499052193973671",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/moon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/moon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/moon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon-cross",
+      "name": "Moon Cross",
+      "customEmojiId": "5199926568943652086",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/moon-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/moon-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/moon-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon-eagle",
+      "name": "Moon Eagle",
+      "customEmojiId": "5199513281420625625",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/moon-eagle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/moon-eagle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/moon-eagle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "musical-note",
+      "name": "Musical Note",
+      "customEmojiId": "5199763458970653234",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/musical-note.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/musical-note.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/musical-note.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "narcissus",
+      "name": "Narcissus",
+      "customEmojiId": "5199732805789058517",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/narcissus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/narcissus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/narcissus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "oak-leaf",
+      "name": "Oak Leaf",
+      "customEmojiId": "5199714255825309269",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/oak-leaf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/oak-leaf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/oak-leaf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "octopus",
+      "name": "Octopus",
+      "customEmojiId": "5199415742713335939",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/octopus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/octopus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/octopus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pc-mouse",
+      "name": "PC Mouse",
+      "customEmojiId": "5199776412592014669",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/pc-mouse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/pc-mouse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/pc-mouse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pegasus",
+      "name": "Pegasus",
+      "customEmojiId": "5199615102210311126",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/pegasus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/pegasus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/pegasus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "customEmojiId": "5199683091542608723",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/phoenix.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/phoenix.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/phoenix.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pinata",
+      "name": "Piñata",
+      "customEmojiId": "5199490110072061851",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/pinata.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/pinata.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/pinata.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "planet",
+      "name": "Planet",
+      "customEmojiId": "5199952033804749816",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/planet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/planet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/planet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rain-drop",
+      "name": "Rain Drop",
+      "customEmojiId": "5199596200059239228",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/rain-drop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/rain-drop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/rain-drop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ram-of-amun",
+      "name": "Ram of Amun",
+      "customEmojiId": "5199770601501268034",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ram-of-amun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ram-of-amun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/ram-of-amun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rhino-warrior",
+      "name": "Rhino Warrior",
+      "customEmojiId": "5199722768450487484",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/rhino-warrior.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/rhino-warrior.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/rhino-warrior.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ring",
+      "name": "Ring",
+      "customEmojiId": "5199821179036142060",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ring.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ring.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/ring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rocket",
+      "name": "Rocket",
+      "customEmojiId": "5199857192336916692",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/rocket.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/rocket.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/rocket.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "royal-crown",
+      "name": "Royal Crown",
+      "customEmojiId": "5199769278651342343",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/royal-crown.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/royal-crown.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/royal-crown.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scarab",
+      "name": "Scarab",
+      "customEmojiId": "5199439627026463806",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/scarab.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/scarab.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/scarab.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scissors",
+      "name": "Scissors",
+      "customEmojiId": "5199668037682237139",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/scissors.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/scissors.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/scissors.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scorpion",
+      "name": "Scorpion",
+      "customEmojiId": "5199940630666579018",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/scorpion.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/scorpion.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/scorpion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sea-horse",
+      "name": "Sea Horse",
+      "customEmojiId": "5199693631392352882",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sea-horse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sea-horse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/sea-horse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sharp-sword",
+      "name": "Sharp Sword",
+      "customEmojiId": "5199910510060932554",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sharp-sword.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sharp-sword.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/sharp-sword.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "skull",
+      "name": "Skull",
+      "customEmojiId": "5199619431537348678",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/skull.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/skull.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/skull.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spades",
+      "name": "Spades",
+      "customEmojiId": "5199913155760783674",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/spades.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/spades.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/spades.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sprout",
+      "name": "Sprout",
+      "customEmojiId": "5199705945063589397",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sprout.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sprout.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/sprout.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "strawberry",
+      "name": "Strawberry",
+      "customEmojiId": "5199925473726988633",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/strawberry.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/strawberry.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/strawberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sun-lion",
+      "name": "Sun Lion",
+      "customEmojiId": "5199909337534861617",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sun-lion.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sun-lion.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/sun-lion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sun-mountain",
+      "name": "Sun Mountain",
+      "customEmojiId": "5199464829894562233",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sun-mountain.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sun-mountain.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/sun-mountain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sunflower",
+      "name": "Sunflower",
+      "customEmojiId": "5199874518234992013",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sunflower.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sunflower.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/sunflower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sword",
+      "name": "Sword",
+      "customEmojiId": "5199810643481365864",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sword.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sword.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/sword.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tooth",
+      "name": "Tooth",
+      "customEmojiId": "5199462351698429183",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/tooth.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/tooth.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/tooth.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "top-hat",
+      "name": "Top Hat",
+      "customEmojiId": "5199704811192221997",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/top-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/top-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/top-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "totem-bear",
+      "name": "Totem Bear",
+      "customEmojiId": "5199656939486742424",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/totem-bear.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/totem-bear.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/totem-bear.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "toy-bucket",
+      "name": "Toy Bucket",
+      "customEmojiId": "5199747872534338785",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/toy-bucket.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/toy-bucket.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/toy-bucket.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tree-of-life",
+      "name": "Tree of Life",
+      "customEmojiId": "5199597209376558882",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/tree-of-life.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/tree-of-life.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/tree-of-life.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tribal-shield",
+      "name": "Tribal Shield",
+      "customEmojiId": "5199940531882326218",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/tribal-shield.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/tribal-shield.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/tribal-shield.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "trophy",
+      "name": "Trophy",
+      "customEmojiId": "5199543874472675475",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/trophy.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/trophy.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/trophy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "turkey",
+      "name": "Turkey",
+      "customEmojiId": "5199906644590363463",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/turkey.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/turkey.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/turkey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "unicorn-head",
+      "name": "Unicorn Head",
+      "customEmojiId": "5199885517646234797",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/unicorn-head.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/unicorn-head.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/unicorn-head.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "vortex",
+      "name": "Vortex",
+      "customEmojiId": "5199813753037687817",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/vortex.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/vortex.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/vortex.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wasp",
+      "name": "Wasp",
+      "customEmojiId": "5199841038964917820",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/wasp.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/wasp.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/wasp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wreath",
+      "name": "Wreath",
+      "customEmojiId": "5199506340753473869",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/wreath.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/wreath.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/wreath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "yogi-shaman",
+      "name": "Yogi Shaman",
+      "customEmojiId": "5199445571261203846",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/yogi-shaman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/yogi-shaman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/yogi-shaman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "candy",
+      "name": "Candy",
+      "customEmojiId": "5199911012572105730",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/candy.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/candy.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "champagne",
+      "name": "Champagne",
+      "customEmojiId": "5199679432230471443",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/champagne.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/champagne.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/champagne.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cupcake",
+      "name": "Cupcake",
+      "customEmojiId": "5199460788330335122",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cupcake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cupcake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/cupcake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "eikthyrnir",
+      "name": "Eikthyrnir",
+      "customEmojiId": "5199875514667404240",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/eikthyrnir.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/eikthyrnir.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/eikthyrnir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gingerbread",
+      "name": "Gingerbread",
+      "customEmojiId": "5199945376605439444",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/gingerbread.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/gingerbread.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/gingerbread.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mittens",
+      "name": "Mittens",
+      "customEmojiId": "5199968565133871696",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/mittens.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/mittens.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/mittens.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rudolph",
+      "name": "Rudolph",
+      "customEmojiId": "5199540056246747378",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/rudolph.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/rudolph.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/rudolph.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shooting-star",
+      "name": "Shooting Star",
+      "customEmojiId": "5199756398044416521",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/shooting-star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/shooting-star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/shooting-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snowman",
+      "name": "Snowman",
+      "customEmojiId": "5199936215440198936",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/snowman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/snowman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/snowman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "stocking",
+      "name": "Stocking",
+      "customEmojiId": "5199503016448790503",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/stocking.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/stocking.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/stocking.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cocktail",
+      "name": "Cocktail",
+      "customEmojiId": "5199925405007515741",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cocktail.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cocktail.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/cocktail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cookie",
+      "name": "Cookie",
+      "customEmojiId": "5199706417509992965",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cookie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/cookie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/cookie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dessert",
+      "name": "Dessert",
+      "customEmojiId": "5199456540607676981",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/dessert.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/dessert.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/dessert.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "festive-wreath",
+      "name": "Festive Wreath",
+      "customEmojiId": "5199830851302495542",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/festive-wreath.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/festive-wreath.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/festive-wreath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gift-box",
+      "name": "Gift Box",
+      "customEmojiId": "5199854971838826197",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/gift-box.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/gift-box.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/gift-box.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "magic-wand",
+      "name": "Magic Wand",
+      "customEmojiId": "5199565744446145009",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/magic-wand.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/magic-wand.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/magic-wand.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sparks",
+      "name": "Sparks",
+      "customEmojiId": "5199534721897367416",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sparks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/sparks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/sparks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "white-deer",
+      "name": "White Deer",
+      "customEmojiId": "5199804858160416090",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/white-deer.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/white-deer.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/white-deer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bowtie",
+      "name": "Bowtie",
+      "customEmojiId": "5199828179832835125",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bowtie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/bowtie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/bowtie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "candle",
+      "name": "Candle",
+      "customEmojiId": "5199639604998733687",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/candle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/candle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/candle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chest",
+      "name": "Chest",
+      "customEmojiId": "5199799017004894591",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/chest.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/chest.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/chest.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "christmas-tree",
+      "name": "Christmas Tree",
+      "customEmojiId": "5201690116875126303",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/christmas-tree.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/christmas-tree.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/christmas-tree.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coin-purse",
+      "name": "Coin Purse",
+      "customEmojiId": "5199421974710879091",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/coin-purse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/coin-purse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/coin-purse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fireworks",
+      "name": "Fireworks",
+      "customEmojiId": "5199661414842666249",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/fireworks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/fireworks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/fireworks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hot-drink",
+      "name": "Hot Drink",
+      "customEmojiId": "5199502050081148019",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/hot-drink.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/hot-drink.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/hot-drink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-pop",
+      "name": "Ice Pop",
+      "customEmojiId": "5202206762786127395",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ice-pop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ice-pop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/ice-pop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-skates",
+      "name": "Ice Skates",
+      "customEmojiId": "5199870438016060797",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ice-skates.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ice-skates.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/ice-skates.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jingle-bell",
+      "name": "Jingle Bell",
+      "customEmojiId": "5199776322397706499",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/jingle-bell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/jingle-bell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/jingle-bell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mistletoe",
+      "name": "Mistletoe",
+      "customEmojiId": "5199936279864708293",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/mistletoe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/mistletoe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/mistletoe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "new-year-s-eve",
+      "name": "New Year’s Eve",
+      "customEmojiId": null,
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/new-year-s-eve.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/new-year-s-eve.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/new-year-s-eve.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "nordic-wolf",
+      "name": "Nordic Wolf",
+      "customEmojiId": "5199895056768603137",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/nordic-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/nordic-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/nordic-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ornament",
+      "name": "Ornament",
+      "customEmojiId": "5199660508604566307",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ornament.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/ornament.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/ornament.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "piggy-bank",
+      "name": "Piggy Bank",
+      "customEmojiId": "5199476082708878264",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/piggy-bank.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/piggy-bank.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/piggy-bank.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "santa-hat",
+      "name": "Santa Hat",
+      "customEmojiId": "5199534056177437209",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/santa-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/santa-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/santa-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snow-angel",
+      "name": "Snow Angel",
+      "customEmojiId": "5199879135324836933",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/snow-angel.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/snow-angel.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/snow-angel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snowflake",
+      "name": "Snowflake",
+      "customEmojiId": "5199610674099031923",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/snowflake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/snowflake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/snowflake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "star",
+      "name": "Star",
+      "customEmojiId": "5199425320490407263",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "winter-house",
+      "name": "Winter House",
+      "customEmojiId": "5199701675866098449",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "santahat",
+        "name": "Santa Hat",
+        "id": "5983471780763796287"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/winter-house.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/patterns/winter-house.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/patterns/winter-house.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

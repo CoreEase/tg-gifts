@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "gift",
+  "name": "Gift",
+  "customEmojiId": "5199482976131383979",
+  "rarityPermille": 4,
+  "originalRarityPermille": 4,
+  "rarity": 0.4,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "valentinebox",
+    "name": "Valentine Box",
+    "id": "5868595669182186720"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/patterns/gift.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/patterns/gift.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/valentinebox/patterns/gift.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

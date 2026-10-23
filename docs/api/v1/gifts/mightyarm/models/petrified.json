@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "petrified",
+  "name": "Petrified",
+  "customEmojiId": "5309823340255413213",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "mightyarm",
+    "name": "Mighty Arm",
+    "id": "5895518353849582541"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/petrified.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/petrified.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/petrified.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/petrified.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/mightyarm/models/petrified.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

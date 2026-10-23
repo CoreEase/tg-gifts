@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "lovegood",
+  "name": "Lovegood",
+  "customEmojiId": "5354968793770652155",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "candycane",
+    "name": "Candy Cane",
+    "id": "6003373314888696650"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/lovegood.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/lovegood.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/lovegood.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/lovegood.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/models/lovegood.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

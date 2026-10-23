@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "terra",
+  "name": "Terra",
+  "customEmojiId": "5350631336363206799",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "luckylocket",
+    "name": "Lucky Locket",
+    "id": "5872744075014177223"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/terra.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/terra.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/terra.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/terra.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/luckylocket/models/terra.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

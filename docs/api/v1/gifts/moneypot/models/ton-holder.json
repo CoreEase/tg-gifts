@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ton-holder",
+  "name": "TON Holder",
+  "customEmojiId": "5206665699048588007",
+  "rarityPermille": 4,
+  "originalRarityPermille": 4,
+  "rarity": 0.4,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "moneypot",
+    "name": "Money Pot",
+    "id": "5963238670868677492"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/ton-holder.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/ton-holder.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/ton-holder.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/ton-holder.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moneypot/models/ton-holder.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

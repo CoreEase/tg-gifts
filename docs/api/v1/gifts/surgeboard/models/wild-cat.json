@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "wild-cat",
+  "name": "Wild Cat",
+  "customEmojiId": "5355159254095403843",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "surgeboard",
+    "name": "Surge Board",
+    "id": "5832497899283415733"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/wild-cat.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/wild-cat.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/wild-cat.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/wild-cat.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/surgeboard/models/wild-cat.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

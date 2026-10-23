@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sticker-gang",
+  "name": "Sticker Gang",
+  "customEmojiId": "5438249880382374600",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lowrider",
+    "name": "Low Rider",
+    "id": "6014675319464657779"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/sticker-gang.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/sticker-gang.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/sticker-gang.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/sticker-gang.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lowrider/models/sticker-gang.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

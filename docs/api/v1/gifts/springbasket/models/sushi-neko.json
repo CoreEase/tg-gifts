@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sushi-neko",
+  "name": "Sushi Neko",
+  "customEmojiId": "6001203956972263399",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "springbasket",
+    "name": "Spring Basket",
+    "id": "5773725897517433693"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/sushi-neko.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/sushi-neko.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/sushi-neko.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/springbasket/assets/models/sushi-neko.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/springbasket/models/sushi-neko.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

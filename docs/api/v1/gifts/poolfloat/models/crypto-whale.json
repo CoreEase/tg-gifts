@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "crypto-whale",
+  "name": "Crypto Whale",
+  "customEmojiId": "5321124777895696547",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "poolfloat",
+    "name": "Pool Float",
+    "id": "5832644211639321671"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/crypto-whale.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/crypto-whale.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/crypto-whale.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/crypto-whale.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/poolfloat/models/crypto-whale.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "melon",
+  "name": "Melon",
+  "customEmojiId": "5453975465050006109",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "kissedfrog",
+    "name": "Kissed Frog",
+    "id": "5845776576658015084"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/melon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/melon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/melon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/melon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/kissedfrog/models/melon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

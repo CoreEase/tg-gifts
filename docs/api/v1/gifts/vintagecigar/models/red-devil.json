@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-devil",
+  "name": "Red Devil",
+  "customEmojiId": "5460915195897467513",
+  "rarityPermille": 40,
+  "originalRarityPermille": 40,
+  "rarity": 4,
+  "originalRarity": 4,
+  "gift": {
+    "slug": "vintagecigar",
+    "name": "Vintage Cigar",
+    "id": "5857140566201991735"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/red-devil.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/red-devil.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/red-devil.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/red-devil.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/vintagecigar/models/red-devil.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ice-cream",
+  "name": "Ice Cream",
+  "customEmojiId": "5199850328979172556",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "easteregg",
+    "name": "Easter Egg",
+    "id": "5773668482394620318"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ice-cream.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ice-cream.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ice-cream.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/ice-cream.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/ice-cream.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

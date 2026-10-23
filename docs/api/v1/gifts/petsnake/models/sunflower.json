@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sunflower",
+  "name": "Sunflower",
+  "customEmojiId": "5269350982956909739",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "petsnake",
+    "name": "Pet Snake",
+    "id": "6023917088358269866"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/sunflower.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/sunflower.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/sunflower.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/sunflower.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/models/sunflower.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "silver-spark",
+  "name": "Silver Spark",
+  "customEmojiId": "5253875060443212995",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "eternalcandle",
+    "name": "Eternal Candle",
+    "id": "5821205665758053411"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/silver-spark.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/silver-spark.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/silver-spark.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/silver-spark.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/silver-spark.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

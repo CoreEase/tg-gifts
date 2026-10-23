@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cashback",
+  "name": "Cashback",
+  "customEmojiId": "5436013374947229317",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "swagbag",
+    "name": "Swag Bag",
+    "id": "6012607142387778152"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/cashback.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/cashback.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/cashback.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/cashback.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swagbag/models/cashback.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

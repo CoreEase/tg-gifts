@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "blue-ghoul",
+  "name": "Blue Ghoul",
+  "customEmojiId": "5461163719885088201",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "vintagecigar",
+    "name": "Vintage Cigar",
+    "id": "5857140566201991735"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/blue-ghoul.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/blue-ghoul.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/blue-ghoul.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vintagecigar/assets/models/blue-ghoul.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/vintagecigar/models/blue-ghoul.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

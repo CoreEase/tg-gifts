@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "myrtella",
+  "name": "Myrtella",
+  "customEmojiId": "5321283743225241370",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "sakuraflower",
+    "name": "Sakura Flower",
+    "id": "5167939598143193218"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/myrtella.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/myrtella.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/myrtella.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/myrtella.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/myrtella.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

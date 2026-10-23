@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "snowfall",
+  "name": "Snowfall",
+  "customEmojiId": "5456346969897199046",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "durovscap",
+    "name": "Durov's Cap",
+    "id": "5915521180483191380"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/snowfall.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/snowfall.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/snowfall.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/snowfall.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/snowfall.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

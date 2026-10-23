@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "black-cat",
+  "name": "Black Cat",
+  "customEmojiId": "5454132785407092992",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "skullflower",
+    "name": "Skull Flower",
+    "id": "5839038009193792264"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skullflower/assets/models/black-cat.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skullflower/assets/models/black-cat.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skullflower/assets/models/black-cat.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skullflower/assets/models/black-cat.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/skullflower/models/black-cat.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "emo-pin",
+  "name": "Emo Pin",
+  "customEmojiId": "5321544696848219697",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "cloverpin",
+    "name": "Clover Pin",
+    "id": "5960747083030856414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/emo-pin.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/emo-pin.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/emo-pin.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/emo-pin.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cloverpin/models/emo-pin.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

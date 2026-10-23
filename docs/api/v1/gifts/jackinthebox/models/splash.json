@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "splash",
+  "name": "Splash",
+  "customEmojiId": "5429380476563385527",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "jackinthebox",
+    "name": "Jack-in-the-Box",
+    "id": "6005659564635063386"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/splash.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/splash.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/splash.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/splash.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jackinthebox/models/splash.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

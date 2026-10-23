@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rare-event",
+  "name": "Rare Event",
+  "customEmojiId": "5249006483084961105",
+  "rarityPermille": 7,
+  "originalRarityPermille": 8,
+  "rarity": 0.7,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "deskcalendar",
+    "name": "Desk Calendar",
+    "id": "5782988952268964995"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/rare-event.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/rare-event.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/rare-event.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/rare-event.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/deskcalendar/models/rare-event.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "birthday-cake",
+  "name": "Birthday Cake",
+  "customEmojiId": "5339503930797759286",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "chillflame",
+    "name": "Chill Flame",
+    "id": "5999277561060787166"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/birthday-cake.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/birthday-cake.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/birthday-cake.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/birthday-cake.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/chillflame/models/birthday-cake.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

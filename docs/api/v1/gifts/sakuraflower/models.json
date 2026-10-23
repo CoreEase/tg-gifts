@@ -1,0 +1,2323 @@
+{
+  "gift": {
+    "slug": "sakuraflower",
+    "name": "Sakura Flowers",
+    "apiName": "Sakura Flower",
+    "id": "5167939598143193218",
+    "count": 14436,
+    "modelCount": 100,
+    "patternCount": 256,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/patterns.json"
+  },
+  "count": 100,
+  "items": [
+    {
+      "type": "model",
+      "slug": "flowey",
+      "name": "Flowey",
+      "customEmojiId": "5321060727048398789",
+      "rarityPermille": 1,
+      "originalRarityPermille": 1,
+      "rarity": 0.1,
+      "originalRarity": 0.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/flowey.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/flowey.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/flowey.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/flowey.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/flowey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "carnation",
+      "name": "Carnation",
+      "customEmojiId": "5318991149812185555",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/carnation.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/carnation.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/carnation.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/carnation.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/carnation.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dog-flower",
+      "name": "Dog Flower",
+      "customEmojiId": "5319203974031635238",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dog-flower.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dog-flower.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dog-flower.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dog-flower.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/dog-flower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "meower",
+      "name": "Meower",
+      "customEmojiId": "5318987164082533430",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/meower.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/meower.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/meower.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/meower.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/meower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunflower",
+      "name": "Sunflower",
+      "customEmojiId": "5319017207378766106",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sunflower.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sunflower.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sunflower.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sunflower.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/sunflower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "wilted",
+      "name": "Wilted",
+      "customEmojiId": "5321292792721335488",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/wilted.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/wilted.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/wilted.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/wilted.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/wilted.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zap-aster",
+      "name": "Zap Aster",
+      "customEmojiId": "5318821507193924610",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/zap-aster.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/zap-aster.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/zap-aster.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/zap-aster.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/zap-aster.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "big-bang",
+      "name": "Big Bang",
+      "customEmojiId": "5318957850930737006",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/big-bang.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/big-bang.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/big-bang.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/big-bang.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/big-bang.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blazing-dusk",
+      "name": "Blazing Dusk",
+      "customEmojiId": "5321448708624113863",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/blazing-dusk.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/blazing-dusk.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/blazing-dusk.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/blazing-dusk.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/blazing-dusk.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubblia",
+      "name": "Bubblia",
+      "customEmojiId": "5319226329336408430",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bubblia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bubblia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bubblia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bubblia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/bubblia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bull-s-eye",
+      "name": "Bull’s Eye",
+      "customEmojiId": "5321118773531402196",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bull-s-eye.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bull-s-eye.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bull-s-eye.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bull-s-eye.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/bull-s-eye.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dark-neo",
+      "name": "Dark Neo",
+      "customEmojiId": "5321141330699640325",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dark-neo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dark-neo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dark-neo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dark-neo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/dark-neo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fire-bloom",
+      "name": "Fire Bloom",
+      "customEmojiId": "5318874021759051185",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/fire-bloom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/fire-bloom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/fire-bloom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/fire-bloom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/fire-bloom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "heartbeat",
+      "name": "Heartbeat",
+      "customEmojiId": "5321352235068714290",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/heartbeat.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/heartbeat.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/heartbeat.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/heartbeat.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/heartbeat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "icebound",
+      "name": "Icebound",
+      "customEmojiId": "5318996411147119175",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/icebound.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/icebound.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/icebound.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/icebound.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/icebound.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "loves-or-not",
+      "name": "Loves Or Not",
+      "customEmojiId": "5321520447462857980",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/loves-or-not.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/loves-or-not.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/loves-or-not.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/loves-or-not.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/loves-or-not.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "monsoon",
+      "name": "Monsoon",
+      "customEmojiId": "5321468383869294570",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/monsoon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/monsoon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/monsoon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/monsoon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/monsoon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pixel-bloom",
+      "name": "Pixel Bloom",
+      "customEmojiId": "5318877389013412119",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/pixel-bloom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/pixel-bloom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/pixel-bloom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/pixel-bloom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/pixel-bloom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sakura",
+      "name": "Sakura",
+      "customEmojiId": "5319276872511549785",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sakura.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sakura.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sakura.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sakura.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/sakura.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "shake-it",
+      "name": "Shake It",
+      "customEmojiId": "5321499286158991403",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/shake-it.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/shake-it.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/shake-it.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/shake-it.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/shake-it.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snowdrop",
+      "name": "Snowdrop",
+      "customEmojiId": "5318882697592991181",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/snowdrop.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/snowdrop.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/snowdrop.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/snowdrop.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/snowdrop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "venus-flytrap",
+      "name": "Venus Flytrap",
+      "customEmojiId": "5319304502036163410",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/venus-flytrap.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/venus-flytrap.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/venus-flytrap.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/venus-flytrap.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/venus-flytrap.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "myrtella",
+      "name": "Myrtella",
+      "customEmojiId": "5321283743225241370",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/myrtella.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/myrtella.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/myrtella.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/myrtella.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/myrtella.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jellybud",
+      "name": "Jellybud",
+      "customEmojiId": "5321226899333082017",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/jellybud.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/jellybud.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/jellybud.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/jellybud.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/jellybud.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "wildflower",
+      "name": "Wildflower",
+      "customEmojiId": "5318846035752154024",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/wildflower.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/wildflower.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/wildflower.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/wildflower.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/wildflower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glitch",
+      "name": "Glitch",
+      "customEmojiId": "5319009824329989380",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/glitch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/glitch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/glitch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/glitch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/glitch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "luminosia",
+      "name": "Luminosia",
+      "customEmojiId": "5321108633113616689",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/luminosia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/luminosia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/luminosia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/luminosia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/luminosia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "party-time",
+      "name": "Party Time",
+      "customEmojiId": "5318771097162774253",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/party-time.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/party-time.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/party-time.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/party-time.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/party-time.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ping-blossom",
+      "name": "Ping Blossom",
+      "customEmojiId": "5321153575651403074",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/ping-blossom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/ping-blossom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/ping-blossom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/ping-blossom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/ping-blossom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pokerface",
+      "name": "Pokerface",
+      "customEmojiId": "5321498281136645771",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/pokerface.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/pokerface.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/pokerface.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/pokerface.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/pokerface.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "savanna",
+      "name": "Savanna",
+      "customEmojiId": "5319292897034530367",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/savanna.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/savanna.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/savanna.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/savanna.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/savanna.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "shimeria",
+      "name": "Shimeria",
+      "customEmojiId": "5319197394141734821",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/shimeria.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/shimeria.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/shimeria.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/shimeria.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/shimeria.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spotty-leo",
+      "name": "Spotty Leo",
+      "customEmojiId": "5321538409016090331",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/spotty-leo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/spotty-leo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/spotty-leo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/spotty-leo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/spotty-leo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bronzula",
+      "name": "Bronzula",
+      "customEmojiId": "5318800479034043894",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bronzula.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bronzula.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bronzula.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bronzula.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/bronzula.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dark-loader",
+      "name": "Dark Loader",
+      "customEmojiId": "5321213902762041356",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dark-loader.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dark-loader.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dark-loader.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dark-loader.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/dark-loader.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "goldensia",
+      "name": "Goldensia",
+      "customEmojiId": "5319216798803981523",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/goldensia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/goldensia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/goldensia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/goldensia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/goldensia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "morning-sun",
+      "name": "Morning Sun",
+      "customEmojiId": "5318977594895394184",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/morning-sun.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/morning-sun.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/morning-sun.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/morning-sun.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/morning-sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "party-bloom",
+      "name": "Party Bloom",
+      "customEmojiId": "5318794655058390237",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/party-bloom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/party-bloom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/party-bloom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/party-bloom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/party-bloom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peony",
+      "name": "Peony",
+      "customEmojiId": "5318941517170109721",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/peony.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/peony.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/peony.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/peony.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/peony.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "plumeria",
+      "name": "Plumeria",
+      "customEmojiId": "5318907586928472607",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/plumeria.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/plumeria.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/plumeria.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/plumeria.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/plumeria.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-poppy",
+      "name": "Red Poppy",
+      "customEmojiId": "5321404298662275374",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/red-poppy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/red-poppy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/red-poppy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/red-poppy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/red-poppy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silveria",
+      "name": "Silveria",
+      "customEmojiId": "5321042769790133114",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/silveria.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/silveria.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/silveria.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/silveria.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/silveria.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-peony",
+      "name": "White Peony",
+      "customEmojiId": "5321154997285577914",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/white-peony.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/white-peony.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/white-peony.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/white-peony.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/white-peony.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "windy",
+      "name": "Windy",
+      "customEmojiId": "5318862644390686484",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/windy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/windy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/windy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/windy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/windy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "yellow-poppy",
+      "name": "Yellow Poppy",
+      "customEmojiId": "5318878853597261897",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/yellow-poppy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/yellow-poppy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/yellow-poppy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/yellow-poppy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/yellow-poppy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aetheris",
+      "name": "Aetheris",
+      "customEmojiId": "5319068622432268921",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aetheris.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aetheris.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aetheris.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aetheris.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/aetheris.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "allamanda",
+      "name": "Allamanda",
+      "customEmojiId": "5321471875677709437",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/allamanda.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/allamanda.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/allamanda.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/allamanda.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/allamanda.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "brunnera",
+      "name": "Brunnera",
+      "customEmojiId": "5321145844710271472",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/brunnera.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/brunnera.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/brunnera.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/brunnera.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/brunnera.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bumblebee",
+      "name": "Bumblebee",
+      "customEmojiId": "5319204558147185900",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bumblebee.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bumblebee.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bumblebee.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/bumblebee.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/bumblebee.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "clivia",
+      "name": "Clivia",
+      "customEmojiId": "5321352750464787263",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/clivia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/clivia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/clivia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/clivia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/clivia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "geranium",
+      "name": "Geranium",
+      "customEmojiId": "5321430845855129875",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/geranium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/geranium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/geranium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/geranium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/geranium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gerbera",
+      "name": "Gerbera",
+      "customEmojiId": "5321396834009112331",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/gerbera.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/gerbera.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/gerbera.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/gerbera.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/gerbera.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hellebore",
+      "name": "Hellebore",
+      "customEmojiId": "5319210953353491826",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hellebore.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hellebore.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hellebore.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hellebore.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/hellebore.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hydrangea",
+      "name": "Hydrangea",
+      "customEmojiId": "5321279744610689208",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hydrangea.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hydrangea.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hydrangea.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hydrangea.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/hydrangea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nightshade",
+      "name": "Nightshade",
+      "customEmojiId": "5321070248990892533",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/nightshade.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/nightshade.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/nightshade.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/nightshade.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/nightshade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "petunia",
+      "name": "Petunia",
+      "customEmojiId": "5321538494915435336",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/petunia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/petunia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/petunia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/petunia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/petunia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "anemone",
+      "name": "Anemone",
+      "customEmojiId": "5318961304084444636",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/anemone.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/anemone.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/anemone.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/anemone.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/anemone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dahlia",
+      "name": "Dahlia",
+      "customEmojiId": "5318968012823356927",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dahlia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dahlia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dahlia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/dahlia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/dahlia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hollyhock",
+      "name": "Hollyhock",
+      "customEmojiId": "5319047491193170948",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hollyhock.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hollyhock.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hollyhock.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hollyhock.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/hollyhock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hybrid",
+      "name": "Hybrid",
+      "customEmojiId": "5321388295614129467",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hybrid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hybrid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hybrid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hybrid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/hybrid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lemon-queen",
+      "name": "Lemon Queen",
+      "customEmojiId": "5318864139039304219",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lemon-queen.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lemon-queen.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lemon-queen.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lemon-queen.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/lemon-queen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crimsonia",
+      "name": "Crimsonia",
+      "customEmojiId": "5319257854396362331",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/crimsonia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/crimsonia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/crimsonia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/crimsonia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/crimsonia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "indigo",
+      "name": "Indigo",
+      "customEmojiId": "5319118461232770884",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/indigo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/indigo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/indigo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/indigo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/indigo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "oxalis",
+      "name": "Oxalis",
+      "customEmojiId": "5319011280323898701",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/oxalis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/oxalis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/oxalis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/oxalis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/oxalis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tropicana",
+      "name": "Tropicana",
+      "customEmojiId": "5321440513826512108",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/tropicana.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/tropicana.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/tropicana.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/tropicana.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/tropicana.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aster",
+      "name": "Aster",
+      "customEmojiId": "5321044608036138078",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aster.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aster.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aster.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aster.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/aster.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aubrieta",
+      "name": "Aubrieta",
+      "customEmojiId": "5321423772043994835",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aubrieta.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aubrieta.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aubrieta.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aubrieta.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/aubrieta.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aurivelle",
+      "name": "Aurivelle",
+      "customEmojiId": "5321174234444096271",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aurivelle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aurivelle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aurivelle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/aurivelle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/aurivelle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "azure",
+      "name": "Azure",
+      "customEmojiId": "5319163021518466632",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/azure.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/azure.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/azure.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/azure.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/azure.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "barbia",
+      "name": "Barbia",
+      "customEmojiId": "5319313903719575912",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/barbia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/barbia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/barbia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/barbia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/barbia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "celestara",
+      "name": "Celestara",
+      "customEmojiId": "5319244162040621627",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/celestara.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/celestara.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/celestara.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/celestara.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/celestara.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cosmea",
+      "name": "Cosmea",
+      "customEmojiId": "5318938278764766212",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/cosmea.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/cosmea.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/cosmea.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/cosmea.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/cosmea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eclipsia",
+      "name": "Eclipsia",
+      "customEmojiId": "5318888852281125325",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/eclipsia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/eclipsia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/eclipsia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/eclipsia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/eclipsia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fabulous",
+      "name": "Fabulous",
+      "customEmojiId": "5319096612734140844",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/fabulous.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/fabulous.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/fabulous.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/fabulous.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/fabulous.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "false-bird",
+      "name": "False Bird",
+      "customEmojiId": "5318803429676577226",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/false-bird.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/false-bird.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/false-bird.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/false-bird.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/false-bird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flameris",
+      "name": "Flameris",
+      "customEmojiId": "5321229514968168066",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/flameris.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/flameris.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/flameris.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/flameris.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/flameris.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "floravelle",
+      "name": "Floravelle",
+      "customEmojiId": "5319003107001134183",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floravelle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floravelle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floravelle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floravelle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/floravelle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "floraven",
+      "name": "Floraven",
+      "customEmojiId": "5321223579323360994",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floraven.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floraven.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floraven.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floraven.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/floraven.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "floris",
+      "name": "Floris",
+      "customEmojiId": "5318914132458628523",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floris.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floris.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floris.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/floris.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/floris.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ghostia",
+      "name": "Ghostia",
+      "customEmojiId": "5318935014589625239",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/ghostia.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/ghostia.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/ghostia.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/ghostia.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/ghostia.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hawaii",
+      "name": "Hawaii",
+      "customEmojiId": "5321153678730619865",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hawaii.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hawaii.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hawaii.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hawaii.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/hawaii.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hibiscus",
+      "name": "Hibiscus",
+      "customEmojiId": "5319055320918552030",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hibiscus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hibiscus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hibiscus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/hibiscus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/hibiscus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lanceolata",
+      "name": "Lanceolata",
+      "customEmojiId": "5318781018537225529",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lanceolata.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lanceolata.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lanceolata.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lanceolata.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/lanceolata.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lunaris",
+      "name": "Lunaris",
+      "customEmojiId": "5319187537191793975",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lunaris.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lunaris.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lunaris.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/lunaris.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/lunaris.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "marigold",
+      "name": "Marigold",
+      "customEmojiId": "5318926046697910109",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/marigold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/marigold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/marigold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/marigold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/marigold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "meadowlyn",
+      "name": "Meadowlyn",
+      "customEmojiId": "5321328750187536969",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/meadowlyn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/meadowlyn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/meadowlyn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/meadowlyn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/meadowlyn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nectarium",
+      "name": "Nectarium",
+      "customEmojiId": "5321148374446004888",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/nectarium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/nectarium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/nectarium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/nectarium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/nectarium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "noctivis",
+      "name": "Noctivis",
+      "customEmojiId": "5319128571585785697",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/noctivis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/noctivis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/noctivis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/noctivis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/noctivis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "orchidra",
+      "name": "Orchidra",
+      "customEmojiId": "5321208250585086954",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/orchidra.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/orchidra.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/orchidra.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/orchidra.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/orchidra.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peach-perfect",
+      "name": "Peach Perfect",
+      "customEmojiId": "5319008364041103377",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/peach-perfect.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/peach-perfect.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/peach-perfect.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/peach-perfect.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/peach-perfect.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "primrose",
+      "name": "Primrose",
+      "customEmojiId": "5321562112940597117",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/primrose.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/primrose.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/primrose.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/primrose.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/primrose.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "seraphina",
+      "name": "Seraphina",
+      "customEmojiId": "5321457285673805338",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/seraphina.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/seraphina.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/seraphina.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/seraphina.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/seraphina.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "solivine",
+      "name": "Solivine",
+      "customEmojiId": "5318889973267590766",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/solivine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/solivine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/solivine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/solivine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/solivine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sylvaris",
+      "name": "Sylvaris",
+      "customEmojiId": "5321556593907622039",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sylvaris.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sylvaris.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sylvaris.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/sylvaris.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/sylvaris.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "twilight",
+      "name": "Twilight",
+      "customEmojiId": "5319111606464964592",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/twilight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/twilight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/twilight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/twilight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/twilight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vanilla",
+      "name": "Vanilla",
+      "customEmojiId": "5319057000250766412",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/vanilla.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/vanilla.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/vanilla.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/vanilla.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/vanilla.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "verdania",
+      "name": "Verdania",
+      "customEmojiId": "5318895668394226309",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/verdania.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/verdania.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/verdania.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/verdania.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/verdania.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "violet",
+      "name": "Violet",
+      "customEmojiId": "5318803889238078110",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/violet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/violet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/violet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/violet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/violet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "violet-iris",
+      "name": "Violet Iris",
+      "customEmojiId": "5321036670936574257",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/violet-iris.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/violet-iris.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/violet-iris.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/violet-iris.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/violet-iris.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zephyra",
+      "name": "Zephyra",
+      "customEmojiId": "5318898808015316647",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "sakuraflower",
+        "name": "Sakura Flower",
+        "id": "5167939598143193218"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/zephyra.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/zephyra.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/zephyra.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sakuraflower/assets/models/zephyra.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sakuraflower/models/zephyra.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "prime-day",
+  "name": "Prime Day",
+  "customEmojiId": "5461096653970756435",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "spyagaric",
+    "name": "Spy Agaric",
+    "id": "5821261908354794038"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/prime-day.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/prime-day.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/prime-day.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/prime-day.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/spyagaric/models/prime-day.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

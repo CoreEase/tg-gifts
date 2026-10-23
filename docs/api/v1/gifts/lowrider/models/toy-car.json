@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "toy-car",
+  "name": "Toy Car",
+  "customEmojiId": "5438363765735192581",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lowrider",
+    "name": "Low Rider",
+    "id": "6014675319464657779"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/toy-car.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/toy-car.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/toy-car.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/toy-car.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lowrider/models/toy-car.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

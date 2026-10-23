@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "bouquet",
+  "name": "Bouquet",
+  "customEmojiId": "5199875252674397860",
+  "rarityPermille": 6,
+  "originalRarityPermille": 6,
+  "rarity": 0.6,
+  "originalRarity": 0.6,
+  "gift": {
+    "slug": "moussecake",
+    "name": "Mousse Cake",
+    "id": "5935877878062253519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/patterns/bouquet.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/patterns/bouquet.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moussecake/patterns/bouquet.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

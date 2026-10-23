@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "disco",
+  "name": "Disco",
+  "customEmojiId": "5321443434404287364",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "poolfloat",
+    "name": "Pool Float",
+    "id": "5832644211639321671"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/disco.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/disco.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/disco.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/poolfloat/assets/models/disco.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/poolfloat/models/disco.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

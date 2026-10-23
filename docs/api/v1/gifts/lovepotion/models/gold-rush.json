@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold-rush",
+  "name": "Gold Rush",
+  "customEmojiId": "5292228156323821082",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "lovepotion",
+    "name": "Love Potion",
+    "id": "5868348541058942091"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gold-rush.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gold-rush.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gold-rush.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gold-rush.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/gold-rush.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

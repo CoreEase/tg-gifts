@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "green-grins",
+  "name": "Green Grins",
+  "customEmojiId": "5251253416700697521",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "madpumpkin",
+    "name": "Mad Pumpkin",
+    "id": "5841632504448025405"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/green-grins.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/green-grins.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/green-grins.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/green-grins.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/madpumpkin/models/green-grins.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

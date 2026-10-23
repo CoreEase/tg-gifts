@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-lipstick",
+  "name": "Red Lipstick",
+  "customEmojiId": "5447342764234680189",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "finepen",
+    "name": "Fine Pen",
+    "id": "5882129648002794519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/red-lipstick.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/red-lipstick.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/red-lipstick.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/red-lipstick.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/red-lipstick.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

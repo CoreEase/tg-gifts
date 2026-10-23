@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hitchhiker",
+  "name": "Hitchhiker",
+  "customEmojiId": "5334524272700332792",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "timelessbook",
+    "name": "Timeless Book",
+    "id": "5886387158889005864"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/hitchhiker.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/hitchhiker.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/hitchhiker.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/hitchhiker.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/timelessbook/models/hitchhiker.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

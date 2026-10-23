@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "shamrock",
+  "name": "Shamrock",
+  "customEmojiId": "5251463663939771878",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "madpumpkin",
+    "name": "Mad Pumpkin",
+    "id": "5841632504448025405"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/shamrock.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/shamrock.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/shamrock.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/shamrock.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/madpumpkin/models/shamrock.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

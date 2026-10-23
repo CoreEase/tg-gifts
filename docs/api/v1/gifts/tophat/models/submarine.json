@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "submarine",
+  "name": "Submarine",
+  "customEmojiId": "5318868515610978649",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "tophat",
+    "name": "Top Hat",
+    "id": "5897593557492957738"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/submarine.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/submarine.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/submarine.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/submarine.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/submarine.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

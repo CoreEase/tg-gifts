@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "matryoshka",
+  "name": "Matryoshka",
+  "customEmojiId": "5893505113699392565",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "heartlocket",
+    "name": "Heart Locket",
+    "id": "5868455043362980631"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/matryoshka.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/matryoshka.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/matryoshka.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/matryoshka.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/matryoshka.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

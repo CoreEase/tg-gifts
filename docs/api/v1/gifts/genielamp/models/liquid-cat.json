@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "liquid-cat",
+  "name": "Liquid Cat",
+  "customEmojiId": "5247204211728341383",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "genielamp",
+    "name": "Genie Lamp",
+    "id": "5933531623327795414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/liquid-cat.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/liquid-cat.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/liquid-cat.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/liquid-cat.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/genielamp/models/liquid-cat.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

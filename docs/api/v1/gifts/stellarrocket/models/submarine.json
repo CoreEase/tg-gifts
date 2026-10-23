@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "submarine",
+  "name": "Submarine",
+  "customEmojiId": "5821364291785202391",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "stellarrocket",
+    "name": "Stellar Rocket",
+    "id": "6042113507581755979"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/submarine.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/submarine.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/submarine.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/submarine.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/stellarrocket/models/submarine.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

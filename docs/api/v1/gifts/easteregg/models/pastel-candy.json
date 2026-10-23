@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pastel-candy",
+  "name": "Pastel Candy",
+  "customEmojiId": "5199465478434615019",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "easteregg",
+    "name": "Easter Egg",
+    "id": "5773668482394620318"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pastel-candy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pastel-candy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pastel-candy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/easteregg/assets/models/pastel-candy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/easteregg/models/pastel-candy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

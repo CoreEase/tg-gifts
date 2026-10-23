@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hologram",
+  "name": "Hologram",
+  "customEmojiId": "5873191249829174694",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "nailbracelet",
+    "name": "Nail Bracelet",
+    "id": "5870720080265871962"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/hologram.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/hologram.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/hologram.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/hologram.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/nailbracelet/models/hologram.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

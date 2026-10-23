@@ -1,0 +1,1633 @@
+{
+  "gift": {
+    "slug": "tophat",
+    "name": "Top Hats",
+    "apiName": "Top Hat",
+    "id": "5897593557492957738",
+    "count": 9120,
+    "modelCount": 70,
+    "patternCount": 262,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/patterns.json"
+  },
+  "count": 70,
+  "items": [
+    {
+      "type": "model",
+      "slug": "pixel-perfect",
+      "name": "Pixel Perfect",
+      "customEmojiId": "5321030241370531982",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pixel-perfect.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pixel-perfect.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pixel-perfect.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pixel-perfect.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/pixel-perfect.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "constable",
+      "name": "Constable",
+      "customEmojiId": "5319130122068981087",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/constable.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/constable.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/constable.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/constable.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/constable.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "grey-gatsby",
+      "name": "Grey Gatsby",
+      "customEmojiId": "5319087709266932467",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/grey-gatsby.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/grey-gatsby.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/grey-gatsby.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/grey-gatsby.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/grey-gatsby.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hypnosis",
+      "name": "Hypnosis",
+      "customEmojiId": "5318771655508519998",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hypnosis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hypnosis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hypnosis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hypnosis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/hypnosis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lucifer",
+      "name": "Lucifer",
+      "customEmojiId": "5321348154849780769",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/lucifer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/lucifer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/lucifer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/lucifer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/lucifer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "megawatt",
+      "name": "Megawatt",
+      "customEmojiId": "5321439603293447607",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/megawatt.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/megawatt.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/megawatt.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/megawatt.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/megawatt.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "polygon",
+      "name": "Polygon",
+      "customEmojiId": "5321283197764395593",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/polygon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/polygon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/polygon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/polygon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/polygon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "solar-system",
+      "name": "Solar System",
+      "customEmojiId": "5319218684294622452",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/solar-system.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/solar-system.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/solar-system.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/solar-system.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/solar-system.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "abracadabra",
+      "name": "Abracadabra",
+      "customEmojiId": "5321490326857214290",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/abracadabra.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/abracadabra.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/abracadabra.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/abracadabra.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/abracadabra.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "alien-invasion",
+      "name": "Alien Invasion",
+      "customEmojiId": "5321559402816236141",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/alien-invasion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/alien-invasion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/alien-invasion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/alien-invasion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/alien-invasion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "atlantis",
+      "name": "Atlantis",
+      "customEmojiId": "5321089494739347250",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/atlantis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/atlantis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/atlantis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/atlantis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/atlantis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "brainiac",
+      "name": "Brainiac",
+      "customEmojiId": "5321411986653733589",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/brainiac.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/brainiac.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/brainiac.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/brainiac.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/brainiac.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubble-top",
+      "name": "Bubble Top",
+      "customEmojiId": "5318947354030667797",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bubble-top.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bubble-top.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bubble-top.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bubble-top.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/bubble-top.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "edison",
+      "name": "Edison",
+      "customEmojiId": "5321052665394785308",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/edison.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/edison.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/edison.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/edison.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/edison.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "green-stars",
+      "name": "Green Stars",
+      "customEmojiId": "5321221152666837154",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/green-stars.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/green-stars.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/green-stars.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/green-stars.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/green-stars.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hat-toss",
+      "name": "Hat Toss",
+      "customEmojiId": "5319310094083581558",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hat-toss.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hat-toss.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hat-toss.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hat-toss.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/hat-toss.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hippie",
+      "name": "Hippie",
+      "customEmojiId": "5318985196987509470",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hippie.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hippie.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hippie.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/hippie.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/hippie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "is-it-cake",
+      "name": "Is It Cake?",
+      "customEmojiId": "5318757495001342612",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/is-it-cake.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/is-it-cake.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/is-it-cake.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/is-it-cake.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/is-it-cake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mr-whiskers",
+      "name": "Mr. Whiskers",
+      "customEmojiId": "5318893087118880017",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/mr-whiskers.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/mr-whiskers.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/mr-whiskers.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/mr-whiskers.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/mr-whiskers.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pickle-jar",
+      "name": "Pickle Jar",
+      "customEmojiId": "5318973536151303840",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pickle-jar.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pickle-jar.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pickle-jar.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pickle-jar.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/pickle-jar.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "prestige",
+      "name": "Prestige",
+      "customEmojiId": "5319190693992753520",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/prestige.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/prestige.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/prestige.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/prestige.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/prestige.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "romantic",
+      "name": "Romantic",
+      "customEmojiId": "5321150264231619033",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/romantic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/romantic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/romantic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/romantic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/romantic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sceleritas-fel",
+      "name": "Sceleritas Fel",
+      "customEmojiId": "5319123705387837399",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/sceleritas-fel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/sceleritas-fel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/sceleritas-fel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/sceleritas-fel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/sceleritas-fel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snowstorm",
+      "name": "Snowstorm",
+      "customEmojiId": "5318932085421927649",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/snowstorm.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/snowstorm.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/snowstorm.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/snowstorm.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/snowstorm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tree-stump",
+      "name": "Tree Stump",
+      "customEmojiId": "5318842685677660470",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/tree-stump.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/tree-stump.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/tree-stump.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/tree-stump.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/tree-stump.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "antiquity",
+      "name": "Antiquity",
+      "customEmojiId": "5318891699844444499",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/antiquity.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/antiquity.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/antiquity.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/antiquity.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/antiquity.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blackjack",
+      "name": "Blackjack",
+      "customEmojiId": "5319285501100845759",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blackjack.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blackjack.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blackjack.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blackjack.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/blackjack.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "celestial",
+      "name": "Celestial",
+      "customEmojiId": "5321526928568509596",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/celestial.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/celestial.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/celestial.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/celestial.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/celestial.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dairy-dandy",
+      "name": "Dairy Dandy",
+      "customEmojiId": "5318857941401500121",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/dairy-dandy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/dairy-dandy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/dairy-dandy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/dairy-dandy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/dairy-dandy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glam-safari",
+      "name": "Glam Safari",
+      "customEmojiId": "5319313426978207805",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/glam-safari.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/glam-safari.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/glam-safari.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/glam-safari.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/glam-safari.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mad-hatter",
+      "name": "Mad Hatter",
+      "customEmojiId": "5319183298059068624",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/mad-hatter.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/mad-hatter.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/mad-hatter.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/mad-hatter.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/mad-hatter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "performer",
+      "name": "Performer",
+      "customEmojiId": "5319122726135294271",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/performer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/performer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/performer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/performer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/performer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pink-bunny",
+      "name": "Pink Bunny",
+      "customEmojiId": "5318756636007886802",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pink-bunny.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pink-bunny.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pink-bunny.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/pink-bunny.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/pink-bunny.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "steampunk",
+      "name": "Steampunk",
+      "customEmojiId": "5318756764856905133",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/steampunk.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/steampunk.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/steampunk.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/steampunk.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/steampunk.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "submarine",
+      "name": "Submarine",
+      "customEmojiId": "5318868515610978649",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/submarine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/submarine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/submarine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/submarine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/submarine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "witch-doctor",
+      "name": "Witch Doctor",
+      "customEmojiId": "5321552294645359183",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/witch-doctor.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/witch-doctor.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/witch-doctor.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/witch-doctor.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/witch-doctor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chronos",
+      "name": "Chronos",
+      "customEmojiId": "5318980867660472839",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/chronos.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/chronos.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/chronos.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/chronos.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/chronos.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blake",
+      "name": "Blake",
+      "customEmojiId": "5318832137237983930",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blake.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blake.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blake.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blake.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/blake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bull-baron",
+      "name": "Bull Baron",
+      "customEmojiId": "5318863984420483304",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bull-baron.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bull-baron.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bull-baron.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bull-baron.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/bull-baron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cranberry",
+      "name": "Cranberry",
+      "customEmojiId": "5321292706821988550",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/cranberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/cranberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/cranberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/cranberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/cranberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "elegance",
+      "name": "Elegance",
+      "customEmojiId": "5318790072328286691",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/elegance.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/elegance.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/elegance.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/elegance.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/elegance.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "huntsman",
+      "name": "Huntsman",
+      "customEmojiId": "5319081082132391204",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/huntsman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/huntsman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/huntsman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/huntsman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/huntsman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "leprechaun",
+      "name": "Leprechaun",
+      "customEmojiId": "5319220105928796440",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/leprechaun.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/leprechaun.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/leprechaun.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/leprechaun.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/leprechaun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-glass",
+      "name": "Silver Glass",
+      "customEmojiId": "5319226668638826450",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/silver-glass.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/silver-glass.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/silver-glass.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/silver-glass.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/silver-glass.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "uncle-sam",
+      "name": "Uncle Sam",
+      "customEmojiId": "5319085875315897094",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/uncle-sam.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/uncle-sam.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/uncle-sam.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/uncle-sam.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/uncle-sam.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blood-veil",
+      "name": "Blood Veil",
+      "customEmojiId": "5319264017674432611",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blood-veil.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blood-veil.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blood-veil.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/blood-veil.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/blood-veil.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "burned-brass",
+      "name": "Burned Brass",
+      "customEmojiId": "5319229048050709178",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/burned-brass.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/burned-brass.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/burned-brass.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/burned-brass.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/burned-brass.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "charlie",
+      "name": "Charlie",
+      "customEmojiId": "5321429836537815776",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/charlie.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/charlie.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/charlie.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/charlie.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/charlie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "clockwork",
+      "name": "Clockwork",
+      "customEmojiId": "5319279535391275525",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/clockwork.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/clockwork.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/clockwork.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/clockwork.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/clockwork.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crosswalk",
+      "name": "Crosswalk",
+      "customEmojiId": "5321105987413761820",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/crosswalk.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/crosswalk.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/crosswalk.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/crosswalk.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/crosswalk.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "limoncello",
+      "name": "Limoncello",
+      "customEmojiId": "5319023589700171053",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/limoncello.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/limoncello.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/limoncello.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/limoncello.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/limoncello.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lincoln",
+      "name": "Lincoln",
+      "customEmojiId": "5321055272439931325",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/lincoln.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/lincoln.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/lincoln.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/lincoln.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/lincoln.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "low-rider",
+      "name": "Low Rider",
+      "customEmojiId": "5318809704623796710",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/low-rider.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/low-rider.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/low-rider.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/low-rider.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/low-rider.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "scrooge",
+      "name": "Scrooge",
+      "customEmojiId": "5321265206146393841",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/scrooge.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/scrooge.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/scrooge.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/scrooge.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/scrooge.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "willy-wonka",
+      "name": "Willy Wonka",
+      "customEmojiId": "5319234893501200832",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/willy-wonka.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/willy-wonka.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/willy-wonka.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/willy-wonka.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/willy-wonka.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "alabaster",
+      "name": "Alabaster",
+      "customEmojiId": "5319311846430240605",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/alabaster.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/alabaster.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/alabaster.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/alabaster.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/alabaster.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "black-raven",
+      "name": "Black Raven",
+      "customEmojiId": "5319212173124205738",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/black-raven.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/black-raven.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/black-raven.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/black-raven.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/black-raven.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bloodline",
+      "name": "Bloodline",
+      "customEmojiId": "5321119890222901911",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bloodline.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bloodline.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bloodline.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/bloodline.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/bloodline.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cardinal",
+      "name": "Cardinal",
+      "customEmojiId": "5321327839654469602",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/cardinal.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/cardinal.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/cardinal.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/cardinal.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/cardinal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dreamwave",
+      "name": "Dreamwave",
+      "customEmojiId": "5321029957902686873",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/dreamwave.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/dreamwave.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/dreamwave.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/dreamwave.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/dreamwave.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-ratio",
+      "name": "Golden Ratio",
+      "customEmojiId": "5321103951599263748",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/golden-ratio.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/golden-ratio.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/golden-ratio.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/golden-ratio.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/golden-ratio.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "grandmaster",
+      "name": "Grandmaster",
+      "customEmojiId": "5319207620458870313",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/grandmaster.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/grandmaster.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/grandmaster.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/grandmaster.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/grandmaster.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "graphite",
+      "name": "Graphite",
+      "customEmojiId": "5321020813917316749",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/graphite.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/graphite.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/graphite.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/graphite.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/graphite.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "maestro",
+      "name": "Maestro",
+      "customEmojiId": "5321433130777730193",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/maestro.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/maestro.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/maestro.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/maestro.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/maestro.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "maroon",
+      "name": "Maroon",
+      "customEmojiId": "5319049973684267864",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/maroon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/maroon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/maroon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/maroon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/maroon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purple-rain",
+      "name": "Purple Rain",
+      "customEmojiId": "5318964405050830913",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/purple-rain.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/purple-rain.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/purple-rain.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/purple-rain.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/purple-rain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spectrum",
+      "name": "Spectrum",
+      "customEmojiId": "5318874236507417293",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/spectrum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/spectrum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/spectrum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/spectrum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/spectrum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starlight",
+      "name": "Starlight",
+      "customEmojiId": "5321018563354451308",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/starlight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/starlight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/starlight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/starlight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/starlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "victorian-era",
+      "name": "Victorian Era",
+      "customEmojiId": "5318900818060010445",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/victorian-era.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/victorian-era.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/victorian-era.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/victorian-era.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/victorian-era.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-windsor",
+      "name": "White Windsor",
+      "customEmojiId": "5319101362967967010",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "tophat",
+        "name": "Top Hat",
+        "id": "5897593557492957738"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/white-windsor.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/white-windsor.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/white-windsor.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/white-windsor.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/white-windsor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "unicone",
+  "name": "Unicone",
+  "customEmojiId": "5353062292147708336",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "vicecream",
+    "name": "Vice Cream",
+    "id": "5898012527257715797"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/unicone.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/unicone.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/unicone.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/vicecream/assets/models/unicone.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/vicecream/models/unicone.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

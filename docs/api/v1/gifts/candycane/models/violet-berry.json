@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "violet-berry",
+  "name": "Violet Berry",
+  "customEmojiId": "5355107624293525927",
+  "rarityPermille": 26,
+  "originalRarityPermille": 26,
+  "rarity": 2.6,
+  "originalRarity": 2.6,
+  "gift": {
+    "slug": "candycane",
+    "name": "Candy Cane",
+    "id": "6003373314888696650"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/violet-berry.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/violet-berry.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/violet-berry.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/violet-berry.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/models/violet-berry.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

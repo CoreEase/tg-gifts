@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "moon-cat",
+  "name": "Moon Cat",
+  "customEmojiId": "5870504812210035162",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "nailbracelet",
+    "name": "Nail Bracelet",
+    "id": "5870720080265871962"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/moon-cat.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/moon-cat.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/moon-cat.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nailbracelet/assets/models/moon-cat.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/nailbracelet/models/moon-cat.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

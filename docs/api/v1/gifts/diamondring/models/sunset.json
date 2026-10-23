@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sunset",
+  "name": "Sunset",
+  "customEmojiId": "5294304682817121104",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "diamondring",
+    "name": "Diamond Ring",
+    "id": "5868503709637411929"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/sunset.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/sunset.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/sunset.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/sunset.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/diamondring/models/sunset.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

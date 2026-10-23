@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sweet-tooth",
+  "name": "Sweet Tooth",
+  "customEmojiId": "5262955231192311587",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "iongem",
+    "name": "Ion Gem",
+    "id": "5843762284240831056"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/iongem/assets/models/sweet-tooth.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/iongem/assets/models/sweet-tooth.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/iongem/assets/models/sweet-tooth.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/iongem/assets/models/sweet-tooth.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/iongem/models/sweet-tooth.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

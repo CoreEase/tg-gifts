@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cultist",
+  "name": "Cultist",
+  "customEmojiId": "5287594067000063440",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lightsword",
+    "name": "Light Sword",
+    "id": "5897581235231785485"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/cultist.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/cultist.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/cultist.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/cultist.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/cultist.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

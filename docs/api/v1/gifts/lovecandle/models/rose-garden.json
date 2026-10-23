@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rose-garden",
+  "name": "Rose Garden",
+  "customEmojiId": "5249248762190128632",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lovecandle",
+    "name": "Love Candle",
+    "id": "5915550639663874519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/rose-garden.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/rose-garden.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/rose-garden.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/rose-garden.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/rose-garden.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

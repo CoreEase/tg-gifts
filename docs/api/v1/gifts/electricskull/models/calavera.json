@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "calavera",
+  "name": "Calavera",
+  "customEmojiId": "5355138711266825648",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "electricskull",
+    "name": "Electric Skull",
+    "id": "5846192273657692751"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/calavera.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/calavera.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/calavera.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/calavera.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/electricskull/models/calavera.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

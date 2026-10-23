@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "frostband",
+  "name": "Frostband",
+  "customEmojiId": "5292209292827456614",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "diamondring",
+    "name": "Diamond Ring",
+    "id": "5868503709637411929"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/frostband.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/frostband.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/frostband.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/frostband.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/diamondring/models/frostband.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

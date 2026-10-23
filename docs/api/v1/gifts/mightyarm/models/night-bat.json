@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "night-bat",
+  "name": "Night Bat",
+  "customEmojiId": "5309999610008210439",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "mightyarm",
+    "name": "Mighty Arm",
+    "id": "5895518353849582541"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/night-bat.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/night-bat.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/night-bat.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/night-bat.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/mightyarm/models/night-bat.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

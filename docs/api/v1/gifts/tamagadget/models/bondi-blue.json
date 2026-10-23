@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bondi-blue",
+  "name": "Bondi Blue",
+  "customEmojiId": "5357430346902165992",
+  "rarityPermille": 11,
+  "originalRarityPermille": 11,
+  "rarity": 1.1,
+  "originalRarity": 1.1,
+  "gift": {
+    "slug": "tamagadget",
+    "name": "Tama Gadget",
+    "id": "6023752243218481939"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/bondi-blue.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/bondi-blue.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/bondi-blue.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/bondi-blue.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tamagadget/models/bondi-blue.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

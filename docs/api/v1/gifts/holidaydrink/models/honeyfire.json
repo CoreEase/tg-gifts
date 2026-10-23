@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "honeyfire",
+  "name": "Honeyfire",
+  "customEmojiId": "5267312398204699458",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "holidaydrink",
+    "name": "Holiday Drink",
+    "id": "6003735372041814769"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honeyfire.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honeyfire.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honeyfire.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/honeyfire.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/honeyfire.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

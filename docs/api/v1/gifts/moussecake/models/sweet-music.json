@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sweet-music",
+  "name": "Sweet Music",
+  "customEmojiId": "6001287296517675845",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "moussecake",
+    "name": "Mousse Cake",
+    "id": "5935877878062253519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/sweet-music.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/sweet-music.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/sweet-music.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moussecake/assets/models/sweet-music.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moussecake/models/sweet-music.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

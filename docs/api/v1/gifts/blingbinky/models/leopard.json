@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "leopard",
+  "name": "Leopard",
+  "customEmojiId": "5206605208729193544",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "blingbinky",
+    "name": "Bling Binky",
+    "id": "5902339509239940491"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/blingbinky/assets/models/leopard.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/blingbinky/assets/models/leopard.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/blingbinky/assets/models/leopard.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/blingbinky/assets/models/leopard.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/blingbinky/models/leopard.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hornet",
+  "name": "Hornet",
+  "customEmojiId": "5359356553835078469",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "nekohelmet",
+    "name": "Neko Helmet",
+    "id": "5933793770951673155"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/hornet.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/hornet.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/hornet.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/hornet.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/nekohelmet/models/hornet.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

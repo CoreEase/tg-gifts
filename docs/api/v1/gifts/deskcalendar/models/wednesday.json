@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "wednesday",
+  "name": "Wednesday",
+  "customEmojiId": "5246950215952395280",
+  "rarityPermille": 5,
+  "originalRarityPermille": 6,
+  "rarity": 0.5,
+  "originalRarity": 0.6,
+  "gift": {
+    "slug": "deskcalendar",
+    "name": "Desk Calendar",
+    "id": "5782988952268964995"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/wednesday.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/wednesday.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/wednesday.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/wednesday.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/deskcalendar/models/wednesday.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

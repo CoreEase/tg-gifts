@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "kindergarten",
+  "name": "Kindergarten",
+  "customEmojiId": "5269664610058794100",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "xmasstocking",
+    "name": "Xmas Stocking",
+    "id": "6003767644426076664"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/xmasstocking/assets/models/kindergarten.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/xmasstocking/assets/models/kindergarten.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/xmasstocking/assets/models/kindergarten.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/xmasstocking/assets/models/kindergarten.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/xmasstocking/models/kindergarten.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

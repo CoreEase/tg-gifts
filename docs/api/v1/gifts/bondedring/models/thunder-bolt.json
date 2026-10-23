@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "thunder-bolt",
+  "name": "Thunder Bolt",
+  "customEmojiId": "5269421218557093543",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "bondedring",
+    "name": "Bonded Ring",
+    "id": "5870661333703197240"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/thunder-bolt.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/thunder-bolt.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/thunder-bolt.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/thunder-bolt.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/thunder-bolt.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

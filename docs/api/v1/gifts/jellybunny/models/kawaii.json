@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "kawaii",
+  "name": "Kawaii",
+  "customEmojiId": "5458709932054439989",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "jellybunny",
+    "name": "Jelly Bunny",
+    "id": "5915502858152706668"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/kawaii.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/kawaii.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/kawaii.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/kawaii.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jellybunny/models/kawaii.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

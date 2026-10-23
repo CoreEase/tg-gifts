@@ -1,0 +1,1173 @@
+{
+  "gift": {
+    "slug": "bondedring",
+    "name": "Bonded Rings",
+    "apiName": "Bonded Ring",
+    "id": "5870661333703197240",
+    "count": 2978,
+    "modelCount": 50,
+    "patternCount": 262,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/patterns.json"
+  },
+  "count": 50,
+  "items": [
+    {
+      "type": "model",
+      "slug": "ring-of-roots",
+      "name": "Ring of Roots",
+      "customEmojiId": "5269238463403689614",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/ring-of-roots.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/ring-of-roots.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/ring-of-roots.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/ring-of-roots.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/ring-of-roots.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "asteroid",
+      "name": "Asteroid",
+      "customEmojiId": "5267000437550120464",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/asteroid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/asteroid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/asteroid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/asteroid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/asteroid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "goldsmith",
+      "name": "Goldsmith",
+      "customEmojiId": "5269212302757886190",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/goldsmith.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/goldsmith.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/goldsmith.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/goldsmith.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/goldsmith.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hourglass",
+      "name": "Hourglass",
+      "customEmojiId": "5269539162654010758",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hourglass.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hourglass.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hourglass.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hourglass.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/hourglass.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neo-matrix",
+      "name": "Neo Matrix",
+      "customEmojiId": "5269461071558637876",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neo-matrix.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neo-matrix.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neo-matrix.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neo-matrix.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/neo-matrix.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spatial-grid",
+      "name": "Spatial Grid",
+      "customEmojiId": "5269645737972494936",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/spatial-grid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/spatial-grid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/spatial-grid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/spatial-grid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/spatial-grid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fireball",
+      "name": "Fireball",
+      "customEmojiId": "5269760164491198904",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/fireball.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/fireball.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/fireball.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/fireball.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/fireball.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "highway",
+      "name": "Highway",
+      "customEmojiId": "5269520921927907595",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/highway.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/highway.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/highway.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/highway.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/highway.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "metal-forever",
+      "name": "Metal Forever",
+      "customEmojiId": "5267378008125111510",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/metal-forever.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/metal-forever.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/metal-forever.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/metal-forever.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/metal-forever.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "moon-dust",
+      "name": "Moon Dust",
+      "customEmojiId": "5269636632641828033",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/moon-dust.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/moon-dust.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/moon-dust.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/moon-dust.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/moon-dust.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stratosphere",
+      "name": "Stratosphere",
+      "customEmojiId": "5269546962314617593",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/stratosphere.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/stratosphere.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/stratosphere.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/stratosphere.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/stratosphere.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "thunder-bolt",
+      "name": "Thunder Bolt",
+      "customEmojiId": "5269421218557093543",
+      "rarityPermille": 12,
+      "originalRarityPermille": 12,
+      "rarity": 1.2,
+      "originalRarity": 1.2,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/thunder-bolt.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/thunder-bolt.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/thunder-bolt.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/thunder-bolt.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/thunder-bolt.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "anaconda",
+      "name": "Anaconda",
+      "customEmojiId": "5269626487929072721",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/anaconda.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/anaconda.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/anaconda.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/anaconda.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/anaconda.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cat-bed",
+      "name": "Cat Bed",
+      "customEmojiId": "5269397634891698017",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/cat-bed.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/cat-bed.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/cat-bed.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/cat-bed.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/cat-bed.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cheese",
+      "name": "Cheese",
+      "customEmojiId": "5269231041700198264",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/cheese.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/cheese.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/cheese.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/cheese.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/cheese.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "duckling",
+      "name": "Duckling",
+      "customEmojiId": "5269659752450778530",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/duckling.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/duckling.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/duckling.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/duckling.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/duckling.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "froge-ring",
+      "name": "Froge Ring",
+      "customEmojiId": "5269536151881940118",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/froge-ring.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/froge-ring.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/froge-ring.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/froge-ring.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/froge-ring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-star",
+      "name": "Golden Star",
+      "customEmojiId": "5269451412177187074",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/golden-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/golden-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/golden-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/golden-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/golden-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hamster-wheel",
+      "name": "Hamster Wheel",
+      "customEmojiId": "5267347917584233883",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hamster-wheel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hamster-wheel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hamster-wheel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hamster-wheel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/hamster-wheel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-wheel",
+      "name": "Hot Wheel",
+      "customEmojiId": "5269717579890452109",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hot-wheel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hot-wheel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hot-wheel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/hot-wheel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/hot-wheel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "kraken-s-grip",
+      "name": "Kraken’s Grip",
+      "customEmojiId": "5269528876207341266",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/kraken-s-grip.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/kraken-s-grip.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/kraken-s-grip.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/kraken-s-grip.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/kraken-s-grip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mouse-wheel",
+      "name": "Mouse Wheel",
+      "customEmojiId": "5267389333953872302",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/mouse-wheel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/mouse-wheel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/mouse-wheel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/mouse-wheel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/mouse-wheel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neon-pulse",
+      "name": "Neon Pulse",
+      "customEmojiId": "5269619353988394497",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neon-pulse.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neon-pulse.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neon-pulse.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neon-pulse.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/neon-pulse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pixel-loot",
+      "name": "Pixel Loot",
+      "customEmojiId": "5269375614594348637",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/pixel-loot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/pixel-loot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/pixel-loot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/pixel-loot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/pixel-loot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rainbow",
+      "name": "Rainbow",
+      "customEmojiId": "5269619603096499619",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/rainbow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/rainbow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/rainbow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/rainbow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/rainbow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "soap-bubbles",
+      "name": "Soap Bubbles",
+      "customEmojiId": "5269634309064519984",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/soap-bubbles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/soap-bubbles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/soap-bubbles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/soap-bubbles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/soap-bubbles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "space-inside",
+      "name": "Space Inside",
+      "customEmojiId": "5267291928390564714",
+      "rarityPermille": 18,
+      "originalRarityPermille": 18,
+      "rarity": 1.8,
+      "originalRarity": 1.8,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/space-inside.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/space-inside.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/space-inside.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/space-inside.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/space-inside.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "astro-silver",
+      "name": "Astro Silver",
+      "customEmojiId": "5269544273665094068",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/astro-silver.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/astro-silver.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/astro-silver.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/astro-silver.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/astro-silver.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "atomic-core",
+      "name": "Atomic Core",
+      "customEmojiId": "5269223272104357203",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/atomic-core.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/atomic-core.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/atomic-core.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/atomic-core.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/atomic-core.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dalmatian",
+      "name": "Dalmatian",
+      "customEmojiId": "5269309605241983955",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/dalmatian.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/dalmatian.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/dalmatian.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/dalmatian.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/dalmatian.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "duo-vision",
+      "name": "Duo Vision",
+      "customEmojiId": "5269256124309202693",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/duo-vision.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/duo-vision.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/duo-vision.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/duo-vision.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/duo-vision.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eclipse",
+      "name": "Eclipse",
+      "customEmojiId": "5267469825935964465",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/eclipse.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/eclipse.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/eclipse.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/eclipse.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/eclipse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ironwood",
+      "name": "Ironwood",
+      "customEmojiId": "5269386854523760648",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/ironwood.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/ironwood.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/ironwood.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/ironwood.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/ironwood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "magic-runes",
+      "name": "Magic Runes",
+      "customEmojiId": "5269383710607699444",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/magic-runes.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/magic-runes.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/magic-runes.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/magic-runes.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/magic-runes.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neo-tribe",
+      "name": "Neo Tribe",
+      "customEmojiId": "5269477671607236019",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neo-tribe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neo-tribe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neo-tribe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/neo-tribe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/neo-tribe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rainbow-halo",
+      "name": "Rainbow Halo",
+      "customEmojiId": "5269615321014101565",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/rainbow-halo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/rainbow-halo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/rainbow-halo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/rainbow-halo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/rainbow-halo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "runewood",
+      "name": "Runewood",
+      "customEmojiId": "5267400307595311629",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/runewood.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/runewood.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/runewood.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/runewood.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/runewood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "solid-magma",
+      "name": "Solid Magma",
+      "customEmojiId": "5269383233866330019",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/solid-magma.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/solid-magma.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/solid-magma.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/solid-magma.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/solid-magma.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tiger-amulet",
+      "name": "Tiger Amulet",
+      "customEmojiId": "5267382912977764112",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/tiger-amulet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/tiger-amulet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/tiger-amulet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/tiger-amulet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/tiger-amulet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zebra",
+      "name": "Zebra",
+      "customEmojiId": "5269671572200780853",
+      "rarityPermille": 21,
+      "originalRarityPermille": 21,
+      "rarity": 2.1,
+      "originalRarity": 2.1,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/zebra.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/zebra.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/zebra.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/zebra.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/zebra.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "black-hole",
+      "name": "Black Hole",
+      "customEmojiId": "5269710381525270046",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/black-hole.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/black-hole.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/black-hole.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/black-hole.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/black-hole.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bloody-mary",
+      "name": "Bloody Mary",
+      "customEmojiId": "5267493040234200818",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/bloody-mary.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/bloody-mary.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/bloody-mary.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/bloody-mary.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/bloody-mary.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "frostband",
+      "name": "Frostband",
+      "customEmojiId": "5269509205257122540",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/frostband.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/frostband.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/frostband.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/frostband.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/frostband.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "leopard",
+      "name": "Leopard",
+      "customEmojiId": "5269673904368022117",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/leopard.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/leopard.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/leopard.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/leopard.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/leopard.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lime-factory",
+      "name": "Lime Factory",
+      "customEmojiId": "5267062181999966040",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/lime-factory.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/lime-factory.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/lime-factory.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/lime-factory.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/lime-factory.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "line-art",
+      "name": "Line Art",
+      "customEmojiId": "5269760731426878942",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/line-art.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/line-art.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/line-art.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/line-art.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/line-art.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "love-whisper",
+      "name": "Love Whisper",
+      "customEmojiId": "5269708749437700551",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/love-whisper.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/love-whisper.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/love-whisper.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/love-whisper.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/love-whisper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "miami-art",
+      "name": "Miami Art",
+      "customEmojiId": "5269764064321498913",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/miami-art.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/miami-art.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/miami-art.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/miami-art.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/miami-art.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spectrum",
+      "name": "Spectrum",
+      "customEmojiId": "5269710931281079815",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/spectrum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/spectrum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/spectrum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/spectrum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/spectrum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "yin-yang",
+      "name": "Yin Yang",
+      "customEmojiId": "5267112175419293126",
+      "rarityPermille": 35,
+      "originalRarityPermille": 35,
+      "rarity": 3.5,
+      "originalRarity": 3.5,
+      "gift": {
+        "slug": "bondedring",
+        "name": "Bonded Ring",
+        "id": "5870661333703197240"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/yin-yang.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/yin-yang.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/yin-yang.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/yin-yang.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/yin-yang.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "happy-poo",
+  "name": "Happy Poo",
+  "customEmojiId": "5429152461044612018",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "jackinthebox",
+    "name": "Jack-in-the-Box",
+    "id": "6005659564635063386"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/happy-poo.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/happy-poo.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/happy-poo.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/happy-poo.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jackinthebox/models/happy-poo.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

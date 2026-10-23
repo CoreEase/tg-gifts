@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "flashlight",
+  "name": "Flashlight",
+  "customEmojiId": "5339385849261888594",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "chillflame",
+    "name": "Chill Flame",
+    "id": "5999277561060787166"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/flashlight.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/flashlight.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/flashlight.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/flashlight.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/chillflame/models/flashlight.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "stool-sample",
+  "name": "Stool Sample",
+  "customEmojiId": "6001529412414086809",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "happybrownie",
+    "name": "Happy Brownie",
+    "id": "6006064678835323371"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/stool-sample.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/stool-sample.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/stool-sample.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/stool-sample.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/happybrownie/models/stool-sample.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

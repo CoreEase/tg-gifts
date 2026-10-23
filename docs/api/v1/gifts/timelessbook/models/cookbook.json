@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cookbook",
+  "name": "Cookbook",
+  "customEmojiId": "5336908198592944331",
+  "rarityPermille": 35,
+  "originalRarityPermille": 35,
+  "rarity": 3.5,
+  "originalRarity": 3.5,
+  "gift": {
+    "slug": "timelessbook",
+    "name": "Timeless Book",
+    "id": "5886387158889005864"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/cookbook.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/cookbook.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/cookbook.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/cookbook.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/timelessbook/models/cookbook.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

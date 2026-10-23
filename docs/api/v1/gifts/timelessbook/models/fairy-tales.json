@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "fairy-tales",
+  "name": "Fairy Tales",
+  "customEmojiId": "5337129372228816979",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "timelessbook",
+    "name": "Timeless Book",
+    "id": "5886387158889005864"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/fairy-tales.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/fairy-tales.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/fairy-tales.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/timelessbook/assets/models/fairy-tales.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/timelessbook/models/fairy-tales.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

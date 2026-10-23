@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "energy-bar",
+  "name": "Energy Bar",
+  "customEmojiId": "5247204344872331970",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "cookieheart",
+    "name": "Cookie Heart",
+    "id": "6001538689543439169"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/energy-bar.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/energy-bar.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/energy-bar.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/energy-bar.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cookieheart/models/energy-bar.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "easter-egg",
+  "name": "Easter Egg",
+  "customEmojiId": "5199483835124843089",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "libertyfigure",
+    "name": "Liberty Figure",
+    "id": "5999298447486747746"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/patterns/easter-egg.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/patterns/easter-egg.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/libertyfigure/patterns/easter-egg.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "loyalty",
+  "name": "Loyalty",
+  "customEmojiId": "5321414052533013359",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "freshsocks",
+    "name": "Fresh Socks",
+    "id": "5895603153683874485"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/loyalty.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/loyalty.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/loyalty.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/loyalty.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/freshsocks/models/loyalty.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

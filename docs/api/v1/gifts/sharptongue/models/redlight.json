@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "redlight",
+  "name": "Redlight",
+  "customEmojiId": "5456576690517991978",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "sharptongue",
+    "name": "Sharp Tongue",
+    "id": "5841689550203650524"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/redlight.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/redlight.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/redlight.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/redlight.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sharptongue/models/redlight.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

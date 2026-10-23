@@ -1,0 +1,1403 @@
+{
+  "gift": {
+    "slug": "inputkey",
+    "name": "Input Keys",
+    "apiName": "Input Key",
+    "id": "5870972044522291836",
+    "count": 15045,
+    "modelCount": 60,
+    "patternCount": 250,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/patterns.json"
+  },
+  "count": 60,
+  "items": [
+    {
+      "type": "model",
+      "slug": "like-button",
+      "name": "Like Button",
+      "customEmojiId": "5307536721141856986",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/like-button.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/like-button.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/like-button.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/like-button.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/like-button.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "press-f",
+      "name": "Press F",
+      "customEmojiId": "5308020678056772898",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/press-f.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/press-f.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/press-f.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/press-f.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/press-f.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "quad-damage",
+      "name": "Quad Damage",
+      "customEmojiId": "5305356166245678818",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/quad-damage.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/quad-damage.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/quad-damage.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/quad-damage.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/quad-damage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "submit-button",
+      "name": "Submit Button",
+      "customEmojiId": "5307584206300285734",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/submit-button.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/submit-button.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/submit-button.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/submit-button.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/submit-button.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "verification",
+      "name": "Verification",
+      "customEmojiId": "5307989552428775181",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/verification.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/verification.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/verification.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/verification.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/verification.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ban-hammer",
+      "name": "Ban Hammer",
+      "customEmojiId": "5305265469421290732",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ban-hammer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ban-hammer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ban-hammer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ban-hammer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/ban-hammer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "champion",
+      "name": "Champion",
+      "customEmojiId": "5307516122478708512",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/champion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/champion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/champion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/champion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/champion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gold-star",
+      "name": "Gold Star",
+      "customEmojiId": "5307707218458605938",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/gold-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/gold-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/gold-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/gold-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/gold-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "major",
+      "name": "Major",
+      "customEmojiId": "5307564543939997872",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/major.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/major.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/major.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/major.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/major.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "money-printer",
+      "name": "Money Printer",
+      "customEmojiId": "5307953826890806213",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/money-printer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/money-printer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/money-printer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/money-printer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/money-printer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purrfect-key",
+      "name": "Purrfect Key",
+      "customEmojiId": "5308031922281154159",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/purrfect-key.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/purrfect-key.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/purrfect-key.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/purrfect-key.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/purrfect-key.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ronaldo",
+      "name": "Ronaldo",
+      "customEmojiId": "5308033060447482383",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ronaldo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ronaldo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ronaldo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ronaldo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/ronaldo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "astrobot",
+      "name": "Astrobot",
+      "customEmojiId": "5307591121197627542",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/astrobot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/astrobot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/astrobot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/astrobot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/astrobot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blockchain",
+      "name": "Blockchain",
+      "customEmojiId": "5305367315980781885",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/blockchain.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/blockchain.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/blockchain.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/blockchain.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/blockchain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "continue",
+      "name": "Continue",
+      "customEmojiId": "5308016408859281184",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/continue.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/continue.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/continue.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/continue.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/continue.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "creeper",
+      "name": "Creeper",
+      "customEmojiId": "5307973910157884374",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/creeper.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/creeper.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/creeper.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/creeper.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/creeper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "doomsday",
+      "name": "Doomsday",
+      "customEmojiId": "5307785584431887659",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/doomsday.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/doomsday.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/doomsday.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/doomsday.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/doomsday.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "earth",
+      "name": "Earth",
+      "customEmojiId": "5305776755213109441",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/earth.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/earth.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/earth.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/earth.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/earth.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "end-game",
+      "name": "End Game",
+      "customEmojiId": "5307959741060779291",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/end-game.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/end-game.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/end-game.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/end-game.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/end-game.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "helipad",
+      "name": "Helipad",
+      "customEmojiId": "5307922855881635795",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/helipad.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/helipad.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/helipad.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/helipad.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/helipad.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "incredible",
+      "name": "Incredible",
+      "customEmojiId": "5307732339722323779",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/incredible.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/incredible.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/incredible.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/incredible.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/incredible.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "joker",
+      "name": "Joker",
+      "customEmojiId": "5307673017634026714",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/joker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/joker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/joker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/joker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/joker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "matrix",
+      "name": "Matrix",
+      "customEmojiId": "5308037720487004504",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/matrix.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/matrix.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/matrix.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/matrix.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/matrix.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ninja",
+      "name": "Ninja",
+      "customEmojiId": "5307639040147750862",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ninja.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ninja.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ninja.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ninja.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/ninja.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nom-nom",
+      "name": "Nom-Nom",
+      "customEmojiId": "5307614790762400352",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/nom-nom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/nom-nom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/nom-nom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/nom-nom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/nom-nom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-dice",
+      "name": "Red Dice",
+      "customEmojiId": "5307569109490234968",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/red-dice.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/red-dice.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/red-dice.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/red-dice.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/red-dice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "search-engine",
+      "name": "Search Engine",
+      "customEmojiId": "5308036307442764809",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/search-engine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/search-engine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/search-engine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/search-engine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/search-engine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "switch",
+      "name": "Switch",
+      "customEmojiId": "5307501442280490123",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/switch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/switch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/switch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/switch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/switch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "the-king",
+      "name": "The King",
+      "customEmojiId": "5307793564481126555",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/the-king.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/the-king.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/the-king.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/the-king.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/the-king.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "typewriter",
+      "name": "Typewriter",
+      "customEmojiId": "5307993074301963233",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/typewriter.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/typewriter.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/typewriter.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/typewriter.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/typewriter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "x-ray",
+      "name": "X-Ray",
+      "customEmojiId": "5307762962839139099",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/x-ray.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/x-ray.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/x-ray.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/x-ray.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/x-ray.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "angel",
+      "name": "Angel",
+      "customEmojiId": "5307727284545814951",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/angel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/angel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/angel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/angel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/angel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bitcoin",
+      "name": "Bitcoin",
+      "customEmojiId": "5307955033776622816",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/bitcoin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/bitcoin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/bitcoin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/bitcoin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/bitcoin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "black-hole",
+      "name": "Black Hole",
+      "customEmojiId": "5307595776942177924",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/black-hole.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/black-hole.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/black-hole.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/black-hole.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/black-hole.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "countdown",
+      "name": "Countdown",
+      "customEmojiId": "5307726653185620431",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/countdown.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/countdown.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/countdown.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/countdown.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/countdown.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "euro",
+      "name": "Euro",
+      "customEmojiId": "5307952637184866872",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/euro.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/euro.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/euro.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/euro.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/euro.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-grill",
+      "name": "Hot Grill",
+      "customEmojiId": "5307611797170189759",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/hot-grill.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/hot-grill.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/hot-grill.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/hot-grill.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/hot-grill.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "infinity",
+      "name": "Infinity",
+      "customEmojiId": "5307730394102136553",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/infinity.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/infinity.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/infinity.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/infinity.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/infinity.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jackpot",
+      "name": "Jackpot",
+      "customEmojiId": "5307728856503844559",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/jackpot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/jackpot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/jackpot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/jackpot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/jackpot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lol",
+      "name": "LOL",
+      "customEmojiId": "5307759539750204709",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/lol.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/lol.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/lol.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/lol.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/lol.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "love-button",
+      "name": "Love Button",
+      "customEmojiId": "5307678639746218398",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/love-button.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/love-button.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/love-button.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/love-button.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/love-button.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "magic-8-ball",
+      "name": "Magic 8 Ball",
+      "customEmojiId": "5307676187319893390",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/magic-8-ball.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/magic-8-ball.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/magic-8-ball.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/magic-8-ball.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/magic-8-ball.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "phosphorus",
+      "name": "Phosphorus",
+      "customEmojiId": "5308034237268522029",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/phosphorus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/phosphorus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/phosphorus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/phosphorus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/phosphorus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "play-button",
+      "name": "Play Button",
+      "customEmojiId": "5307973437711486567",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/play-button.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/play-button.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/play-button.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/play-button.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/play-button.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "raido-rune",
+      "name": "Raido Rune",
+      "customEmojiId": "5308044863017613466",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/raido-rune.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/raido-rune.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/raido-rune.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/raido-rune.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/raido-rune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "scared-cat",
+      "name": "Scared Cat",
+      "customEmojiId": "5307666296010209302",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/scared-cat.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/scared-cat.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/scared-cat.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/scared-cat.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/scared-cat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snoop-dogg",
+      "name": "Snoop Dogg",
+      "customEmojiId": "5307769890621389307",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/snoop-dogg.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/snoop-dogg.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/snoop-dogg.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/snoop-dogg.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/snoop-dogg.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "telegram",
+      "name": "Telegram",
+      "customEmojiId": "5307559265425194572",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/telegram.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/telegram.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/telegram.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/telegram.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/telegram.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "underwood",
+      "name": "Underwood",
+      "customEmojiId": "5307938648476385713",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/underwood.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/underwood.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/underwood.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/underwood.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/underwood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "utya",
+      "name": "Utya",
+      "customEmojiId": "5307990883868636817",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/utya.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/utya.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/utya.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/utya.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/utya.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "volcano",
+      "name": "Volcano",
+      "customEmojiId": "5307565995638950211",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/volcano.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/volcano.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/volcano.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/volcano.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/volcano.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zombie",
+      "name": "Zombie",
+      "customEmojiId": "5307882491778992357",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/zombie.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/zombie.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/zombie.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/zombie.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/zombie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chill-key",
+      "name": "Chill Key",
+      "customEmojiId": "5307560111533750464",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/chill-key.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/chill-key.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/chill-key.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/chill-key.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/chill-key.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "coffee",
+      "name": "Coffee",
+      "customEmojiId": "5307830071703145664",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/coffee.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/coffee.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/coffee.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/coffee.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/coffee.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ctrl-pi",
+      "name": "Ctrl+Pi",
+      "customEmojiId": "5307646955772479980",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ctrl-pi.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ctrl-pi.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ctrl-pi.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/ctrl-pi.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/ctrl-pi.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hashtag",
+      "name": "Hashtag",
+      "customEmojiId": "5305647137395082653",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/hashtag.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/hashtag.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/hashtag.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/hashtag.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/hashtag.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "parking-lot",
+      "name": "Parking Lot",
+      "customEmojiId": "5307637111707435319",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/parking-lot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/parking-lot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/parking-lot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/parking-lot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/parking-lot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "swimming-pool",
+      "name": "Swimming Pool",
+      "customEmojiId": "5307512927023035245",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/swimming-pool.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/swimming-pool.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/swimming-pool.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/swimming-pool.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/swimming-pool.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "v-for-vegan",
+      "name": "V For Vegan",
+      "customEmojiId": "5307813841021730082",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/v-for-vegan.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/v-for-vegan.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/v-for-vegan.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/v-for-vegan.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/v-for-vegan.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "woodland",
+      "name": "Woodland",
+      "customEmojiId": "5307664152821528532",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "inputkey",
+        "name": "Input Key",
+        "id": "5870972044522291836"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/woodland.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/woodland.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/woodland.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/woodland.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/woodland.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

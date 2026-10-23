@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "tamagotchi",
+  "name": "Tamagotchi",
+  "customEmojiId": "5251215191491763566",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "hypnolollipop",
+    "name": "Hypno Lollipop",
+    "id": "5825895989088617224"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hypnolollipop/assets/models/tamagotchi.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hypnolollipop/assets/models/tamagotchi.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hypnolollipop/assets/models/tamagotchi.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hypnolollipop/assets/models/tamagotchi.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hypnolollipop/models/tamagotchi.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

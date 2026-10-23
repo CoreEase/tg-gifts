@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "tamagotchi",
+  "name": "Tamagotchi",
+  "customEmojiId": "5199853902391968563",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "bowtie",
+    "name": "Bow Tie",
+    "id": "5895544372761461960"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/patterns/tamagotchi.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/patterns/tamagotchi.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bowtie/patterns/tamagotchi.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

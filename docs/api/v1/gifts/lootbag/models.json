@@ -1,0 +1,1863 @@
+{
+  "gift": {
+    "slug": "lootbag",
+    "name": "Loot Bags",
+    "apiName": "Loot Bag",
+    "id": "5868659926187901653",
+    "count": 6649,
+    "modelCount": 80,
+    "patternCount": 262,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/patterns.json"
+  },
+  "count": 80,
+  "items": [
+    {
+      "type": "model",
+      "slug": "ardente",
+      "name": "Ardente",
+      "customEmojiId": "5294063460273904730",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/ardente.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/ardente.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/ardente.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/ardente.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/ardente.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "black-purrse",
+      "name": "Black Purrse",
+      "customEmojiId": "5294321549153691797",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/black-purrse.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/black-purrse.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/black-purrse.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/black-purrse.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/black-purrse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bouquet",
+      "name": "Bouquet",
+      "customEmojiId": "5294085274412801864",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/bouquet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/bouquet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/bouquet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/bouquet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/bouquet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "circus",
+      "name": "Circus",
+      "customEmojiId": "5291731572205056933",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/circus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/circus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/circus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/circus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/circus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "city-life",
+      "name": "City Life",
+      "customEmojiId": "5292113725510152309",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/city-life.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/city-life.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/city-life.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/city-life.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/city-life.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "conductor",
+      "name": "Conductor",
+      "customEmojiId": "5294227991881081631",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/conductor.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/conductor.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/conductor.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/conductor.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/conductor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crypto-byte",
+      "name": "Crypto Byte",
+      "customEmojiId": "5294370717939293389",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/crypto-byte.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/crypto-byte.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/crypto-byte.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/crypto-byte.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/crypto-byte.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crypto-punk",
+      "name": "Crypto Punk",
+      "customEmojiId": "5292274653639765213",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/crypto-punk.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/crypto-punk.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/crypto-punk.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/crypto-punk.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/crypto-punk.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fluorescent",
+      "name": "Fluorescent",
+      "customEmojiId": "5294001462420987648",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/fluorescent.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/fluorescent.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/fluorescent.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/fluorescent.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/fluorescent.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glacier",
+      "name": "Glacier",
+      "customEmojiId": "5294050467997837582",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/glacier.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/glacier.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/glacier.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/glacier.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/glacier.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "instabag",
+      "name": "Instabag",
+      "customEmojiId": "5294252408770159015",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/instabag.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/instabag.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/instabag.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/instabag.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/instabag.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "liberty",
+      "name": "Liberty",
+      "customEmojiId": "5291768491743932544",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/liberty.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/liberty.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/liberty.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/liberty.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/liberty.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lust-beat",
+      "name": "Lust Beat",
+      "customEmojiId": "5292122942509968561",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/lust-beat.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/lust-beat.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/lust-beat.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/lust-beat.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/lust-beat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "miranda",
+      "name": "Miranda",
+      "customEmojiId": "5294519663110152601",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/miranda.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/miranda.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/miranda.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/miranda.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/miranda.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "money-bag",
+      "name": "Money Bag",
+      "customEmojiId": "5291747171526274875",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/money-bag.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/money-bag.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/money-bag.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/money-bag.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/money-bag.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nightmare",
+      "name": "Nightmare",
+      "customEmojiId": "5291937477232191870",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/nightmare.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/nightmare.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/nightmare.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/nightmare.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/nightmare.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "panthera",
+      "name": "Panthera",
+      "customEmojiId": "5294191312860374727",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/panthera.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/panthera.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/panthera.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/panthera.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/panthera.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pendragon",
+      "name": "Pendragon",
+      "customEmojiId": "5291956757340386282",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pendragon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pendragon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pendragon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pendragon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/pendragon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pepe-bag",
+      "name": "Pepe Bag",
+      "customEmojiId": "5291915031733103303",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pepe-bag.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pepe-bag.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pepe-bag.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pepe-bag.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/pepe-bag.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "poison-dart",
+      "name": "Poison Dart",
+      "customEmojiId": "5294342538658864096",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/poison-dart.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/poison-dart.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/poison-dart.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/poison-dart.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/poison-dart.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "priestly",
+      "name": "Priestly",
+      "customEmojiId": "5291784009460771981",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/priestly.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/priestly.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/priestly.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/priestly.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/priestly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "riot-pack",
+      "name": "Riot Pack",
+      "customEmojiId": "5294099791402264083",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/riot-pack.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/riot-pack.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/riot-pack.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/riot-pack.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/riot-pack.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "scrooge",
+      "name": "Scrooge",
+      "customEmojiId": "5294448688775586437",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/scrooge.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/scrooge.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/scrooge.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/scrooge.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/scrooge.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "secret-toys",
+      "name": "Secret Toys",
+      "customEmojiId": "5294212104797052538",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/secret-toys.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/secret-toys.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/secret-toys.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/secret-toys.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/secret-toys.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "travel-bag",
+      "name": "Travel Bag",
+      "customEmojiId": "5291867984661344274",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/travel-bag.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/travel-bag.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/travel-bag.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/travel-bag.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/travel-bag.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "woof-pack",
+      "name": "Woof Pack",
+      "customEmojiId": "5292116057677395290",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/woof-pack.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/woof-pack.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/woof-pack.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/woof-pack.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/woof-pack.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "boulevard",
+      "name": "Boulevard",
+      "customEmojiId": "5294193267070493554",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/boulevard.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/boulevard.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/boulevard.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/boulevard.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/boulevard.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "contour",
+      "name": "Contour",
+      "customEmojiId": "5294521063269493684",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/contour.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/contour.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/contour.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/contour.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/contour.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dark-arches",
+      "name": "Dark Arches",
+      "customEmojiId": "5294353744228543816",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/dark-arches.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/dark-arches.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/dark-arches.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/dark-arches.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/dark-arches.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "faubourg",
+      "name": "Faubourg",
+      "customEmojiId": "5291868457107746050",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/faubourg.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/faubourg.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/faubourg.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/faubourg.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/faubourg.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "highway",
+      "name": "Highway",
+      "customEmojiId": "5294235104346923983",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/highway.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/highway.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/highway.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/highway.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/highway.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "metro-trench",
+      "name": "Metro Trench",
+      "customEmojiId": "5294526844295474805",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/metro-trench.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/metro-trench.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/metro-trench.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/metro-trench.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/metro-trench.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "night-city",
+      "name": "Night City",
+      "customEmojiId": "5292266712245235148",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/night-city.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/night-city.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/night-city.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/night-city.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/night-city.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pink-pulsar",
+      "name": "Pink Pulsar",
+      "customEmojiId": "5294049209572416315",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pink-pulsar.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pink-pulsar.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pink-pulsar.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/pink-pulsar.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/pink-pulsar.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "road-trip",
+      "name": "Road Trip",
+      "customEmojiId": "5294416051319104564",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/road-trip.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/road-trip.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/road-trip.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/road-trip.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/road-trip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aero-swift",
+      "name": "Aero Swift",
+      "customEmojiId": "5294446794695009254",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/aero-swift.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/aero-swift.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/aero-swift.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/aero-swift.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/aero-swift.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "anemone",
+      "name": "Anemone",
+      "customEmojiId": "5291981474877173717",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/anemone.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/anemone.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/anemone.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/anemone.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/anemone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aqua-atoll",
+      "name": "Aqua Atoll",
+      "customEmojiId": "5293993770134564806",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/aqua-atoll.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/aqua-atoll.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/aqua-atoll.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/aqua-atoll.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/aqua-atoll.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "biscuit",
+      "name": "Biscuit",
+      "customEmojiId": "5294322760334468211",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/biscuit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/biscuit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/biscuit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/biscuit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/biscuit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cherry-croc",
+      "name": "Cherry Croc",
+      "customEmojiId": "5291791796236478168",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cherry-croc.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cherry-croc.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cherry-croc.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cherry-croc.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/cherry-croc.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "courchevel",
+      "name": "Courchevel",
+      "customEmojiId": "5291744796409360157",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/courchevel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/courchevel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/courchevel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/courchevel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/courchevel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "grizzly",
+      "name": "Grizzly",
+      "customEmojiId": "5294133047334034175",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/grizzly.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/grizzly.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/grizzly.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/grizzly.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/grizzly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jade-serpent",
+      "name": "Jade Serpent",
+      "customEmojiId": "5291847617926428227",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jade-serpent.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jade-serpent.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jade-serpent.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jade-serpent.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/jade-serpent.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jaune-poussin",
+      "name": "Jaune Poussin",
+      "customEmojiId": "5291982278036057573",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jaune-poussin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jaune-poussin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jaune-poussin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jaune-poussin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/jaune-poussin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "menthol",
+      "name": "Menthol",
+      "customEmojiId": "5292048450597187288",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/menthol.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/menthol.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/menthol.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/menthol.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/menthol.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "orange-croc",
+      "name": "Orange Croc",
+      "customEmojiId": "5291801219394727892",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/orange-croc.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/orange-croc.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/orange-croc.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/orange-croc.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/orange-croc.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "reptile-noir",
+      "name": "Reptile Noir",
+      "customEmojiId": "5291881260405256634",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/reptile-noir.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/reptile-noir.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/reptile-noir.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/reptile-noir.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/reptile-noir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rose-tyrien",
+      "name": "Rose Tyrien",
+      "customEmojiId": "5294167905288612174",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/rose-tyrien.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/rose-tyrien.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/rose-tyrien.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/rose-tyrien.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/rose-tyrien.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rouge-royale",
+      "name": "Rouge Royale",
+      "customEmojiId": "5294381738825373859",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/rouge-royale.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/rouge-royale.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/rouge-royale.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/rouge-royale.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/rouge-royale.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "satin-beige",
+      "name": "Satin Beige",
+      "customEmojiId": "5294221944567129408",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/satin-beige.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/satin-beige.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/satin-beige.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/satin-beige.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/satin-beige.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-gator",
+      "name": "Silver Gator",
+      "customEmojiId": "5294039889493389930",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/silver-gator.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/silver-gator.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/silver-gator.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/silver-gator.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/silver-gator.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "soft-suede",
+      "name": "Soft Suede",
+      "customEmojiId": "5292257469475613951",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/soft-suede.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/soft-suede.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/soft-suede.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/soft-suede.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/soft-suede.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "steel-agate",
+      "name": "Steel Agate",
+      "customEmojiId": "5291907678749093268",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/steel-agate.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/steel-agate.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/steel-agate.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/steel-agate.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/steel-agate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunrise-bands",
+      "name": "Sunrise Bands",
+      "customEmojiId": "5294539226686184971",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sunrise-bands.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sunrise-bands.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sunrise-bands.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sunrise-bands.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/sunrise-bands.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunset-stripes",
+      "name": "Sunset Stripes",
+      "customEmojiId": "5291885658451766585",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sunset-stripes.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sunset-stripes.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sunset-stripes.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sunset-stripes.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/sunset-stripes.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tropical",
+      "name": "Tropical",
+      "customEmojiId": "5291997005478917319",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tropical.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tropical.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tropical.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tropical.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/tropical.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "verso-blue",
+      "name": "Verso Blue",
+      "customEmojiId": "5292116998275233838",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/verso-blue.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/verso-blue.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/verso-blue.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/verso-blue.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/verso-blue.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vert-d-eau",
+      "name": "Vert d’Eau",
+      "customEmojiId": "5294393876402957139",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/vert-d-eau.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/vert-d-eau.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/vert-d-eau.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/vert-d-eau.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/vert-d-eau.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-pony",
+      "name": "White Pony",
+      "customEmojiId": "5292255167373144711",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/white-pony.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/white-pony.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/white-pony.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/white-pony.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/white-pony.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "academic",
+      "name": "Academic",
+      "customEmojiId": "5294046877405177983",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/academic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/academic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/academic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/academic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/academic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "argylle",
+      "name": "Argylle",
+      "customEmojiId": "5291795897930246326",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/argylle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/argylle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/argylle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/argylle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/argylle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "black-ascot",
+      "name": "Black Ascot",
+      "customEmojiId": "5292191898209904088",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/black-ascot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/black-ascot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/black-ascot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/black-ascot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/black-ascot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bleu-officier",
+      "name": "Bleu Officier",
+      "customEmojiId": "5294342426989717404",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/bleu-officier.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/bleu-officier.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/bleu-officier.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/bleu-officier.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/bleu-officier.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "burgun-bag",
+      "name": "Burgun Bag",
+      "customEmojiId": "5292248170871421544",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/burgun-bag.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/burgun-bag.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/burgun-bag.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/burgun-bag.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/burgun-bag.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cargo-citron",
+      "name": "Cargo Citron",
+      "customEmojiId": "5294346279575379168",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cargo-citron.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cargo-citron.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cargo-citron.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cargo-citron.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/cargo-citron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cherry-red",
+      "name": "Cherry Red",
+      "customEmojiId": "5294215334612457541",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cherry-red.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cherry-red.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cherry-red.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cherry-red.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/cherry-red.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chrome-clutch",
+      "name": "Chrome Clutch",
+      "customEmojiId": "5224298854786040835",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/chrome-clutch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/chrome-clutch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/chrome-clutch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/chrome-clutch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/chrome-clutch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cortado",
+      "name": "Cortado",
+      "customEmojiId": "5294013067422624552",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cortado.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cortado.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cortado.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/cortado.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/cortado.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jaune-citrone",
+      "name": "Jaune Citrone",
+      "customEmojiId": "5291898453159342313",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jaune-citrone.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jaune-citrone.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jaune-citrone.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/jaune-citrone.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/jaune-citrone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "matte-mint",
+      "name": "Matte Mint",
+      "customEmojiId": "5294257378047319232",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/matte-mint.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/matte-mint.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/matte-mint.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/matte-mint.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/matte-mint.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ombre",
+      "name": "Ombre",
+      "customEmojiId": "5294001157478309874",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/ombre.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/ombre.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/ombre.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/ombre.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/ombre.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "potamus",
+      "name": "Potamus",
+      "customEmojiId": "5294448697365526262",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/potamus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/potamus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/potamus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/potamus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/potamus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "racing-stripes",
+      "name": "Racing Stripes",
+      "customEmojiId": "5293998387224402047",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/racing-stripes.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/racing-stripes.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/racing-stripes.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/racing-stripes.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/racing-stripes.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "riviera",
+      "name": "Riviera",
+      "customEmojiId": "5294036384800072105",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/riviera.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/riviera.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/riviera.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/riviera.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/riviera.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sakura",
+      "name": "Sakura",
+      "customEmojiId": "5294537328310640719",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sakura.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sakura.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sakura.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/sakura.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/sakura.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "studded-green",
+      "name": "Studded Green",
+      "customEmojiId": "5291982883626446305",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/studded-green.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/studded-green.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/studded-green.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/studded-green.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/studded-green.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tangerine",
+      "name": "Tangerine",
+      "customEmojiId": "5291907897792425845",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tangerine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tangerine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tangerine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tangerine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/tangerine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tressage",
+      "name": "Tressage",
+      "customEmojiId": "5294439884092627698",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tressage.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tressage.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tressage.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/tressage.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/tressage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vertigo",
+      "name": "Vertigo",
+      "customEmojiId": "5294044132921072481",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/vertigo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/vertigo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/vertigo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/vertigo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/vertigo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zip-pocket",
+      "name": "Zip Pocket",
+      "customEmojiId": "5292050181469007891",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lootbag",
+        "name": "Loot Bag",
+        "id": "5868659926187901653"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/zip-pocket.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/zip-pocket.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/zip-pocket.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/zip-pocket.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/zip-pocket.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "daybook",
+  "name": "Daybook",
+  "customEmojiId": "5262490962407484784",
+  "rarityPermille": 13,
+  "originalRarityPermille": 13,
+  "rarity": 1.3,
+  "originalRarity": 1.3,
+  "gift": {
+    "slug": "starnotepad",
+    "name": "Star Notepad",
+    "id": "5936017773737018241"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/daybook.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/daybook.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/daybook.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/daybook.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/starnotepad/models/daybook.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

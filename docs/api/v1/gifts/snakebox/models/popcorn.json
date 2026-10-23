@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "popcorn",
+  "name": "Popcorn",
+  "customEmojiId": "5267124970126868983",
+  "rarityPermille": 6,
+  "originalRarityPermille": 6,
+  "rarity": 0.6,
+  "originalRarity": 0.6,
+  "gift": {
+    "slug": "snakebox",
+    "name": "Snake Box",
+    "id": "6023679164349940429"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/popcorn.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/popcorn.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/popcorn.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/popcorn.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snakebox/models/popcorn.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

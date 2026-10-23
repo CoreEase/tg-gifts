@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "grizzly",
+  "name": "Grizzly",
+  "customEmojiId": "5294133047334034175",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lootbag",
+    "name": "Loot Bag",
+    "id": "5868659926187901653"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/grizzly.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/grizzly.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/grizzly.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/grizzly.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/grizzly.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

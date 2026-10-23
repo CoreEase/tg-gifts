@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "snow-white",
+  "name": "Snow White",
+  "customEmojiId": "5998947046147495575",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "valentinebox",
+    "name": "Valentine Box",
+    "id": "5868595669182186720"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/snow-white.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/snow-white.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/snow-white.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/snow-white.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/valentinebox/models/snow-white.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

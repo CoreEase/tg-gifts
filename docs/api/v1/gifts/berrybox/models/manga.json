@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "manga",
+  "name": "Manga",
+  "customEmojiId": "5460652069021045800",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "berrybox",
+    "name": "Berry Box",
+    "id": "5882252952218894938"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/manga.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/manga.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/manga.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/berrybox/assets/models/manga.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/berrybox/models/manga.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

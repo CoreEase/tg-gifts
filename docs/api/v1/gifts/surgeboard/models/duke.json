@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "duke",
+  "name": "Duke",
+  "customEmojiId": "5352530450642410035",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "surgeboard",
+    "name": "Surge Board",
+    "id": "5832497899283415733"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/duke.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/duke.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/duke.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/surgeboard/assets/models/duke.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/surgeboard/models/duke.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

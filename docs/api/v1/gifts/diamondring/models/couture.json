@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "couture",
+  "name": "Couture",
+  "customEmojiId": "5291918111224656083",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "diamondring",
+    "name": "Diamond Ring",
+    "id": "5868503709637411929"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/couture.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/couture.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/couture.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/diamondring/assets/models/couture.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/diamondring/models/couture.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

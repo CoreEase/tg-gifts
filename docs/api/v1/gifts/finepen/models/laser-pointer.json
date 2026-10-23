@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "laser-pointer",
+  "name": "Laser Pointer",
+  "customEmojiId": "5447375182647831260",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "finepen",
+    "name": "Fine Pen",
+    "id": "5882129648002794519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/laser-pointer.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/laser-pointer.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/laser-pointer.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/laser-pointer.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/laser-pointer.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

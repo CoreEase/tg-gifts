@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sketchy",
+  "name": "Sketchy",
+  "customEmojiId": "5267469959079953642",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "petsnake",
+    "name": "Pet Snake",
+    "id": "6023917088358269866"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/sketchy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/sketchy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/sketchy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/petsnake/assets/models/sketchy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/petsnake/models/sketchy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "furnace",
+  "name": "Furnace",
+  "customEmojiId": "5267148613921831140",
+  "rarityPermille": 4,
+  "originalRarityPermille": 4,
+  "rarity": 0.4,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "snakebox",
+    "name": "Snake Box",
+    "id": "6023679164349940429"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/furnace.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/furnace.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/furnace.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/furnace.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snakebox/models/furnace.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

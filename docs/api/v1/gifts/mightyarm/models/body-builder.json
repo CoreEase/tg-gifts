@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "body-builder",
+  "name": "Body Builder",
+  "customEmojiId": "5309812839060375942",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "mightyarm",
+    "name": "Mighty Arm",
+    "id": "5895518353849582541"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/body-builder.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/body-builder.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/body-builder.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/body-builder.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/mightyarm/models/body-builder.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

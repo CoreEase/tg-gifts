@@ -1,0 +1,25 @@
+{
+  "type": "model",
+  "slug": "pink-bow",
+  "name": "Pink Bow",
+  "customEmojiId": "5208879406797329902",
+  "rarityPermille": 0,
+  "originalRarityPermille": 0,
+  "rarity": 0,
+  "originalRarity": 0,
+  "crafted": true,
+  "rarityTier": "uncommon",
+  "gift": {
+    "slug": "jinglebells",
+    "name": "Jingle Bells",
+    "id": "6001473264306619020"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/pink-bow.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/pink-bow.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/pink-bow.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/pink-bow.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jinglebells/models/pink-bow.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

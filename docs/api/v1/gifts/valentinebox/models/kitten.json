@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "kitten",
+  "name": "Kitten",
+  "customEmojiId": "5998947625968080953",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "valentinebox",
+    "name": "Valentine Box",
+    "id": "5868595669182186720"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/kitten.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/kitten.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/kitten.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/kitten.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/valentinebox/models/kitten.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

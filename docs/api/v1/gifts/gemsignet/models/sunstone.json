@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sunstone",
+  "name": "Sunstone",
+  "customEmojiId": "5285095336631628559",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "gemsignet",
+    "name": "Gem Signet",
+    "id": "5859442703032386168"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/sunstone.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/sunstone.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/sunstone.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/gemsignet/assets/models/sunstone.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/gemsignet/models/sunstone.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

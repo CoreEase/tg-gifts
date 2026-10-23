@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "jinx",
+  "name": "Jinx",
+  "customEmojiId": "5454288774324313107",
+  "rarityPermille": 6,
+  "originalRarityPermille": 6,
+  "rarity": 0.6,
+  "originalRarity": 0.6,
+  "gift": {
+    "slug": "trappedheart",
+    "name": "Trapped Heart",
+    "id": "5841391256135008713"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/jinx.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/jinx.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/jinx.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/jinx.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/trappedheart/models/jinx.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

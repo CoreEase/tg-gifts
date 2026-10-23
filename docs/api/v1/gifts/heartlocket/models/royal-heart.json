@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "royal-heart",
+  "name": "Royal Heart",
+  "customEmojiId": "5893177411989674986",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "heartlocket",
+    "name": "Heart Locket",
+    "id": "5868455043362980631"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-heart.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-heart.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-heart.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-heart.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/royal-heart.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

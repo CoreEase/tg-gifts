@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cat-pack",
+  "name": "Cat Pack",
+  "customEmojiId": "5319149913278291744",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "moodpack",
+    "name": "Mood Pack",
+    "id": "5886756255493523118"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/cat-pack.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/cat-pack.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/cat-pack.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moodpack/assets/models/cat-pack.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moodpack/models/cat-pack.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

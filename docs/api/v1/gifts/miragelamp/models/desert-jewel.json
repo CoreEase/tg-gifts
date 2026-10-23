@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "desert-jewel",
+  "name": "Desert Jewel",
+  "customEmojiId": "5330271181335475993",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "miragelamp",
+    "name": "Mirage Lamp",
+    "id": "5913351908466098791"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/miragelamp/assets/models/desert-jewel.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/miragelamp/assets/models/desert-jewel.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/miragelamp/assets/models/desert-jewel.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/miragelamp/assets/models/desert-jewel.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/miragelamp/models/desert-jewel.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

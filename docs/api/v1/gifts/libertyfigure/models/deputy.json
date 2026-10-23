@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "deputy",
+  "name": "Deputy",
+  "customEmojiId": "5352732524558721403",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "libertyfigure",
+    "name": "Liberty Figure",
+    "id": "5999298447486747746"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/deputy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/deputy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/deputy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/deputy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/libertyfigure/models/deputy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,1633 @@
+{
+  "gift": {
+    "slug": "lovepotion",
+    "name": "Love Potions",
+    "apiName": "Love Potion",
+    "id": "5868348541058942091",
+    "count": 6834,
+    "modelCount": 70,
+    "patternCount": 264,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/patterns.json"
+  },
+  "count": 70,
+  "items": [
+    {
+      "type": "model",
+      "slug": "angel-wings",
+      "name": "Angel Wings",
+      "customEmojiId": "5292267828936731369",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/angel-wings.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/angel-wings.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/angel-wings.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/angel-wings.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/angel-wings.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "astral-guide",
+      "name": "Astral Guide",
+      "customEmojiId": "5291975878534786208",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/astral-guide.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/astral-guide.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/astral-guide.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/astral-guide.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/astral-guide.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "banana",
+      "name": "Banana",
+      "customEmojiId": "5294039554485937212",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/banana.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/banana.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/banana.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/banana.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/banana.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "beholder",
+      "name": "Beholder",
+      "customEmojiId": "5294252675058131710",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/beholder.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/beholder.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/beholder.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/beholder.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/beholder.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bloodlust",
+      "name": "Bloodlust",
+      "customEmojiId": "5294188525426599889",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bloodlust.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bloodlust.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bloodlust.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bloodlust.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/bloodlust.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dragon-soul",
+      "name": "Dragon Soul",
+      "customEmojiId": "5291797714701418373",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/dragon-soul.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/dragon-soul.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/dragon-soul.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/dragon-soul.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/dragon-soul.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "durov-duck",
+      "name": "Durov Duck",
+      "customEmojiId": "5294277195026426226",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/durov-duck.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/durov-duck.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/durov-duck.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/durov-duck.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/durov-duck.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "emo-tears",
+      "name": "Emo Tears",
+      "customEmojiId": "5294220123500993644",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/emo-tears.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/emo-tears.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/emo-tears.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/emo-tears.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/emo-tears.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "energy-drink",
+      "name": "Energy Drink",
+      "customEmojiId": "5294505657221800916",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/energy-drink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/energy-drink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/energy-drink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/energy-drink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/energy-drink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "espresso",
+      "name": "Espresso",
+      "customEmojiId": "5294139249266811986",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/espresso.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/espresso.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/espresso.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/espresso.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/espresso.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eye-lixir",
+      "name": "Eye-lixir",
+      "customEmojiId": "5294174876020533564",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/eye-lixir.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/eye-lixir.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/eye-lixir.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/eye-lixir.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/eye-lixir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "first-kiss",
+      "name": "First Kiss",
+      "customEmojiId": "5291812850166163641",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/first-kiss.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/first-kiss.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/first-kiss.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/first-kiss.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/first-kiss.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "healing-potion",
+      "name": "Healing Potion",
+      "customEmojiId": "5292286469094796999",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/healing-potion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/healing-potion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/healing-potion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/healing-potion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/healing-potion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ice-queen",
+      "name": "Ice Queen",
+      "customEmojiId": "5294341327478087373",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ice-queen.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ice-queen.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ice-queen.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ice-queen.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/ice-queen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jinx-tonic",
+      "name": "Jinx Tonic",
+      "customEmojiId": "5292124995504336301",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/jinx-tonic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/jinx-tonic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/jinx-tonic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/jinx-tonic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/jinx-tonic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lucky-charm",
+      "name": "Lucky Charm",
+      "customEmojiId": "5292068082892698031",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/lucky-charm.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/lucky-charm.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/lucky-charm.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/lucky-charm.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/lucky-charm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "molten-gold",
+      "name": "Molten Gold",
+      "customEmojiId": "5294412258862982352",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/molten-gold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/molten-gold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/molten-gold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/molten-gold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/molten-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "no-signal",
+      "name": "No Signal",
+      "customEmojiId": "5293998404404272267",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/no-signal.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/no-signal.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/no-signal.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/no-signal.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/no-signal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nurgle-s-rot",
+      "name": "Nurgle’s Rot",
+      "customEmojiId": "5294456518500966007",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/nurgle-s-rot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/nurgle-s-rot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/nurgle-s-rot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/nurgle-s-rot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/nurgle-s-rot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pickle-rick",
+      "name": "Pickle Rick",
+      "customEmojiId": "5291969556342925064",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/pickle-rick.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/pickle-rick.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/pickle-rick.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/pickle-rick.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/pickle-rick.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "star-power",
+      "name": "Star Power",
+      "customEmojiId": "5294421033481167772",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/star-power.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/star-power.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/star-power.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/star-power.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/star-power.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "unicorn-tears",
+      "name": "Unicorn Tears",
+      "customEmojiId": "5294406245908770049",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/unicorn-tears.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/unicorn-tears.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/unicorn-tears.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/unicorn-tears.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/unicorn-tears.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "whole-milk",
+      "name": "Whole Milk",
+      "customEmojiId": "5294528716901211155",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/whole-milk.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/whole-milk.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/whole-milk.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/whole-milk.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/whole-milk.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "beauty-brew",
+      "name": "Beauty Brew",
+      "customEmojiId": "5292054055529509489",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/beauty-brew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/beauty-brew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/beauty-brew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/beauty-brew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/beauty-brew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubble-gum",
+      "name": "Bubble Gum",
+      "customEmojiId": "5294533102062826741",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bubble-gum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bubble-gum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bubble-gum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bubble-gum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/bubble-gum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "clubs",
+      "name": "Clubs",
+      "customEmojiId": "5294419624731894402",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/clubs.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/clubs.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/clubs.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/clubs.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/clubs.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "diamonds",
+      "name": "Diamonds",
+      "customEmojiId": "5291805823599668704",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/diamonds.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/diamonds.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/diamonds.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/diamonds.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/diamonds.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gothic-cola",
+      "name": "Gothic Cola",
+      "customEmojiId": "5291741094147551817",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gothic-cola.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gothic-cola.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gothic-cola.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gothic-cola.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/gothic-cola.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hearts",
+      "name": "Hearts",
+      "customEmojiId": "5294432015712542310",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/hearts.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/hearts.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/hearts.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/hearts.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/hearts.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "kiwi-juice",
+      "name": "Kiwi Juice",
+      "customEmojiId": "5292086753115531819",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/kiwi-juice.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/kiwi-juice.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/kiwi-juice.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/kiwi-juice.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/kiwi-juice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spades",
+      "name": "Spades",
+      "customEmojiId": "5294374029359081348",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/spades.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/spades.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/spades.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/spades.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/spades.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tropicano",
+      "name": "Tropicano",
+      "customEmojiId": "5292257881792477987",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/tropicano.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/tropicano.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/tropicano.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/tropicano.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/tropicano.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubble-bath",
+      "name": "Bubble Bath",
+      "customEmojiId": "5294372015019419434",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bubble-bath.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bubble-bath.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bubble-bath.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/bubble-bath.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/bubble-bath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crime-scene",
+      "name": "Crime Scene",
+      "customEmojiId": "5294441125338177403",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/crime-scene.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/crime-scene.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/crime-scene.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/crime-scene.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/crime-scene.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fine-mead",
+      "name": "Fine Mead",
+      "customEmojiId": "5294415467203552719",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fine-mead.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fine-mead.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fine-mead.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fine-mead.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/fine-mead.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "first-aid",
+      "name": "First Aid",
+      "customEmojiId": "5292073597630704974",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/first-aid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/first-aid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/first-aid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/first-aid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/first-aid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flat-pink",
+      "name": "Flat Pink",
+      "customEmojiId": "5294504909897492278",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/flat-pink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/flat-pink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/flat-pink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/flat-pink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/flat-pink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fragrant-oil",
+      "name": "Fragrant Oil",
+      "customEmojiId": "5292230247972894840",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fragrant-oil.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fragrant-oil.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fragrant-oil.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fragrant-oil.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/fragrant-oil.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-mire",
+      "name": "Golden Mire",
+      "customEmojiId": "5294228769270162803",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/golden-mire.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/golden-mire.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/golden-mire.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/golden-mire.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/golden-mire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "laxative",
+      "name": "Laxative",
+      "customEmojiId": "5294139996591121333",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/laxative.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/laxative.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/laxative.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/laxative.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/laxative.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "paint-bottle",
+      "name": "Paint Bottle",
+      "customEmojiId": "5294034958870928022",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/paint-bottle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/paint-bottle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/paint-bottle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/paint-bottle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/paint-bottle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peach-nectar",
+      "name": "Peach Nectar",
+      "customEmojiId": "5294497363639952706",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/peach-nectar.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/peach-nectar.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/peach-nectar.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/peach-nectar.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/peach-nectar.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ruby-essence",
+      "name": "Ruby Essence",
+      "customEmojiId": "5294018960117751284",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ruby-essence.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ruby-essence.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ruby-essence.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ruby-essence.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/ruby-essence.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "surreal",
+      "name": "Surreal",
+      "customEmojiId": "5294281146396338359",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/surreal.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/surreal.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/surreal.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/surreal.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/surreal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-ink",
+      "name": "White Ink",
+      "customEmojiId": "5294424168807292129",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/white-ink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/white-ink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/white-ink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/white-ink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/white-ink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cherry-wine",
+      "name": "Cherry Wine",
+      "customEmojiId": "5294421840935020543",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/cherry-wine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/cherry-wine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/cherry-wine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/cherry-wine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/cherry-wine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "milkshake",
+      "name": "Milkshake",
+      "customEmojiId": "5294311249822112201",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/milkshake.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/milkshake.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/milkshake.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/milkshake.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/milkshake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mouthwash",
+      "name": "Mouthwash",
+      "customEmojiId": "5292041767628073717",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mouthwash.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mouthwash.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mouthwash.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mouthwash.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/mouthwash.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "poison-flask",
+      "name": "Poison Flask",
+      "customEmojiId": "5294193185466116016",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/poison-flask.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/poison-flask.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/poison-flask.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/poison-flask.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/poison-flask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "romeo",
+      "name": "Romeo",
+      "customEmojiId": "5291735570819610083",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/romeo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/romeo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/romeo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/romeo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/romeo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aerogel",
+      "name": "Aerogel",
+      "customEmojiId": "5294047246772364359",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/aerogel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/aerogel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/aerogel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/aerogel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/aerogel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "berry-bomb",
+      "name": "Berry Bomb",
+      "customEmojiId": "5294137252107019081",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/berry-bomb.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/berry-bomb.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/berry-bomb.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/berry-bomb.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/berry-bomb.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "copper-sulfate",
+      "name": "Copper Sulfate",
+      "customEmojiId": "5294254105282242000",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/copper-sulfate.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/copper-sulfate.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/copper-sulfate.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/copper-sulfate.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/copper-sulfate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fairy-pollen",
+      "name": "Fairy Pollen",
+      "customEmojiId": "5294481601109978060",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fairy-pollen.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fairy-pollen.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fairy-pollen.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/fairy-pollen.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/fairy-pollen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "formic-acid",
+      "name": "Formic Acid",
+      "customEmojiId": "5294373419473722119",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/formic-acid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/formic-acid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/formic-acid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/formic-acid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/formic-acid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gold-rush",
+      "name": "Gold Rush",
+      "customEmojiId": "5292228156323821082",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gold-rush.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gold-rush.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gold-rush.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/gold-rush.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/gold-rush.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "juliet",
+      "name": "Juliet",
+      "customEmojiId": "5292050714044952143",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/juliet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/juliet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/juliet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/juliet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/juliet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "liquid-pearl",
+      "name": "Liquid Pearl",
+      "customEmojiId": "5294238737889256019",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/liquid-pearl.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/liquid-pearl.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/liquid-pearl.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/liquid-pearl.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/liquid-pearl.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mystic-dew",
+      "name": "Mystic Dew",
+      "customEmojiId": "5294086227895542537",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mystic-dew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mystic-dew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mystic-dew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/mystic-dew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/mystic-dew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ocean-glow",
+      "name": "Ocean Glow",
+      "customEmojiId": "5292168121270955319",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ocean-glow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ocean-glow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ocean-glow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/ocean-glow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/ocean-glow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "old-rum",
+      "name": "Old Rum",
+      "customEmojiId": "5291848017358383891",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/old-rum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/old-rum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/old-rum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/old-rum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/old-rum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "royal-spritz",
+      "name": "Royal Spritz",
+      "customEmojiId": "5292283217804554975",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/royal-spritz.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/royal-spritz.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/royal-spritz.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/royal-spritz.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/royal-spritz.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rusty-water",
+      "name": "Rusty Water",
+      "customEmojiId": "5294104344067596367",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/rusty-water.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/rusty-water.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/rusty-water.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/rusty-water.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/rusty-water.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sea-salt",
+      "name": "Sea Salt",
+      "customEmojiId": "5294468870826909489",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sea-salt.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sea-salt.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sea-salt.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sea-salt.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/sea-salt.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "seeker-s-wish",
+      "name": "Seeker’s Wish",
+      "customEmojiId": "5294130998634635043",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/seeker-s-wish.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/seeker-s-wish.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/seeker-s-wish.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/seeker-s-wish.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/seeker-s-wish.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sour-cider",
+      "name": "Sour Cider",
+      "customEmojiId": "5293994796631744672",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sour-cider.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sour-cider.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sour-cider.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sour-cider.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/sour-cider.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starry-night",
+      "name": "Starry Night",
+      "customEmojiId": "5292284274366509788",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/starry-night.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/starry-night.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/starry-night.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/starry-night.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/starry-night.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sugar-ponies",
+      "name": "Sugar Ponies",
+      "customEmojiId": "5294112689189053165",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sugar-ponies.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sugar-ponies.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sugar-ponies.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sugar-ponies.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/sugar-ponies.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunset-serum",
+      "name": "Sunset Serum",
+      "customEmojiId": "5292009044272245620",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sunset-serum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sunset-serum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sunset-serum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/sunset-serum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/sunset-serum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "toxic-waste",
+      "name": "Toxic Waste",
+      "customEmojiId": "5291978936551502743",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "lovepotion",
+        "name": "Love Potion",
+        "id": "5868348541058942091"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/toxic-waste.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/toxic-waste.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/toxic-waste.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/models/toxic-waste.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/models/toxic-waste.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

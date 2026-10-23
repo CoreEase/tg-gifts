@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "leprechaun",
+  "name": "Leprechaun",
+  "customEmojiId": "5206604388390437211",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "moneypot",
+    "name": "Money Pot",
+    "id": "5963238670868677492"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/leprechaun.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/leprechaun.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/leprechaun.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moneypot/assets/models/leprechaun.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moneypot/models/leprechaun.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

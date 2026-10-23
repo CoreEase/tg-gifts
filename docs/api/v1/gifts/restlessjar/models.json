@@ -1,0 +1,1173 @@
+{
+  "gift": {
+    "slug": "restlessjar",
+    "name": "Restless Jars",
+    "apiName": "Restless Jar",
+    "id": "5870784783948186838",
+    "count": 9848,
+    "modelCount": 50,
+    "patternCount": 262,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/patterns.json"
+  },
+  "count": 50,
+  "items": [
+    {
+      "type": "model",
+      "slug": "gift-holder",
+      "name": "Gift Holder",
+      "customEmojiId": "5872794339016447767",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/gift-holder.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/gift-holder.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/gift-holder.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/gift-holder.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/gift-holder.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "kittens",
+      "name": "Kittens",
+      "customEmojiId": "5870544806945494885",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/kittens.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/kittens.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/kittens.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/kittens.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/kittens.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pepe-pod",
+      "name": "Pepe Pod",
+      "customEmojiId": "5872714117617294256",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pepe-pod.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pepe-pod.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pepe-pod.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pepe-pod.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/pepe-pod.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "piggy-bank",
+      "name": "Piggy Bank",
+      "customEmojiId": "5872951844057128040",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/piggy-bank.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/piggy-bank.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/piggy-bank.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/piggy-bank.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/piggy-bank.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "utya-duck",
+      "name": "Utya Duck",
+      "customEmojiId": "5872879838930409992",
+      "rarityPermille": 7,
+      "originalRarityPermille": 7,
+      "rarity": 0.7,
+      "originalRarity": 0.7,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/utya-duck.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/utya-duck.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/utya-duck.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/utya-duck.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/utya-duck.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "frundles",
+      "name": "Frundles",
+      "customEmojiId": "5872915435619359902",
+      "rarityPermille": 9,
+      "originalRarityPermille": 9,
+      "rarity": 0.9,
+      "originalRarity": 0.9,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/frundles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/frundles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/frundles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/frundles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/frundles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "arcade",
+      "name": "Arcade",
+      "customEmojiId": "5870880527359154076",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/arcade.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/arcade.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/arcade.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/arcade.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/arcade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "booster",
+      "name": "Booster",
+      "customEmojiId": "5872873134486460940",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/booster.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/booster.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/booster.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/booster.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/booster.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chained-soul",
+      "name": "Chained Soul",
+      "customEmojiId": "5873232094968160094",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/chained-soul.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/chained-soul.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/chained-soul.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/chained-soul.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/chained-soul.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "happy-pills",
+      "name": "Happy Pills",
+      "customEmojiId": "5870820904623151303",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/happy-pills.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/happy-pills.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/happy-pills.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/happy-pills.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/happy-pills.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "miniland",
+      "name": "Miniland",
+      "customEmojiId": "5870743337513792093",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/miniland.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/miniland.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/miniland.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/miniland.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/miniland.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mocktail",
+      "name": "Mocktail",
+      "customEmojiId": "5872783816346573048",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mocktail.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mocktail.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mocktail.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mocktail.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/mocktail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neon-crystals",
+      "name": "Neon Crystals",
+      "customEmojiId": "5870907418149395672",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/neon-crystals.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/neon-crystals.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/neon-crystals.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/neon-crystals.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/neon-crystals.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "painkillers",
+      "name": "Painkillers",
+      "customEmojiId": "5872927654801316287",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/painkillers.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/painkillers.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/painkillers.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/painkillers.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/painkillers.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "repair-kit",
+      "name": "Repair Kit",
+      "customEmojiId": "5870779767426391905",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/repair-kit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/repair-kit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/repair-kit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/repair-kit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/repair-kit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snack-bones",
+      "name": "Snack Bones",
+      "customEmojiId": "5873032739766148263",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/snack-bones.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/snack-bones.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/snack-bones.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/snack-bones.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/snack-bones.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "soul-shards",
+      "name": "Soul Shards",
+      "customEmojiId": "5872814181765355606",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/soul-shards.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/soul-shards.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/soul-shards.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/soul-shards.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/soul-shards.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "succulents",
+      "name": "Succulents",
+      "customEmojiId": "5870652687934036768",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/succulents.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/succulents.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/succulents.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/succulents.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/succulents.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sweet-dreams",
+      "name": "Sweet Dreams",
+      "customEmojiId": "5870688413472005639",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sweet-dreams.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sweet-dreams.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sweet-dreams.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sweet-dreams.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/sweet-dreams.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tiny-tulips",
+      "name": "Tiny Tulips",
+      "customEmojiId": "5873189012151212321",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tiny-tulips.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tiny-tulips.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tiny-tulips.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tiny-tulips.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/tiny-tulips.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "uranium",
+      "name": "Uranium",
+      "customEmojiId": "5873020262886152234",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/uranium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/uranium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/uranium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/uranium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/uranium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "witchcraft",
+      "name": "Witchcraft",
+      "customEmojiId": "5873200767476701996",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/witchcraft.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/witchcraft.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/witchcraft.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/witchcraft.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/witchcraft.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cherry-punch",
+      "name": "Cherry Punch",
+      "customEmojiId": "5873013382348544705",
+      "rarityPermille": 17,
+      "originalRarityPermille": 17,
+      "rarity": 1.7,
+      "originalRarity": 1.7,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cherry-punch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cherry-punch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cherry-punch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cherry-punch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/cherry-punch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pickles",
+      "name": "Pickles",
+      "customEmojiId": "5870973985847516238",
+      "rarityPermille": 17,
+      "originalRarityPermille": 17,
+      "rarity": 1.7,
+      "originalRarity": 1.7,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pickles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pickles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pickles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pickles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/pickles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "popcorn",
+      "name": "Popcorn",
+      "customEmojiId": "5870634060660873327",
+      "rarityPermille": 17,
+      "originalRarityPermille": 17,
+      "rarity": 1.7,
+      "originalRarity": 1.7,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/popcorn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/popcorn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/popcorn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/popcorn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/popcorn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tomatoes",
+      "name": "Tomatoes",
+      "customEmojiId": "5872956048830110794",
+      "rarityPermille": 17,
+      "originalRarityPermille": 17,
+      "rarity": 1.7,
+      "originalRarity": 1.7,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tomatoes.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tomatoes.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tomatoes.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tomatoes.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/tomatoes.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tricky-treats",
+      "name": "Tricky Treats",
+      "customEmojiId": "5870792119752333270",
+      "rarityPermille": 22,
+      "originalRarityPermille": 22,
+      "rarity": 2.2,
+      "originalRarity": 2.2,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tricky-treats.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tricky-treats.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tricky-treats.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tricky-treats.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/tricky-treats.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aquarium",
+      "name": "Aquarium",
+      "customEmojiId": "5870713672174671946",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/aquarium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/aquarium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/aquarium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/aquarium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/aquarium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "autumn-candle",
+      "name": "Autumn Candle",
+      "customEmojiId": "5870634180919957373",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/autumn-candle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/autumn-candle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/autumn-candle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/autumn-candle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/autumn-candle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubble-bugs",
+      "name": "Bubble Bugs",
+      "customEmojiId": "5870968591368592559",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/bubble-bugs.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/bubble-bugs.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/bubble-bugs.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/bubble-bugs.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/bubble-bugs.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "choco-cookies",
+      "name": "Choco Cookies",
+      "customEmojiId": "5870561711936772338",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/choco-cookies.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/choco-cookies.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/choco-cookies.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/choco-cookies.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/choco-cookies.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "coffee-beans",
+      "name": "Coffee Beans",
+      "customEmojiId": "5870932474988599542",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/coffee-beans.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/coffee-beans.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/coffee-beans.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/coffee-beans.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/coffee-beans.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fireflies",
+      "name": "Fireflies",
+      "customEmojiId": "5873148489134774276",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/fireflies.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/fireflies.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/fireflies.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/fireflies.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/fireflies.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gummy-bears",
+      "name": "Gummy Bears",
+      "customEmojiId": "5870970335125314256",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/gummy-bears.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/gummy-bears.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/gummy-bears.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/gummy-bears.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/gummy-bears.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honey-bees",
+      "name": "Honey Bees",
+      "customEmojiId": "5872864329803504663",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/honey-bees.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/honey-bees.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/honey-bees.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/honey-bees.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/honey-bees.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-tea",
+      "name": "Hot Tea",
+      "customEmojiId": "5873084631561021771",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/hot-tea.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/hot-tea.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/hot-tea.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/hot-tea.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/hot-tea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mini-blocks",
+      "name": "Mini Blocks",
+      "customEmojiId": "5873023651615349082",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mini-blocks.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mini-blocks.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mini-blocks.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mini-blocks.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/mini-blocks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-moths",
+      "name": "Silver Moths",
+      "customEmojiId": "5870764215349811784",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/silver-moths.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/silver-moths.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/silver-moths.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/silver-moths.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/silver-moths.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "solar-system",
+      "name": "Solar System",
+      "customEmojiId": "5870985114107779670",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/solar-system.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/solar-system.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/solar-system.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/solar-system.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/solar-system.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tornado",
+      "name": "Tornado",
+      "customEmojiId": "5870865688247146624",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tornado.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tornado.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tornado.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/tornado.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/tornado.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blueberry",
+      "name": "Blueberry",
+      "customEmojiId": "5872779315220847542",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/blueberry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/blueberry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/blueberry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/blueberry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/blueberry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "charcoal",
+      "name": "Charcoal",
+      "customEmojiId": "5872858149345567083",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/charcoal.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/charcoal.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/charcoal.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/charcoal.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/charcoal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cold-mint",
+      "name": "Cold Mint",
+      "customEmojiId": "5872836700278888493",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cold-mint.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cold-mint.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cold-mint.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cold-mint.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/cold-mint.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cotton-candy",
+      "name": "Cotton Candy",
+      "customEmojiId": "5870461140982569919",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cotton-candy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cotton-candy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cotton-candy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/cotton-candy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/cotton-candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "marshmallow",
+      "name": "Marshmallow",
+      "customEmojiId": "5872733329006009315",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/marshmallow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/marshmallow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/marshmallow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/marshmallow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/marshmallow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pineapple",
+      "name": "Pineapple",
+      "customEmojiId": "5873193865464257317",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pineapple.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pineapple.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pineapple.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pineapple.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/pineapple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pop-art",
+      "name": "Pop Art",
+      "customEmojiId": "5870506135059961807",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pop-art.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pop-art.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pop-art.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pop-art.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/pop-art.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sketch",
+      "name": "Sketch",
+      "customEmojiId": "5870545721773528332",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sketch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sketch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sketch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sketch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/sketch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sugar-free",
+      "name": "Sugar Free",
+      "customEmojiId": "5870751996167854605",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sugar-free.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sugar-free.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sugar-free.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/sugar-free.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/sugar-free.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chocolate",
+      "name": "Chocolate",
+      "customEmojiId": "5870906511911295455",
+      "rarityPermille": 33,
+      "originalRarityPermille": 33,
+      "rarity": 3.3,
+      "originalRarity": 3.3,
+      "gift": {
+        "slug": "restlessjar",
+        "name": "Restless Jar",
+        "id": "5870784783948186838"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/chocolate.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/chocolate.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/chocolate.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/chocolate.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/chocolate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

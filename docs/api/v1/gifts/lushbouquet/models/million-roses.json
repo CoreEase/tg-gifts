@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "million-roses",
+  "name": "Million Roses",
+  "customEmojiId": "5922338075265998003",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "lushbouquet",
+    "name": "Lush Bouquet",
+    "id": "5871002671934079382"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/million-roses.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/million-roses.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/million-roses.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/million-roses.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lushbouquet/models/million-roses.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

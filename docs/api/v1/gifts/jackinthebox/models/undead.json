@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "undead",
+  "name": "Undead",
+  "customEmojiId": "5429190639008905029",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "jackinthebox",
+    "name": "Jack-in-the-Box",
+    "id": "6005659564635063386"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/undead.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/undead.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/undead.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jackinthebox/assets/models/undead.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jackinthebox/models/undead.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

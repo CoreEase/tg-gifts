@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "nosferatu",
+  "name": "Nosferatu",
+  "customEmojiId": "5456564668904530225",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "spyagaric",
+    "name": "Spy Agaric",
+    "id": "5821261908354794038"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/nosferatu.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/nosferatu.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/nosferatu.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/spyagaric/assets/models/nosferatu.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/spyagaric/models/nosferatu.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

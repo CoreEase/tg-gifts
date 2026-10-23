@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "artichoke",
+  "name": "Artichoke",
+  "customEmojiId": "5922282541338859558",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "lushbouquet",
+    "name": "Lush Bouquet",
+    "id": "5871002671934079382"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/artichoke.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/artichoke.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/artichoke.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/artichoke.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lushbouquet/models/artichoke.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

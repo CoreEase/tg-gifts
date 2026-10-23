@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cherry-cola",
+  "name": "Cherry Cola",
+  "customEmojiId": "5262679399802626957",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "lolpop",
+    "name": "Lol Pop",
+    "id": "5170594532177215681"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lolpop/assets/models/cherry-cola.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lolpop/assets/models/cherry-cola.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lolpop/assets/models/cherry-cola.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lolpop/assets/models/cherry-cola.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lolpop/models/cherry-cola.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

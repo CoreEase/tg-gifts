@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rose-pearl",
+  "name": "Rose Pearl",
+  "customEmojiId": "6003371261894335417",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "faithamulet",
+    "name": "Faith Amulet",
+    "id": "6003456431095808759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/rose-pearl.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/rose-pearl.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/rose-pearl.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/rose-pearl.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/faithamulet/models/rose-pearl.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

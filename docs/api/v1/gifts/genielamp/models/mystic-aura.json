@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "mystic-aura",
+  "name": "Mystic Aura",
+  "customEmojiId": "5247218526854337821",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "genielamp",
+    "name": "Genie Lamp",
+    "id": "5933531623327795414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/mystic-aura.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/mystic-aura.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/mystic-aura.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/mystic-aura.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/genielamp/models/mystic-aura.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

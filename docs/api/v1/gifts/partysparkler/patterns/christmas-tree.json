@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "christmas-tree",
+  "name": "Christmas Tree",
+  "customEmojiId": "5201690116875126303",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "partysparkler",
+    "name": "Party Sparkler",
+    "id": "6003643167683903930"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/patterns/christmas-tree.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/patterns/christmas-tree.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/partysparkler/patterns/christmas-tree.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

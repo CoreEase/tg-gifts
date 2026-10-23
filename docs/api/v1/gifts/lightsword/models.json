@@ -1,0 +1,1219 @@
+{
+  "gift": {
+    "slug": "lightsword",
+    "name": "Light Swords",
+    "apiName": "Light Sword",
+    "id": "5897581235231785485",
+    "count": 17484,
+    "modelCount": 52,
+    "patternCount": 256,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/patterns.json"
+  },
+  "count": 52,
+  "items": [
+    {
+      "type": "model",
+      "slug": "wrath-of-vader",
+      "name": "Wrath of Vader",
+      "customEmojiId": "5285425632501594331",
+      "rarityPermille": 1,
+      "originalRarityPermille": 1,
+      "rarity": 0.1,
+      "originalRarity": 0.1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/wrath-of-vader.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/wrath-of-vader.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/wrath-of-vader.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/wrath-of-vader.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/wrath-of-vader.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fury-of-kylo",
+      "name": "Fury of Kylo",
+      "customEmojiId": "5287234762920979778",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fury-of-kylo.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fury-of-kylo.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fury-of-kylo.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fury-of-kylo.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/fury-of-kylo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jedi-luke",
+      "name": "Jedi Luke",
+      "customEmojiId": "5287532803586552724",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jedi-luke.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jedi-luke.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jedi-luke.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jedi-luke.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/jedi-luke.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "master-yoda",
+      "name": "Master Yoda",
+      "customEmojiId": "5285370120049292858",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/master-yoda.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/master-yoda.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/master-yoda.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/master-yoda.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/master-yoda.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "might-of-maul",
+      "name": "Might of Maul",
+      "customEmojiId": "5287329668813320936",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/might-of-maul.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/might-of-maul.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/might-of-maul.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/might-of-maul.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/might-of-maul.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "the-skywalker",
+      "name": "The Skywalker",
+      "customEmojiId": "5287632515547298552",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/the-skywalker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/the-skywalker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/the-skywalker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/the-skywalker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/the-skywalker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "darksaber",
+      "name": "Darksaber",
+      "customEmojiId": "5285153632222737382",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/darksaber.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/darksaber.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/darksaber.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/darksaber.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/darksaber.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "doom-slayer",
+      "name": "Doom Slayer",
+      "customEmojiId": "5285087996532521990",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/doom-slayer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/doom-slayer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/doom-slayer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/doom-slayer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/doom-slayer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eva-unit-01",
+      "name": "Eva Unit-01",
+      "customEmojiId": "5285033682376095329",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/eva-unit-01.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/eva-unit-01.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/eva-unit-01.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/eva-unit-01.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/eva-unit-01.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fruit-katana",
+      "name": "Fruit Katana",
+      "customEmojiId": "5287356533833757794",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fruit-katana.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fruit-katana.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fruit-katana.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fruit-katana.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/fruit-katana.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "steve",
+      "name": "Steve",
+      "customEmojiId": "5285448361468525100",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/steve.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/steve.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/steve.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/steve.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/steve.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "absinthe",
+      "name": "Absinthe",
+      "customEmojiId": "5285479993902657828",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/absinthe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/absinthe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/absinthe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/absinthe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/absinthe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dragonfire",
+      "name": "Dragonfire",
+      "customEmojiId": "5287459608753895826",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/dragonfire.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/dragonfire.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/dragonfire.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/dragonfire.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/dragonfire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "electric-force",
+      "name": "Electric Force",
+      "customEmojiId": "5287577058929572720",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/electric-force.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/electric-force.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/electric-force.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/electric-force.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/electric-force.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fukushimmer",
+      "name": "Fukushimmer",
+      "customEmojiId": "5285506695714340343",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fukushimmer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fukushimmer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fukushimmer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/fukushimmer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/fukushimmer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lava-lash",
+      "name": "Lava Lash",
+      "customEmojiId": "5285111301025068583",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-lash.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-lash.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-lash.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-lash.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/lava-lash.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "love-samurai",
+      "name": "Love Samurai",
+      "customEmojiId": "5287421194566401682",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/love-samurai.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/love-samurai.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/love-samurai.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/love-samurai.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/love-samurai.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "phantom",
+      "name": "Phantom",
+      "customEmojiId": "5285065306220297114",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/phantom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/phantom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/phantom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/phantom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/phantom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stargazer",
+      "name": "Stargazer",
+      "customEmojiId": "5285437100064275582",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/stargazer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/stargazer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/stargazer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/stargazer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/stargazer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "the-tempest",
+      "name": "The Tempest",
+      "customEmojiId": "5285210385920587342",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/the-tempest.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/the-tempest.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/the-tempest.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/the-tempest.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/the-tempest.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tsunami",
+      "name": "Tsunami",
+      "customEmojiId": "5285254439400143426",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/tsunami.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/tsunami.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/tsunami.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/tsunami.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/tsunami.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "clown-wars",
+      "name": "Clown Wars",
+      "customEmojiId": "5287324115420608564",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/clown-wars.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/clown-wars.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/clown-wars.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/clown-wars.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/clown-wars.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cultist",
+      "name": "Cultist",
+      "customEmojiId": "5287594067000063440",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/cultist.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/cultist.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/cultist.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/cultist.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/cultist.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "enforcer",
+      "name": "Enforcer",
+      "customEmojiId": "5287590935968904112",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/enforcer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/enforcer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/enforcer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/enforcer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/enforcer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bananakin",
+      "name": "Bananakin",
+      "customEmojiId": "5287386804763257848",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bananakin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bananakin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bananakin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bananakin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/bananakin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stick",
+      "name": "Stick",
+      "customEmojiId": "5285381235424652886",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/stick.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/stick.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/stick.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/stick.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/stick.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "andromeda",
+      "name": "Andromeda",
+      "customEmojiId": "5287660570273675657",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/andromeda.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/andromeda.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/andromeda.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/andromeda.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/andromeda.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bifrost",
+      "name": "Bifrost",
+      "customEmojiId": "5285155612202660747",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bifrost.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bifrost.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bifrost.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/bifrost.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/bifrost.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "brand-name",
+      "name": "Brand Name",
+      "customEmojiId": "5285121596061676794",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/brand-name.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/brand-name.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/brand-name.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/brand-name.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/brand-name.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "comics",
+      "name": "Comics",
+      "customEmojiId": "5287444095332021330",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/comics.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/comics.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/comics.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/comics.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/comics.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crystal-queen",
+      "name": "Crystal Queen",
+      "customEmojiId": "5287501635008888459",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/crystal-queen.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/crystal-queen.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/crystal-queen.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/crystal-queen.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/crystal-queen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "double-time",
+      "name": "Double Time",
+      "customEmojiId": "5285058588891445495",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/double-time.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/double-time.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/double-time.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/double-time.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/double-time.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "duelist",
+      "name": "Duelist",
+      "customEmojiId": "5287560325736984251",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/duelist.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/duelist.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/duelist.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/duelist.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/duelist.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gaslight",
+      "name": "Gaslight",
+      "customEmojiId": "5287638640170660251",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/gaslight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/gaslight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/gaslight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/gaslight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/gaslight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hoth-aurora",
+      "name": "Hoth Aurora",
+      "customEmojiId": "5287561180435479096",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/hoth-aurora.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/hoth-aurora.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/hoth-aurora.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/hoth-aurora.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/hoth-aurora.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hyperdrive",
+      "name": "Hyperdrive",
+      "customEmojiId": "5284981601602669005",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/hyperdrive.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/hyperdrive.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/hyperdrive.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/hyperdrive.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/hyperdrive.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jedi-princess",
+      "name": "Jedi Princess",
+      "customEmojiId": "5287243249776356823",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jedi-princess.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jedi-princess.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jedi-princess.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jedi-princess.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/jedi-princess.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jet-fuel",
+      "name": "Jet Fuel",
+      "customEmojiId": "5285260529663769954",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jet-fuel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jet-fuel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jet-fuel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/jet-fuel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/jet-fuel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lava-forge",
+      "name": "Lava Forge",
+      "customEmojiId": "5285459889160745857",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-forge.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-forge.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-forge.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lava-forge.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/lava-forge.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lotus-saber",
+      "name": "Lotus Saber",
+      "customEmojiId": "5285352330294754397",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lotus-saber.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lotus-saber.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lotus-saber.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/lotus-saber.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/lotus-saber.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "low-battery",
+      "name": "Low Battery",
+      "customEmojiId": "5287641874281036277",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/low-battery.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/low-battery.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/low-battery.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/low-battery.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/low-battery.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nunchaku",
+      "name": "Nunchaku",
+      "customEmojiId": "5285333007236894212",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/nunchaku.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/nunchaku.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/nunchaku.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/nunchaku.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/nunchaku.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "police-droid",
+      "name": "Police Droid",
+      "customEmojiId": "5284989422738112121",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/police-droid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/police-droid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/police-droid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/police-droid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/police-droid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "polygon",
+      "name": "Polygon",
+      "customEmojiId": "5287248476751557264",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/polygon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/polygon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/polygon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/polygon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/polygon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "prismatic",
+      "name": "Prismatic",
+      "customEmojiId": "5287734207487967229",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/prismatic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/prismatic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/prismatic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/prismatic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/prismatic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "quasar",
+      "name": "Quasar",
+      "customEmojiId": "5285377683486700935",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/quasar.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/quasar.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/quasar.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/quasar.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/quasar.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "refraction",
+      "name": "Refraction",
+      "customEmojiId": "5287297112961217488",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/refraction.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/refraction.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/refraction.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/refraction.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/refraction.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sensei",
+      "name": "Sensei",
+      "customEmojiId": "5287314589183145122",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/sensei.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/sensei.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/sensei.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/sensei.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/sensei.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "super-saiyan",
+      "name": "Super Saiyan",
+      "customEmojiId": "5285453648573266520",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/super-saiyan.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/super-saiyan.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/super-saiyan.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/super-saiyan.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/super-saiyan.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "toy-blade",
+      "name": "Toy Blade",
+      "customEmojiId": "5285080299951126577",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/toy-blade.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/toy-blade.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/toy-blade.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/toy-blade.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/toy-blade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "valhalla",
+      "name": "Valhalla",
+      "customEmojiId": "5287623019374605613",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/valhalla.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/valhalla.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/valhalla.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/valhalla.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/valhalla.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "windu",
+      "name": "Windu",
+      "customEmojiId": "5285495657648390102",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "lightsword",
+        "name": "Light Sword",
+        "id": "5897581235231785485"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/windu.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/windu.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/windu.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/models/windu.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/models/windu.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

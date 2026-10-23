@@ -1,0 +1,2323 @@
+{
+  "gift": {
+    "slug": "minioscar",
+    "name": "Mini Oscars",
+    "apiName": "Mini Oscar",
+    "id": "5879737836550226478",
+    "count": 2176,
+    "modelCount": 100,
+    "patternCount": 262,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/patterns.json"
+  },
+  "count": 100,
+  "items": [
+    {
+      "type": "model",
+      "slug": "banana",
+      "name": "Banana",
+      "customEmojiId": "5262987031130172930",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/banana.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/banana.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/banana.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/banana.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/banana.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blue-lagoon",
+      "name": "Blue Lagoon",
+      "customEmojiId": "5262990303895250516",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-lagoon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-lagoon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-lagoon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-lagoon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/blue-lagoon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blue-sky",
+      "name": "Blue Sky",
+      "customEmojiId": "5262529080242238936",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-sky.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-sky.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-sky.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blue-sky.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/blue-sky.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "boulevard",
+      "name": "Boulevard",
+      "customEmojiId": "5262914158420059982",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/boulevard.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/boulevard.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/boulevard.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/boulevard.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/boulevard.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cobalt",
+      "name": "Cobalt",
+      "customEmojiId": "5262633636926091235",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cobalt.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cobalt.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cobalt.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cobalt.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/cobalt.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cold-feet",
+      "name": "Cold Feet",
+      "customEmojiId": "5262773906263011377",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cold-feet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cold-feet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cold-feet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cold-feet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/cold-feet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "emerald",
+      "name": "Emerald",
+      "customEmojiId": "5262933704816233634",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/emerald.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/emerald.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/emerald.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/emerald.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/emerald.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fading-flare",
+      "name": "Fading Flare",
+      "customEmojiId": "5264891398154383941",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/fading-flare.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/fading-flare.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/fading-flare.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/fading-flare.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/fading-flare.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fiery-hot",
+      "name": "Fiery-Hot",
+      "customEmojiId": "5264930907558536439",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/fiery-hot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/fiery-hot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/fiery-hot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/fiery-hot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/fiery-hot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "giraffe",
+      "name": "Giraffe",
+      "customEmojiId": "5262664599345326794",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/giraffe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/giraffe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/giraffe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/giraffe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/giraffe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden-sky",
+      "name": "Golden Sky",
+      "customEmojiId": "5262524123849976836",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/golden-sky.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/golden-sky.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/golden-sky.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/golden-sky.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/golden-sky.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "grape-cola",
+      "name": "Grape Cola",
+      "customEmojiId": "5262531111761766228",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/grape-cola.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/grape-cola.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/grape-cola.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/grape-cola.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/grape-cola.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "grenadine",
+      "name": "Grenadine",
+      "customEmojiId": "5262698705680624652",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/grenadine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/grenadine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/grenadine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/grenadine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/grenadine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hobgoblin",
+      "name": "Hobgoblin",
+      "customEmojiId": "5262875074217666331",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/hobgoblin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/hobgoblin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/hobgoblin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/hobgoblin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/hobgoblin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-shots",
+      "name": "Hot Shots",
+      "customEmojiId": "5262793572918260120",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/hot-shots.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/hot-shots.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/hot-shots.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/hot-shots.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/hot-shots.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jokester",
+      "name": "Jokester",
+      "customEmojiId": "5262545817729789908",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/jokester.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/jokester.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/jokester.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/jokester.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/jokester.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "leopard",
+      "name": "Leopard",
+      "customEmojiId": "5262934941766806547",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/leopard.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/leopard.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/leopard.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/leopard.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/leopard.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "makeup",
+      "name": "Makeup",
+      "customEmojiId": "5262578983467247559",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/makeup.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/makeup.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/makeup.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/makeup.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/makeup.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mango-tango",
+      "name": "Mango Tango",
+      "customEmojiId": "5262612918003853348",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mango-tango.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mango-tango.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mango-tango.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mango-tango.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/mango-tango.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "molten-gold",
+      "name": "Molten Gold",
+      "customEmojiId": "5262674915856774623",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/molten-gold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/molten-gold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/molten-gold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/molten-gold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/molten-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nebula",
+      "name": "Nebula",
+      "customEmojiId": "5262640569003305534",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nebula.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nebula.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nebula.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nebula.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/nebula.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neon-police",
+      "name": "Neon Police",
+      "customEmojiId": "5265032157117570271",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/neon-police.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/neon-police.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/neon-police.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/neon-police.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/neon-police.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nightmare",
+      "name": "Nightmare",
+      "customEmojiId": "5262484421172293439",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nightmare.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nightmare.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nightmare.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nightmare.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/nightmare.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nominee",
+      "name": "Nominee",
+      "customEmojiId": "5265016549206418572",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nominee.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nominee.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nominee.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/nominee.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/nominee.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "obsidian",
+      "name": "Obsidian",
+      "customEmojiId": "5262820334859478121",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/obsidian.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/obsidian.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/obsidian.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/obsidian.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/obsidian.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "patina",
+      "name": "Patina",
+      "customEmojiId": "5262865165728115850",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/patina.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/patina.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/patina.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/patina.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/patina.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "premiere",
+      "name": "Premiere",
+      "customEmojiId": "5265006365838958694",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/premiere.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/premiere.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/premiere.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/premiere.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/premiere.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "prestige",
+      "name": "Prestige",
+      "customEmojiId": "5262634435790005496",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/prestige.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/prestige.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/prestige.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/prestige.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/prestige.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "producer",
+      "name": "Producer",
+      "customEmojiId": "5262530703739874378",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/producer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/producer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/producer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/producer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/producer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "radioactive",
+      "name": "Radioactive",
+      "customEmojiId": "5262743815722135164",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/radioactive.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/radioactive.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/radioactive.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/radioactive.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/radioactive.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-carpet",
+      "name": "Red Carpet",
+      "customEmojiId": "5262608519957344563",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/red-carpet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/red-carpet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/red-carpet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/red-carpet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/red-carpet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-dream",
+      "name": "Red Dream",
+      "customEmojiId": "5262523153187369903",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/red-dream.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/red-dream.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/red-dream.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/red-dream.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/red-dream.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "regent",
+      "name": "Regent",
+      "customEmojiId": "5262853285848576205",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/regent.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/regent.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/regent.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/regent.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/regent.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-screen",
+      "name": "Silver Screen",
+      "customEmojiId": "5262580542540375971",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/silver-screen.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/silver-screen.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/silver-screen.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/silver-screen.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/silver-screen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-zebra",
+      "name": "Silver Zebra",
+      "customEmojiId": "5262781809002836353",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/silver-zebra.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/silver-zebra.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/silver-zebra.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/silver-zebra.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/silver-zebra.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "solid-bronze",
+      "name": "Solid Bronze",
+      "customEmojiId": "5262650748075797907",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/solid-bronze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/solid-bronze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/solid-bronze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/solid-bronze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/solid-bronze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sour-gummy",
+      "name": "Sour Gummy",
+      "customEmojiId": "5262974013084297719",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sour-gummy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sour-gummy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sour-gummy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sour-gummy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/sour-gummy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spirulina",
+      "name": "Spirulina",
+      "customEmojiId": "5262797099086410565",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/spirulina.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/spirulina.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/spirulina.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/spirulina.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/spirulina.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starlight",
+      "name": "Starlight",
+      "customEmojiId": "5262710774538726255",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/starlight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/starlight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/starlight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/starlight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/starlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunset-idol",
+      "name": "Sunset Idol",
+      "customEmojiId": "5265163239519445638",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sunset-idol.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sunset-idol.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sunset-idol.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sunset-idol.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/sunset-idol.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "trailer",
+      "name": "Trailer",
+      "customEmojiId": "5262877582478564705",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/trailer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/trailer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/trailer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/trailer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/trailer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "violet",
+      "name": "Violet",
+      "customEmojiId": "5262711839690615681",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/violet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/violet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/violet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/violet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/violet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "woody-allen",
+      "name": "Woody Allen",
+      "customEmojiId": "5262947757949218338",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/woody-allen.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/woody-allen.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/woody-allen.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/woody-allen.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/woody-allen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zesty",
+      "name": "Zesty",
+      "customEmojiId": "5264711280110887732",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/zesty.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/zesty.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/zesty.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/zesty.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/zesty.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "amanita",
+      "name": "Amanita",
+      "customEmojiId": "5262584390831075490",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/amanita.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/amanita.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/amanita.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/amanita.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/amanita.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "android",
+      "name": "Android",
+      "customEmojiId": "5262803563012189247",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/android.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/android.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/android.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/android.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/android.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ballerino",
+      "name": "Ballerino",
+      "customEmojiId": "5262812414939787816",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/ballerino.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/ballerino.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/ballerino.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/ballerino.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/ballerino.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "blockbuster",
+      "name": "Blockbuster",
+      "customEmojiId": "5262509117234244826",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blockbuster.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blockbuster.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blockbuster.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/blockbuster.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/blockbuster.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "brain-slug",
+      "name": "Brain Slug",
+      "customEmojiId": "5262532980072539492",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/brain-slug.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/brain-slug.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/brain-slug.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/brain-slug.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/brain-slug.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "catwoman",
+      "name": "Catwoman",
+      "customEmojiId": "5262542974461440056",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/catwoman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/catwoman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/catwoman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/catwoman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/catwoman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eye-candy",
+      "name": "Eye Candy",
+      "customEmojiId": "5262783591414263469",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/eye-candy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/eye-candy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/eye-candy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/eye-candy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/eye-candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "finest-fish",
+      "name": "Finest Fish",
+      "customEmojiId": "5264891110391570395",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/finest-fish.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/finest-fish.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/finest-fish.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/finest-fish.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/finest-fish.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gas-mask",
+      "name": "Gas Mask",
+      "customEmojiId": "5262547698925464853",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/gas-mask.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/gas-mask.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/gas-mask.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/gas-mask.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/gas-mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "khajiit",
+      "name": "Khajiit",
+      "customEmojiId": "5262642016407284660",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/khajiit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/khajiit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/khajiit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/khajiit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/khajiit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mars-attacks",
+      "name": "Mars Attacks",
+      "customEmojiId": "5262706088729407692",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mars-attacks.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mars-attacks.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mars-attacks.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mars-attacks.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/mars-attacks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "martian",
+      "name": "Martian",
+      "customEmojiId": "5262738266624389767",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/martian.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/martian.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/martian.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/martian.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/martian.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "moai-figure",
+      "name": "Moai Figure",
+      "customEmojiId": "5262458866116878184",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/moai-figure.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/moai-figure.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/moai-figure.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/moai-figure.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/moai-figure.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pumpkin",
+      "name": "Pumpkin",
+      "customEmojiId": "5262578442301373836",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pumpkin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pumpkin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pumpkin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pumpkin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/pumpkin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rear-end",
+      "name": "Rear End",
+      "customEmojiId": "5262860767681604327",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/rear-end.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/rear-end.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/rear-end.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/rear-end.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/rear-end.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "skeleton",
+      "name": "Skeleton",
+      "customEmojiId": "5262505187339169197",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/skeleton.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/skeleton.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/skeleton.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/skeleton.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/skeleton.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stuntman",
+      "name": "Stuntman",
+      "customEmojiId": "5262544885721888410",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/stuntman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/stuntman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/stuntman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/stuntman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/stuntman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "astronaut",
+      "name": "Astronaut",
+      "customEmojiId": "5262552934490597659",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/astronaut.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/astronaut.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/astronaut.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/astronaut.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/astronaut.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aztec-god",
+      "name": "Aztec God",
+      "customEmojiId": "5264888447511845760",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/aztec-god.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/aztec-god.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/aztec-god.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/aztec-god.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/aztec-god.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "best-comedy",
+      "name": "Best Comedy",
+      "customEmojiId": "5262562452138129072",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/best-comedy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/best-comedy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/best-comedy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/best-comedy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/best-comedy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "brainiac",
+      "name": "Brainiac",
+      "customEmojiId": "5262903047339665642",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/brainiac.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/brainiac.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/brainiac.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/brainiac.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/brainiac.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "caveman",
+      "name": "Caveman",
+      "customEmojiId": "5262887697126552179",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/caveman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/caveman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/caveman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/caveman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/caveman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chieftain",
+      "name": "Chieftain",
+      "customEmojiId": "5262792529241205033",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/chieftain.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/chieftain.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/chieftain.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/chieftain.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/chieftain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crusader",
+      "name": "Crusader",
+      "customEmojiId": "5262721846964414725",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/crusader.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/crusader.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/crusader.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/crusader.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/crusader.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cyclopes",
+      "name": "Cyclopes",
+      "customEmojiId": "5262721494777097023",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cyclopes.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cyclopes.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cyclopes.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/cyclopes.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/cyclopes.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dark-knight",
+      "name": "Dark Knight",
+      "customEmojiId": "5265018305848041176",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dark-knight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dark-knight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dark-knight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dark-knight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/dark-knight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dark-side",
+      "name": "Dark Side",
+      "customEmojiId": "5262676462044998832",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dark-side.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dark-side.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dark-side.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dark-side.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/dark-side.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dracula",
+      "name": "Dracula",
+      "customEmojiId": "5262710254847682302",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dracula.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dracula.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dracula.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/dracula.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/dracula.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flexible",
+      "name": "Flexible",
+      "customEmojiId": "5264915673309536555",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/flexible.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/flexible.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/flexible.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/flexible.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/flexible.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golfer",
+      "name": "Golfer",
+      "customEmojiId": "5265111253235296856",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/golfer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/golfer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/golfer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/golfer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/golfer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "legionary",
+      "name": "Legionary",
+      "customEmojiId": "5262979849944853380",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/legionary.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/legionary.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/legionary.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/legionary.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/legionary.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "main-villain",
+      "name": "Main Villain",
+      "customEmojiId": "5262540844157656957",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/main-villain.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/main-villain.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/main-villain.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/main-villain.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/main-villain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mummy",
+      "name": "Mummy",
+      "customEmojiId": "5262486147749146470",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mummy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mummy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mummy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/mummy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/mummy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pharaoh",
+      "name": "Pharaoh",
+      "customEmojiId": "5262608524252312445",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pharaoh.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pharaoh.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pharaoh.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pharaoh.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/pharaoh.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pigeon",
+      "name": "Pigeon",
+      "customEmojiId": "5263005800137254645",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pigeon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pigeon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pigeon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pigeon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/pigeon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pink-guard",
+      "name": "Pink Guard",
+      "customEmojiId": "5262980000268708511",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pink-guard.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pink-guard.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pink-guard.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pink-guard.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/pink-guard.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pirate",
+      "name": "Pirate",
+      "customEmojiId": "5265132345819688152",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pirate.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pirate.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pirate.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/pirate.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/pirate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "poseidon",
+      "name": "Poseidon",
+      "customEmojiId": "5262644507488319063",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/poseidon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/poseidon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/poseidon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/poseidon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/poseidon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "robocop",
+      "name": "Robocop",
+      "customEmojiId": "5262928336107102815",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/robocop.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/robocop.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/robocop.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/robocop.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/robocop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "santa-claus",
+      "name": "Santa Claus",
+      "customEmojiId": "5262845881324957073",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/santa-claus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/santa-claus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/santa-claus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/santa-claus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/santa-claus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "scream",
+      "name": "Scream",
+      "customEmojiId": "5262777599934883899",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/scream.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/scream.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/scream.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/scream.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/scream.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "seraphim",
+      "name": "Seraphim",
+      "customEmojiId": "5262660390277376757",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/seraphim.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/seraphim.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/seraphim.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/seraphim.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/seraphim.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "speaker",
+      "name": "Speaker",
+      "customEmojiId": "5262927185055867776",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/speaker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/speaker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/speaker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/speaker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/speaker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spidey",
+      "name": "Spidey",
+      "customEmojiId": "5262684227345869822",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/spidey.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/spidey.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/spidey.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/spidey.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/spidey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sprunki",
+      "name": "Sprunki",
+      "customEmojiId": "5262854982360655100",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sprunki.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sprunki.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sprunki.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/sprunki.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/sprunki.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "static",
+      "name": "Static",
+      "customEmojiId": "5262492744818913249",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/static.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/static.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/static.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/static.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/static.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "the-deep",
+      "name": "The Deep",
+      "customEmojiId": "5262569955445992744",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/the-deep.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/the-deep.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/the-deep.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/the-deep.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/the-deep.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tribal-idol",
+      "name": "Tribal Idol",
+      "customEmojiId": "5262464995035213166",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/tribal-idol.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/tribal-idol.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/tribal-idol.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/tribal-idol.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/tribal-idol.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "undead",
+      "name": "Undead",
+      "customEmojiId": "5264987528112398673",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/undead.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/undead.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/undead.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/undead.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/undead.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "viking",
+      "name": "Viking",
+      "customEmojiId": "5263001088558134841",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/viking.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/viking.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/viking.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/viking.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/viking.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "welder",
+      "name": "Welder",
+      "customEmojiId": "5262699495954607754",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/welder.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/welder.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/welder.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/welder.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/welder.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "action-film",
+      "name": "Action Film",
+      "customEmojiId": "5262936067048238062",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/action-film.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/action-film.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/action-film.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/action-film.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/action-film.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "christmas",
+      "name": "Christmas",
+      "customEmojiId": "5262937935359012741",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/christmas.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/christmas.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/christmas.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/christmas.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/christmas.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "deep-freeze",
+      "name": "Deep Freeze",
+      "customEmojiId": "5262771857563606203",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/deep-freeze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/deep-freeze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/deep-freeze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/deep-freeze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/deep-freeze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "electric",
+      "name": "Electric",
+      "customEmojiId": "5262757069991210986",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/electric.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/electric.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/electric.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/electric.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/electric.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "laser-scan",
+      "name": "Laser Scan",
+      "customEmojiId": "5262622611745040689",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "minioscar",
+        "name": "Mini Oscar",
+        "id": "5879737836550226478"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/laser-scan.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/laser-scan.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/laser-scan.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/laser-scan.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/laser-scan.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

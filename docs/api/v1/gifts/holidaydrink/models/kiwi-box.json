@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "kiwi-box",
+  "name": "Kiwi Box",
+  "customEmojiId": "5269697530983115685",
+  "rarityPermille": 19,
+  "originalRarityPermille": 19,
+  "rarity": 1.9,
+  "originalRarity": 1.9,
+  "gift": {
+    "slug": "holidaydrink",
+    "name": "Holiday Drink",
+    "id": "6003735372041814769"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/kiwi-box.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/kiwi-box.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/kiwi-box.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/kiwi-box.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/kiwi-box.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

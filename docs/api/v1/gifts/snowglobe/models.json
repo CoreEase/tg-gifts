@@ -1,0 +1,1173 @@
+{
+  "gift": {
+    "slug": "snowglobe",
+    "name": "Snow Globes",
+    "apiName": "Snow Globe",
+    "id": "5981132629905245483",
+    "count": 6653,
+    "modelCount": 50,
+    "patternCount": 136,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/patterns.json"
+  },
+  "count": 50,
+  "items": [
+    {
+      "type": "model",
+      "slug": "cherry-duck",
+      "name": "Cherry Duck",
+      "customEmojiId": "5354935361745217948",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/cherry-duck.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/cherry-duck.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/cherry-duck.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/cherry-duck.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/cherry-duck.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "musk",
+      "name": "Musk",
+      "customEmojiId": "5354959886008479882",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/musk.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/musk.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/musk.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/musk.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/musk.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pepe-frost",
+      "name": "Pepe Frost",
+      "customEmojiId": "5355156977762724895",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pepe-frost.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pepe-frost.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pepe-frost.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pepe-frost.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/pepe-frost.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bag-end",
+      "name": "Bag End",
+      "customEmojiId": "5355017953966317288",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bag-end.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bag-end.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bag-end.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bag-end.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/bag-end.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fish-tank",
+      "name": "Fish Tank",
+      "customEmojiId": "5355119521352938818",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/fish-tank.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/fish-tank.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/fish-tank.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/fish-tank.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/fish-tank.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ginger-house",
+      "name": "Ginger House",
+      "customEmojiId": "5354986647949700693",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ginger-house.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ginger-house.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ginger-house.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ginger-house.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/ginger-house.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "house-of-cards",
+      "name": "House of Cards",
+      "customEmojiId": "5355228201205397410",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/house-of-cards.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/house-of-cards.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/house-of-cards.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/house-of-cards.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/house-of-cards.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "party-cat",
+      "name": "Party Cat",
+      "customEmojiId": "5355125555781992384",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/party-cat.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/party-cat.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/party-cat.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/party-cat.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/party-cat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "piggy-bank",
+      "name": "Piggy Bank",
+      "customEmojiId": "5354911043640389182",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/piggy-bank.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/piggy-bank.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/piggy-bank.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/piggy-bank.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/piggy-bank.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "secret-gift",
+      "name": "Secret Gift",
+      "customEmojiId": "5354856111008676412",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/secret-gift.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/secret-gift.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/secret-gift.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/secret-gift.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/secret-gift.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "smurf-cabin",
+      "name": "Smurf Cabin",
+      "customEmojiId": "5355113465449050229",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/smurf-cabin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/smurf-cabin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/smurf-cabin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/smurf-cabin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/smurf-cabin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "autumn",
+      "name": "Autumn",
+      "customEmojiId": "5355194923798784905",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/autumn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/autumn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/autumn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/autumn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/autumn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "baobab",
+      "name": "Baobab",
+      "customEmojiId": "5354800787534935494",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/baobab.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/baobab.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/baobab.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/baobab.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/baobab.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bedrock",
+      "name": "Bedrock",
+      "customEmojiId": "5355076558795075349",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bedrock.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bedrock.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bedrock.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bedrock.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/bedrock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bikini-bottom",
+      "name": "Bikini Bottom",
+      "customEmojiId": "5357331910546709889",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bikini-bottom.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bikini-bottom.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bikini-bottom.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bikini-bottom.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/bikini-bottom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bronze-temple",
+      "name": "Bronze Temple",
+      "customEmojiId": "5357202936973779270",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bronze-temple.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bronze-temple.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bronze-temple.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/bronze-temple.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/bronze-temple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crimson-cabin",
+      "name": "Crimson Cabin",
+      "customEmojiId": "5355143899587309599",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/crimson-cabin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/crimson-cabin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/crimson-cabin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/crimson-cabin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/crimson-cabin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dracula",
+      "name": "Dracula",
+      "customEmojiId": "5355157162446316665",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/dracula.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/dracula.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/dracula.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/dracula.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/dracula.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ender-estate",
+      "name": "Ender Estate",
+      "customEmojiId": "5355160641369826327",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ender-estate.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ender-estate.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ender-estate.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ender-estate.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/ender-estate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "happy-town",
+      "name": "Happy Town",
+      "customEmojiId": "5354857030131674489",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/happy-town.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/happy-town.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/happy-town.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/happy-town.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/happy-town.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "minehouse",
+      "name": "Minehouse",
+      "customEmojiId": "5355079264624471689",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/minehouse.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/minehouse.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/minehouse.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/minehouse.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/minehouse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nether-house",
+      "name": "Nether House",
+      "customEmojiId": "5354820617398939407",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/nether-house.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/nether-house.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/nether-house.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/nether-house.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/nether-house.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pyramid",
+      "name": "Pyramid",
+      "customEmojiId": "5355121016001555840",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pyramid.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pyramid.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pyramid.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pyramid.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/pyramid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-frost",
+      "name": "Silver Frost",
+      "customEmojiId": "5355090079352122392",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/silver-frost.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/silver-frost.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/silver-frost.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/silver-frost.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/silver-frost.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spring",
+      "name": "Spring",
+      "customEmojiId": "5355017644728676533",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/spring.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/spring.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/spring.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/spring.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/spring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "summer",
+      "name": "Summer",
+      "customEmojiId": "5355160134563686218",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/summer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/summer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/summer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/summer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/summer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "wild-west",
+      "name": "Wild West",
+      "customEmojiId": "5355048877730853397",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/wild-west.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/wild-west.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/wild-west.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/wild-west.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/wild-west.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "winter",
+      "name": "Winter",
+      "customEmojiId": "5355094292715039309",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/winter.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/winter.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/winter.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/winter.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/winter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "apocalypse",
+      "name": "Apocalypse",
+      "customEmojiId": "5355099738733571186",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/apocalypse.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/apocalypse.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/apocalypse.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/apocalypse.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/apocalypse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "amethyst",
+      "name": "Amethyst",
+      "customEmojiId": "5355169828304873472",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/amethyst.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/amethyst.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/amethyst.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/amethyst.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/amethyst.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "caramel",
+      "name": "Caramel",
+      "customEmojiId": "5354986239927806313",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/caramel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/caramel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/caramel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/caramel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/caramel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "choco-waffle",
+      "name": "Choco Waffle",
+      "customEmojiId": "5355131444182151884",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/choco-waffle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/choco-waffle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/choco-waffle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/choco-waffle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/choco-waffle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "diamond",
+      "name": "Diamond",
+      "customEmojiId": "5354826385540016988",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/diamond.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/diamond.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/diamond.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/diamond.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/diamond.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "emerald",
+      "name": "Emerald",
+      "customEmojiId": "5357242966068978876",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/emerald.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/emerald.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/emerald.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/emerald.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/emerald.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "garnet-dawn",
+      "name": "Garnet Dawn",
+      "customEmojiId": "5354862282876677790",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/garnet-dawn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/garnet-dawn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/garnet-dawn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/garnet-dawn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/garnet-dawn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "green-villa",
+      "name": "Green Villa",
+      "customEmojiId": "5355065494959320633",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/green-villa.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/green-villa.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/green-villa.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/green-villa.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/green-villa.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "inversion",
+      "name": "Inversion",
+      "customEmojiId": "5355030289112393988",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/inversion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/inversion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/inversion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/inversion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/inversion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lavender",
+      "name": "Lavender",
+      "customEmojiId": "5355174522704129519",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lavender.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lavender.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lavender.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lavender.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/lavender.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lost-color",
+      "name": "Lost Color",
+      "customEmojiId": "5354938153473963601",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lost-color.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lost-color.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lost-color.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/lost-color.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/lost-color.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mango-lodge",
+      "name": "Mango Lodge",
+      "customEmojiId": "5355250517855464342",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/mango-lodge.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/mango-lodge.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/mango-lodge.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/mango-lodge.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/mango-lodge.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "meadow",
+      "name": "Meadow",
+      "customEmojiId": "5355180471233835303",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/meadow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/meadow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/meadow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/meadow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/meadow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "midas-manor",
+      "name": "Midas Manor",
+      "customEmojiId": "5355327071352548374",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/midas-manor.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/midas-manor.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/midas-manor.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/midas-manor.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/midas-manor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "night-snow",
+      "name": "Night Snow",
+      "customEmojiId": "5355321393405784354",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/night-snow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/night-snow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/night-snow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/night-snow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/night-snow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ocean-oasis",
+      "name": "Ocean Oasis",
+      "customEmojiId": "5357373490125103308",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ocean-oasis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ocean-oasis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ocean-oasis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/ocean-oasis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/ocean-oasis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "orange-tale",
+      "name": "Orange Tale",
+      "customEmojiId": "5354817941634313666",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/orange-tale.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/orange-tale.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/orange-tale.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/orange-tale.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/orange-tale.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pink-dreams",
+      "name": "Pink Dreams",
+      "customEmojiId": "5355267216688313097",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pink-dreams.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pink-dreams.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pink-dreams.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/pink-dreams.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/pink-dreams.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rose-pink",
+      "name": "Rose Pink",
+      "customEmojiId": "5354828193721248797",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/rose-pink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/rose-pink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/rose-pink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/rose-pink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/rose-pink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sea-whisper",
+      "name": "Sea Whisper",
+      "customEmojiId": "5355280453777517720",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sea-whisper.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sea-whisper.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sea-whisper.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sea-whisper.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/sea-whisper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sky-terrace",
+      "name": "Sky Terrace",
+      "customEmojiId": "5357166438341696247",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sky-terrace.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sky-terrace.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sky-terrace.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sky-terrace.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/sky-terrace.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-day",
+      "name": "White Day",
+      "customEmojiId": "5355140772851116843",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "snowglobe",
+        "name": "Snow Globe",
+        "id": "5981132629905245483"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/white-day.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/white-day.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/white-day.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/white-day.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/white-day.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "lemonade",
+  "name": "Lemonade",
+  "customEmojiId": "5265208834892259756",
+  "rarityPermille": 13,
+  "originalRarityPermille": 13,
+  "rarity": 1.3,
+  "originalRarity": 1.3,
+  "gift": {
+    "slug": "starnotepad",
+    "name": "Star Notepad",
+    "id": "5936017773737018241"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/lemonade.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/lemonade.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/lemonade.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/lemonade.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/starnotepad/models/lemonade.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

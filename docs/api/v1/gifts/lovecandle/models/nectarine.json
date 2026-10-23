@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "nectarine",
+  "name": "Nectarine",
+  "customEmojiId": "5249152267159891347",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "lovecandle",
+    "name": "Love Candle",
+    "id": "5915550639663874519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/nectarine.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/nectarine.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/nectarine.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/nectarine.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/nectarine.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

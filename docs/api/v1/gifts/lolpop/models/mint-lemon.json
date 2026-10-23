@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "mint-lemon",
+  "name": "Mint Lemon",
+  "customEmojiId": "5262829796672434170",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "lolpop",
+    "name": "Lol Pop",
+    "id": "5170594532177215681"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lolpop/assets/models/mint-lemon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lolpop/assets/models/mint-lemon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lolpop/assets/models/mint-lemon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lolpop/assets/models/mint-lemon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lolpop/models/mint-lemon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

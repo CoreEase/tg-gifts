@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "prestige",
+  "name": "Prestige",
+  "customEmojiId": "5262634435790005496",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "minioscar",
+    "name": "Mini Oscar",
+    "id": "5879737836550226478"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/prestige.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/prestige.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/prestige.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/minioscar/assets/models/prestige.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/minioscar/models/prestige.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

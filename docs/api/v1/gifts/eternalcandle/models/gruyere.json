@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gruyere",
+  "name": "Gruyere",
+  "customEmojiId": "5256030661579398496",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "eternalcandle",
+    "name": "Eternal Candle",
+    "id": "5821205665758053411"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gruyere.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gruyere.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gruyere.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalcandle/assets/models/gruyere.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalcandle/models/gruyere.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

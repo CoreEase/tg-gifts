@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "muffin",
+  "name": "Muffin",
+  "customEmojiId": "5251668963376522248",
+  "rarityPermille": 13,
+  "originalRarityPermille": 13,
+  "rarity": 1.3,
+  "originalRarity": 1.3,
+  "gift": {
+    "slug": "astralshard",
+    "name": "Astral Shard",
+    "id": "5933629604416717361"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/muffin.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/muffin.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/muffin.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/models/muffin.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/models/muffin.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

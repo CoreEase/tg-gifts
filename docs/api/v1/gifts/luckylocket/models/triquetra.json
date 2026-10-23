@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "triquetra",
+  "name": "Triquetra",
+  "customEmojiId": "5350625886049711574",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "luckylocket",
+    "name": "Lucky Locket",
+    "id": "5872744075014177223"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/triquetra.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/triquetra.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/triquetra.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/luckylocket/assets/models/triquetra.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/luckylocket/models/triquetra.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

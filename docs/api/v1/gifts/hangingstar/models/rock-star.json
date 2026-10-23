@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rock-star",
+  "name": "Rock Star",
+  "customEmojiId": "5247237162717441262",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "hangingstar",
+    "name": "Hanging Star",
+    "id": "5915733223018594841"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rock-star.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rock-star.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rock-star.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rock-star.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/rock-star.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ice-cream",
+  "name": "Ice Cream",
+  "customEmojiId": "6001434850119129305",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "happybrownie",
+    "name": "Happy Brownie",
+    "id": "6006064678835323371"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/ice-cream.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/ice-cream.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/ice-cream.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/ice-cream.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/happybrownie/models/ice-cream.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

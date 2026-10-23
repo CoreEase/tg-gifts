@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "mulled-wine",
+  "name": "Mulled Wine",
+  "customEmojiId": "5355252506425321591",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "winterwreath",
+    "name": "Winter Wreath",
+    "id": "5983259145522906006"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/mulled-wine.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/mulled-wine.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/mulled-wine.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/models/mulled-wine.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/models/mulled-wine.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

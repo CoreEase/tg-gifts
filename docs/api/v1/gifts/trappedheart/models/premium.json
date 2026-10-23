@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "premium",
+  "name": "Premium",
+  "customEmojiId": "5456309101170547769",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "trappedheart",
+    "name": "Trapped Heart",
+    "id": "5841391256135008713"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/premium.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/premium.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/premium.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/premium.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/trappedheart/models/premium.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

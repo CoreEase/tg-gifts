@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "saturn-ring",
+  "name": "Saturn Ring",
+  "customEmojiId": "5456276961930272970",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "signetring",
+    "name": "Signet Ring",
+    "id": "5936085638515261992"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/saturn-ring.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/saturn-ring.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/saturn-ring.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/saturn-ring.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/signetring/models/saturn-ring.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "paladin",
+  "name": "Paladin",
+  "customEmojiId": "5309845004070450503",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "mightyarm",
+    "name": "Mighty Arm",
+    "id": "5895518353849582541"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/paladin.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/paladin.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/paladin.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mightyarm/assets/models/paladin.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/mightyarm/models/paladin.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "easter-egg",
+  "name": "Easter Egg",
+  "customEmojiId": "5199483835124843089",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "intelligencecup",
+    "name": "Intelligence Cup",
+    "id": "6046499901846586791"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/patterns/easter-egg.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/intelligencecup/assets/patterns/easter-egg.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/intelligencecup/patterns/easter-egg.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

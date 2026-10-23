@@ -1,0 +1,2921 @@
+{
+  "gift": {
+    "slug": "candycane",
+    "name": "Candy Canes",
+    "apiName": "Candy Cane",
+    "id": "6003373314888696650",
+    "count": 16775,
+    "modelCount": 50,
+    "patternCount": 138,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns.json"
+  },
+  "count": 138,
+  "items": [
+    {
+      "type": "pattern",
+      "slug": "acorn",
+      "name": "Acorn",
+      "customEmojiId": "5199500774475870841",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/acorn.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/acorn.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/acorn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ancient-urn",
+      "name": "Ancient Urn",
+      "customEmojiId": "5199861697757609491",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ancient-urn.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ancient-urn.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/ancient-urn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "anubis",
+      "name": "Anubis",
+      "customEmojiId": "5199800163761162785",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/anubis.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/anubis.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/anubis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "axe",
+      "name": "Axe",
+      "customEmojiId": "5199830537769879159",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/axe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/axe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/axe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "aztec-totem",
+      "name": "Aztec Totem",
+      "customEmojiId": "5199726925978831254",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/aztec-totem.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/aztec-totem.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/aztec-totem.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "book",
+      "name": "Book",
+      "customEmojiId": "5199463541404373712",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/book.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/book.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/book.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bottlenose",
+      "name": "Bottlenose",
+      "customEmojiId": "5199797414982094107",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bottlenose.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bottlenose.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/bottlenose.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bow-tie",
+      "name": "Bow Tie",
+      "customEmojiId": "5199652756188594205",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bow-tie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bow-tie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/bow-tie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bubbles",
+      "name": "Bubbles",
+      "customEmojiId": "5199440863977046426",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bubbles.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bubbles.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/bubbles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bunny",
+      "name": "Bunny",
+      "customEmojiId": "5199800120811489322",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bunny.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bunny.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/bunny.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "carrot",
+      "name": "Carrot",
+      "customEmojiId": "5199942498977352363",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/carrot.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/carrot.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/carrot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "celtic-wolf",
+      "name": "Celtic Wolf",
+      "customEmojiId": "5199434919742310645",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/celtic-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/celtic-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/celtic-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili",
+      "name": "Chili",
+      "customEmojiId": "5199718404763713565",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/chili.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/chili.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/chili.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili-pepper",
+      "name": "Chili Pepper",
+      "customEmojiId": "5199643277195772037",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/chili-pepper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/chili-pepper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/chili-pepper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coconut",
+      "name": "Coconut",
+      "customEmojiId": "5199939960651680778",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/coconut.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/coconut.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/coconut.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "conch",
+      "name": "Conch",
+      "customEmojiId": "5199858635445929849",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/conch.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/conch.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/conch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "croissant",
+      "name": "Croissant",
+      "customEmojiId": "5199706980150706028",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/croissant.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/croissant.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/croissant.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crusader-cross",
+      "name": "Crusader Cross",
+      "customEmojiId": "5199468566516105305",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/crusader-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/crusader-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/crusader-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crystal-ball",
+      "name": "Crystal Ball",
+      "customEmojiId": "5199590410443328799",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/crystal-ball.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/crystal-ball.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/crystal-ball.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "deerstalker",
+      "name": "Deerstalker",
+      "customEmojiId": "5199479669006568749",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/deerstalker.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/deerstalker.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/deerstalker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "divine-falcon",
+      "name": "Divine Falcon",
+      "customEmojiId": "5199678478747732305",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/divine-falcon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/divine-falcon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/divine-falcon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "earflap-hat",
+      "name": "Earflap Hat",
+      "customEmojiId": "5199932083681658304",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/earflap-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/earflap-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/earflap-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "evil-dragon",
+      "name": "Evil Dragon",
+      "customEmojiId": "5199535271653181454",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/evil-dragon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/evil-dragon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/evil-dragon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fehu-rune",
+      "name": "Fehu Rune",
+      "customEmojiId": "5201658535980598965",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fehu-rune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fehu-rune.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/fehu-rune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fish",
+      "name": "Fish",
+      "customEmojiId": "5199862024175126001",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fish.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fish.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/fish.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fish-skeleton",
+      "name": "Fish Skeleton",
+      "customEmojiId": "5199448302860405743",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fish-skeleton.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fish-skeleton.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/fish-skeleton.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flamingo",
+      "name": "Flamingo",
+      "customEmojiId": "5199960670983983099",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/flamingo.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/flamingo.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/flamingo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flower-tulip",
+      "name": "Flower Tulip",
+      "customEmojiId": "5199785517922683567",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/flower-tulip.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/flower-tulip.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/flower-tulip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fried-egg",
+      "name": "Fried Egg",
+      "customEmojiId": "5199508084510201810",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fried-egg.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fried-egg.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/fried-egg.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gem",
+      "name": "Gem",
+      "customEmojiId": "5199568523289988128",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/gem.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/gem.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/gem.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "genie-lamp",
+      "name": "Genie Lamp",
+      "customEmojiId": "5199760491148248638",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/genie-lamp.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/genie-lamp.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/genie-lamp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "golden-scarab",
+      "name": "Golden Scarab",
+      "customEmojiId": "5199515630767736867",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/golden-scarab.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/golden-scarab.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/golden-scarab.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "greek-helmet",
+      "name": "Greek Helmet",
+      "customEmojiId": "5199497274077514887",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/greek-helmet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/greek-helmet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/greek-helmet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "guitar",
+      "name": "Guitar",
+      "customEmojiId": "5199926040662672669",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/guitar.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/guitar.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/guitar.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hazelnut",
+      "name": "Hazelnut",
+      "customEmojiId": "5199962457690375276",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/hazelnut.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/hazelnut.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/hazelnut.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "heart",
+      "name": "Heart",
+      "customEmojiId": "5199448474659098272",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/heart.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/heart.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/heart.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hedgehog",
+      "name": "Hedgehog",
+      "customEmojiId": "5199443440957426886",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/hedgehog.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/hedgehog.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/hedgehog.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "high-hat",
+      "name": "High Hat",
+      "customEmojiId": "5199803080043958545",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/high-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/high-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/high-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "horned-helm",
+      "name": "Horned Helm",
+      "customEmojiId": "5199925937583456568",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/horned-helm.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/horned-helm.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/horned-helm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-cream",
+      "name": "Ice Cream",
+      "customEmojiId": "5199587451210861217",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ice-cream.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ice-cream.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/ice-cream.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "inguz-rune",
+      "name": "Inguz Rune",
+      "customEmojiId": "5199780557235455952",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/inguz-rune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/inguz-rune.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/inguz-rune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ink-pen",
+      "name": "Ink Pen",
+      "customEmojiId": "5199514776069247457",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ink-pen.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ink-pen.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/ink-pen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jewel",
+      "name": "Jewel",
+      "customEmojiId": "5199798166601371927",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/jewel.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/jewel.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/jewel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "key",
+      "name": "Key",
+      "customEmojiId": "5199761882717653195",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/key.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/key.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/key.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "koala",
+      "name": "Koala",
+      "customEmojiId": "5199786591664505620",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/koala.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/koala.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/koala.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "leprechaun",
+      "name": "Leprechaun",
+      "customEmojiId": "5199899240066749481",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/leprechaun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/leprechaun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/leprechaun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lion-head",
+      "name": "Lion Head",
+      "customEmojiId": "5199655049701172498",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/lion-head.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/lion-head.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/lion-head.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lion-king",
+      "name": "Lion King",
+      "customEmojiId": "5199514870558527530",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/lion-king.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/lion-king.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/lion-king.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "love-lock",
+      "name": "Love Lock",
+      "customEmojiId": "5199543157213139030",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/love-lock.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/love-lock.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/love-lock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mask",
+      "name": "Mask",
+      "customEmojiId": "5199413122783298258",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon-face",
+      "name": "Moon Face",
+      "customEmojiId": "5199410219385393618",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/moon-face.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/moon-face.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/moon-face.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "musical-note",
+      "name": "Musical Note",
+      "customEmojiId": "5199763458970653234",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/musical-note.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/musical-note.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/musical-note.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "neptune",
+      "name": "Neptune",
+      "customEmojiId": "5199805712858906090",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/neptune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/neptune.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/neptune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "obon-lantern",
+      "name": "Obon Lantern",
+      "customEmojiId": "5199784405526151376",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/obon-lantern.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/obon-lantern.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/obon-lantern.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "octopus",
+      "name": "Octopus",
+      "customEmojiId": "5199415742713335939",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/octopus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/octopus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/octopus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "oculus",
+      "name": "Oculus",
+      "customEmojiId": "5199618645558330282",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/oculus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/oculus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/oculus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "onigiri",
+      "name": "Onigiri",
+      "customEmojiId": "5199752717257444302",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/onigiri.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/onigiri.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/onigiri.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "owl",
+      "name": "Owl",
+      "customEmojiId": "5199736804403612865",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/owl.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/owl.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/owl.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "party-hat",
+      "name": "Party Hat",
+      "customEmojiId": "5199420192299454140",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/party-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/party-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/party-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pinata",
+      "name": "Piñata",
+      "customEmojiId": "5199490110072061851",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/pinata.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/pinata.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/pinata.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pirate-hat",
+      "name": "Pirate Hat",
+      "customEmojiId": "5199666663292700153",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/pirate-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/pirate-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/pirate-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pizza-slice",
+      "name": "Pizza Slice",
+      "customEmojiId": "5199578066707317639",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/pizza-slice.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/pizza-slice.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/pizza-slice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "plum",
+      "name": "Plum",
+      "customEmojiId": "5199962951611612377",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/plum.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/plum.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/plum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "plume-shako",
+      "name": "Plume Shako",
+      "customEmojiId": "5199423851611589961",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/plume-shako.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/plume-shako.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/plume-shako.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pomegranate",
+      "name": "Pomegranate",
+      "customEmojiId": "5199497579020194190",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/pomegranate.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/pomegranate.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/pomegranate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "press-hat",
+      "name": "Press Hat",
+      "customEmojiId": "5199819379444842683",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/press-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/press-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/press-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rain-drop",
+      "name": "Rain Drop",
+      "customEmojiId": "5199596200059239228",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/rain-drop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/rain-drop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/rain-drop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ram-of-amun",
+      "name": "Ram of Amun",
+      "customEmojiId": "5199770601501268034",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ram-of-amun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ram-of-amun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/ram-of-amun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ring",
+      "name": "Ring",
+      "customEmojiId": "5199821179036142060",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ring.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ring.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/ring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rose",
+      "name": "Rose",
+      "customEmojiId": "5199847348271877856",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/rose.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/rose.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/rose.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sauron",
+      "name": "Sauron",
+      "customEmojiId": "5199852081325838722",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sauron.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sauron.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/sauron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scorpion",
+      "name": "Scorpion",
+      "customEmojiId": "5199940630666579018",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/scorpion.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/scorpion.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/scorpion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sea-horse",
+      "name": "Sea Horse",
+      "customEmojiId": "5199693631392352882",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sea-horse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sea-horse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/sea-horse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sea-jelly",
+      "name": "Sea Jelly",
+      "customEmojiId": "5199917369123703634",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sea-jelly.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sea-jelly.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/sea-jelly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shark-knife",
+      "name": "Shark Knife",
+      "customEmojiId": "5199666796436687154",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/shark-knife.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/shark-knife.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/shark-knife.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sharp-sword",
+      "name": "Sharp Sword",
+      "customEmojiId": "5199910510060932554",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sharp-sword.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sharp-sword.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/sharp-sword.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shell",
+      "name": "Shell",
+      "customEmojiId": "5199502470987945576",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/shell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/shell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/shell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "smartphone",
+      "name": "Smartphone",
+      "customEmojiId": "5199833724635614475",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/smartphone.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/smartphone.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/smartphone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snail",
+      "name": "Snail",
+      "customEmojiId": "5199427729967062308",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/snail.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/snail.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/snail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spades",
+      "name": "Spades",
+      "customEmojiId": "5199913155760783674",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/spades.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/spades.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/spades.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spellbook",
+      "name": "Spellbook",
+      "customEmojiId": "5199951127566647821",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/spellbook.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/spellbook.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/spellbook.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spirit-impala",
+      "name": "Spirit Impala",
+      "customEmojiId": "5199800047797046538",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/spirit-impala.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/spirit-impala.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/spirit-impala.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sprout",
+      "name": "Sprout",
+      "customEmojiId": "5199705945063589397",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sprout.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sprout.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/sprout.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sun",
+      "name": "Sun",
+      "customEmojiId": "5199964983131145958",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sushi-rolls",
+      "name": "Sushi Rolls",
+      "customEmojiId": "5199851312526692154",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sushi-rolls.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sushi-rolls.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/sushi-rolls.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tamagotchi",
+      "name": "Tamagotchi",
+      "customEmojiId": "5199853902391968563",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tamagotchi.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tamagotchi.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/tamagotchi.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tetsubin",
+      "name": "Tetsubin",
+      "customEmojiId": "5199641735302519273",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tetsubin.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tetsubin.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/tetsubin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "thunderbird",
+      "name": "Thunderbird",
+      "customEmojiId": "5199756144641346567",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/thunderbird.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/thunderbird.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/thunderbird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tribal-shield",
+      "name": "Tribal Shield",
+      "customEmojiId": "5199940531882326218",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tribal-shield.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tribal-shield.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/tribal-shield.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tricorne",
+      "name": "Tricorne",
+      "customEmojiId": "5199835163449654129",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tricorne.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tricorne.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/tricorne.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "trophy",
+      "name": "Trophy",
+      "customEmojiId": "5199543874472675475",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/trophy.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/trophy.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/trophy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tulip",
+      "name": "Tulip",
+      "customEmojiId": "5199743169545146465",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tulip.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/tulip.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/tulip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "twin-peaks",
+      "name": "Twin Peaks",
+      "customEmojiId": "5199548495857482960",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/twin-peaks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/twin-peaks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/twin-peaks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "venetian-mask",
+      "name": "Venetian Mask",
+      "customEmojiId": "5199793845864267822",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/venetian-mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/venetian-mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/venetian-mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "visor",
+      "name": "Visor",
+      "customEmojiId": "5199623855353661732",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/visor.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/visor.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/visor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "war-bonnet",
+      "name": "War Bonnet",
+      "customEmojiId": "5199865125141516619",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/war-bonnet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/war-bonnet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/war-bonnet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wepwawet",
+      "name": "Wepwawet",
+      "customEmojiId": "5199485793629930536",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/wepwawet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/wepwawet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/wepwawet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wizard-hat",
+      "name": "Wizard Hat",
+      "customEmojiId": "5199659452042611516",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/wizard-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/wizard-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/wizard-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wontons",
+      "name": "Wontons",
+      "customEmojiId": "5199961989538942623",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/wontons.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/wontons.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/wontons.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wreath",
+      "name": "Wreath",
+      "customEmojiId": "5199506340753473869",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/wreath.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/wreath.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/wreath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "candle",
+      "name": "Candle",
+      "customEmojiId": "5199639604998733687",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/candle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/candle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/candle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "candy",
+      "name": "Candy",
+      "customEmojiId": "5199911012572105730",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/candy.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/candy.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "champagne",
+      "name": "Champagne",
+      "customEmojiId": "5199679432230471443",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/champagne.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/champagne.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/champagne.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gift-box",
+      "name": "Gift Box",
+      "customEmojiId": "5199854971838826197",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/gift-box.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/gift-box.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/gift-box.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gingerbread",
+      "name": "Gingerbread",
+      "customEmojiId": "5199945376605439444",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/gingerbread.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/gingerbread.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/gingerbread.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "magic-wand",
+      "name": "Magic Wand",
+      "customEmojiId": "5199565744446145009",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/magic-wand.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/magic-wand.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/magic-wand.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ornament",
+      "name": "Ornament",
+      "customEmojiId": "5199660508604566307",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ornament.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ornament.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/ornament.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snow-angel",
+      "name": "Snow Angel",
+      "customEmojiId": "5199879135324836933",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/snow-angel.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/snow-angel.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/snow-angel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snowflake",
+      "name": "Snowflake",
+      "customEmojiId": "5199610674099031923",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/snowflake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/snowflake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/snowflake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "star",
+      "name": "Star",
+      "customEmojiId": "5199425320490407263",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coin-purse",
+      "name": "Coin Purse",
+      "customEmojiId": "5199421974710879091",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/coin-purse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/coin-purse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/coin-purse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "festive-wreath",
+      "name": "Festive Wreath",
+      "customEmojiId": "5199830851302495542",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/festive-wreath.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/festive-wreath.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/festive-wreath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fireworks",
+      "name": "Fireworks",
+      "customEmojiId": "5199661414842666249",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fireworks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/fireworks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/fireworks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mistletoe",
+      "name": "Mistletoe",
+      "customEmojiId": "5199936279864708293",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/mistletoe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/mistletoe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/mistletoe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "nordic-wolf",
+      "name": "Nordic Wolf",
+      "customEmojiId": "5199895056768603137",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/nordic-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/nordic-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/nordic-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "piggy-bank",
+      "name": "Piggy Bank",
+      "customEmojiId": "5199476082708878264",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/piggy-bank.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/piggy-bank.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/piggy-bank.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "stocking",
+      "name": "Stocking",
+      "customEmojiId": "5199503016448790503",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/stocking.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/stocking.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/stocking.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "white-deer",
+      "name": "White Deer",
+      "customEmojiId": "5199804858160416090",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/white-deer.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/white-deer.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/white-deer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bowtie",
+      "name": "Bowtie",
+      "customEmojiId": "5199828179832835125",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bowtie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/bowtie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/bowtie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chest",
+      "name": "Chest",
+      "customEmojiId": "5199799017004894591",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/chest.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/chest.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/chest.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "christmas-tree",
+      "name": "Christmas Tree",
+      "customEmojiId": "5201690116875126303",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/christmas-tree.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/christmas-tree.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/christmas-tree.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cocktail",
+      "name": "Cocktail",
+      "customEmojiId": "5199925405007515741",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/cocktail.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/cocktail.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/cocktail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cookie",
+      "name": "Cookie",
+      "customEmojiId": "5199706417509992965",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/cookie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/cookie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/cookie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cupcake",
+      "name": "Cupcake",
+      "customEmojiId": "5199460788330335122",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/cupcake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/cupcake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/cupcake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dessert",
+      "name": "Dessert",
+      "customEmojiId": "5199456540607676981",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/dessert.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/dessert.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/dessert.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "eikthyrnir",
+      "name": "Eikthyrnir",
+      "customEmojiId": "5199875514667404240",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/eikthyrnir.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/eikthyrnir.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/eikthyrnir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hot-drink",
+      "name": "Hot Drink",
+      "customEmojiId": "5199502050081148019",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/hot-drink.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/hot-drink.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/hot-drink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-pop",
+      "name": "Ice Pop",
+      "customEmojiId": "5202206762786127395",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ice-pop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ice-pop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/ice-pop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-skates",
+      "name": "Ice Skates",
+      "customEmojiId": "5199870438016060797",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ice-skates.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/ice-skates.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/ice-skates.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jingle-bell",
+      "name": "Jingle Bell",
+      "customEmojiId": "5199776322397706499",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/jingle-bell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/jingle-bell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/jingle-bell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mittens",
+      "name": "Mittens",
+      "customEmojiId": "5199968565133871696",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/mittens.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/mittens.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/mittens.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "new-year-s-eve",
+      "name": "New Year’s Eve",
+      "customEmojiId": null,
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/new-year-s-eve.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/new-year-s-eve.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/new-year-s-eve.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rudolph",
+      "name": "Rudolph",
+      "customEmojiId": "5199540056246747378",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/rudolph.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/rudolph.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/rudolph.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "santa-hat",
+      "name": "Santa Hat",
+      "customEmojiId": "5199534056177437209",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/santa-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/santa-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/santa-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shooting-star",
+      "name": "Shooting Star",
+      "customEmojiId": "5199756398044416521",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/shooting-star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/shooting-star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/shooting-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snowman",
+      "name": "Snowman",
+      "customEmojiId": "5199936215440198936",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/snowman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/snowman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/snowman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sparks",
+      "name": "Sparks",
+      "customEmojiId": "5199534721897367416",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sparks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/sparks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/sparks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "winter-house",
+      "name": "Winter House",
+      "customEmojiId": "5199701675866098449",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "candycane",
+        "name": "Candy Cane",
+        "id": "6003373314888696650"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/winter-house.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/patterns/winter-house.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/patterns/winter-house.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "iceberg",
+  "name": "Iceberg",
+  "customEmojiId": "5249094899281716118",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "lovecandle",
+    "name": "Love Candle",
+    "id": "5915550639663874519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/iceberg.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/iceberg.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/iceberg.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/iceberg.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/iceberg.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

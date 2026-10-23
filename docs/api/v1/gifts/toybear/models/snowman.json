@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "snowman",
+  "name": "Snowman",
+  "customEmojiId": "5294231539524070889",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "toybear",
+    "name": "Toy Bear",
+    "id": "5868220813026526561"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/snowman.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/snowman.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/snowman.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/toybear/assets/models/snowman.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/toybear/models/snowman.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

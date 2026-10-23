@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "telegram",
+  "name": "Telegram",
+  "customEmojiId": "5249464047425837545",
+  "rarityPermille": 5,
+  "originalRarityPermille": 4,
+  "rarity": 0.5,
+  "originalRarity": 0.4,
+  "gift": {
+    "slug": "deskcalendar",
+    "name": "Desk Calendar",
+    "id": "5782988952268964995"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/telegram.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/telegram.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/telegram.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/deskcalendar/assets/models/telegram.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/deskcalendar/models/telegram.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

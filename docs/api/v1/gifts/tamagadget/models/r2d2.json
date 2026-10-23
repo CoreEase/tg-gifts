@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "r2d2",
+  "name": "R2D2",
+  "customEmojiId": "5355136181531080081",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "tamagadget",
+    "name": "Tama Gadget",
+    "id": "6023752243218481939"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/r2d2.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/r2d2.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/r2d2.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/r2d2.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tamagadget/models/r2d2.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "wild-cat",
+  "name": "Wild Cat",
+  "customEmojiId": "5359469940971692660",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "nekohelmet",
+    "name": "Neko Helmet",
+    "id": "5933793770951673155"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/wild-cat.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/wild-cat.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/wild-cat.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/wild-cat.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/nekohelmet/models/wild-cat.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

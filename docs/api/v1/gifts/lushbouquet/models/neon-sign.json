@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "neon-sign",
+  "name": "Neon Sign",
+  "customEmojiId": "5922706149668297218",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lushbouquet",
+    "name": "Lush Bouquet",
+    "id": "5871002671934079382"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/neon-sign.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/neon-sign.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/neon-sign.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lushbouquet/assets/models/neon-sign.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lushbouquet/models/neon-sign.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

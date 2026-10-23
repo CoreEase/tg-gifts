@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-demon",
+  "name": "Red Demon",
+  "customEmojiId": "5251713467827641845",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "madpumpkin",
+    "name": "Mad Pumpkin",
+    "id": "5841632504448025405"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/red-demon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/red-demon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/red-demon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/red-demon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/madpumpkin/models/red-demon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

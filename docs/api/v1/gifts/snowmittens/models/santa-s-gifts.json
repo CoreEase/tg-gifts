@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "santa-s-gifts",
+  "name": "Santa’s Gifts",
+  "customEmojiId": "5249348087603814996",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "snowmittens",
+    "name": "Snow Mittens",
+    "id": "5980789805615678057"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/santa-s-gifts.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/santa-s-gifts.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/santa-s-gifts.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/santa-s-gifts.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowmittens/models/santa-s-gifts.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

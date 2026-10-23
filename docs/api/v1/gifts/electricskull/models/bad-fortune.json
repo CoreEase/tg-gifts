@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bad-fortune",
+  "name": "Bad Fortune",
+  "customEmojiId": "5354782795916929280",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "electricskull",
+    "name": "Electric Skull",
+    "id": "5846192273657692751"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/bad-fortune.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/bad-fortune.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/bad-fortune.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/electricskull/assets/models/bad-fortune.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/electricskull/models/bad-fortune.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

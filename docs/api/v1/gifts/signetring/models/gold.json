@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold",
+  "name": "Gold",
+  "customEmojiId": "5456653196770435502",
+  "rarityPermille": 40,
+  "originalRarityPermille": 40,
+  "rarity": 4,
+  "originalRarity": 4,
+  "gift": {
+    "slug": "signetring",
+    "name": "Signet Ring",
+    "id": "5936085638515261992"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/gold.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/gold.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/gold.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/gold.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/signetring/models/gold.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

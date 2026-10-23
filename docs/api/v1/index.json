@@ -1,0 +1,24 @@
+{
+  "version": "1.0.0",
+  "source": "GiftChanges API",
+  "sourceUrl": "https://api.changes.tg",
+  "sourceUpdatedAt": "2026-10-23T16:55:32.479Z",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API.",
+  "counts": {
+    "gifts": 123,
+    "models": 7806,
+    "patterns": 26065,
+    "backdrops": 80
+  },
+  "endpoints": {
+    "gifts": "https://coreease.github.io/tg-gifts/api/v1/gifts.json",
+    "globalBackdrops": "https://coreease.github.io/tg-gifts/api/v1/backdrops.json",
+    "gift": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/index.json",
+    "models": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/models.json",
+    "modelByName": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/models/{model-slug}.json",
+    "backdrops": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/backdrops.json",
+    "backdropByName": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/backdrops/{backdrop-slug}.json",
+    "patterns": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/patterns.json",
+    "patternByName": "https://coreease.github.io/tg-gifts/api/v1/gifts/{gift-slug}/patterns/{pattern-slug}.json"
+  }
+}

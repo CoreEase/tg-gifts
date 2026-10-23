@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold-night",
+  "name": "Gold Night",
+  "customEmojiId": "6003850958201690867",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "faithamulet",
+    "name": "Faith Amulet",
+    "id": "6003456431095808759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/gold-night.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/gold-night.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/gold-night.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/gold-night.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/faithamulet/models/gold-night.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

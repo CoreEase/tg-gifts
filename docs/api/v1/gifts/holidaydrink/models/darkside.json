@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "darkside",
+  "name": "Darkside",
+  "customEmojiId": "5266966159416129661",
+  "rarityPermille": 6,
+  "originalRarityPermille": 6,
+  "rarity": 0.6,
+  "originalRarity": 0.6,
+  "gift": {
+    "slug": "holidaydrink",
+    "name": "Holiday Drink",
+    "id": "6003735372041814769"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/darkside.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/darkside.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/darkside.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/darkside.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/darkside.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "vivid-prize",
+  "name": "Vivid Prize",
+  "customEmojiId": "5454065822571977899",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "eternalrose",
+    "name": "Eternal Rose",
+    "id": "5882125812596999035"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalrose/assets/models/vivid-prize.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalrose/assets/models/vivid-prize.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalrose/assets/models/vivid-prize.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/eternalrose/assets/models/vivid-prize.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/eternalrose/models/vivid-prize.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

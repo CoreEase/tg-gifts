@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "kenobi",
+  "name": "Kenobi",
+  "customEmojiId": "5247055279442387888",
+  "rarityPermille": 9,
+  "originalRarityPermille": 9,
+  "rarity": 0.9,
+  "originalRarity": 0.9,
+  "gift": {
+    "slug": "partysparkler",
+    "name": "Party Sparkler",
+    "id": "6003643167683903930"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/models/kenobi.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/models/kenobi.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/models/kenobi.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/models/kenobi.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/partysparkler/models/kenobi.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

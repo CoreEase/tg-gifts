@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "batwing",
+  "name": "Batwing",
+  "customEmojiId": "5879744059957844978",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "bowtie",
+    "name": "Bow Tie",
+    "id": "5895544372761461960"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/batwing.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/batwing.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/batwing.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/batwing.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bowtie/models/batwing.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

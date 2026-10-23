@@ -1,0 +1,2921 @@
+{
+  "gift": {
+    "slug": "winterwreath",
+    "name": "Winter Wreaths",
+    "apiName": "Winter Wreath",
+    "id": "5983259145522906006",
+    "count": 9989,
+    "modelCount": 70,
+    "patternCount": 138,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns.json"
+  },
+  "count": 138,
+  "items": [
+    {
+      "type": "pattern",
+      "slug": "acorn",
+      "name": "Acorn",
+      "customEmojiId": "5199500774475870841",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/acorn.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/acorn.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/acorn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "anchor",
+      "name": "Anchor",
+      "customEmojiId": "5199524130508019696",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/anchor.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/anchor.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/anchor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "apple",
+      "name": "Apple",
+      "customEmojiId": "5199834806967375335",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/apple.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/apple.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/apple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "astronaut",
+      "name": "Astronaut",
+      "customEmojiId": "5199581154788806855",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/astronaut.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/astronaut.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/astronaut.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bandana",
+      "name": "Bandana",
+      "customEmojiId": "5199711902183232393",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bandana.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bandana.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bandana.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "basketball",
+      "name": "Basketball",
+      "customEmojiId": "5199728789994637327",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/basketball.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/basketball.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/basketball.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "beer",
+      "name": "Beer",
+      "customEmojiId": "5199920405665583833",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/beer.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/beer.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/beer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bike-helmet",
+      "name": "Bike Helmet",
+      "customEmojiId": "5199780634544872443",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bike-helmet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bike-helmet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bike-helmet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "birthday-cake",
+      "name": "Birthday Cake",
+      "customEmojiId": "5199528562914267487",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/birthday-cake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/birthday-cake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/birthday-cake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bishop",
+      "name": "Bishop",
+      "customEmojiId": "5199551953306157566",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bishop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bishop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bishop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bobby-helmet",
+      "name": "Bobby Helmet",
+      "customEmojiId": "5199570082363115866",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bobby-helmet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bobby-helmet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bobby-helmet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bone",
+      "name": "Bone",
+      "customEmojiId": "5199640352323047571",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bone.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bone.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bubbles",
+      "name": "Bubbles",
+      "customEmojiId": "5199440863977046426",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bubbles.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bubbles.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bubbles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bug",
+      "name": "Bug",
+      "customEmojiId": "5199687519653889118",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bug.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bug.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bug.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bunny",
+      "name": "Bunny",
+      "customEmojiId": "5199800120811489322",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bunny.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bunny.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bunny.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cavalier-hat",
+      "name": "Cavalier Hat",
+      "customEmojiId": "5199484170132292855",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cavalier-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cavalier-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/cavalier-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chef-hat",
+      "name": "Chef Hat",
+      "customEmojiId": "5199467063277553530",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/chef-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/chef-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/chef-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cherry",
+      "name": "Cherry",
+      "customEmojiId": "5199513358730037370",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cherry.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cherry.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/cherry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili",
+      "name": "Chili",
+      "customEmojiId": "5199718404763713565",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/chili.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/chili.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/chili.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili-pepper",
+      "name": "Chili Pepper",
+      "customEmojiId": "5199643277195772037",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/chili-pepper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/chili-pepper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/chili-pepper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "clubs",
+      "name": "Clubs",
+      "customEmojiId": "5199913752761238667",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/clubs.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/clubs.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/clubs.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coat-of-arms",
+      "name": "Coat of Arms",
+      "customEmojiId": "5199543926012283083",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/coat-of-arms.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/coat-of-arms.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/coat-of-arms.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coconut",
+      "name": "Coconut",
+      "customEmojiId": "5199939960651680778",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/coconut.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/coconut.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/coconut.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coffee-bean",
+      "name": "Coffee Bean",
+      "customEmojiId": "5199617662010820206",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/coffee-bean.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/coffee-bean.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/coffee-bean.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "conical-hat",
+      "name": "Conical Hat",
+      "customEmojiId": "5199648817703584324",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/conical-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/conical-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/conical-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "corn",
+      "name": "Corn",
+      "customEmojiId": "5199836340270695549",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/corn.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/corn.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/corn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "deerstalker",
+      "name": "Deerstalker",
+      "customEmojiId": "5199479669006568749",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/deerstalker.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/deerstalker.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/deerstalker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "doberman",
+      "name": "Doberman",
+      "customEmojiId": "5199561689997017519",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/doberman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/doberman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/doberman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dragonfly",
+      "name": "Dragonfly",
+      "customEmojiId": "5199491647670355164",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/dragonfly.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/dragonfly.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/dragonfly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "earflap-hat",
+      "name": "Earflap Hat",
+      "customEmojiId": "5199932083681658304",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/earflap-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/earflap-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/earflap-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "egg",
+      "name": "Egg",
+      "customEmojiId": "5199786226592283587",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/egg.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/egg.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/egg.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "eggplant",
+      "name": "Eggplant",
+      "customEmojiId": "5199864798724001703",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/eggplant.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/eggplant.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/eggplant.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fenrir",
+      "name": "Fenrir",
+      "customEmojiId": "5199525530667354783",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/fenrir.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/fenrir.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/fenrir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fish-skeleton",
+      "name": "Fish Skeleton",
+      "customEmojiId": "5199448302860405743",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/fish-skeleton.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/fish-skeleton.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/fish-skeleton.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flashlight",
+      "name": "Flashlight",
+      "customEmojiId": "5199659250179147232",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/flashlight.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/flashlight.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/flashlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flower",
+      "name": "Flower",
+      "customEmojiId": "5199829013056490060",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/flower.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/flower.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/flower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flower-cross",
+      "name": "Flower Cross",
+      "customEmojiId": "5199741412903518768",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/flower-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/flower-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/flower-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gem",
+      "name": "Gem",
+      "customEmojiId": "5199568523289988128",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/gem.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/gem.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/gem.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "genie-lamp",
+      "name": "Genie Lamp",
+      "customEmojiId": "5199760491148248638",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/genie-lamp.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/genie-lamp.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/genie-lamp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "greek-helmet",
+      "name": "Greek Helmet",
+      "customEmojiId": "5199497274077514887",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/greek-helmet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/greek-helmet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/greek-helmet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "guitar",
+      "name": "Guitar",
+      "customEmojiId": "5199926040662672669",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/guitar.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/guitar.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/guitar.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hamburger",
+      "name": "Hamburger",
+      "customEmojiId": "5199558610505467372",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/hamburger.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/hamburger.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/hamburger.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "heart",
+      "name": "Heart",
+      "customEmojiId": "5199448474659098272",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/heart.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/heart.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/heart.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hedgehog",
+      "name": "Hedgehog",
+      "customEmojiId": "5199443440957426886",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/hedgehog.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/hedgehog.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/hedgehog.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jormungandr",
+      "name": "Jörmungandr",
+      "customEmojiId": "5199764777525611986",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/jormungandr.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/jormungandr.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/jormungandr.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "leaf",
+      "name": "Leaf",
+      "customEmojiId": "5199589658824052117",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/leaf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/leaf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/leaf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lily",
+      "name": "Lily",
+      "customEmojiId": "5199594718295526169",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/lily.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/lily.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/lily.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lion-king",
+      "name": "Lion King",
+      "customEmojiId": "5199514870558527530",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/lion-king.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/lion-king.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/lion-king.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lotus-flower",
+      "name": "Lotus Flower",
+      "customEmojiId": "5199764283604373260",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/lotus-flower.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/lotus-flower.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/lotus-flower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "love-letter",
+      "name": "Love Letter",
+      "customEmojiId": "5199624482418887229",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/love-letter.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/love-letter.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/love-letter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "magic-vial",
+      "name": "Magic Vial",
+      "customEmojiId": "5199608535205315973",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/magic-vial.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/magic-vial.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/magic-vial.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "maple-leaf",
+      "name": "Maple Leaf",
+      "customEmojiId": "5199771361710473077",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/maple-leaf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/maple-leaf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/maple-leaf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mask",
+      "name": "Mask",
+      "customEmojiId": "5199413122783298258",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mayan-moth",
+      "name": "Mayan Moth",
+      "customEmojiId": "5199778452701480675",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/mayan-moth.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/mayan-moth.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/mayan-moth.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "monarch",
+      "name": "Monarch",
+      "customEmojiId": "5199967568701462550",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/monarch.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/monarch.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/monarch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "money-bag",
+      "name": "Money Bag",
+      "customEmojiId": "5199426943988044271",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/money-bag.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/money-bag.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/money-bag.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "monstera",
+      "name": "Monstera",
+      "customEmojiId": "5199712567903159375",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/monstera.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/monstera.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/monstera.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon-cross",
+      "name": "Moon Cross",
+      "customEmojiId": "5199926568943652086",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/moon-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/moon-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/moon-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon-eagle",
+      "name": "Moon Eagle",
+      "customEmojiId": "5199513281420625625",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/moon-eagle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/moon-eagle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/moon-eagle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "narcissus",
+      "name": "Narcissus",
+      "customEmojiId": "5199732805789058517",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/narcissus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/narcissus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/narcissus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "novus-ordo",
+      "name": "Novus Ordo",
+      "customEmojiId": "5199450368739677084",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/novus-ordo.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/novus-ordo.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/novus-ordo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "octopus",
+      "name": "Octopus",
+      "customEmojiId": "5199415742713335939",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/octopus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/octopus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/octopus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "oculus",
+      "name": "Oculus",
+      "customEmojiId": "5199618645558330282",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/oculus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/oculus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/oculus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "old-candle",
+      "name": "Old Candle",
+      "customEmojiId": "5199902654565747851",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/old-candle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/old-candle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/old-candle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "peaked-cap",
+      "name": "Peaked Cap",
+      "customEmojiId": "5199944066640415730",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/peaked-cap.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/peaked-cap.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/peaked-cap.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pear",
+      "name": "Pear",
+      "customEmojiId": "5199711558585845500",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/pear.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/pear.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/pear.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "customEmojiId": "5199683091542608723",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/phoenix.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/phoenix.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/phoenix.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pineapple",
+      "name": "Pineapple",
+      "customEmojiId": "5199590977379009936",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/pineapple.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/pineapple.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/pineapple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pizza-slice",
+      "name": "Pizza Slice",
+      "customEmojiId": "5199578066707317639",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/pizza-slice.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/pizza-slice.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/pizza-slice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "planet",
+      "name": "Planet",
+      "customEmojiId": "5199952033804749816",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/planet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/planet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/planet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "potion",
+      "name": "Potion",
+      "customEmojiId": "5199510532641560275",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/potion.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/potion.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/potion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "press-hat",
+      "name": "Press Hat",
+      "customEmojiId": "5199819379444842683",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/press-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/press-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/press-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "propeller-cap",
+      "name": "Propeller Cap",
+      "customEmojiId": "5199861745002254248",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/propeller-cap.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/propeller-cap.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/propeller-cap.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "robin-hood",
+      "name": "Robin Hood",
+      "customEmojiId": "5199634154685237795",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/robin-hood.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/robin-hood.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/robin-hood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sauron",
+      "name": "Sauron",
+      "customEmojiId": "5199852081325838722",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/sauron.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/sauron.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/sauron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scissors",
+      "name": "Scissors",
+      "customEmojiId": "5199668037682237139",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/scissors.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/scissors.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/scissors.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sea-horse",
+      "name": "Sea Horse",
+      "customEmojiId": "5199693631392352882",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/sea-horse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/sea-horse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/sea-horse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "seahorse",
+      "name": "Seahorse",
+      "customEmojiId": "5199707001625546696",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/seahorse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/seahorse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/seahorse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shako",
+      "name": "Shako",
+      "customEmojiId": "5199855955386337078",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/shako.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/shako.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/shako.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shell",
+      "name": "Shell",
+      "customEmojiId": "5199502470987945576",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/shell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/shell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/shell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shinto-shrine",
+      "name": "Shinto Shrine",
+      "customEmojiId": "5199478432055988373",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/shinto-shrine.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/shinto-shrine.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/shinto-shrine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "smartphone",
+      "name": "Smartphone",
+      "customEmojiId": "5199833724635614475",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/smartphone.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/smartphone.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/smartphone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spellbook",
+      "name": "Spellbook",
+      "customEmojiId": "5199951127566647821",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/spellbook.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/spellbook.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/spellbook.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spider",
+      "name": "Spider",
+      "customEmojiId": "5199675867407617007",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/spider.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/spider.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/spider.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spirit-impala",
+      "name": "Spirit Impala",
+      "customEmojiId": "5199800047797046538",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/spirit-impala.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/spirit-impala.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/spirit-impala.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sumerian-bird",
+      "name": "Sumerian Bird",
+      "customEmojiId": "5199797367737452718",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/sumerian-bird.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/sumerian-bird.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/sumerian-bird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tamagotchi",
+      "name": "Tamagotchi",
+      "customEmojiId": "5199853902391968563",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/tamagotchi.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/tamagotchi.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/tamagotchi.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "telescope",
+      "name": "Telescope",
+      "customEmojiId": "5199588391808698998",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/telescope.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/telescope.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/telescope.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "teru-bozu",
+      "name": "Teru Bōzu",
+      "customEmojiId": "5199948172629150385",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/teru-bozu.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/teru-bozu.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/teru-bozu.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tetsubin",
+      "name": "Tetsubin",
+      "customEmojiId": "5199641735302519273",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/tetsubin.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/tetsubin.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/tetsubin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "thunderbird",
+      "name": "Thunderbird",
+      "customEmojiId": "5199756144641346567",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/thunderbird.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/thunderbird.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/thunderbird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tooth",
+      "name": "Tooth",
+      "customEmojiId": "5199462351698429183",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/tooth.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/tooth.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/tooth.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tulip",
+      "name": "Tulip",
+      "customEmojiId": "5199743169545146465",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/tulip.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/tulip.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/tulip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "turban",
+      "name": "Turban",
+      "customEmojiId": "5199446709427536047",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/turban.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/turban.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/turban.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "turkey",
+      "name": "Turkey",
+      "customEmojiId": "5199906644590363463",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/turkey.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/turkey.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/turkey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "turtle",
+      "name": "Turtle",
+      "customEmojiId": "5199802964079839347",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/turtle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/turtle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/turtle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "two-katanas",
+      "name": "Two Katanas",
+      "customEmojiId": "5199814255548864362",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/two-katanas.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/two-katanas.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/two-katanas.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "venetian-mask",
+      "name": "Venetian Mask",
+      "customEmojiId": "5199793845864267822",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/venetian-mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/venetian-mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/venetian-mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "viking",
+      "name": "Viking",
+      "customEmojiId": "5199809080113267301",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/viking.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/viking.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/viking.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "war-bonnet",
+      "name": "War Bonnet",
+      "customEmojiId": "5199865125141516619",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/war-bonnet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/war-bonnet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/war-bonnet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bowtie",
+      "name": "Bowtie",
+      "customEmojiId": "5199828179832835125",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bowtie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/bowtie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/bowtie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "candle",
+      "name": "Candle",
+      "customEmojiId": "5199639604998733687",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/candle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/candle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/candle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "eikthyrnir",
+      "name": "Eikthyrnir",
+      "customEmojiId": "5199875514667404240",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/eikthyrnir.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/eikthyrnir.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/eikthyrnir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fireworks",
+      "name": "Fireworks",
+      "customEmojiId": "5199661414842666249",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/fireworks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/fireworks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/fireworks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gingerbread",
+      "name": "Gingerbread",
+      "customEmojiId": "5199945376605439444",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/gingerbread.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/gingerbread.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/gingerbread.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-skates",
+      "name": "Ice Skates",
+      "customEmojiId": "5199870438016060797",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/ice-skates.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/ice-skates.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/ice-skates.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "magic-wand",
+      "name": "Magic Wand",
+      "customEmojiId": "5199565744446145009",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/magic-wand.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/magic-wand.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/magic-wand.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "new-year-s-eve",
+      "name": "New Year’s Eve",
+      "customEmojiId": null,
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/new-year-s-eve.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/new-year-s-eve.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/new-year-s-eve.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snowman",
+      "name": "Snowman",
+      "customEmojiId": "5199936215440198936",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/snowman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/snowman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/snowman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sparks",
+      "name": "Sparks",
+      "customEmojiId": "5199534721897367416",
+      "rarityPermille": 16,
+      "originalRarityPermille": 16,
+      "rarity": 1.6,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/sparks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/sparks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/sparks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "candy",
+      "name": "Candy",
+      "customEmojiId": "5199911012572105730",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/candy.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/candy.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cupcake",
+      "name": "Cupcake",
+      "customEmojiId": "5199460788330335122",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cupcake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cupcake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/cupcake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gift-box",
+      "name": "Gift Box",
+      "customEmojiId": "5199854971838826197",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/gift-box.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/gift-box.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/gift-box.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ice-pop",
+      "name": "Ice Pop",
+      "customEmojiId": "5202206762786127395",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/ice-pop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/ice-pop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/ice-pop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mittens",
+      "name": "Mittens",
+      "customEmojiId": "5199968565133871696",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/mittens.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/mittens.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/mittens.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "santa-hat",
+      "name": "Santa Hat",
+      "customEmojiId": "5199534056177437209",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/santa-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/santa-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/santa-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "star",
+      "name": "Star",
+      "customEmojiId": "5199425320490407263",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "white-deer",
+      "name": "White Deer",
+      "customEmojiId": "5199804858160416090",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/white-deer.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/white-deer.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/white-deer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "champagne",
+      "name": "Champagne",
+      "customEmojiId": "5199679432230471443",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/champagne.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/champagne.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/champagne.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chest",
+      "name": "Chest",
+      "customEmojiId": "5199799017004894591",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/chest.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/chest.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/chest.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "christmas-tree",
+      "name": "Christmas Tree",
+      "customEmojiId": "5201690116875126303",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/christmas-tree.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/christmas-tree.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/christmas-tree.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cocktail",
+      "name": "Cocktail",
+      "customEmojiId": "5199925405007515741",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cocktail.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cocktail.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/cocktail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coin-purse",
+      "name": "Coin Purse",
+      "customEmojiId": "5199421974710879091",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/coin-purse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/coin-purse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/coin-purse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cookie",
+      "name": "Cookie",
+      "customEmojiId": "5199706417509992965",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cookie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/cookie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/cookie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dessert",
+      "name": "Dessert",
+      "customEmojiId": "5199456540607676981",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/dessert.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/dessert.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/dessert.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "festive-wreath",
+      "name": "Festive Wreath",
+      "customEmojiId": "5199830851302495542",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/festive-wreath.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/festive-wreath.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/festive-wreath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hot-drink",
+      "name": "Hot Drink",
+      "customEmojiId": "5199502050081148019",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/hot-drink.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/hot-drink.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/hot-drink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jingle-bell",
+      "name": "Jingle Bell",
+      "customEmojiId": "5199776322397706499",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/jingle-bell.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/jingle-bell.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/jingle-bell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mistletoe",
+      "name": "Mistletoe",
+      "customEmojiId": "5199936279864708293",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/mistletoe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/mistletoe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/mistletoe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "nordic-wolf",
+      "name": "Nordic Wolf",
+      "customEmojiId": "5199895056768603137",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/nordic-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/nordic-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/nordic-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ornament",
+      "name": "Ornament",
+      "customEmojiId": "5199660508604566307",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/ornament.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/ornament.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/ornament.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "piggy-bank",
+      "name": "Piggy Bank",
+      "customEmojiId": "5199476082708878264",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/piggy-bank.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/piggy-bank.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/piggy-bank.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rudolph",
+      "name": "Rudolph",
+      "customEmojiId": "5199540056246747378",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/rudolph.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/rudolph.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/rudolph.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shooting-star",
+      "name": "Shooting Star",
+      "customEmojiId": "5199756398044416521",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/shooting-star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/shooting-star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/shooting-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snow-angel",
+      "name": "Snow Angel",
+      "customEmojiId": "5199879135324836933",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/snow-angel.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/snow-angel.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/snow-angel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "snowflake",
+      "name": "Snowflake",
+      "customEmojiId": "5199610674099031923",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/snowflake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/snowflake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/snowflake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "stocking",
+      "name": "Stocking",
+      "customEmojiId": "5199503016448790503",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/stocking.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/stocking.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/stocking.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "winter-house",
+      "name": "Winter House",
+      "customEmojiId": "5199701675866098449",
+      "rarityPermille": 24,
+      "originalRarityPermille": 24,
+      "rarity": 2.4,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "winterwreath",
+        "name": "Winter Wreath",
+        "id": "5983259145522906006"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/winter-house.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/winterwreath/assets/patterns/winter-house.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/winterwreath/patterns/winter-house.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

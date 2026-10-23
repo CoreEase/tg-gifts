@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "caramel",
+  "name": "Caramel",
+  "customEmojiId": "5354986239927806313",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "snowglobe",
+    "name": "Snow Globe",
+    "id": "5981132629905245483"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/caramel.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/caramel.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/caramel.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/caramel.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/caramel.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

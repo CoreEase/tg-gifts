@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "slime",
+  "name": "Slime",
+  "customEmojiId": "6001149329283226435",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "happybrownie",
+    "name": "Happy Brownie",
+    "id": "6006064678835323371"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/slime.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/slime.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/slime.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/happybrownie/assets/models/slime.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/happybrownie/models/slime.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

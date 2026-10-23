@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gin-jewels",
+  "name": "Gin & Jewels",
+  "customEmojiId": "5436067878082216004",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "swagbag",
+    "name": "Swag Bag",
+    "id": "6012607142387778152"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/gin-jewels.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/gin-jewels.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/gin-jewels.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/gin-jewels.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swagbag/models/gin-jewels.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

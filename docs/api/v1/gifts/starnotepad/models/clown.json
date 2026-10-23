@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "clown",
+  "name": "Clown",
+  "customEmojiId": "5263011830271339933",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "starnotepad",
+    "name": "Star Notepad",
+    "id": "5936017773737018241"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/clown.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/clown.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/clown.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/clown.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/starnotepad/models/clown.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

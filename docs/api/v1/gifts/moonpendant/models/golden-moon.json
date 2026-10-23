@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "golden-moon",
+  "name": "Golden Moon",
+  "customEmojiId": "5823168998388276070",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "moonpendant",
+    "name": "Moon Pendant",
+    "id": "5998981470310368313"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/golden-moon.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/golden-moon.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/golden-moon.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/golden-moon.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moonpendant/models/golden-moon.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

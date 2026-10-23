@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bandaged",
+  "name": "Bandaged",
+  "customEmojiId": "5454277311056598177",
+  "rarityPermille": 26,
+  "originalRarityPermille": 26,
+  "rarity": 2.6,
+  "originalRarity": 2.6,
+  "gift": {
+    "slug": "trappedheart",
+    "name": "Trapped Heart",
+    "id": "5841391256135008713"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/bandaged.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/bandaged.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/bandaged.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/trappedheart/assets/models/bandaged.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/trappedheart/models/bandaged.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

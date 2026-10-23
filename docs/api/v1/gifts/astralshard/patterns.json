@@ -1,0 +1,4181 @@
+{
+  "gift": {
+    "slug": "astralshard",
+    "name": "Astral Shards",
+    "apiName": "Astral Shard",
+    "id": "5933629604416717361",
+    "count": 2988,
+    "modelCount": 50,
+    "patternCount": 198,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns.json"
+  },
+  "count": 198,
+  "items": [
+    {
+      "type": "pattern",
+      "slug": "acorn",
+      "name": "Acorn",
+      "customEmojiId": "5199500774475870841",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/acorn.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/acorn.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/acorn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "alarm",
+      "name": "Alarm",
+      "customEmojiId": "5199575713065239188",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/alarm.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/alarm.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/alarm.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "apple",
+      "name": "Apple",
+      "customEmojiId": "5199834806967375335",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/apple.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/apple.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/apple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "axe",
+      "name": "Axe",
+      "customEmojiId": "5199830537769879159",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/axe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/axe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/axe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ball",
+      "name": "Ball",
+      "customEmojiId": "5199921152989891702",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ball.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ball.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/ball.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bandage",
+      "name": "Bandage",
+      "customEmojiId": "5199488155861947055",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bandage.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bandage.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bandage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "beetle",
+      "name": "Beetle",
+      "customEmojiId": "5199410751961337105",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/beetle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/beetle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/beetle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bell-pepper",
+      "name": "Bell Pepper",
+      "customEmojiId": "5199683718607834440",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bell-pepper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bell-pepper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bell-pepper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "birthday-cake",
+      "name": "Birthday Cake",
+      "customEmojiId": "5199528562914267487",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/birthday-cake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/birthday-cake.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/birthday-cake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "blood-drop",
+      "name": "Blood Drop",
+      "customEmojiId": "5199450016552355691",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/blood-drop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/blood-drop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/blood-drop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bone",
+      "name": "Bone",
+      "customEmojiId": "5199640352323047571",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bone.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bone.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bottle",
+      "name": "Bottle",
+      "customEmojiId": "5199580759651813806",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bottle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bottle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bottle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bottlenose",
+      "name": "Bottlenose",
+      "customEmojiId": "5199797414982094107",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bottlenose.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bottlenose.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bottlenose.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bow-tie",
+      "name": "Bow Tie",
+      "customEmojiId": "5199652756188594205",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bow-tie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bow-tie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bow-tie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bread",
+      "name": "Bread",
+      "customEmojiId": "5199525547847224334",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bread.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bread.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bread.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bubble-tea",
+      "name": "Bubble Tea",
+      "customEmojiId": "5199799150148883131",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bubble-tea.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bubble-tea.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bubble-tea.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bunny",
+      "name": "Bunny",
+      "customEmojiId": "5199800120811489322",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bunny.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bunny.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bunny.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bunny-ears",
+      "name": "Bunny Ears",
+      "customEmojiId": "5199774076129808154",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bunny-ears.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bunny-ears.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bunny-ears.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "candy",
+      "name": "Candy",
+      "customEmojiId": "5199911012572105730",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/candy.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/candy.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cat-mask",
+      "name": "Cat Mask",
+      "customEmojiId": "5199751016450395261",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cat-mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cat-mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/cat-mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cheese",
+      "name": "Cheese",
+      "customEmojiId": "5199949985105348813",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cheese.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cheese.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/cheese.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili",
+      "name": "Chili",
+      "customEmojiId": "5199718404763713565",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/chili.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/chili.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/chili.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chili-pepper",
+      "name": "Chili Pepper",
+      "customEmojiId": "5199643277195772037",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/chili-pepper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/chili-pepper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/chili-pepper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "clubs",
+      "name": "Clubs",
+      "customEmojiId": "5199913752761238667",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/clubs.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/clubs.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/clubs.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coffee-bean",
+      "name": "Coffee Bean",
+      "customEmojiId": "5199617662010820206",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coffee-bean.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coffee-bean.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/coffee-bean.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crab",
+      "name": "Crab",
+      "customEmojiId": "5199541684039353419",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/crab.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/crab.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/crab.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "croissant",
+      "name": "Croissant",
+      "customEmojiId": "5199706980150706028",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/croissant.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/croissant.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/croissant.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crystal-ball",
+      "name": "Crystal Ball",
+      "customEmojiId": "5199590410443328799",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/crystal-ball.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/crystal-ball.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/crystal-ball.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dessert",
+      "name": "Dessert",
+      "customEmojiId": "5199456540607676981",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/dessert.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/dessert.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/dessert.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dragonfly",
+      "name": "Dragonfly",
+      "customEmojiId": "5199491647670355164",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/dragonfly.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/dragonfly.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/dragonfly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "feather",
+      "name": "Feather",
+      "customEmojiId": "5199561191780815148",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/feather.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/feather.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/feather.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fire",
+      "name": "Fire",
+      "customEmojiId": "5199557987735208484",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fire.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fire.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/fire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fish",
+      "name": "Fish",
+      "customEmojiId": "5199862024175126001",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fish.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fish.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/fish.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fish-skeleton",
+      "name": "Fish Skeleton",
+      "customEmojiId": "5199448302860405743",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fish-skeleton.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fish-skeleton.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/fish-skeleton.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flamingo",
+      "name": "Flamingo",
+      "customEmojiId": "5199960670983983099",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flamingo.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flamingo.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/flamingo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flashlight",
+      "name": "Flashlight",
+      "customEmojiId": "5199659250179147232",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flashlight.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flashlight.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/flashlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flipper",
+      "name": "Flipper",
+      "customEmojiId": "5199562548990477877",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flipper.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flipper.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/flipper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flower",
+      "name": "Flower",
+      "customEmojiId": "5199829013056490060",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flower.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flower.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/flower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flower-tulip",
+      "name": "Flower Tulip",
+      "customEmojiId": "5199785517922683567",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flower-tulip.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flower-tulip.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/flower-tulip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "garden-pot",
+      "name": "Garden Pot",
+      "customEmojiId": "5199961336703914826",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/garden-pot.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/garden-pot.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/garden-pot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gear",
+      "name": "Gear",
+      "customEmojiId": "5199963565791939900",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/gear.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/gear.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/gear.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gift-box",
+      "name": "Gift Box",
+      "customEmojiId": "5199854971838826197",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/gift-box.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/gift-box.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/gift-box.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "grape",
+      "name": "Grape",
+      "customEmojiId": "5199618417925067376",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/grape.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/grape.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/grape.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "grenade",
+      "name": "Grenade",
+      "customEmojiId": "5199860864533955715",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/grenade.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/grenade.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/grenade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hamburger",
+      "name": "Hamburger",
+      "customEmojiId": "5199558610505467372",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hamburger.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hamburger.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/hamburger.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hammerhead",
+      "name": "Hammerhead",
+      "customEmojiId": "5199846888710377808",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hammerhead.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hammerhead.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/hammerhead.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "heart",
+      "name": "Heart",
+      "customEmojiId": "5199448474659098272",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/heart.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/heart.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/heart.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hedgehog",
+      "name": "Hedgehog",
+      "customEmojiId": "5199443440957426886",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hedgehog.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hedgehog.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/hedgehog.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hippo",
+      "name": "Hippo",
+      "customEmojiId": "5199545558099857226",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hippo.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hippo.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/hippo.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jellyfish",
+      "name": "Jellyfish",
+      "customEmojiId": "5199463842052082744",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/jellyfish.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/jellyfish.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/jellyfish.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "jumbo-pencil",
+      "name": "Jumbo Pencil",
+      "customEmojiId": "5199442723697888040",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/jumbo-pencil.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/jumbo-pencil.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/jumbo-pencil.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "key",
+      "name": "Key",
+      "customEmojiId": "5199761882717653195",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/key.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/key.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/key.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "koala",
+      "name": "Koala",
+      "customEmojiId": "5199786591664505620",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/koala.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/koala.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/koala.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "leaf",
+      "name": "Leaf",
+      "customEmojiId": "5199589658824052117",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/leaf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/leaf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/leaf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lemon",
+      "name": "Lemon",
+      "customEmojiId": "5199949400989796691",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lemon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lemon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/lemon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "light-bulb",
+      "name": "Light Bulb",
+      "customEmojiId": "5199494031377208082",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/light-bulb.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/light-bulb.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/light-bulb.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lily",
+      "name": "Lily",
+      "customEmojiId": "5199594718295526169",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lily.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lily.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/lily.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "love-letter",
+      "name": "Love Letter",
+      "customEmojiId": "5199624482418887229",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/love-letter.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/love-letter.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/love-letter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "love-lock",
+      "name": "Love Lock",
+      "customEmojiId": "5199543157213139030",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/love-lock.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/love-lock.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/love-lock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lovely-kiss",
+      "name": "Lovely Kiss",
+      "customEmojiId": "5199851368361267380",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lovely-kiss.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lovely-kiss.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/lovely-kiss.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "manta-ray",
+      "name": "Manta Ray",
+      "customEmojiId": "5199852231649690419",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/manta-ray.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/manta-ray.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/manta-ray.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "maple",
+      "name": "Maple",
+      "customEmojiId": "5199893351666582880",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/maple.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/maple.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/maple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "maple-leaf",
+      "name": "Maple Leaf",
+      "customEmojiId": "5199771361710473077",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/maple-leaf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/maple-leaf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/maple-leaf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "melon",
+      "name": "Melon",
+      "customEmojiId": "5199664507219118426",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/melon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/melon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/melon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "monstera",
+      "name": "Monstera",
+      "customEmojiId": "5199712567903159375",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/monstera.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/monstera.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/monstera.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mushroom",
+      "name": "Mushroom",
+      "customEmojiId": "5199901374665492419",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mushroom.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mushroom.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/mushroom.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "musical-note",
+      "name": "Musical Note",
+      "customEmojiId": "5199763458970653234",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/musical-note.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/musical-note.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/musical-note.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "narcissus",
+      "name": "Narcissus",
+      "customEmojiId": "5199732805789058517",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/narcissus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/narcissus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/narcissus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "oak-leaf",
+      "name": "Oak Leaf",
+      "customEmojiId": "5199714255825309269",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/oak-leaf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/oak-leaf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/oak-leaf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "octopus",
+      "name": "Octopus",
+      "customEmojiId": "5199415742713335939",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/octopus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/octopus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/octopus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "palette",
+      "name": "Palette",
+      "customEmojiId": "5199833587196661886",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/palette.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/palette.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/palette.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "paw",
+      "name": "Paw",
+      "customEmojiId": "5199716562222744161",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/paw.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/paw.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/paw.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pickaxe",
+      "name": "Pickaxe",
+      "customEmojiId": "5199445292088328237",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pickaxe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pickaxe.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/pickaxe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pinata",
+      "name": "Piñata",
+      "customEmojiId": "5199490110072061851",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pinata.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pinata.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/pinata.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pineapple",
+      "name": "Pineapple",
+      "customEmojiId": "5199590977379009936",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pineapple.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pineapple.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/pineapple.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pizza-slice",
+      "name": "Pizza Slice",
+      "customEmojiId": "5199578066707317639",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pizza-slice.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pizza-slice.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/pizza-slice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "plume",
+      "name": "Plume",
+      "customEmojiId": "5199642800454407125",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/plume.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/plume.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/plume.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "polar-bear",
+      "name": "Polar Bear",
+      "customEmojiId": "5199407315987502006",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/polar-bear.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/polar-bear.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/polar-bear.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "police-badge",
+      "name": "Police Badge",
+      "customEmojiId": "5199500710051351632",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/police-badge.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/police-badge.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/police-badge.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pomegranate",
+      "name": "Pomegranate",
+      "customEmojiId": "5199497579020194190",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pomegranate.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pomegranate.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/pomegranate.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rain-drop",
+      "name": "Rain Drop",
+      "customEmojiId": "5199596200059239228",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/rain-drop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/rain-drop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/rain-drop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scissors",
+      "name": "Scissors",
+      "customEmojiId": "5199668037682237139",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/scissors.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/scissors.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/scissors.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sea-jelly",
+      "name": "Sea Jelly",
+      "customEmojiId": "5199917369123703634",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sea-jelly.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sea-jelly.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sea-jelly.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shark-knife",
+      "name": "Shark Knife",
+      "customEmojiId": "5199666796436687154",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/shark-knife.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/shark-knife.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/shark-knife.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "skull",
+      "name": "Skull",
+      "customEmojiId": "5199619431537348678",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/skull.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/skull.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/skull.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "smartphone",
+      "name": "Smartphone",
+      "customEmojiId": "5199833724635614475",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/smartphone.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/smartphone.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/smartphone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spanner",
+      "name": "Spanner",
+      "customEmojiId": "5199442762352593351",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/spanner.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/spanner.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/spanner.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spider-web",
+      "name": "Spider Web",
+      "customEmojiId": "5201766709026913537",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/spider-web.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/spider-web.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/spider-web.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sprout",
+      "name": "Sprout",
+      "customEmojiId": "5199705945063589397",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sprout.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sprout.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sprout.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "star-crown",
+      "name": "Star Crown",
+      "customEmojiId": "5199486442169993955",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/star-crown.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/star-crown.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/star-crown.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sun",
+      "name": "Sun",
+      "customEmojiId": "5199964983131145958",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sword",
+      "name": "Sword",
+      "customEmojiId": "5199810643481365864",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sword.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sword.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sword.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "toilet",
+      "name": "Toilet",
+      "customEmojiId": "5199426501606409252",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/toilet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/toilet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/toilet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tooth",
+      "name": "Tooth",
+      "customEmojiId": "5199462351698429183",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/tooth.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/tooth.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/tooth.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "turkey",
+      "name": "Turkey",
+      "customEmojiId": "5199906644590363463",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/turkey.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/turkey.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/turkey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "turtle",
+      "name": "Turtle",
+      "customEmojiId": "5199802964079839347",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/turtle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/turtle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/turtle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "twin-peaks",
+      "name": "Twin Peaks",
+      "customEmojiId": "5199548495857482960",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/twin-peaks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/twin-peaks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/twin-peaks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "viking",
+      "name": "Viking",
+      "customEmojiId": "5199809080113267301",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/viking.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/viking.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/viking.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "vortex",
+      "name": "Vortex",
+      "customEmojiId": "5199813753037687817",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/vortex.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/vortex.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/vortex.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wasp",
+      "name": "Wasp",
+      "customEmojiId": "5199841038964917820",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/wasp.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/wasp.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/wasp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bishop",
+      "name": "Bishop",
+      "customEmojiId": "5199551953306157566",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bishop.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bishop.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bishop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cap",
+      "name": "Cap",
+      "customEmojiId": "5199697466798143755",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cap.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cap.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/cap.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cash",
+      "name": "Cash",
+      "customEmojiId": "5199583108998922344",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cash.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cash.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/cash.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "celtic-cross",
+      "name": "Celtic Cross",
+      "customEmojiId": "5199560126628923287",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/celtic-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/celtic-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/celtic-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "chest",
+      "name": "Chest",
+      "customEmojiId": "5199799017004894591",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/chest.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/chest.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/chest.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coconut",
+      "name": "Coconut",
+      "customEmojiId": "5199939960651680778",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coconut.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coconut.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/coconut.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coin",
+      "name": "Coin",
+      "customEmojiId": "5199414832180268714",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coin.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coin.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/coin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "doberman",
+      "name": "Doberman",
+      "customEmojiId": "5199561689997017519",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/doberman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/doberman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/doberman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fleur-de-lis",
+      "name": "Fleur-de-lis",
+      "customEmojiId": "5199655573687140713",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fleur-de-lis.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fleur-de-lis.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/fleur-de-lis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "glasses",
+      "name": "Glasses",
+      "customEmojiId": "5199843323887519152",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/glasses.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/glasses.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/glasses.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gold",
+      "name": "Gold",
+      "customEmojiId": "5199529048245569871",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/gold.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/gold.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mannaz-rune",
+      "name": "Mannaz Rune",
+      "customEmojiId": "5199593631668799507",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mannaz-rune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mannaz-rune.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/mannaz-rune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ouroboros",
+      "name": "Ouroboros",
+      "customEmojiId": "5199428661974962024",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ouroboros.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ouroboros.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/ouroboros.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "oxen-of-fire",
+      "name": "Oxen of Fire",
+      "customEmojiId": "5199717897957573867",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/oxen-of-fire.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/oxen-of-fire.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/oxen-of-fire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sakura",
+      "name": "Sakura",
+      "customEmojiId": "5199856934638878837",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sakura.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sakura.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sakura.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sauron",
+      "name": "Sauron",
+      "customEmojiId": "5199852081325838722",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sauron.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sauron.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sauron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sun-mountain",
+      "name": "Sun Mountain",
+      "customEmojiId": "5199464829894562233",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sun-mountain.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sun-mountain.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sun-mountain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tree-of-life",
+      "name": "Tree of Life",
+      "customEmojiId": "5199597209376558882",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/tree-of-life.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/tree-of-life.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/tree-of-life.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wreath",
+      "name": "Wreath",
+      "customEmojiId": "5199506340753473869",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/wreath.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/wreath.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/wreath.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "yogi-shaman",
+      "name": "Yogi Shaman",
+      "customEmojiId": "5199445571261203846",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/yogi-shaman.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/yogi-shaman.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/yogi-shaman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "anchor",
+      "name": "Anchor",
+      "customEmojiId": "5199524130508019696",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/anchor.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/anchor.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/anchor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "arabian-horse",
+      "name": "Arabian Horse",
+      "customEmojiId": "5199442384395467198",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/arabian-horse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/arabian-horse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/arabian-horse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "baphomet",
+      "name": "Baphomet",
+      "customEmojiId": "5199603441374108638",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/baphomet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/baphomet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/baphomet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "car",
+      "name": "Car",
+      "customEmojiId": "5199704214191765603",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/car.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/car.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/car.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cicada",
+      "name": "Cicada",
+      "customEmojiId": "5199501453080693075",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cicada.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cicada.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/cicada.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cobra",
+      "name": "Cobra",
+      "customEmojiId": "5199726195834392948",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cobra.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cobra.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/cobra.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crown",
+      "name": "Crown",
+      "customEmojiId": "5199763085308495651",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/crown.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/crown.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/crown.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "crusader",
+      "name": "Crusader",
+      "customEmojiId": "5199701096045512582",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/crusader.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/crusader.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/crusader.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fenrir",
+      "name": "Fenrir",
+      "customEmojiId": "5199525530667354783",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fenrir.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fenrir.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/fenrir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "firebird",
+      "name": "Firebird",
+      "customEmojiId": "5199747116620088950",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/firebird.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/firebird.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/firebird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "flower-cross",
+      "name": "Flower Cross",
+      "customEmojiId": "5199741412903518768",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flower-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/flower-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/flower-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "gem",
+      "name": "Gem",
+      "customEmojiId": "5199568523289988128",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/gem.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/gem.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/gem.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "genie-lamp",
+      "name": "Genie Lamp",
+      "customEmojiId": "5199760491148248638",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/genie-lamp.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/genie-lamp.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/genie-lamp.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "golden-scarab",
+      "name": "Golden Scarab",
+      "customEmojiId": "5199515630767736867",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/golden-scarab.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/golden-scarab.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/golden-scarab.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "high-heels",
+      "name": "High Heels",
+      "customEmojiId": "5199687292020627714",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/high-heels.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/high-heels.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/high-heels.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "illuminati",
+      "name": "Illuminati",
+      "customEmojiId": "5199959970904312871",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/illuminati.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/illuminati.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/illuminati.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "inca-sun",
+      "name": "Inca Sun",
+      "customEmojiId": "5199572075227940967",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/inca-sun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/inca-sun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/inca-sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ink-pen",
+      "name": "Ink Pen",
+      "customEmojiId": "5199514776069247457",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ink-pen.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ink-pen.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/ink-pen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "kitsune",
+      "name": "Kitsune",
+      "customEmojiId": "5199625959887635892",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/kitsune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/kitsune.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/kitsune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lion-head",
+      "name": "Lion Head",
+      "customEmojiId": "5199655049701172498",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lion-head.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lion-head.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/lion-head.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "money-bag",
+      "name": "Money Bag",
+      "customEmojiId": "5199426943988044271",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/money-bag.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/money-bag.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/money-bag.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon",
+      "name": "Moon",
+      "customEmojiId": "5199499052193973671",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/moon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/moon.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/moon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "okami-wolf",
+      "name": "Okami Wolf",
+      "customEmojiId": "5199728489346925958",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/okami-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/okami-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/okami-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pearl",
+      "name": "Pearl",
+      "customEmojiId": "5199540305354854917",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pearl.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pearl.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/pearl.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pegasus",
+      "name": "Pegasus",
+      "customEmojiId": "5199615102210311126",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pegasus.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pegasus.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/pegasus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "piggy-bank",
+      "name": "Piggy Bank",
+      "customEmojiId": "5199476082708878264",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/piggy-bank.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/piggy-bank.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/piggy-bank.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rhino-warrior",
+      "name": "Rhino Warrior",
+      "customEmojiId": "5199722768450487484",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/rhino-warrior.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/rhino-warrior.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/rhino-warrior.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ring",
+      "name": "Ring",
+      "customEmojiId": "5199821179036142060",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ring.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ring.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/ring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "rook",
+      "name": "Rook",
+      "customEmojiId": "5199812241209201867",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/rook.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/rook.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/rook.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scarab",
+      "name": "Scarab",
+      "customEmojiId": "5199439627026463806",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/scarab.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/scarab.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/scarab.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "scorpion",
+      "name": "Scorpion",
+      "customEmojiId": "5199940630666579018",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/scorpion.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/scorpion.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/scorpion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "shield",
+      "name": "Shield",
+      "customEmojiId": "5199474497865945550",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/shield.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/shield.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/shield.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "star",
+      "name": "Star",
+      "customEmojiId": "5199425320490407263",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/star.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/star.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sun-lion",
+      "name": "Sun Lion",
+      "customEmojiId": "5199909337534861617",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sun-lion.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sun-lion.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sun-lion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "the-eye",
+      "name": "The Eye",
+      "customEmojiId": "5199464073980313985",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/the-eye.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/the-eye.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/the-eye.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tie",
+      "name": "Tie",
+      "customEmojiId": "5199849435625984324",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/tie.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/tie.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/tie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "top-hat",
+      "name": "Top Hat",
+      "customEmojiId": "5199704811192221997",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/top-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/top-hat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/top-hat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "trophy",
+      "name": "Trophy",
+      "customEmojiId": "5199543874472675475",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/trophy.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/trophy.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/trophy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "venetian-mask",
+      "name": "Venetian Mask",
+      "customEmojiId": "5199793845864267822",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/venetian-mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/venetian-mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/venetian-mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "white-deer",
+      "name": "White Deer",
+      "customEmojiId": "5199804858160416090",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/white-deer.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/white-deer.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/white-deer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "alkonost",
+      "name": "Alkonost",
+      "customEmojiId": "5199529237224130039",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/alkonost.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/alkonost.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/alkonost.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bastet",
+      "name": "Bastet",
+      "customEmojiId": "5199520204907910380",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bastet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bastet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bastet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "bull-of-heaven",
+      "name": "Bull of Heaven",
+      "customEmojiId": "5199518259287723654",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bull-of-heaven.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/bull-of-heaven.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/bull-of-heaven.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "calm-wolf",
+      "name": "Calm Wolf",
+      "customEmojiId": "5199642521281532199",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/calm-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/calm-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/calm-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "celtic-wolf",
+      "name": "Celtic Wolf",
+      "customEmojiId": "5199434919742310645",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/celtic-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/celtic-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/celtic-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "champagne",
+      "name": "Champagne",
+      "customEmojiId": "5199679432230471443",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/champagne.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/champagne.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/champagne.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coat-of-arms",
+      "name": "Coat of Arms",
+      "customEmojiId": "5199543926012283083",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coat-of-arms.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coat-of-arms.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/coat-of-arms.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "cocktail",
+      "name": "Cocktail",
+      "customEmojiId": "5199925405007515741",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cocktail.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/cocktail.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/cocktail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "coin-purse",
+      "name": "Coin Purse",
+      "customEmojiId": "5199421974710879091",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coin-purse.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/coin-purse.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/coin-purse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "diamond",
+      "name": "Diamond",
+      "customEmojiId": "5199628004292067329",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/diamond.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/diamond.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/diamond.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "dice",
+      "name": "Dice",
+      "customEmojiId": "5199905927330827651",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/dice.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/dice.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/dice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "eagle",
+      "name": "Eagle",
+      "customEmojiId": "5199844350384703801",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/eagle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/eagle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/eagle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "eikthyrnir",
+      "name": "Eikthyrnir",
+      "customEmojiId": "5199875514667404240",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/eikthyrnir.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/eikthyrnir.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/eikthyrnir.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "fehu-rune",
+      "name": "Fehu Rune",
+      "customEmojiId": "5201658535980598965",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fehu-rune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/fehu-rune.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/fehu-rune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "hand-of-god",
+      "name": "Hand of God",
+      "customEmojiId": "5199440739422996762",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hand-of-god.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/hand-of-god.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/hand-of-god.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "inguz-rune",
+      "name": "Inguz Rune",
+      "customEmojiId": "5199780557235455952",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/inguz-rune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/inguz-rune.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/inguz-rune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "knight",
+      "name": "Knight",
+      "customEmojiId": "5199568179692599944",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/knight.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/knight.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/knight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "lion-king",
+      "name": "Lion King",
+      "customEmojiId": "5199514870558527530",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lion-king.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/lion-king.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/lion-king.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mafdet",
+      "name": "Mafdet",
+      "customEmojiId": "5199698669388988419",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mafdet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mafdet.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/mafdet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mask",
+      "name": "Mask",
+      "customEmojiId": "5199413122783298258",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mask.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mask.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mayan-moth",
+      "name": "Mayan Moth",
+      "customEmojiId": "5199778452701480675",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mayan-moth.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mayan-moth.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/mayan-moth.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon-cross",
+      "name": "Moon Cross",
+      "customEmojiId": "5199926568943652086",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/moon-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/moon-cross.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/moon-cross.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "moon-eagle",
+      "name": "Moon Eagle",
+      "customEmojiId": "5199513281420625625",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/moon-eagle.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/moon-eagle.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/moon-eagle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mountain-goat",
+      "name": "Mountain Goat",
+      "customEmojiId": "5199689319245190164",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mountain-goat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mountain-goat.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/mountain-goat.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "mountain-lion",
+      "name": "Mountain Lion",
+      "customEmojiId": "5199456879910094088",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mountain-lion.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/mountain-lion.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/mountain-lion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "nordic-wolf",
+      "name": "Nordic Wolf",
+      "customEmojiId": "5199895056768603137",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/nordic-wolf.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/nordic-wolf.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/nordic-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "owl",
+      "name": "Owl",
+      "customEmojiId": "5199736804403612865",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/owl.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/owl.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/owl.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "customEmojiId": "5199683091542608723",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/phoenix.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/phoenix.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/phoenix.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "pyramid",
+      "name": "Pyramid",
+      "customEmojiId": "5199649565027895118",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pyramid.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/pyramid.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/pyramid.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "ram-of-amun",
+      "name": "Ram of Amun",
+      "customEmojiId": "5199770601501268034",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ram-of-amun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/ram-of-amun.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/ram-of-amun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "royal-crown",
+      "name": "Royal Crown",
+      "customEmojiId": "5199769278651342343",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/royal-crown.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/royal-crown.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/royal-crown.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sparks",
+      "name": "Sparks",
+      "customEmojiId": "5199534721897367416",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sparks.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sparks.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sparks.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "spirit-impala",
+      "name": "Spirit Impala",
+      "customEmojiId": "5199800047797046538",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/spirit-impala.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/spirit-impala.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/spirit-impala.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "sumerian-bird",
+      "name": "Sumerian Bird",
+      "customEmojiId": "5199797367737452718",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sumerian-bird.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/sumerian-bird.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/sumerian-bird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "totem-bear",
+      "name": "Totem Bear",
+      "customEmojiId": "5199656939486742424",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/totem-bear.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/totem-bear.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/totem-bear.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "tribal-shield",
+      "name": "Tribal Shield",
+      "customEmojiId": "5199940531882326218",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/tribal-shield.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/tribal-shield.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/tribal-shield.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "unicorn-head",
+      "name": "Unicorn Head",
+      "customEmojiId": "5199885517646234797",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/unicorn-head.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/unicorn-head.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/unicorn-head.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "pattern",
+      "slug": "wolf-rage",
+      "name": "Wolf Rage",
+      "customEmojiId": "5199809844617447088",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "astralshard",
+        "name": "Astral Shard",
+        "id": "5933629604416717361"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/wolf-rage.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/astralshard/assets/patterns/wolf-rage.png"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/astralshard/patterns/wolf-rage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

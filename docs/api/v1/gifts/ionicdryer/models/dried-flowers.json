@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "dried-flowers",
+  "name": "Dried Flowers",
+  "customEmojiId": "5823200669477116145",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "ionicdryer",
+    "name": "Ionic Dryer",
+    "id": "5933937398953018107"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ionicdryer/assets/models/dried-flowers.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ionicdryer/assets/models/dried-flowers.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ionicdryer/assets/models/dried-flowers.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ionicdryer/assets/models/dried-flowers.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/ionicdryer/models/dried-flowers.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

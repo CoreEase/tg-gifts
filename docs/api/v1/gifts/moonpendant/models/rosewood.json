@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rosewood",
+  "name": "Rosewood",
+  "customEmojiId": "5823457680320109560",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "moonpendant",
+    "name": "Moon Pendant",
+    "id": "5998981470310368313"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/rosewood.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/rosewood.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/rosewood.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/moonpendant/assets/models/rosewood.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/moonpendant/models/rosewood.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bulldog-bob",
+  "name": "Bulldog Bob",
+  "customEmojiId": "5357118347592888496",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "nekohelmet",
+    "name": "Neko Helmet",
+    "id": "5933793770951673155"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/bulldog-bob.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/bulldog-bob.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/bulldog-bob.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/bulldog-bob.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/nekohelmet/models/bulldog-bob.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

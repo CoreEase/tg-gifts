@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "dracula",
+  "name": "Dracula",
+  "customEmojiId": "5319102840436713940",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "sleighbell",
+    "name": "Sleigh Bell",
+    "id": "5981026247860290310"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/dracula.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/dracula.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/dracula.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sleighbell/assets/models/dracula.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sleighbell/models/dracula.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

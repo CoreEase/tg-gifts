@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "silver-year",
+  "name": "Silver Year",
+  "customEmojiId": "5251731927597078937",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "bdaycandle",
+    "name": "B-Day Candle",
+    "id": "5782984811920491178"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/silver-year.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/silver-year.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/silver-year.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/silver-year.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bdaycandle/models/silver-year.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

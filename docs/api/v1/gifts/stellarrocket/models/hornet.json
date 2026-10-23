@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hornet",
+  "name": "Hornet",
+  "customEmojiId": "5823302202503993483",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "stellarrocket",
+    "name": "Stellar Rocket",
+    "id": "6042113507581755979"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/hornet.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/hornet.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/hornet.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/hornet.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/stellarrocket/models/hornet.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

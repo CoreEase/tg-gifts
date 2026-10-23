@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "chuckle-crown",
+  "name": "Chuckle Crown",
+  "customEmojiId": "5244643208629085655",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "jesterhat",
+    "name": "Jester Hat",
+    "id": "5933590374185435592"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/chuckle-crown.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/chuckle-crown.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/chuckle-crown.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/chuckle-crown.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jesterhat/models/chuckle-crown.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

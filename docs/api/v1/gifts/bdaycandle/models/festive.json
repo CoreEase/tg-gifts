@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "festive",
+  "name": "Festive",
+  "customEmojiId": "5251491022881448155",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "bdaycandle",
+    "name": "B-Day Candle",
+    "id": "5782984811920491178"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/festive.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/festive.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/festive.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bdaycandle/assets/models/festive.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bdaycandle/models/festive.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

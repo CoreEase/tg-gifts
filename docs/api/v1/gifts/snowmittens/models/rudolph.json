@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rudolph",
+  "name": "Rudolph",
+  "customEmojiId": "5249167389739736761",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "snowmittens",
+    "name": "Snow Mittens",
+    "id": "5980789805615678057"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/rudolph.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/rudolph.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/rudolph.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/rudolph.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowmittens/models/rudolph.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

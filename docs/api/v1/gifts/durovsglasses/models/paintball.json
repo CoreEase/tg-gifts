@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "paintball",
+  "name": "Paintball",
+  "customEmojiId": "5418321318028290280",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "durovsglasses",
+    "name": "Durov's Glasses",
+    "id": "5834651202612102354"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/paintball.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/paintball.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/paintball.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/paintball.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovsglasses/models/paintball.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

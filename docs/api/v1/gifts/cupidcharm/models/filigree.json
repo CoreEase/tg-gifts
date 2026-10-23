@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "filigree",
+  "name": "Filigree",
+  "customEmojiId": "6001145798820108750",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "cupidcharm",
+    "name": "Cupid Charm",
+    "id": "5868561433997870501"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/filigree.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/filigree.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/filigree.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cupidcharm/assets/models/filigree.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cupidcharm/models/filigree.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

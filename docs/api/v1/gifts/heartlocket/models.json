@@ -1,0 +1,1403 @@
+{
+  "gift": {
+    "slug": "heartlocket",
+    "name": "Heart Lockets",
+    "apiName": "Heart Locket",
+    "id": "5868455043362980631",
+    "count": 1329,
+    "modelCount": 60,
+    "patternCount": 240,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/patterns.json"
+  },
+  "count": 60,
+  "items": [
+    {
+      "type": "model",
+      "slug": "cirque",
+      "name": "Cirque",
+      "customEmojiId": "5890784230442539498",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/cirque.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/cirque.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/cirque.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/cirque.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/cirque.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "golden",
+      "name": "Golden",
+      "customEmojiId": "5893177661097777505",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/golden.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/golden.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/golden.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/golden.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/golden.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "great-wave",
+      "name": "Great Wave",
+      "customEmojiId": "5890875116245489797",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/great-wave.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/great-wave.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/great-wave.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/great-wave.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/great-wave.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mirror",
+      "name": "Mirror",
+      "customEmojiId": "5890764490772846732",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mirror.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mirror.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mirror.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mirror.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/mirror.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neptune",
+      "name": "Neptune",
+      "customEmojiId": "5893305844396726724",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/neptune.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/neptune.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/neptune.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/neptune.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/neptune.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "turtles",
+      "name": "Turtles",
+      "customEmojiId": "5893518595601733855",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/turtles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/turtles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/turtles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/turtles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/turtles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tuxedo-mask",
+      "name": "Tuxedo Mask",
+      "customEmojiId": "5890997643072510274",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/tuxedo-mask.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/tuxedo-mask.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/tuxedo-mask.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/tuxedo-mask.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/tuxedo-mask.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "uranus",
+      "name": "Uranus",
+      "customEmojiId": "5893470350234097782",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/uranus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/uranus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/uranus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/uranus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/uranus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "valentine",
+      "name": "Valentine",
+      "customEmojiId": "5893166356743853910",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/valentine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/valentine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/valentine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/valentine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/valentine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "white-wolf",
+      "name": "White Wolf",
+      "customEmojiId": "5893251521650367294",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/white-wolf.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/white-wolf.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/white-wolf.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/white-wolf.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/white-wolf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "acorn-hunter",
+      "name": "Acorn Hunter",
+      "customEmojiId": "5893366433500370525",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/acorn-hunter.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/acorn-hunter.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/acorn-hunter.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/acorn-hunter.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/acorn-hunter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "casino-bugs",
+      "name": "Casino Bugs",
+      "customEmojiId": "5893137838161009364",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/casino-bugs.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/casino-bugs.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/casino-bugs.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/casino-bugs.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/casino-bugs.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fairy-dust",
+      "name": "Fairy Dust",
+      "customEmojiId": "5893388741560506158",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/fairy-dust.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/fairy-dust.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/fairy-dust.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/fairy-dust.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/fairy-dust.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gem-shards",
+      "name": "Gem Shards",
+      "customEmojiId": "5893283287228487780",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/gem-shards.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/gem-shards.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/gem-shards.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/gem-shards.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/gem-shards.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jupiter",
+      "name": "Jupiter",
+      "customEmojiId": "5890833339098601610",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/jupiter.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/jupiter.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/jupiter.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/jupiter.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/jupiter.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "koi-pond",
+      "name": "Koi Pond",
+      "customEmojiId": "5893472218544871611",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/koi-pond.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/koi-pond.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/koi-pond.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/koi-pond.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/koi-pond.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lady-bug",
+      "name": "Lady Bug",
+      "customEmojiId": "5890896977629026507",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/lady-bug.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/lady-bug.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/lady-bug.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/lady-bug.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/lady-bug.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lunar-grail",
+      "name": "Lunar Grail",
+      "customEmojiId": "5891082503036344794",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/lunar-grail.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/lunar-grail.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/lunar-grail.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/lunar-grail.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/lunar-grail.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mars",
+      "name": "Mars",
+      "customEmojiId": "5891176159093201380",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mars.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mars.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mars.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mars.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/mars.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "matryoshka",
+      "name": "Matryoshka",
+      "customEmojiId": "5893505113699392565",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/matryoshka.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/matryoshka.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/matryoshka.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/matryoshka.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/matryoshka.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mecha-love",
+      "name": "Mecha Love",
+      "customEmojiId": "5893254541012375423",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mecha-love.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mecha-love.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mecha-love.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mecha-love.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/mecha-love.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mercury",
+      "name": "Mercury",
+      "customEmojiId": "5893168315248942279",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mercury.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mercury.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mercury.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/mercury.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/mercury.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ocean-star",
+      "name": "Ocean Star",
+      "customEmojiId": "5893186697708968291",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/ocean-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/ocean-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/ocean-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/ocean-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/ocean-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pluto",
+      "name": "Pluto",
+      "customEmojiId": "5893406471185504524",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/pluto.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/pluto.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/pluto.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/pluto.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/pluto.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "queen-bee",
+      "name": "Queen Bee",
+      "customEmojiId": "5892969277874509750",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/queen-bee.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/queen-bee.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/queen-bee.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/queen-bee.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/queen-bee.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rebellion",
+      "name": "Rebellion",
+      "customEmojiId": "5893474645201394762",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/rebellion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/rebellion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/rebellion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/rebellion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/rebellion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "royal-heart",
+      "name": "Royal Heart",
+      "customEmojiId": "5893177411989674986",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-heart.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-heart.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-heart.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-heart.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/royal-heart.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sanctuary",
+      "name": "Sanctuary",
+      "customEmojiId": "5893311767156628375",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/sanctuary.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/sanctuary.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/sanctuary.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/sanctuary.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/sanctuary.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "saturn",
+      "name": "Saturn",
+      "customEmojiId": "5893298173585136119",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/saturn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/saturn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/saturn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/saturn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/saturn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "shaman",
+      "name": "Shaman",
+      "customEmojiId": "5893175646758116199",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/shaman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/shaman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/shaman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/shaman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/shaman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "shield-of-sun",
+      "name": "Shield of Sun",
+      "customEmojiId": "5892965601382505054",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/shield-of-sun.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/shield-of-sun.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/shield-of-sun.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/shield-of-sun.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/shield-of-sun.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spider-web",
+      "name": "Spider Web",
+      "customEmojiId": "5890729856156571495",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/spider-web.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/spider-web.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/spider-web.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/spider-web.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/spider-web.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stone-flower",
+      "name": "Stone Flower",
+      "customEmojiId": "5891172478306227855",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/stone-flower.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/stone-flower.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/stone-flower.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/stone-flower.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/stone-flower.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "synthwave",
+      "name": "Synthwave",
+      "customEmojiId": "5893268564080598170",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/synthwave.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/synthwave.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/synthwave.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/synthwave.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/synthwave.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "telegram",
+      "name": "Telegram",
+      "customEmojiId": "5893152110337333956",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/telegram.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/telegram.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/telegram.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/telegram.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/telegram.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "venus",
+      "name": "Venus",
+      "customEmojiId": "5893381135173425628",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/venus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/venus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/venus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/venus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/venus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "angelic-pink",
+      "name": "Angelic Pink",
+      "customEmojiId": "5893247900992935710",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/angelic-pink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/angelic-pink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/angelic-pink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/angelic-pink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/angelic-pink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "black-hole",
+      "name": "Black Hole",
+      "customEmojiId": "5893452762343020580",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/black-hole.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/black-hole.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/black-hole.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/black-hole.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/black-hole.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "compass",
+      "name": "Compass",
+      "customEmojiId": "5893354858563508694",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/compass.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/compass.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/compass.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/compass.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/compass.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "emocore",
+      "name": "Emocore",
+      "customEmojiId": "5893275075251019088",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/emocore.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/emocore.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/emocore.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/emocore.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/emocore.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glam-furry",
+      "name": "Glam Furry",
+      "customEmojiId": "5893504920425863579",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/glam-furry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/glam-furry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/glam-furry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/glam-furry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/glam-furry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "heartwood",
+      "name": "Heartwood",
+      "customEmojiId": "5893356855723303193",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/heartwood.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/heartwood.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/heartwood.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/heartwood.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/heartwood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hell-rise",
+      "name": "Hell Rise",
+      "customEmojiId": "5892965962159758698",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/hell-rise.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/hell-rise.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/hell-rise.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/hell-rise.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/hell-rise.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "karaoke-bar",
+      "name": "Karaoke Bar",
+      "customEmojiId": "5890768635416287279",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/karaoke-bar.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/karaoke-bar.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/karaoke-bar.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/karaoke-bar.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/karaoke-bar.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "love-ring",
+      "name": "Love Ring",
+      "customEmojiId": "5893456589158881611",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/love-ring.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/love-ring.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/love-ring.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/love-ring.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/love-ring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "luna",
+      "name": "Luna",
+      "customEmojiId": "5891268762883069940",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/luna.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/luna.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/luna.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/luna.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/luna.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "reactor",
+      "name": "Reactor",
+      "customEmojiId": "5893493465748084773",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/reactor.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/reactor.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/reactor.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/reactor.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/reactor.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sakura",
+      "name": "Sakura",
+      "customEmojiId": "5893154120382028173",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/sakura.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/sakura.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/sakura.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/sakura.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/sakura.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "satoru",
+      "name": "Satoru",
+      "customEmojiId": "5893185495118126307",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/satoru.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/satoru.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/satoru.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/satoru.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/satoru.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "soulkeeper",
+      "name": "Soulkeeper",
+      "customEmojiId": "5893361842180332393",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/soulkeeper.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/soulkeeper.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/soulkeeper.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/soulkeeper.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/soulkeeper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "toy-joy",
+      "name": "Toy Joy",
+      "customEmojiId": "5893157118269200925",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/toy-joy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/toy-joy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/toy-joy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/toy-joy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/toy-joy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "trapped-heart",
+      "name": "Trapped Heart",
+      "customEmojiId": "5893365668996193035",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/trapped-heart.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/trapped-heart.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/trapped-heart.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/trapped-heart.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/trapped-heart.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vampire",
+      "name": "Vampire",
+      "customEmojiId": "5893251556010105096",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/vampire.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/vampire.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/vampire.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/vampire.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/vampire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "waffle-maker",
+      "name": "Waffle Maker",
+      "customEmojiId": "5893176475686803659",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/waffle-maker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/waffle-maker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/waffle-maker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/waffle-maker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/waffle-maker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "azure-gem",
+      "name": "Azure Gem",
+      "customEmojiId": "5893297653894094223",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/azure-gem.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/azure-gem.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/azure-gem.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/azure-gem.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/azure-gem.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "comic-book",
+      "name": "Comic Book",
+      "customEmojiId": "5892969050241243189",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/comic-book.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/comic-book.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/comic-book.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/comic-book.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/comic-book.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "disco",
+      "name": "Disco",
+      "customEmojiId": "5891075618203769370",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/disco.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/disco.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/disco.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/disco.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/disco.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nightclub",
+      "name": "Nightclub",
+      "customEmojiId": "5893446702144166345",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/nightclub.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/nightclub.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/nightclub.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/nightclub.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/nightclub.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pepperoni",
+      "name": "Pepperoni",
+      "customEmojiId": "5893209194747665671",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/pepperoni.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/pepperoni.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/pepperoni.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/pepperoni.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/pepperoni.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "royal-flush",
+      "name": "Royal Flush",
+      "customEmojiId": "5891080110739560734",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "heartlocket",
+        "name": "Heart Locket",
+        "id": "5868455043362980631"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-flush.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-flush.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-flush.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/royal-flush.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/royal-flush.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

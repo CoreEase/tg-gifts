@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "snow-queen",
+  "name": "Snow Queen",
+  "customEmojiId": "5999193023219504898",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "valentinebox",
+    "name": "Valentine Box",
+    "id": "5868595669182186720"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/snow-queen.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/snow-queen.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/snow-queen.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/valentinebox/assets/models/snow-queen.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/valentinebox/models/snow-queen.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

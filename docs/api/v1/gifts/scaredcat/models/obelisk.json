@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "obelisk",
+  "name": "Obelisk",
+  "customEmojiId": "5456557315920518340",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "scaredcat",
+    "name": "Scared Cat",
+    "id": "5837059369300132790"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/obelisk.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/obelisk.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/obelisk.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/scaredcat/assets/models/obelisk.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/scaredcat/models/obelisk.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

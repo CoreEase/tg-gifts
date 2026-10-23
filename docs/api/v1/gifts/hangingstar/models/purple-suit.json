@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "purple-suit",
+  "name": "Purple Suit",
+  "customEmojiId": "5249205700848020770",
+  "rarityPermille": 14,
+  "originalRarityPermille": 14,
+  "rarity": 1.4,
+  "originalRarity": 1.4,
+  "gift": {
+    "slug": "hangingstar",
+    "name": "Hanging Star",
+    "id": "5915733223018594841"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-suit.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-suit.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-suit.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-suit.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/purple-suit.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

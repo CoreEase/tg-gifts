@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "aquarium",
+  "name": "Aquarium",
+  "customEmojiId": "5870713672174671946",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "restlessjar",
+    "name": "Restless Jar",
+    "id": "5870784783948186838"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/aquarium.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/aquarium.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/aquarium.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/aquarium.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/aquarium.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

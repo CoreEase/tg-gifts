@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "valentine",
+  "name": "Valentine",
+  "customEmojiId": "5199862522391330751",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "lovepotion",
+    "name": "Love Potion",
+    "id": "5868348541058942091"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/patterns/valentine.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovepotion/assets/patterns/valentine.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovepotion/patterns/valentine.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

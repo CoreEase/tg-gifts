@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "noble",
+  "name": "Noble",
+  "customEmojiId": "5454385110440762391",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "jellybunny",
+    "name": "Jelly Bunny",
+    "id": "5915502858152706668"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/noble.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/noble.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/noble.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/noble.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jellybunny/models/noble.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

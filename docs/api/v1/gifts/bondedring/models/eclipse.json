@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "eclipse",
+  "name": "Eclipse",
+  "customEmojiId": "5267469825935964465",
+  "rarityPermille": 21,
+  "originalRarityPermille": 21,
+  "rarity": 2.1,
+  "originalRarity": 2.1,
+  "gift": {
+    "slug": "bondedring",
+    "name": "Bonded Ring",
+    "id": "5870661333703197240"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/eclipse.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/eclipse.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/eclipse.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bondedring/assets/models/eclipse.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bondedring/models/eclipse.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

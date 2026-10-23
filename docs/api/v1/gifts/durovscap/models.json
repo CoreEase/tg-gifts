@@ -1,0 +1,1288 @@
+{
+  "gift": {
+    "slug": "durovscap",
+    "name": "Durov’s Caps",
+    "apiName": "Durov's Cap",
+    "id": "5915521180483191380",
+    "count": 3244,
+    "modelCount": 55,
+    "patternCount": 198,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/patterns.json"
+  },
+  "count": 55,
+  "items": [
+    {
+      "type": "model",
+      "slug": "asterix",
+      "name": "Asterix",
+      "customEmojiId": "5456203011183371567",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/asterix.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/asterix.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/asterix.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/asterix.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/asterix.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "artwork",
+      "name": "Artwork",
+      "customEmojiId": "5456496533543346915",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/artwork.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/artwork.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/artwork.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/artwork.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/artwork.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rgb-glitch",
+      "name": "RGB Glitch",
+      "customEmojiId": "5456305012361687632",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/rgb-glitch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/rgb-glitch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/rgb-glitch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/rgb-glitch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/rgb-glitch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "captain",
+      "name": "Captain",
+      "customEmojiId": "5456147077824274112",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/captain.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/captain.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/captain.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/captain.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/captain.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cartoon",
+      "name": "Cartoon",
+      "customEmojiId": "5453907269559278890",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/cartoon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/cartoon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/cartoon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/cartoon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/cartoon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cotton-candy",
+      "name": "Cotton Candy",
+      "customEmojiId": "5454037596046906791",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/cotton-candy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/cotton-candy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/cotton-candy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/cotton-candy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/cotton-candy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "falcon",
+      "name": "Falcon",
+      "customEmojiId": "5454407250997173562",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/falcon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/falcon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/falcon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/falcon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/falcon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fun-time",
+      "name": "Fun Time",
+      "customEmojiId": "5453896618040386188",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/fun-time.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/fun-time.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/fun-time.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/fun-time.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/fun-time.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honey-bee",
+      "name": "Honey Bee",
+      "customEmojiId": "5454161501558430632",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/honey-bee.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/honey-bee.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/honey-bee.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/honey-bee.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/honey-bee.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jetspin",
+      "name": "Jetspin",
+      "customEmojiId": "5456468276953506363",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/jetspin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/jetspin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/jetspin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/jetspin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/jetspin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neon",
+      "name": "Neon",
+      "customEmojiId": "5453963559400660818",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/neon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/neon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/neon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/neon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/neon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "redrum",
+      "name": "Redrum",
+      "customEmojiId": "5456265846554910766",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/redrum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/redrum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/redrum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/redrum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/redrum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snowfall",
+      "name": "Snowfall",
+      "customEmojiId": "5456346969897199046",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/snowfall.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/snowfall.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/snowfall.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/snowfall.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/snowfall.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "toxic-guy",
+      "name": "Toxic Guy",
+      "customEmojiId": "5454064194779373874",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/toxic-guy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/toxic-guy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/toxic-guy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/toxic-guy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/toxic-guy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tron",
+      "name": "Tron",
+      "customEmojiId": "5456647377089749607",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/tron.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/tron.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/tron.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/tron.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/tron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "voltage",
+      "name": "Voltage",
+      "customEmojiId": "5456264699798643395",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/voltage.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/voltage.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/voltage.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/voltage.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/voltage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "apple-slice",
+      "name": "Apple Slice",
+      "customEmojiId": "5453998610628762170",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/apple-slice.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/apple-slice.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/apple-slice.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/apple-slice.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/apple-slice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ashen",
+      "name": "Ashen",
+      "customEmojiId": "5454083672456059886",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/ashen.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/ashen.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/ashen.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/ashen.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/ashen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aurora",
+      "name": "Aurora",
+      "customEmojiId": "5456377593014020549",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/aurora.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/aurora.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/aurora.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/aurora.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/aurora.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "autumn",
+      "name": "Autumn",
+      "customEmojiId": "5454238982768452240",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/autumn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/autumn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/autumn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/autumn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/autumn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bluebird",
+      "name": "Bluebird",
+      "customEmojiId": "5454054277699885202",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bluebird.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bluebird.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bluebird.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bluebird.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/bluebird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bog-moss",
+      "name": "Bog Moss",
+      "customEmojiId": "5454236165269905713",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bog-moss.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bog-moss.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bog-moss.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bog-moss.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/bog-moss.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bordeaux",
+      "name": "Bordeaux",
+      "customEmojiId": "5456459528105125118",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bordeaux.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bordeaux.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bordeaux.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/bordeaux.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/bordeaux.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "candy-shade",
+      "name": "Candy Shade",
+      "customEmojiId": "5456579619685686917",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/candy-shade.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/candy-shade.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/candy-shade.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/candy-shade.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/candy-shade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chicago-bulls",
+      "name": "Chicago Bulls",
+      "customEmojiId": "5454361750113639760",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/chicago-bulls.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/chicago-bulls.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/chicago-bulls.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/chicago-bulls.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/chicago-bulls.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "classic",
+      "name": "Classic",
+      "customEmojiId": "5454017950866498901",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/classic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/classic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/classic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/classic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/classic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "corkwood",
+      "name": "Corkwood",
+      "customEmojiId": "5454065947126032695",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/corkwood.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/corkwood.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/corkwood.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/corkwood.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/corkwood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "creamsicle",
+      "name": "Creamsicle",
+      "customEmojiId": "5456258201513125884",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/creamsicle.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/creamsicle.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/creamsicle.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/creamsicle.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/creamsicle.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dipper",
+      "name": "Dipper",
+      "customEmojiId": "5456253047552371843",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/dipper.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/dipper.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/dipper.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/dipper.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/dipper.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "duck-tales",
+      "name": "Duck Tales",
+      "customEmojiId": "5456154001311555854",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/duck-tales.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/duck-tales.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/duck-tales.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/duck-tales.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/duck-tales.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "duskwave",
+      "name": "Duskwave",
+      "customEmojiId": "5458925565182503994",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/duskwave.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/duskwave.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/duskwave.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/duskwave.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/duskwave.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "freshwave",
+      "name": "Freshwave",
+      "customEmojiId": "5454243458124377381",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/freshwave.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/freshwave.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/freshwave.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/freshwave.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/freshwave.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "frosted-brew",
+      "name": "Frosted Brew",
+      "customEmojiId": "5456340995597688639",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/frosted-brew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/frosted-brew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/frosted-brew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/frosted-brew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/frosted-brew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "frosthorn",
+      "name": "Frosthorn",
+      "customEmojiId": "5460906339674906644",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/frosthorn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/frosthorn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/frosthorn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/frosthorn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/frosthorn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "goldrose",
+      "name": "Goldrose",
+      "customEmojiId": "5460896560034374716",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/goldrose.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/goldrose.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/goldrose.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/goldrose.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/goldrose.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ivory",
+      "name": "Ivory",
+      "customEmojiId": "5456575140034797860",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/ivory.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/ivory.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/ivory.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/ivory.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/ivory.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "jade",
+      "name": "Jade",
+      "customEmojiId": "5456263273869500696",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/jade.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/jade.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/jade.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/jade.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/jade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "krueger",
+      "name": "Krueger",
+      "customEmojiId": "5456461744308249091",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/krueger.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/krueger.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/krueger.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/krueger.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/krueger.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "macintosh",
+      "name": "Macintosh",
+      "customEmojiId": "5456183859924199993",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/macintosh.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/macintosh.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/macintosh.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/macintosh.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/macintosh.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mossy",
+      "name": "Mossy",
+      "customEmojiId": "5454086494249574701",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/mossy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/mossy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/mossy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/mossy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/mossy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "negative",
+      "name": "Negative",
+      "customEmojiId": "5456469432299708744",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/negative.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/negative.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/negative.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/negative.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/negative.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "night-ivy",
+      "name": "Night Ivy",
+      "customEmojiId": "5456515470054156388",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/night-ivy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/night-ivy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/night-ivy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/night-ivy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/night-ivy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nightshade",
+      "name": "Nightshade",
+      "customEmojiId": "5456600858298967939",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/nightshade.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/nightshade.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/nightshade.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/nightshade.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/nightshade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "patriot",
+      "name": "Patriot",
+      "customEmojiId": "5454139399656726390",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/patriot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/patriot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/patriot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/patriot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/patriot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pink-pop",
+      "name": "Pink Pop",
+      "customEmojiId": "5461161679775620005",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pink-pop.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pink-pop.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pink-pop.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pink-pop.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/pink-pop.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pinkie-cap",
+      "name": "Pinkie Cap",
+      "customEmojiId": "5456241326586619360",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pinkie-cap.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pinkie-cap.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pinkie-cap.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pinkie-cap.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/pinkie-cap.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pokemon",
+      "name": "Pokemon",
+      "customEmojiId": "5454230689186601886",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pokemon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pokemon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pokemon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/pokemon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/pokemon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sea-sunset",
+      "name": "Sea Sunset",
+      "customEmojiId": "5456493870663622718",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sea-sunset.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sea-sunset.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sea-sunset.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sea-sunset.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/sea-sunset.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "seabreeze",
+      "name": "Seabreeze",
+      "customEmojiId": "5454134494804074797",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/seabreeze.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/seabreeze.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/seabreeze.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/seabreeze.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/seabreeze.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sepium",
+      "name": "Sepium",
+      "customEmojiId": "5454127734525550408",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sepium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sepium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sepium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sepium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/sepium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "shadeux",
+      "name": "Shadeux",
+      "customEmojiId": "5454402865835564130",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/shadeux.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/shadeux.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/shadeux.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/shadeux.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/shadeux.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "shadow",
+      "name": "Shadow",
+      "customEmojiId": "5454008918550271839",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/shadow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/shadow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/shadow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/shadow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/shadow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sky-high",
+      "name": "Sky High",
+      "customEmojiId": "5456309869969696925",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sky-high.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sky-high.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sky-high.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sky-high.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/sky-high.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sunrise",
+      "name": "Sunrise",
+      "customEmojiId": "5460717562977346829",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sunrise.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sunrise.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sunrise.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/sunrise.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/sunrise.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "villager",
+      "name": "Villager",
+      "customEmojiId": "5456306953686903383",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "durovscap",
+        "name": "Durov's Cap",
+        "id": "5915521180483191380"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/villager.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/villager.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/villager.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovscap/assets/models/villager.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovscap/models/villager.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

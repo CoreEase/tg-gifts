@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "volcano",
+  "name": "Volcano",
+  "customEmojiId": "5307565995638950211",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "inputkey",
+    "name": "Input Key",
+    "id": "5870972044522291836"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/volcano.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/volcano.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/volcano.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/volcano.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/volcano.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

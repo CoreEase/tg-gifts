@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "emocore",
+  "name": "Emocore",
+  "customEmojiId": "5893275075251019088",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "heartlocket",
+    "name": "Heart Locket",
+    "id": "5868455043362980631"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/emocore.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/emocore.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/emocore.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/emocore.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/emocore.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

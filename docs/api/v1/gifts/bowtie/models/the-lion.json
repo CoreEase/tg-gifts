@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "the-lion",
+  "name": "The Lion",
+  "customEmojiId": "5881983172438139081",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "bowtie",
+    "name": "Bow Tie",
+    "id": "5895544372761461960"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/the-lion.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/the-lion.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/the-lion.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/the-lion.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bowtie/models/the-lion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "obsidian",
+  "name": "Obsidian",
+  "customEmojiId": "6001061475727186534",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "faithamulet",
+    "name": "Faith Amulet",
+    "id": "6003456431095808759"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/obsidian.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/obsidian.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/obsidian.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/faithamulet/assets/models/obsidian.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/faithamulet/models/obsidian.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

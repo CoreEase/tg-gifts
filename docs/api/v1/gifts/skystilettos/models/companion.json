@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "companion",
+  "name": "Companion",
+  "customEmojiId": "5321048061189850313",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "skystilettos",
+    "name": "Sky Stilettos",
+    "id": "5870947077877400011"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skystilettos/assets/models/companion.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skystilettos/assets/models/companion.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skystilettos/assets/models/companion.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/skystilettos/assets/models/companion.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/skystilettos/models/companion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

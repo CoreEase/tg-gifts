@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "laika",
+  "name": "Laika",
+  "customEmojiId": "5823494294916307512",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "stellarrocket",
+    "name": "Stellar Rocket",
+    "id": "6042113507581755979"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/laika.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/laika.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/laika.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/stellarrocket/assets/models/laika.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/stellarrocket/models/laika.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

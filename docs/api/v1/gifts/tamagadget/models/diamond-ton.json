@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "diamond-ton",
+  "name": "Diamond Ton",
+  "customEmojiId": "5354830083506859395",
+  "rarityPermille": 3,
+  "originalRarityPermille": 3,
+  "rarity": 0.3,
+  "originalRarity": 0.3,
+  "gift": {
+    "slug": "tamagadget",
+    "name": "Tama Gadget",
+    "id": "6023752243218481939"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/diamond-ton.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/diamond-ton.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/diamond-ton.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tamagadget/assets/models/diamond-ton.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tamagadget/models/diamond-ton.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

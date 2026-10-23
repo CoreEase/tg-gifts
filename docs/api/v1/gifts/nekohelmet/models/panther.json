@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "panther",
+  "name": "Panther",
+  "customEmojiId": "5359512018766293815",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "nekohelmet",
+    "name": "Neko Helmet",
+    "id": "5933793770951673155"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/panther.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/panther.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/panther.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/nekohelmet/assets/models/panther.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/nekohelmet/models/panther.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

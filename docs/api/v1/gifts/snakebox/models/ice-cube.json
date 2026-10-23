@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ice-cube",
+  "name": "Ice Cube",
+  "customEmojiId": "5269755199509003234",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "snakebox",
+    "name": "Snake Box",
+    "id": "6023679164349940429"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/ice-cube.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/ice-cube.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/ice-cube.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/ice-cube.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snakebox/models/ice-cube.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

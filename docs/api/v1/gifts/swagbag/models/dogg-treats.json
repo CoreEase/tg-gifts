@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "dogg-treats",
+  "name": "Dogg Treats",
+  "customEmojiId": "5438492971236360366",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "swagbag",
+    "name": "Swag Bag",
+    "id": "6012607142387778152"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/dogg-treats.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/dogg-treats.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/dogg-treats.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/dogg-treats.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swagbag/models/dogg-treats.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

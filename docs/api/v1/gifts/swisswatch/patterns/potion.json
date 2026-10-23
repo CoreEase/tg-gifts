@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "potion",
+  "name": "Potion",
+  "customEmojiId": "5199510532641560275",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "swisswatch",
+    "name": "Swiss Watch",
+    "id": "5936043693864651359"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/patterns/potion.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/patterns/potion.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swisswatch/patterns/potion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

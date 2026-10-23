@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sweet-berry",
+  "name": "Sweet Berry",
+  "customEmojiId": "5456640298983646136",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "sharptongue",
+    "name": "Sharp Tongue",
+    "id": "5841689550203650524"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/sweet-berry.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/sweet-berry.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/sweet-berry.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/sharptongue/assets/models/sweet-berry.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/sharptongue/models/sweet-berry.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

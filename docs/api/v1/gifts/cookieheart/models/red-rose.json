@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-rose",
+  "name": "Red Rose",
+  "customEmojiId": "5249483499332726059",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "cookieheart",
+    "name": "Cookie Heart",
+    "id": "6001538689543439169"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/red-rose.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/red-rose.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/red-rose.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cookieheart/assets/models/red-rose.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cookieheart/models/red-rose.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

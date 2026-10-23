@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ramune",
+  "name": "Ramune",
+  "customEmojiId": "5454413792232366454",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "kissedfrog",
+    "name": "Kissed Frog",
+    "id": "5845776576658015084"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/ramune.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/ramune.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/ramune.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/ramune.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/kissedfrog/models/ramune.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,2323 @@
+{
+  "gift": {
+    "slug": "hangingstar",
+    "name": "Hanging Stars",
+    "apiName": "Hanging Star",
+    "id": "5915733223018594841",
+    "count": 7157,
+    "modelCount": 100,
+    "patternCount": 138,
+    "backdropCount": 60,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/patterns.json"
+  },
+  "count": 100,
+  "items": [
+    {
+      "type": "model",
+      "slug": "shamrock",
+      "name": "Shamrock",
+      "customEmojiId": "5249089732436060309",
+      "rarityPermille": 1,
+      "originalRarityPermille": 1,
+      "rarity": 0.1,
+      "originalRarity": 0.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/shamrock.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/shamrock.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/shamrock.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/shamrock.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/shamrock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snowflake",
+      "name": "Snowflake",
+      "customEmojiId": "5249495100039390600",
+      "rarityPermille": 1,
+      "originalRarityPermille": 1,
+      "rarity": 0.1,
+      "originalRarity": 0.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/snowflake.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/snowflake.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/snowflake.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/snowflake.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/snowflake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sparkles",
+      "name": "Sparkles",
+      "customEmojiId": "5249255964850285562",
+      "rarityPermille": 1,
+      "originalRarityPermille": 1,
+      "rarity": 0.1,
+      "originalRarity": 0.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sparkles.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sparkles.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sparkles.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sparkles.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/sparkles.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bombastic",
+      "name": "Bombastic",
+      "customEmojiId": "5249031307995931565",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bombastic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bombastic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bombastic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bombastic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/bombastic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lucifer",
+      "name": "Lucifer",
+      "customEmojiId": "5249076259123652723",
+      "rarityPermille": 2,
+      "originalRarityPermille": 2,
+      "rarity": 0.2,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/lucifer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/lucifer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/lucifer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/lucifer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/lucifer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "insane",
+      "name": "Insane",
+      "customEmojiId": "5249117842997010389",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/insane.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/insane.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/insane.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/insane.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/insane.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "short-circuit",
+      "name": "Short Circuit",
+      "customEmojiId": "5249199069418511434",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/short-circuit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/short-circuit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/short-circuit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/short-circuit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/short-circuit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "skeleton",
+      "name": "Skeleton",
+      "customEmojiId": "5249015283472951360",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/skeleton.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/skeleton.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/skeleton.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/skeleton.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/skeleton.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "this-is-fine",
+      "name": "This Is Fine",
+      "customEmojiId": "5249252434387169003",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/this-is-fine.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/this-is-fine.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/this-is-fine.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/this-is-fine.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/this-is-fine.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "you-tried",
+      "name": "You Tried...",
+      "customEmojiId": "5249437989859256717",
+      "rarityPermille": 3,
+      "originalRarityPermille": 3,
+      "rarity": 0.3,
+      "originalRarity": 0.3,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/you-tried.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/you-tried.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/you-tried.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/you-tried.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/you-tried.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aurora",
+      "name": "Aurora",
+      "customEmojiId": "5249372032046488265",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/aurora.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/aurora.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/aurora.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/aurora.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/aurora.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "champion",
+      "name": "Champion",
+      "customEmojiId": "5249508062250688245",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/champion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/champion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/champion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/champion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/champion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "chromie",
+      "name": "Chromie",
+      "customEmojiId": "5249201762363008692",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/chromie.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/chromie.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/chromie.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/chromie.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/chromie.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gold-star",
+      "name": "Gold Star",
+      "customEmojiId": "5249480952417115652",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gold-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gold-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gold-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gold-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/gold-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honolulu",
+      "name": "Honolulu",
+      "customEmojiId": "5247142952609804466",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/honolulu.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/honolulu.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/honolulu.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/honolulu.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/honolulu.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "iridium",
+      "name": "Iridium",
+      "customEmojiId": "5247032464576113359",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/iridium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/iridium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/iridium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/iridium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/iridium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spotlight",
+      "name": "Spotlight",
+      "customEmojiId": "5249036612280544304",
+      "rarityPermille": 4,
+      "originalRarityPermille": 4,
+      "rarity": 0.4,
+      "originalRarity": 0.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotlight.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotlight.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotlight.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotlight.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/spotlight.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "advice-dog",
+      "name": "Advice Dog",
+      "customEmojiId": "5248979493510473406",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/advice-dog.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/advice-dog.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/advice-dog.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/advice-dog.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/advice-dog.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "commando",
+      "name": "Commando",
+      "customEmojiId": "5249190041397258488",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/commando.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/commando.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/commando.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/commando.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/commando.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "comrade",
+      "name": "Comrade",
+      "customEmojiId": "5249377838842274093",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/comrade.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/comrade.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/comrade.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/comrade.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/comrade.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "europe",
+      "name": "Europe",
+      "customEmojiId": "5249316863191571416",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/europe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/europe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/europe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/europe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/europe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flame-boy",
+      "name": "Flame Boy",
+      "customEmojiId": "5249497281882775191",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/flame-boy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/flame-boy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/flame-boy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/flame-boy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/flame-boy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "magma",
+      "name": "Magma",
+      "customEmojiId": "5249023839047801735",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/magma.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/magma.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/magma.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/magma.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/magma.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "patrick",
+      "name": "Patrick",
+      "customEmojiId": "5249066170245475523",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/patrick.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/patrick.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/patrick.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/patrick.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/patrick.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sheriff",
+      "name": "Sheriff",
+      "customEmojiId": "5249069778018003677",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sheriff.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sheriff.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sheriff.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sheriff.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/sheriff.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "united-states",
+      "name": "United States",
+      "customEmojiId": "5249353344643787068",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/united-states.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/united-states.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/united-states.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/united-states.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/united-states.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "zero-gravity",
+      "name": "Zero Gravity",
+      "customEmojiId": "5249124229613380944",
+      "rarityPermille": 6,
+      "originalRarityPermille": 6,
+      "rarity": 0.6,
+      "originalRarity": 0.6,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/zero-gravity.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/zero-gravity.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/zero-gravity.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/zero-gravity.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/zero-gravity.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "astro-bot",
+      "name": "Astro Bot",
+      "customEmojiId": "5249093829834857256",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/astro-bot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/astro-bot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/astro-bot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/astro-bot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/astro-bot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "black-hole",
+      "name": "Black Hole",
+      "customEmojiId": "5246852977892816590",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/black-hole.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/black-hole.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/black-hole.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/black-hole.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/black-hole.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "catalan",
+      "name": "Catalan",
+      "customEmojiId": "5249132329921699674",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/catalan.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/catalan.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/catalan.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/catalan.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/catalan.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "christmas",
+      "name": "Christmas",
+      "customEmojiId": "5249479303149676990",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/christmas.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/christmas.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/christmas.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/christmas.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/christmas.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "circus",
+      "name": "Circus",
+      "customEmojiId": "5249113569504553232",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/circus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/circus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/circus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/circus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/circus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "explicit",
+      "name": "Explicit",
+      "customEmojiId": "5249151936447406004",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/explicit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/explicit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/explicit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/explicit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/explicit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "forza-juve",
+      "name": "Forza Juve",
+      "customEmojiId": "5246901266210121415",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/forza-juve.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/forza-juve.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/forza-juve.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/forza-juve.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/forza-juve.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gingerbread",
+      "name": "Gingerbread",
+      "customEmojiId": "5249362415614713662",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gingerbread.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gingerbread.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gingerbread.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gingerbread.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/gingerbread.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "minion",
+      "name": "Minion",
+      "customEmojiId": "5246866257931693021",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/minion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/minion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/minion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/minion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/minion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "petit-louis",
+      "name": "Petit Louis",
+      "customEmojiId": "5249119466494648550",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/petit-louis.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/petit-louis.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/petit-louis.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/petit-louis.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/petit-louis.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rainbow",
+      "name": "Rainbow",
+      "customEmojiId": "5249160238619191701",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rainbow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rainbow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rainbow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rainbow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/rainbow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rock-star",
+      "name": "Rock Star",
+      "customEmojiId": "5247237162717441262",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rock-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rock-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rock-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rock-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/rock-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "super-star",
+      "name": "Super Star",
+      "customEmojiId": "5249398136857713412",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/super-star.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/super-star.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/super-star.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/super-star.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/super-star.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "venice",
+      "name": "Venice",
+      "customEmojiId": "5249275047389979854",
+      "rarityPermille": 8,
+      "originalRarityPermille": 8,
+      "rarity": 0.8,
+      "originalRarity": 0.8,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/venice.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/venice.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/venice.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/venice.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/venice.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "beach-ball",
+      "name": "Beach Ball",
+      "customEmojiId": "5249403535631611232",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/beach-ball.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/beach-ball.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/beach-ball.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/beach-ball.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/beach-ball.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "connecting",
+      "name": "Connecting",
+      "customEmojiId": "5249123473699134637",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/connecting.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/connecting.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/connecting.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/connecting.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/connecting.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cucumber",
+      "name": "Cucumber",
+      "customEmojiId": "5249374879609809020",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/cucumber.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/cucumber.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/cucumber.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/cucumber.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/cucumber.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gray-sage",
+      "name": "Gray Sage",
+      "customEmojiId": "5249117958961124772",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gray-sage.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gray-sage.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gray-sage.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/gray-sage.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/gray-sage.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hollywood",
+      "name": "Hollywood",
+      "customEmojiId": "5248946452327065949",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/hollywood.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/hollywood.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/hollywood.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/hollywood.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/hollywood.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "like-button",
+      "name": "Like Button",
+      "customEmojiId": "5249004735033267687",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/like-button.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/like-button.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/like-button.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/like-button.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/like-button.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lilac-split",
+      "name": "Lilac Split",
+      "customEmojiId": "5249202475327580277",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/lilac-split.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/lilac-split.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/lilac-split.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/lilac-split.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/lilac-split.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "play-button",
+      "name": "Play Button",
+      "customEmojiId": "5248989517964142722",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/play-button.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/play-button.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/play-button.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/play-button.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/play-button.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "playlist",
+      "name": "Playlist",
+      "customEmojiId": "5249206585611283526",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/playlist.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/playlist.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/playlist.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/playlist.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/playlist.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "premium",
+      "name": "Premium",
+      "customEmojiId": "5248999477993301483",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/premium.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/premium.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/premium.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/premium.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/premium.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pretty-angel",
+      "name": "Pretty Angel",
+      "customEmojiId": "5247046878486360023",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pretty-angel.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pretty-angel.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pretty-angel.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pretty-angel.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/pretty-angel.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "seeing-stars",
+      "name": "Seeing Stars",
+      "customEmojiId": "5249480402661301885",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/seeing-stars.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/seeing-stars.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/seeing-stars.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/seeing-stars.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/seeing-stars.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snowman",
+      "name": "Snowman",
+      "customEmojiId": "5249151163353291939",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/snowman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/snowman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/snowman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/snowman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/snowman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sour-cherry",
+      "name": "Sour Cherry",
+      "customEmojiId": "5248966479759563403",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sour-cherry.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sour-cherry.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sour-cherry.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sour-cherry.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/sour-cherry.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "surf-sand",
+      "name": "Surf Sand",
+      "customEmojiId": "5249327665034323557",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/surf-sand.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/surf-sand.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/surf-sand.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/surf-sand.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/surf-sand.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sweden",
+      "name": "Sweden",
+      "customEmojiId": "5246797572814693886",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sweden.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sweden.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sweden.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sweden.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/sweden.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "switch",
+      "name": "Switch",
+      "customEmojiId": "5249031226391552264",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/switch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/switch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/switch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/switch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/switch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tarnished",
+      "name": "Tarnished",
+      "customEmojiId": "5249416180015329602",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/tarnished.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/tarnished.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/tarnished.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/tarnished.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/tarnished.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "telegram",
+      "name": "Telegram",
+      "customEmojiId": "5247186735506418411",
+      "rarityPermille": 11,
+      "originalRarityPermille": 11,
+      "rarity": 1.1,
+      "originalRarity": 1.1,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/telegram.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/telegram.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/telegram.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/telegram.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/telegram.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "azure-lagoon",
+      "name": "Azure Lagoon",
+      "customEmojiId": "5249031359535540775",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/azure-lagoon.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/azure-lagoon.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/azure-lagoon.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/azure-lagoon.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/azure-lagoon.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bright-geode",
+      "name": "Bright Geode",
+      "customEmojiId": "5246867954443774533",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bright-geode.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bright-geode.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bright-geode.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bright-geode.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/bright-geode.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "color-point",
+      "name": "Color Point",
+      "customEmojiId": "5249131462338308170",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/color-point.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/color-point.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/color-point.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/color-point.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/color-point.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cosmic-blue",
+      "name": "Cosmic Blue",
+      "customEmojiId": "5249083616402631316",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/cosmic-blue.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/cosmic-blue.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/cosmic-blue.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/cosmic-blue.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/cosmic-blue.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crystalline",
+      "name": "Crystalline",
+      "customEmojiId": "5249254268338204234",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/crystalline.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/crystalline.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/crystalline.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/crystalline.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/crystalline.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eclipse",
+      "name": "Eclipse",
+      "customEmojiId": "5247129084160404836",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/eclipse.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/eclipse.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/eclipse.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/eclipse.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/eclipse.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flicker",
+      "name": "Flicker",
+      "customEmojiId": "5249404935790949503",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/flicker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/flicker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/flicker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/flicker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/flicker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "fusion",
+      "name": "Fusion",
+      "customEmojiId": "5248983127052803702",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/fusion.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/fusion.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/fusion.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/fusion.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/fusion.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "greench",
+      "name": "Greench",
+      "customEmojiId": "5249043217940243406",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/greench.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/greench.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/greench.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/greench.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/greench.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "harlequin",
+      "name": "Harlequin",
+      "customEmojiId": "5249056102842132852",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/harlequin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/harlequin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/harlequin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/harlequin.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/harlequin.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hot-spring",
+      "name": "Hot Spring",
+      "customEmojiId": "5249394919927208522",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/hot-spring.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/hot-spring.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/hot-spring.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/hot-spring.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/hot-spring.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pajamas",
+      "name": "Pajamas",
+      "customEmojiId": "5247001214394069301",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pajamas.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pajamas.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pajamas.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pajamas.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/pajamas.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "peacock",
+      "name": "Peacock",
+      "customEmojiId": "5247164388791578546",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/peacock.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/peacock.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/peacock.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/peacock.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/peacock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pink-wink",
+      "name": "Pink Wink",
+      "customEmojiId": "5249452837561194260",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pink-wink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pink-wink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pink-wink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pink-wink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/pink-wink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pinkman",
+      "name": "Pinkman",
+      "customEmojiId": "5248956498255572424",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pinkman.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pinkman.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pinkman.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/pinkman.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/pinkman.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "poached-egg",
+      "name": "Poached Egg",
+      "customEmojiId": "5246861305834400805",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/poached-egg.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/poached-egg.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/poached-egg.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/poached-egg.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/poached-egg.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "polka-dot",
+      "name": "Polka Dot",
+      "customEmojiId": "5249178633964124359",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/polka-dot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/polka-dot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/polka-dot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/polka-dot.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/polka-dot.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purple-pants",
+      "name": "Purple Pants",
+      "customEmojiId": "5248948793084239391",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-pants.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-pants.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-pants.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-pants.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/purple-pants.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "purple-suit",
+      "name": "Purple Suit",
+      "customEmojiId": "5249205700848020770",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-suit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-suit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-suit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/purple-suit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/purple-suit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rainbows",
+      "name": "Rainbows",
+      "customEmojiId": "5249342001635156450",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rainbows.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rainbows.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rainbows.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/rainbows.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/rainbows.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-costume",
+      "name": "Red Costume",
+      "customEmojiId": "5249066793015733655",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/red-costume.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/red-costume.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/red-costume.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/red-costume.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/red-costume.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-dwarf",
+      "name": "Red Dwarf",
+      "customEmojiId": "5249399734585550007",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/red-dwarf.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/red-dwarf.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/red-dwarf.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/red-dwarf.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/red-dwarf.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "samurai",
+      "name": "Samurai",
+      "customEmojiId": "5249491926058560863",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/samurai.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/samurai.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/samurai.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/samurai.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/samurai.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "scarlet-joy",
+      "name": "Scarlet Joy",
+      "customEmojiId": "5249425942475992598",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/scarlet-joy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/scarlet-joy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/scarlet-joy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/scarlet-joy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/scarlet-joy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sea-glass",
+      "name": "Sea Glass",
+      "customEmojiId": "5246994428345740560",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sea-glass.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sea-glass.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sea-glass.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/sea-glass.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/sea-glass.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "solar-flair",
+      "name": "Solar Flair",
+      "customEmojiId": "5249344505601092622",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/solar-flair.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/solar-flair.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/solar-flair.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/solar-flair.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/solar-flair.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "spotty",
+      "name": "Spotty",
+      "customEmojiId": "5247043562771608884",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotty.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotty.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotty.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/spotty.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/spotty.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "starline",
+      "name": "Starline",
+      "customEmojiId": "5249061716364388921",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/starline.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/starline.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/starline.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/starline.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/starline.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "thread",
+      "name": "Thread",
+      "customEmojiId": "5249253856021339138",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/thread.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/thread.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/thread.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/thread.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/thread.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ultraviolet",
+      "name": "Ultraviolet",
+      "customEmojiId": "5246766236733305555",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/ultraviolet.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/ultraviolet.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/ultraviolet.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/ultraviolet.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/ultraviolet.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "verified",
+      "name": "Verified",
+      "customEmojiId": "5249294563721370260",
+      "rarityPermille": 14,
+      "originalRarityPermille": 14,
+      "rarity": 1.4,
+      "originalRarity": 1.4,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/verified.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/verified.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/verified.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/verified.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/verified.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bubble-gum",
+      "name": "Bubble Gum",
+      "customEmojiId": "5247160257033039505",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bubble-gum.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bubble-gum.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bubble-gum.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/bubble-gum.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/bubble-gum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "eggshell",
+      "name": "Eggshell",
+      "customEmojiId": "5249356857927032390",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/eggshell.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/eggshell.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/eggshell.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/eggshell.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/eggshell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "glacier",
+      "name": "Glacier",
+      "customEmojiId": "5249278487658785588",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/glacier.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/glacier.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/glacier.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/glacier.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/glacier.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "honeydew",
+      "name": "Honeydew",
+      "customEmojiId": "5249015008595046301",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/honeydew.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/honeydew.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/honeydew.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/honeydew.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/honeydew.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "limonello",
+      "name": "Limonello",
+      "customEmojiId": "5246977098152703367",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/limonello.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/limonello.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/limonello.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/limonello.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/limonello.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "milkshake",
+      "name": "Milkshake",
+      "customEmojiId": "5249092906416889787",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/milkshake.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/milkshake.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/milkshake.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/milkshake.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/milkshake.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "passionfruit",
+      "name": "Passionfruit",
+      "customEmojiId": "5249304459326022529",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/passionfruit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/passionfruit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/passionfruit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/passionfruit.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/passionfruit.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tropicana",
+      "name": "Tropicana",
+      "customEmojiId": "5249346528530687876",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/tropicana.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/tropicana.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/tropicana.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/tropicana.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/tropicana.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "arambola",
+      "name": "Сarambola",
+      "customEmojiId": "5249499051409300961",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "hangingstar",
+        "name": "Hanging Star",
+        "id": "5915733223018594841"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/arambola.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/arambola.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/arambola.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/models/arambola.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/models/arambola.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

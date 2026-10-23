@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "nyan-cat",
+  "name": "Nyan Cat",
+  "customEmojiId": "5454103622579151906",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "signetring",
+    "name": "Signet Ring",
+    "id": "5936085638515261992"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/nyan-cat.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/nyan-cat.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/nyan-cat.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/signetring/assets/models/nyan-cat.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/signetring/models/nyan-cat.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

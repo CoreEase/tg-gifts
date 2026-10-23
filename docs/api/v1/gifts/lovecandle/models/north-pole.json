@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "north-pole",
+  "name": "North Pole",
+  "customEmojiId": "5246982290768160116",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "lovecandle",
+    "name": "Love Candle",
+    "id": "5915550639663874519"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/north-pole.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/north-pole.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/north-pole.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lovecandle/assets/models/north-pole.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lovecandle/models/north-pole.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

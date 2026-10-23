@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "krusty",
+  "name": "Krusty",
+  "customEmojiId": "5251365541116931490",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "madpumpkin",
+    "name": "Mad Pumpkin",
+    "id": "5841632504448025405"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/krusty.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/krusty.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/krusty.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/krusty.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/madpumpkin/models/krusty.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

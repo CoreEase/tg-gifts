@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "soulkeeper",
+  "name": "Soulkeeper",
+  "customEmojiId": "5893361842180332393",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "heartlocket",
+    "name": "Heart Locket",
+    "id": "5868455043362980631"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/soulkeeper.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/soulkeeper.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/soulkeeper.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heartlocket/assets/models/soulkeeper.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heartlocket/models/soulkeeper.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

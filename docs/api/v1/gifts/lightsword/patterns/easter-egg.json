@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "easter-egg",
+  "name": "Easter Egg",
+  "customEmojiId": "5199483835124843089",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "lightsword",
+    "name": "Light Sword",
+    "id": "5897581235231785485"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/patterns/easter-egg.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lightsword/assets/patterns/easter-egg.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lightsword/patterns/easter-egg.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

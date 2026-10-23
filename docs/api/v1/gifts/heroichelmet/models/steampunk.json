@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "steampunk",
+  "name": "Steampunk",
+  "customEmojiId": "5881730624066164356",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "heroichelmet",
+    "name": "Heroic Helmet",
+    "id": "5895328365971244193"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/steampunk.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/steampunk.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/steampunk.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/steampunk.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heroichelmet/models/steampunk.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

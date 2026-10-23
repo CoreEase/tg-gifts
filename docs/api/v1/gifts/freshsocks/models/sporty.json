@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sporty",
+  "name": "Sporty",
+  "customEmojiId": "5323772466319881002",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "freshsocks",
+    "name": "Fresh Socks",
+    "id": "5895603153683874485"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/sporty.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/sporty.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/sporty.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/sporty.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/freshsocks/models/sporty.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

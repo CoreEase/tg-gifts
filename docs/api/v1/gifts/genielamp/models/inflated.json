@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "inflated",
+  "name": "Inflated",
+  "customEmojiId": "5246938748389714272",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "genielamp",
+    "name": "Genie Lamp",
+    "id": "5933531623327795414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/inflated.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/inflated.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/inflated.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/inflated.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/genielamp/models/inflated.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

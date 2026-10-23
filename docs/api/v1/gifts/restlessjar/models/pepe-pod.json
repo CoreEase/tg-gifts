@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pepe-pod",
+  "name": "Pepe Pod",
+  "customEmojiId": "5872714117617294256",
+  "rarityPermille": 7,
+  "originalRarityPermille": 7,
+  "rarity": 0.7,
+  "originalRarity": 0.7,
+  "gift": {
+    "slug": "restlessjar",
+    "name": "Restless Jar",
+    "id": "5870784783948186838"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pepe-pod.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pepe-pod.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pepe-pod.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/pepe-pod.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/pepe-pod.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

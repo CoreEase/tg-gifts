@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "silver-glass",
+  "name": "Silver Glass",
+  "customEmojiId": "5319226668638826450",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "tophat",
+    "name": "Top Hat",
+    "id": "5897593557492957738"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/silver-glass.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/silver-glass.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/silver-glass.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/tophat/assets/models/silver-glass.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/tophat/models/silver-glass.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

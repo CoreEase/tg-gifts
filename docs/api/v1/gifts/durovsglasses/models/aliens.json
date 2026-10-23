@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "aliens",
+  "name": "Aliens",
+  "customEmojiId": "5418074606516870874",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "durovsglasses",
+    "name": "Durov's Glasses",
+    "id": "5834651202612102354"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/aliens.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/aliens.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/aliens.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/durovsglasses/assets/models/aliens.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/durovsglasses/models/aliens.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

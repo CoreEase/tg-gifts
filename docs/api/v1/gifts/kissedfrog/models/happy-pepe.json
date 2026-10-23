@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "happy-pepe",
+  "name": "Happy Pepe",
+  "customEmojiId": "5456440918011829152",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "kissedfrog",
+    "name": "Kissed Frog",
+    "id": "5845776576658015084"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/happy-pepe.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/happy-pepe.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/happy-pepe.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/kissedfrog/assets/models/happy-pepe.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/kissedfrog/models/happy-pepe.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

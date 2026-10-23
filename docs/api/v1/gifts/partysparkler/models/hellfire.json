@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hellfire",
+  "name": "Hellfire",
+  "customEmojiId": "5244994403809914454",
+  "rarityPermille": 13,
+  "originalRarityPermille": 13,
+  "rarity": 1.3,
+  "originalRarity": 1.3,
+  "gift": {
+    "slug": "partysparkler",
+    "name": "Party Sparkler",
+    "id": "6003643167683903930"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/models/hellfire.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/models/hellfire.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/models/hellfire.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/partysparkler/assets/models/hellfire.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/partysparkler/models/hellfire.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

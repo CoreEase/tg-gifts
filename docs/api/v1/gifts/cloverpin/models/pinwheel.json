@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pinwheel",
+  "name": "Pinwheel",
+  "customEmojiId": "5321143851845450537",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "cloverpin",
+    "name": "Clover Pin",
+    "id": "5960747083030856414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/pinwheel.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/pinwheel.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/pinwheel.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/pinwheel.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cloverpin/models/pinwheel.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "elder-wand",
+  "name": "Elder Wand",
+  "customEmojiId": "5339202531467762263",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "chillflame",
+    "name": "Chill Flame",
+    "id": "5999277561060787166"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/elder-wand.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/elder-wand.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/elder-wand.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/chillflame/assets/models/elder-wand.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/chillflame/models/elder-wand.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

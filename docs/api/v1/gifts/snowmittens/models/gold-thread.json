@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gold-thread",
+  "name": "Gold Thread",
+  "customEmojiId": "5247247371854702440",
+  "rarityPermille": 13,
+  "originalRarityPermille": 13,
+  "rarity": 1.3,
+  "originalRarity": 1.3,
+  "gift": {
+    "slug": "snowmittens",
+    "name": "Snow Mittens",
+    "id": "5980789805615678057"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/gold-thread.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/gold-thread.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/gold-thread.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowmittens/assets/models/gold-thread.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowmittens/models/gold-thread.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

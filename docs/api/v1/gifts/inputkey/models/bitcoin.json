@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "bitcoin",
+  "name": "Bitcoin",
+  "customEmojiId": "5307955033776622816",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "inputkey",
+    "name": "Input Key",
+    "id": "5870972044522291836"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/bitcoin.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/bitcoin.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/bitcoin.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/bitcoin.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/bitcoin.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "super-bowl",
+  "name": "Super Bowl",
+  "customEmojiId": "5438652761199640568",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "snoopdogg",
+    "name": "Snoop Dogg",
+    "id": "6014591077976114307"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopdogg/assets/models/super-bowl.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopdogg/assets/models/super-bowl.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopdogg/assets/models/super-bowl.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snoopdogg/assets/models/super-bowl.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snoopdogg/models/super-bowl.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

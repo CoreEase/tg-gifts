@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "weasley",
+  "name": "Weasley",
+  "customEmojiId": "5354831492256132591",
+  "rarityPermille": 6,
+  "originalRarityPermille": 6,
+  "rarity": 0.6,
+  "originalRarity": 0.6,
+  "gift": {
+    "slug": "candycane",
+    "name": "Candy Cane",
+    "id": "6003373314888696650"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/weasley.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/weasley.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/weasley.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/candycane/assets/models/weasley.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/candycane/models/weasley.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

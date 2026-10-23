@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "venomous",
+  "name": "Venomous",
+  "customEmojiId": "5247113240026046517",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "lunarsnake",
+    "name": "Lunar Snake",
+    "id": "6028426950047957932"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/venomous.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/venomous.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/venomous.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/venomous.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lunarsnake/models/venomous.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

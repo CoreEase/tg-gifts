@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "cherry-duck",
+  "name": "Cherry Duck",
+  "customEmojiId": "5354935361745217948",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "snowglobe",
+    "name": "Snow Globe",
+    "id": "5981132629905245483"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/cherry-duck.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/cherry-duck.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/cherry-duck.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/cherry-duck.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/cherry-duck.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

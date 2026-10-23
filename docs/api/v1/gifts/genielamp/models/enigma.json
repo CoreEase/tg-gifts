@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "enigma",
+  "name": "Enigma",
+  "customEmojiId": "5247116323812564749",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "genielamp",
+    "name": "Genie Lamp",
+    "id": "5933531623327795414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/enigma.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/enigma.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/enigma.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/genielamp/assets/models/enigma.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/genielamp/models/enigma.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

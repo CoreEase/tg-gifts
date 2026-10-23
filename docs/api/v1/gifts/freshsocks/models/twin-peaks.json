@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "twin-peaks",
+  "name": "Twin Peaks",
+  "customEmojiId": "5321473709628752273",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "freshsocks",
+    "name": "Fresh Socks",
+    "id": "5895603153683874485"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/twin-peaks.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/twin-peaks.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/twin-peaks.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/freshsocks/assets/models/twin-peaks.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/freshsocks/models/twin-peaks.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

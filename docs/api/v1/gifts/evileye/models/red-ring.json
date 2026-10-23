@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-ring",
+  "name": "Red Ring",
+  "customEmojiId": "5456360722382480757",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "evileye",
+    "name": "Evil Eye",
+    "id": "5825480571261813595"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/evileye/assets/models/red-ring.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/evileye/assets/models/red-ring.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/evileye/assets/models/red-ring.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/evileye/assets/models/red-ring.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/evileye/models/red-ring.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

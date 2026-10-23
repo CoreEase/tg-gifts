@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "unicorn",
+  "name": "Unicorn",
+  "customEmojiId": "5999205405610219421",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "whipcupcake",
+    "name": "Whip Cupcake",
+    "id": "5933543975653737112"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/whipcupcake/assets/models/unicorn.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/whipcupcake/assets/models/unicorn.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/whipcupcake/assets/models/unicorn.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/whipcupcake/assets/models/unicorn.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/whipcupcake/models/unicorn.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

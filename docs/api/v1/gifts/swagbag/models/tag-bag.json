@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "tag-bag",
+  "name": "Tag Bag",
+  "customEmojiId": "5438171187991576851",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "swagbag",
+    "name": "Swag Bag",
+    "id": "6012607142387778152"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/tag-bag.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/tag-bag.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/tag-bag.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swagbag/assets/models/tag-bag.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swagbag/models/tag-bag.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

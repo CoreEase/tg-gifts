@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "magic-trick",
+  "name": "Magic Trick",
+  "customEmojiId": "5246767877410808299",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "jesterhat",
+    "name": "Jester Hat",
+    "id": "5933590374185435592"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/magic-trick.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/magic-trick.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/magic-trick.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/magic-trick.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jesterhat/models/magic-trick.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

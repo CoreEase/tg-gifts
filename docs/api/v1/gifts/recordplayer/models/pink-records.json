@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pink-records",
+  "name": "Pink Records",
+  "customEmojiId": "5318990917883948753",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "recordplayer",
+    "name": "Record Player",
+    "id": "5856973938650776169"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/pink-records.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/pink-records.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/pink-records.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/recordplayer/assets/models/pink-records.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/recordplayer/models/pink-records.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

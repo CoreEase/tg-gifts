@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "champion",
+  "name": "Champion",
+  "customEmojiId": "5265101585263922149",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "khabibspapakha",
+    "name": "Khabib's Papakha",
+    "id": "5839094187366024301"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/khabibspapakha/assets/models/champion.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/khabibspapakha/assets/models/champion.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/khabibspapakha/assets/models/champion.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/khabibspapakha/assets/models/champion.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/khabibspapakha/models/champion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

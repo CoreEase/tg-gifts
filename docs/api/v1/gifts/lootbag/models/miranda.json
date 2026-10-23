@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "miranda",
+  "name": "Miranda",
+  "customEmojiId": "5294519663110152601",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "lootbag",
+    "name": "Loot Bag",
+    "id": "5868659926187901653"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/miranda.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/miranda.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/miranda.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/miranda.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/miranda.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

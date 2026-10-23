@@ -1,0 +1,21 @@
+{
+  "type": "pattern",
+  "slug": "potion",
+  "name": "Potion",
+  "customEmojiId": "5199510532641560275",
+  "rarityPermille": 2,
+  "originalRarityPermille": 2,
+  "rarity": 0.2,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "hangingstar",
+    "name": "Hanging Star",
+    "id": "5915733223018594841"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/patterns/potion.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/hangingstar/assets/patterns/potion.png"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/hangingstar/patterns/potion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

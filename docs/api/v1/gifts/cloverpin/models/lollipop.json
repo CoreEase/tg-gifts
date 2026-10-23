@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "lollipop",
+  "name": "Lollipop",
+  "customEmojiId": "5323679347133937943",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "cloverpin",
+    "name": "Clover Pin",
+    "id": "5960747083030856414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/lollipop.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/lollipop.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/lollipop.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/lollipop.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cloverpin/models/lollipop.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "toon-family",
+  "name": "Toon Family",
+  "customEmojiId": "5269233597205739159",
+  "rarityPermille": 12,
+  "originalRarityPermille": 12,
+  "rarity": 1.2,
+  "originalRarity": 1.2,
+  "gift": {
+    "slug": "bigyear",
+    "name": "Big Year",
+    "id": "6028283532500009446"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/toon-family.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/toon-family.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/toon-family.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bigyear/assets/models/toon-family.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bigyear/models/toon-family.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

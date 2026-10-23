@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "red-reptile",
+  "name": "Red Reptile",
+  "customEmojiId": "5244619925611375128",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lunarsnake",
+    "name": "Lunar Snake",
+    "id": "6028426950047957932"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/red-reptile.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/red-reptile.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/red-reptile.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lunarsnake/assets/models/red-reptile.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lunarsnake/models/red-reptile.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

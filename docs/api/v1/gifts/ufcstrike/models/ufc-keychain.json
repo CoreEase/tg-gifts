@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "ufc-keychain",
+  "name": "UFC Keychain",
+  "customEmojiId": "5310160417878740235",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "ufcstrike",
+    "name": "UFC Strike",
+    "id": "5882260270843168924"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-keychain.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-keychain.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-keychain.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/ufcstrike/assets/models/ufc-keychain.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/ufcstrike/models/ufc-keychain.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

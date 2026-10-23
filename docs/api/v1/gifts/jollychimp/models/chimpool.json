@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "chimpool",
+  "name": "Chimpool",
+  "customEmojiId": "5823469590264421624",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "jollychimp",
+    "name": "Jolly Chimp",
+    "id": "6005880141270483700"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jollychimp/assets/models/chimpool.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jollychimp/assets/models/chimpool.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jollychimp/assets/models/chimpool.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jollychimp/assets/models/chimpool.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jollychimp/models/chimpool.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

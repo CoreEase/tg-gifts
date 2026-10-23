@@ -1,0 +1,1288 @@
+{
+  "gift": {
+    "slug": "finepen",
+    "name": "Fine Pens",
+    "apiName": "Fine Pen",
+    "id": "5882129648002794519",
+    "count": 3385,
+    "modelCount": 55,
+    "patternCount": 225,
+    "backdropCount": 80,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/patterns.json"
+  },
+  "count": 55,
+  "items": [
+    {
+      "type": "model",
+      "slug": "coin-mint",
+      "name": "Coin Mint",
+      "customEmojiId": "5447230579688909184",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/coin-mint.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/coin-mint.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/coin-mint.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/coin-mint.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/coin-mint.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "redacted",
+      "name": "Redacted",
+      "customEmojiId": "5449443273825363725",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/redacted.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/redacted.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/redacted.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/redacted.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/redacted.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "school-time",
+      "name": "School Time",
+      "customEmojiId": "5449731053814066008",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/school-time.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/school-time.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/school-time.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/school-time.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/school-time.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "survivalist",
+      "name": "Survivalist",
+      "customEmojiId": "5447613909815043571",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/survivalist.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/survivalist.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/survivalist.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/survivalist.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/survivalist.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "crystal-spire",
+      "name": "Crystal Spire",
+      "customEmojiId": "5447290520252491050",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/crystal-spire.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/crystal-spire.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/crystal-spire.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/crystal-spire.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/crystal-spire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "firebird",
+      "name": "Firebird",
+      "customEmojiId": "5449576387746767940",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/firebird.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/firebird.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/firebird.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/firebird.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/firebird.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "heart-key",
+      "name": "Heart Key",
+      "customEmojiId": "5449411911974169578",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/heart-key.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/heart-key.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/heart-key.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/heart-key.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/heart-key.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "hopscotch",
+      "name": "Hopscotch",
+      "customEmojiId": "5449826565296793713",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/hopscotch.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/hopscotch.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/hopscotch.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/hopscotch.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/hopscotch.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "nesting-doll",
+      "name": "Nesting Doll",
+      "customEmojiId": "5447135295839446359",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/nesting-doll.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/nesting-doll.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/nesting-doll.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/nesting-doll.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/nesting-doll.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "neuralyzer",
+      "name": "Neuralyzer",
+      "customEmojiId": "5449880333992372614",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/neuralyzer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/neuralyzer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/neuralyzer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/neuralyzer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/neuralyzer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "red-lipstick",
+      "name": "Red Lipstick",
+      "customEmojiId": "5447342764234680189",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/red-lipstick.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/red-lipstick.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/red-lipstick.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/red-lipstick.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/red-lipstick.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "secret-message",
+      "name": "Secret Message",
+      "customEmojiId": "5447516452712129125",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/secret-message.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/secret-message.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/secret-message.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/secret-message.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/secret-message.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "snakebound",
+      "name": "Snakebound",
+      "customEmojiId": "5447235050749864048",
+      "rarityPermille": 10,
+      "originalRarityPermille": 10,
+      "rarity": 1,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/snakebound.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/snakebound.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/snakebound.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/snakebound.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/snakebound.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "big-iron",
+      "name": "Big Iron",
+      "customEmojiId": "5449671920704335913",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/big-iron.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/big-iron.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/big-iron.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/big-iron.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/big-iron.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "calligraphy",
+      "name": "Calligraphy",
+      "customEmojiId": "5449835601907982976",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/calligraphy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/calligraphy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/calligraphy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/calligraphy.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/calligraphy.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "cheetah-king",
+      "name": "Cheetah King",
+      "customEmojiId": "5447595896722202364",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/cheetah-king.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/cheetah-king.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/cheetah-king.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/cheetah-king.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/cheetah-king.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dragon-dynasty",
+      "name": "Dragon Dynasty",
+      "customEmojiId": "5447320602203435082",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/dragon-dynasty.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/dragon-dynasty.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/dragon-dynasty.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/dragon-dynasty.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/dragon-dynasty.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "gram-validator",
+      "name": "Gram Validator",
+      "customEmojiId": "5449574605335341599",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/gram-validator.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/gram-validator.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/gram-validator.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/gram-validator.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/gram-validator.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "master-stroke",
+      "name": "Master Stroke",
+      "customEmojiId": "5447442025223857849",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/master-stroke.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/master-stroke.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/master-stroke.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/master-stroke.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/master-stroke.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ravenlord",
+      "name": "Ravenlord",
+      "customEmojiId": "5447544412949229343",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/ravenlord.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/ravenlord.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/ravenlord.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/ravenlord.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/ravenlord.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "royal-ink",
+      "name": "Royal Ink",
+      "customEmojiId": "5449443239465626373",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/royal-ink.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/royal-ink.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/royal-ink.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/royal-ink.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/royal-ink.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sea-legend",
+      "name": "Sea Legend",
+      "customEmojiId": "5447177871850250405",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/sea-legend.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/sea-legend.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/sea-legend.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/sea-legend.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/sea-legend.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tip-and-strip",
+      "name": "Tip and Strip",
+      "customEmojiId": "5449844269151988816",
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tip-and-strip.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tip-and-strip.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tip-and-strip.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tip-and-strip.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/tip-and-strip.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "aether",
+      "name": "Aether",
+      "customEmojiId": "5449479446039928554",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/aether.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/aether.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/aether.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/aether.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/aether.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "astronaut",
+      "name": "Astronaut",
+      "customEmojiId": "5447348691289551041",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/astronaut.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/astronaut.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/astronaut.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/astronaut.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/astronaut.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "berserker",
+      "name": "Berserker",
+      "customEmojiId": "5447661090030788931",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/berserker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/berserker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/berserker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/berserker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/berserker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "constellation",
+      "name": "Constellation",
+      "customEmojiId": "5447304204018294913",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/constellation.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/constellation.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/constellation.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/constellation.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/constellation.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "doom-scrawler",
+      "name": "Doom Scrawler",
+      "customEmojiId": "5447523779926337747",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/doom-scrawler.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/doom-scrawler.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/doom-scrawler.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/doom-scrawler.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/doom-scrawler.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "dream-caster",
+      "name": "Dream Caster",
+      "customEmojiId": "5449865821297878230",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/dream-caster.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/dream-caster.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/dream-caster.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/dream-caster.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/dream-caster.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "flesh-etcher",
+      "name": "Flesh Etcher",
+      "customEmojiId": "5447323999522569183",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/flesh-etcher.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/flesh-etcher.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/flesh-etcher.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/flesh-etcher.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/flesh-etcher.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "imperial-gem",
+      "name": "Imperial Gem",
+      "customEmojiId": "5449623245839969148",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/imperial-gem.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/imperial-gem.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/imperial-gem.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/imperial-gem.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/imperial-gem.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "laser-pointer",
+      "name": "Laser Pointer",
+      "customEmojiId": "5447375182647831260",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/laser-pointer.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/laser-pointer.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/laser-pointer.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/laser-pointer.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/laser-pointer.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "london-fog",
+      "name": "London Fog",
+      "customEmojiId": "5449596294920184641",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/london-fog.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/london-fog.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/london-fog.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/london-fog.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/london-fog.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "lotus-lines",
+      "name": "Lotus Lines",
+      "customEmojiId": "5449440254463356579",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/lotus-lines.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/lotus-lines.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/lotus-lines.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/lotus-lines.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/lotus-lines.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "ocean-shell",
+      "name": "Ocean Shell",
+      "customEmojiId": "5449913740248000168",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/ocean-shell.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/ocean-shell.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/ocean-shell.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/ocean-shell.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/ocean-shell.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "pharaoh",
+      "name": "Pharaoh",
+      "customEmojiId": "5449908015056593243",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/pharaoh.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/pharaoh.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/pharaoh.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/pharaoh.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/pharaoh.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "stylus",
+      "name": "Stylus",
+      "customEmojiId": "5449387520854895335",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/stylus.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/stylus.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/stylus.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/stylus.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/stylus.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "triple-meow",
+      "name": "Triple Meow",
+      "customEmojiId": "5449803999538620691",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/triple-meow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/triple-meow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/triple-meow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/triple-meow.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/triple-meow.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tsar-gold",
+      "name": "Tsar Gold",
+      "customEmojiId": "5449762561694148320",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tsar-gold.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tsar-gold.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tsar-gold.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tsar-gold.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/tsar-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "unbreakable",
+      "name": "Unbreakable",
+      "customEmojiId": "5447662155182679885",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/unbreakable.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/unbreakable.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/unbreakable.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/unbreakable.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/unbreakable.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "wood-burn",
+      "name": "Wood Burn",
+      "customEmojiId": "5447277381947535374",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/wood-burn.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/wood-burn.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/wood-burn.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/wood-burn.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/wood-burn.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "airbrush",
+      "name": "Airbrush",
+      "customEmojiId": "5449545768924919029",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/airbrush.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/airbrush.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/airbrush.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/airbrush.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/airbrush.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "bony-skull",
+      "name": "Bony Skull",
+      "customEmojiId": "5447563615748007065",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/bony-skull.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/bony-skull.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/bony-skull.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/bony-skull.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/bony-skull.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "detective",
+      "name": "Detective",
+      "customEmojiId": "5447186045173017847",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/detective.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/detective.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/detective.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/detective.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/detective.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "mesh-maker",
+      "name": "Mesh Maker",
+      "customEmojiId": "5447414271145189859",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/mesh-maker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/mesh-maker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/mesh-maker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/mesh-maker.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/mesh-maker.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "rhinestone",
+      "name": "Rhinestone",
+      "customEmojiId": "5447510431167981437",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/rhinestone.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/rhinestone.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/rhinestone.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/rhinestone.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/rhinestone.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "solar-atlas",
+      "name": "Solar Atlas",
+      "customEmojiId": "5447343606048270972",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/solar-atlas.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/solar-atlas.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/solar-atlas.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/solar-atlas.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/solar-atlas.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "sultan-s-peacock",
+      "name": "Sultan’s Peacock",
+      "customEmojiId": "5447175690006865018",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/sultan-s-peacock.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/sultan-s-peacock.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/sultan-s-peacock.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/sultan-s-peacock.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/sultan-s-peacock.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "umbra-inferno",
+      "name": "Umbra Inferno",
+      "customEmojiId": "5449841859675333606",
+      "rarityPermille": 25,
+      "originalRarityPermille": 25,
+      "rarity": 2.5,
+      "originalRarity": 2.5,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/umbra-inferno.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/umbra-inferno.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/umbra-inferno.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/umbra-inferno.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/umbra-inferno.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "elastic",
+      "name": "Elastic",
+      "customEmojiId": "5447488900496926973",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/elastic.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/elastic.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/elastic.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/elastic.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/elastic.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "my-little-pen",
+      "name": "My Little Pen",
+      "customEmojiId": "5449367025270959729",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/my-little-pen.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/my-little-pen.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/my-little-pen.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/my-little-pen.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/my-little-pen.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "signature-scribe",
+      "name": "Signature Scribe",
+      "customEmojiId": "5447540139456767183",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/signature-scribe.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/signature-scribe.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/signature-scribe.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/signature-scribe.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/signature-scribe.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "silver-feather",
+      "name": "Silver Feather",
+      "customEmojiId": "5447661515232551467",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/silver-feather.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/silver-feather.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/silver-feather.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/silver-feather.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/silver-feather.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "tender-rose",
+      "name": "Tender Rose",
+      "customEmojiId": "5447501772513913048",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tender-rose.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tender-rose.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tender-rose.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/tender-rose.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/tender-rose.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "model",
+      "slug": "vibe-coder",
+      "name": "Vibe Coder",
+      "customEmojiId": "5447455253723131487",
+      "rarityPermille": 30,
+      "originalRarityPermille": 30,
+      "rarity": 3,
+      "originalRarity": 3,
+      "gift": {
+        "slug": "finepen",
+        "name": "Fine Pen",
+        "id": "5882129648002794519"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/vibe-coder.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/vibe-coder.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/vibe-coder.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/finepen/assets/models/vibe-coder.tgs"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/finepen/models/vibe-coder.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

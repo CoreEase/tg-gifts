@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rose-diamond",
+  "name": "Rose Diamond",
+  "customEmojiId": "5206485611069866667",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "prettyposy",
+    "name": "Pretty Posy",
+    "id": "5933737850477478635"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/rose-diamond.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/rose-diamond.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/rose-diamond.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/rose-diamond.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/prettyposy/models/rose-diamond.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

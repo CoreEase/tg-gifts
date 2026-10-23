@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "momo",
+  "name": "Momo",
+  "customEmojiId": "5206211493372135534",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "prettyposy",
+    "name": "Pretty Posy",
+    "id": "5933737850477478635"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/momo.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/momo.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/momo.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/prettyposy/assets/models/momo.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/prettyposy/models/momo.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

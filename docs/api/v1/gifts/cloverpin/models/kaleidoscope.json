@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "kaleidoscope",
+  "name": "Kaleidoscope",
+  "customEmojiId": "5321492341196882634",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "cloverpin",
+    "name": "Clover Pin",
+    "id": "5960747083030856414"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/kaleidoscope.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/kaleidoscope.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/kaleidoscope.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/cloverpin/assets/models/kaleidoscope.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/cloverpin/models/kaleidoscope.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

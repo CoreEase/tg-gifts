@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "patriot",
+  "name": "Patriot",
+  "customEmojiId": "5253760767068500907",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "swisswatch",
+    "name": "Swiss Watch",
+    "id": "5936043693864651359"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/patriot.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/patriot.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/patriot.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/patriot.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swisswatch/models/patriot.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

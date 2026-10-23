@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "gamepad",
+  "name": "Gamepad",
+  "customEmojiId": "5881895563695233734",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "bowtie",
+    "name": "Bow Tie",
+    "id": "5895544372761461960"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/gamepad.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/gamepad.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/gamepad.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/gamepad.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bowtie/models/gamepad.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

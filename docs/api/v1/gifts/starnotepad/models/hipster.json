@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hipster",
+  "name": "Hipster",
+  "customEmojiId": "5262516212520219651",
+  "rarityPermille": 13,
+  "originalRarityPermille": 13,
+  "rarity": 1.3,
+  "originalRarity": 1.3,
+  "gift": {
+    "slug": "starnotepad",
+    "name": "Star Notepad",
+    "id": "5936017773737018241"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/hipster.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/hipster.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/hipster.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/starnotepad/assets/models/hipster.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/starnotepad/models/hipster.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

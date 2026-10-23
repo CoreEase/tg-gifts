@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "holly-jolly",
+  "name": "Holly Jolly",
+  "customEmojiId": "5269667736794986072",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "snakebox",
+    "name": "Snake Box",
+    "id": "6023679164349940429"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/holly-jolly.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/holly-jolly.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/holly-jolly.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snakebox/assets/models/holly-jolly.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snakebox/models/holly-jolly.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,516 @@
+{
+  "gift": {
+    "slug": "algorithmcup",
+    "name": "Algorithm Cups",
+    "apiName": "Algorithm Cup",
+    "id": "6050827940390765935",
+    "count": 54,
+    "modelCount": 3,
+    "patternCount": 199,
+    "backdropCount": 17,
+    "inFragment": true,
+    "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/algorithmcup/original.svg",
+    "originalUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/algorithmcup/original.svg",
+    "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/index.json",
+    "modelsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/models.json",
+    "backdropsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops.json",
+    "patternsUrl": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/patterns.json"
+  },
+  "count": 17,
+  "items": [
+    {
+      "type": "backdrop",
+      "slug": "feldgrau",
+      "name": "Feldgrau",
+      "backdropId": 68,
+      "customEmojiId": "5375107384320485908",
+      "centerColor": 9015944,
+      "edgeColor": 6187875,
+      "patternColor": 1844767,
+      "textColor": 14608865,
+      "hex": {
+        "centerColor": "#899288",
+        "edgeColor": "#5e6b63",
+        "patternColor": "#1c261f",
+        "textColor": "#dee9e1"
+      },
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/feldgrau.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "navy-blue",
+      "name": "Navy Blue",
+      "backdropId": 6,
+      "customEmojiId": "5375095358412057425",
+      "centerColor": 7118557,
+      "edgeColor": 6057673,
+      "patternColor": 1194402,
+      "textColor": 13885951,
+      "hex": {
+        "centerColor": "#6c9edd",
+        "edgeColor": "#5c6ec9",
+        "patternColor": "#1239a2",
+        "textColor": "#d3e1ff"
+      },
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/navy-blue.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "old-gold",
+      "name": "Old Gold",
+      "backdropId": 75,
+      "customEmojiId": "5375123404548499298",
+      "centerColor": 11898168,
+      "edgeColor": 9726245,
+      "patternColor": 5190402,
+      "textColor": 16768396,
+      "hex": {
+        "centerColor": "#b58d38",
+        "edgeColor": "#946925",
+        "patternColor": "#4f3302",
+        "textColor": "#ffdd8c"
+      },
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/old-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "sapphire",
+      "name": "Sapphire",
+      "backdropId": 7,
+      "customEmojiId": "5377394836657695827",
+      "centerColor": 5809096,
+      "edgeColor": 5470658,
+      "patternColor": 869814,
+      "textColor": 12705535,
+      "hex": {
+        "centerColor": "#58a3c8",
+        "edgeColor": "#5379c2",
+        "patternColor": "#0d45b6",
+        "textColor": "#c1deff"
+      },
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/sapphire.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "silver-blue",
+      "name": "Silver Blue",
+      "backdropId": 45,
+      "customEmojiId": "5375068162679139533",
+      "centerColor": 8430776,
+      "edgeColor": 6323345,
+      "patternColor": 1390411,
+      "textColor": 13231348,
+      "hex": {
+        "centerColor": "#80a4b8",
+        "edgeColor": "#607c91",
+        "patternColor": "#15374b",
+        "textColor": "#c9e4f4"
+      },
+      "rarityPermille": 40,
+      "originalRarityPermille": 40,
+      "rarity": 4,
+      "originalRarity": 4,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/silver-blue.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "amber",
+      "name": "Amber",
+      "backdropId": 21,
+      "customEmojiId": "5375590628270831231",
+      "centerColor": 14332741,
+      "edgeColor": 11632682,
+      "patternColor": 8007936,
+      "textColor": 16772551,
+      "hex": {
+        "centerColor": "#dab345",
+        "edgeColor": "#b1802a",
+        "patternColor": "#7a3100",
+        "textColor": "#ffedc7"
+      },
+      "rarityPermille": 50,
+      "originalRarityPermille": 50,
+      "rarity": 5,
+      "originalRarity": 5,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/amber.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "ivory-white",
+      "name": "Ivory White",
+      "backdropId": 41,
+      "customEmojiId": "5375500438252580046",
+      "centerColor": 12236465,
+      "edgeColor": 10591639,
+      "patternColor": 6709074,
+      "textColor": 16119026,
+      "hex": {
+        "centerColor": "#bab6b1",
+        "edgeColor": "#a19d97",
+        "patternColor": "#665f52",
+        "textColor": "#f5f4f2"
+      },
+      "rarityPermille": 50,
+      "originalRarityPermille": 50,
+      "rarity": 5,
+      "originalRarity": 5,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/ivory-white.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "platinum",
+      "name": "Platinum",
+      "backdropId": 42,
+      "customEmojiId": "5375209243764877171",
+      "centerColor": 11710119,
+      "edgeColor": 8946814,
+      "patternColor": 4012077,
+      "textColor": 15329250,
+      "hex": {
+        "centerColor": "#b2aea7",
+        "edgeColor": "#88847e",
+        "patternColor": "#3d382d",
+        "textColor": "#e9e7e2"
+      },
+      "rarityPermille": 50,
+      "originalRarityPermille": 50,
+      "rarity": 5,
+      "originalRarity": 5,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/platinum.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "roman-silver",
+      "name": "Roman Silver",
+      "backdropId": 43,
+      "customEmojiId": "5375482502469152633",
+      "centerColor": 10725557,
+      "edgeColor": 8159370,
+      "patternColor": 4146512,
+      "textColor": 14344162,
+      "hex": {
+        "centerColor": "#a3a8b5",
+        "edgeColor": "#7c808a",
+        "patternColor": "#3f4550",
+        "textColor": "#dadfe2"
+      },
+      "rarityPermille": 50,
+      "originalRarityPermille": 50,
+      "rarity": 5,
+      "originalRarity": 5,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/roman-silver.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "steel-grey",
+      "name": "Steel Grey",
+      "backdropId": 44,
+      "customEmojiId": "5377767863157283654",
+      "centerColor": 9937580,
+      "edgeColor": 6517372,
+      "patternColor": 3360082,
+      "textColor": 14673128,
+      "hex": {
+        "centerColor": "#97a2ac",
+        "edgeColor": "#63727c",
+        "patternColor": "#334552",
+        "textColor": "#dfe4e8"
+      },
+      "rarityPermille": 50,
+      "originalRarityPermille": 50,
+      "rarity": 5,
+      "originalRarity": 5,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/steel-grey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "battleship-grey",
+      "name": "Battleship Grey",
+      "backdropId": 50,
+      "customEmojiId": "5375258223571925187",
+      "centerColor": 9211013,
+      "edgeColor": 7105638,
+      "patternColor": 2828832,
+      "textColor": 13618884,
+      "hex": {
+        "centerColor": "#8c8c85",
+        "edgeColor": "#6c6c66",
+        "patternColor": "#2b2a20",
+        "textColor": "#cfcec4"
+      },
+      "rarityPermille": 60,
+      "originalRarityPermille": 60,
+      "rarity": 6,
+      "originalRarity": 6,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/battleship-grey.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "pure-gold",
+      "name": "Pure Gold",
+      "backdropId": 20,
+      "customEmojiId": "5377566347586724653",
+      "centerColor": 13413185,
+      "edgeColor": 9993010,
+      "patternColor": 7355392,
+      "textColor": 16770475,
+      "hex": {
+        "centerColor": "#ccab41",
+        "edgeColor": "#987b32",
+        "patternColor": "#703c00",
+        "textColor": "#ffe5ab"
+      },
+      "rarityPermille": 60,
+      "originalRarityPermille": 60,
+      "rarity": 6,
+      "originalRarity": 6,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/pure-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "satin-gold",
+      "name": "Satin Gold",
+      "backdropId": 19,
+      "customEmojiId": "5377843106689344328",
+      "centerColor": 12557127,
+      "edgeColor": 9271097,
+      "patternColor": 6109952,
+      "textColor": 16704681,
+      "hex": {
+        "centerColor": "#bf9b47",
+        "edgeColor": "#8d7739",
+        "patternColor": "#5d3b00",
+        "textColor": "#fee4a9"
+      },
+      "rarityPermille": 60,
+      "originalRarityPermille": 60,
+      "rarity": 6,
+      "originalRarity": 6,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/satin-gold.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "gunmetal",
+      "name": "Gunmetal",
+      "backdropId": 69,
+      "customEmojiId": "5375182267075292360",
+      "centerColor": 5004643,
+      "edgeColor": 3095362,
+      "patternColor": 264202,
+      "textColor": 11978188,
+      "hex": {
+        "centerColor": "#4c5d63",
+        "edgeColor": "#2f3b42",
+        "patternColor": "#04080a",
+        "textColor": "#b6c5cc"
+      },
+      "rarityPermille": 100,
+      "originalRarityPermille": 100,
+      "rarity": 10,
+      "originalRarity": 10,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/gunmetal.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "midnight-blue",
+      "name": "Midnight Blue",
+      "backdropId": 48,
+      "customEmojiId": "5375050733701852215",
+      "centerColor": 6056325,
+      "edgeColor": 3489879,
+      "patternColor": 199192,
+      "textColor": 12569824,
+      "hex": {
+        "centerColor": "#5c6985",
+        "edgeColor": "#354057",
+        "patternColor": "#030a18",
+        "textColor": "#bfcce0"
+      },
+      "rarityPermille": 100,
+      "originalRarityPermille": 100,
+      "rarity": 10,
+      "originalRarity": 10,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/midnight-blue.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "onyx-black",
+      "name": "Onyx Black",
+      "backdropId": 49,
+      "customEmojiId": "5377775263385937055",
+      "centerColor": 5067348,
+      "edgeColor": 3225144,
+      "patternColor": 0,
+      "textColor": 11119533,
+      "hex": {
+        "centerColor": "#4d5254",
+        "edgeColor": "#313638",
+        "patternColor": "#000000",
+        "textColor": "#a9abad"
+      },
+      "rarityPermille": 100,
+      "originalRarityPermille": 100,
+      "rarity": 10,
+      "originalRarity": 10,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/onyx-black.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    },
+    {
+      "type": "backdrop",
+      "slug": "black",
+      "name": "Black",
+      "backdropId": 0,
+      "customEmojiId": "5377437666071568792",
+      "centerColor": 3553080,
+      "edgeColor": 921359,
+      "patternColor": 7104616,
+      "textColor": 9211793,
+      "hex": {
+        "centerColor": "#363738",
+        "edgeColor": "#0e0f0f",
+        "patternColor": "#6c6868",
+        "textColor": "#8c8f91"
+      },
+      "rarityPermille": 150,
+      "originalRarityPermille": 150,
+      "rarity": 15,
+      "originalRarity": 15,
+      "imageUrl": null,
+      "gift": {
+        "slug": "algorithmcup",
+        "name": "Algorithm Cup",
+        "id": "6050827940390765935"
+      },
+      "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/algorithmcup/backdrops/black.json",
+      "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+    }
+  ],
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

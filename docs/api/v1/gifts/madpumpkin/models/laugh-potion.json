@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "laugh-potion",
+  "name": "Laugh Potion",
+  "customEmojiId": "5251613665672584299",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "madpumpkin",
+    "name": "Mad Pumpkin",
+    "id": "5841632504448025405"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/laugh-potion.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/laugh-potion.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/laugh-potion.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/madpumpkin/assets/models/laugh-potion.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/madpumpkin/models/laugh-potion.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

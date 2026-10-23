@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "tortuga",
+  "name": "Tortuga",
+  "customEmojiId": "5879894469712549758",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "bowtie",
+    "name": "Bow Tie",
+    "id": "5895544372761461960"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/tortuga.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/tortuga.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/tortuga.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/bowtie/assets/models/tortuga.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/bowtie/models/tortuga.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

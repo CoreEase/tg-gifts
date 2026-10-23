@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "maga",
+  "name": "MAGA",
+  "customEmojiId": "5352689553410922089",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "libertyfigure",
+    "name": "Liberty Figure",
+    "id": "5999298447486747746"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/maga.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/maga.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/maga.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/maga.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/libertyfigure/models/maga.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

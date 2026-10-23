@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "pepemint",
+  "name": "Pepemint",
+  "customEmojiId": "5454270984569775860",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "plushpepe",
+    "name": "Plush Pepe",
+    "id": "5936013938331222567"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/plushpepe/assets/models/pepemint.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/plushpepe/assets/models/pepemint.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/plushpepe/assets/models/pepemint.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/plushpepe/assets/models/pepemint.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/plushpepe/models/pepemint.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

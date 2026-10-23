@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "santa-claus",
+  "name": "Santa Claus",
+  "customEmojiId": "5460727591725984975",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "santahat",
+    "name": "Santa Hat",
+    "id": "5983471780763796287"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/models/santa-claus.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/models/santa-claus.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/models/santa-claus.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/santahat/assets/models/santa-claus.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/santahat/models/santa-claus.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

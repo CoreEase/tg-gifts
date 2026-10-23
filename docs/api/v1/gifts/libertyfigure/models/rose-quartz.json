@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "rose-quartz",
+  "name": "Rose Quartz",
+  "customEmojiId": "5352929517528719257",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "libertyfigure",
+    "name": "Liberty Figure",
+    "id": "5999298447486747746"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/rose-quartz.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/rose-quartz.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/rose-quartz.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/libertyfigure/assets/models/rose-quartz.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/libertyfigure/models/rose-quartz.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

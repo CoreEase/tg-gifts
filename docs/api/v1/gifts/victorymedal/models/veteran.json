@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "veteran",
+  "name": "Veteran",
+  "customEmojiId": "5454256879897186536",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "victorymedal",
+    "name": "Victory Medal",
+    "id": "5830340739074097859"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/veteran.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/veteran.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/veteran.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/victorymedal/assets/models/veteran.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/victorymedal/models/veteran.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

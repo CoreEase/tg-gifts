@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "mocktail",
+  "name": "Mocktail",
+  "customEmojiId": "5872783816346573048",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "restlessjar",
+    "name": "Restless Jar",
+    "id": "5870784783948186838"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mocktail.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mocktail.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mocktail.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/restlessjar/assets/models/mocktail.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/restlessjar/models/mocktail.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

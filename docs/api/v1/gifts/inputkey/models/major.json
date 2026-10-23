@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "major",
+  "name": "Major",
+  "customEmojiId": "5307564543939997872",
+  "rarityPermille": 10,
+  "originalRarityPermille": 10,
+  "rarity": 1,
+  "originalRarity": 1,
+  "gift": {
+    "slug": "inputkey",
+    "name": "Input Key",
+    "id": "5870972044522291836"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/major.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/major.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/major.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/inputkey/assets/models/major.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/inputkey/models/major.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

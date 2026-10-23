@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "leprechaun",
+  "name": "Leprechaun",
+  "customEmojiId": "5244655629674505838",
+  "rarityPermille": 5,
+  "originalRarityPermille": 5,
+  "rarity": 0.5,
+  "originalRarity": 0.5,
+  "gift": {
+    "slug": "jesterhat",
+    "name": "Jester Hat",
+    "id": "5933590374185435592"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/leprechaun.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/leprechaun.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/leprechaun.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/leprechaun.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jesterhat/models/leprechaun.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

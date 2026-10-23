@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "liberty",
+  "name": "Liberty",
+  "customEmojiId": "5879645735271537172",
+  "rarityPermille": 25,
+  "originalRarityPermille": 25,
+  "rarity": 2.5,
+  "originalRarity": 2.5,
+  "gift": {
+    "slug": "heroichelmet",
+    "name": "Heroic Helmet",
+    "id": "5895328365971244193"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/liberty.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/liberty.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/liberty.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/heroichelmet/assets/models/liberty.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/heroichelmet/models/liberty.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

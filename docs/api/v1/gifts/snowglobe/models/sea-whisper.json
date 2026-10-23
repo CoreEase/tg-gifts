@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "sea-whisper",
+  "name": "Sea Whisper",
+  "customEmojiId": "5355280453777517720",
+  "rarityPermille": 30,
+  "originalRarityPermille": 30,
+  "rarity": 3,
+  "originalRarity": 3,
+  "gift": {
+    "slug": "snowglobe",
+    "name": "Snow Globe",
+    "id": "5981132629905245483"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sea-whisper.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sea-whisper.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sea-whisper.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/snowglobe/assets/models/sea-whisper.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/snowglobe/models/sea-whisper.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

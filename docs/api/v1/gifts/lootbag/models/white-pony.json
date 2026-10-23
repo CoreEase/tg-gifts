@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "white-pony",
+  "name": "White Pony",
+  "customEmojiId": "5292255167373144711",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lootbag",
+    "name": "Loot Bag",
+    "id": "5868659926187901653"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/white-pony.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/white-pony.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/white-pony.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/white-pony.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/white-pony.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

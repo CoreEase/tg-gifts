@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "eau-de-parfum",
+  "name": "Eau De Parfum",
+  "customEmojiId": "5456411076579058604",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "perfumebottle",
+    "name": "Perfume Bottle",
+    "id": "5913517067138499193"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/perfumebottle/assets/models/eau-de-parfum.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/perfumebottle/assets/models/eau-de-parfum.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/perfumebottle/assets/models/eau-de-parfum.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/perfumebottle/assets/models/eau-de-parfum.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/perfumebottle/models/eau-de-parfum.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

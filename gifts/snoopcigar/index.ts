@@ -1,9 +1,15 @@
 import type { GiftModel, GiftPattern, Backdrop, GiftCollection } from '../../types.js';
 
+export const giftId = "6012435906336654262" as const;
+
 export const models = [
   {
     "name": "Cartoon Roll",
     "customEmojiId": "5438189428717681921",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/cartoon-roll.svg",
       "tgs": "gifts/snoopcigar/assets/models/cartoon-roll.tgs"
@@ -12,6 +18,10 @@ export const models = [
   {
     "name": "Infinity Stoned",
     "customEmojiId": "5438243820183516655",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/infinity-stoned.svg",
       "tgs": "gifts/snoopcigar/assets/models/infinity-stoned.tgs"
@@ -20,6 +30,10 @@ export const models = [
   {
     "name": "Snoop Graffiti",
     "customEmojiId": "5438239288993023955",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/snoop-graffiti.svg",
       "tgs": "gifts/snoopcigar/assets/models/snoop-graffiti.tgs"
@@ -28,6 +42,10 @@ export const models = [
   {
     "name": "California",
     "customEmojiId": "5438299311160983582",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/california.svg",
       "tgs": "gifts/snoopcigar/assets/models/california.tgs"
@@ -36,6 +54,10 @@ export const models = [
   {
     "name": "Charmed Roll",
     "customEmojiId": "5438256937013639470",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/charmed-roll.svg",
       "tgs": "gifts/snoopcigar/assets/models/charmed-roll.tgs"
@@ -44,6 +66,10 @@ export const models = [
   {
     "name": "Crystal",
     "customEmojiId": "5438125433704970341",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/crystal.svg",
       "tgs": "gifts/snoopcigar/assets/models/crystal.tgs"
@@ -52,6 +78,10 @@ export const models = [
   {
     "name": "Gilded Copper",
     "customEmojiId": "5436033217696137736",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/gilded-copper.svg",
       "tgs": "gifts/snoopcigar/assets/models/gilded-copper.tgs"
@@ -60,6 +90,10 @@ export const models = [
   {
     "name": "Highway",
     "customEmojiId": "5438648135519861403",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/highway.svg",
       "tgs": "gifts/snoopcigar/assets/models/highway.tgs"
@@ -68,6 +102,10 @@ export const models = [
   {
     "name": "Hyperdrive",
     "customEmojiId": "5438356799298244096",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/hyperdrive.svg",
       "tgs": "gifts/snoopcigar/assets/models/hyperdrive.tgs"
@@ -76,6 +114,10 @@ export const models = [
   {
     "name": "Rap Battle",
     "customEmojiId": "5436288557796852363",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/rap-battle.svg",
       "tgs": "gifts/snoopcigar/assets/models/rap-battle.tgs"
@@ -84,6 +126,10 @@ export const models = [
   {
     "name": "Smoke Sway",
     "customEmojiId": "5436300648129789737",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/smoke-sway.svg",
       "tgs": "gifts/snoopcigar/assets/models/smoke-sway.tgs"
@@ -92,6 +138,10 @@ export const models = [
   {
     "name": "Snoop’s Pipe",
     "customEmojiId": "5438202373749109256",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/snoop-s-pipe.svg",
       "tgs": "gifts/snoopcigar/assets/models/snoop-s-pipe.tgs"
@@ -100,6 +150,10 @@ export const models = [
   {
     "name": "Soul Plane",
     "customEmojiId": "5438277411122740397",
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/soul-plane.svg",
       "tgs": "gifts/snoopcigar/assets/models/soul-plane.tgs"
@@ -108,6 +162,10 @@ export const models = [
   {
     "name": "Doggystyle",
     "customEmojiId": "5438110573118130302",
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/doggystyle.svg",
       "tgs": "gifts/snoopcigar/assets/models/doggystyle.tgs"
@@ -116,6 +174,10 @@ export const models = [
   {
     "name": "Meteor Impact",
     "customEmojiId": "5438329259967936125",
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/meteor-impact.svg",
       "tgs": "gifts/snoopcigar/assets/models/meteor-impact.tgs"
@@ -124,6 +186,10 @@ export const models = [
   {
     "name": "Record Label",
     "customEmojiId": "5438493327718644400",
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/record-label.svg",
       "tgs": "gifts/snoopcigar/assets/models/record-label.tgs"
@@ -132,6 +198,10 @@ export const models = [
   {
     "name": "Smoke Nukem",
     "customEmojiId": "5436352213507146264",
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/smoke-nukem.svg",
       "tgs": "gifts/snoopcigar/assets/models/smoke-nukem.tgs"
@@ -140,6 +210,10 @@ export const models = [
   {
     "name": "Snoop Doggy",
     "customEmojiId": "5438574927802303104",
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/snoop-doggy.svg",
       "tgs": "gifts/snoopcigar/assets/models/snoop-doggy.tgs"
@@ -148,6 +222,10 @@ export const models = [
   {
     "name": "Stargazer",
     "customEmojiId": "5438517310816024503",
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/stargazer.svg",
       "tgs": "gifts/snoopcigar/assets/models/stargazer.tgs"
@@ -156,6 +234,10 @@ export const models = [
   {
     "name": "Surprise",
     "customEmojiId": "5438280220031350400",
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/surprise.svg",
       "tgs": "gifts/snoopcigar/assets/models/surprise.tgs"
@@ -164,6 +246,10 @@ export const models = [
   {
     "name": "Baked Beats",
     "customEmojiId": "5438556657011425101",
+    "rarityPermille": 20,
+    "originalRarityPermille": 20,
+    "rarity": 2,
+    "originalRarity": 2,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/baked-beats.svg",
       "tgs": "gifts/snoopcigar/assets/models/baked-beats.tgs"
@@ -172,6 +258,10 @@ export const models = [
   {
     "name": "Happy Face",
     "customEmojiId": "5438478299628079875",
+    "rarityPermille": 20,
+    "originalRarityPermille": 20,
+    "rarity": 2,
+    "originalRarity": 2,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/happy-face.svg",
       "tgs": "gifts/snoopcigar/assets/models/happy-face.tgs"
@@ -180,6 +270,10 @@ export const models = [
   {
     "name": "Hot Stuff",
     "customEmojiId": "5438476242338741533",
+    "rarityPermille": 20,
+    "originalRarityPermille": 20,
+    "rarity": 2,
+    "originalRarity": 2,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/hot-stuff.svg",
       "tgs": "gifts/snoopcigar/assets/models/hot-stuff.tgs"
@@ -188,6 +282,10 @@ export const models = [
   {
     "name": "Snooperman",
     "customEmojiId": "5438350812113830162",
+    "rarityPermille": 20,
+    "originalRarityPermille": 20,
+    "rarity": 2,
+    "originalRarity": 2,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/snooperman.svg",
       "tgs": "gifts/snoopcigar/assets/models/snooperman.tgs"
@@ -196,6 +294,10 @@ export const models = [
   {
     "name": "Space Wrap",
     "customEmojiId": "5438453796839651057",
+    "rarityPermille": 20,
+    "originalRarityPermille": 20,
+    "rarity": 2,
+    "originalRarity": 2,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/space-wrap.svg",
       "tgs": "gifts/snoopcigar/assets/models/space-wrap.tgs"
@@ -204,6 +306,10 @@ export const models = [
   {
     "name": "Triple Shot",
     "customEmojiId": "5435862801983768251",
+    "rarityPermille": 20,
+    "originalRarityPermille": 20,
+    "rarity": 2,
+    "originalRarity": 2,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/triple-shot.svg",
       "tgs": "gifts/snoopcigar/assets/models/triple-shot.tgs"
@@ -212,6 +318,10 @@ export const models = [
   {
     "name": "America",
     "customEmojiId": "5438206011586413077",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/america.svg",
       "tgs": "gifts/snoopcigar/assets/models/america.tgs"
@@ -220,6 +330,10 @@ export const models = [
   {
     "name": "Angel Dust",
     "customEmojiId": "5438335066763724269",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/angel-dust.svg",
       "tgs": "gifts/snoopcigar/assets/models/angel-dust.tgs"
@@ -228,6 +342,10 @@ export const models = [
   {
     "name": "Cabbage Roll",
     "customEmojiId": "5438606478632058369",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/cabbage-roll.svg",
       "tgs": "gifts/snoopcigar/assets/models/cabbage-roll.tgs"
@@ -236,6 +354,10 @@ export const models = [
   {
     "name": "Debut Album",
     "customEmojiId": "5438469984571391191",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/debut-album.svg",
       "tgs": "gifts/snoopcigar/assets/models/debut-album.tgs"
@@ -244,6 +366,10 @@ export const models = [
   {
     "name": "Eurotrip",
     "customEmojiId": "5438116221000123506",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/eurotrip.svg",
       "tgs": "gifts/snoopcigar/assets/models/eurotrip.tgs"
@@ -252,6 +378,10 @@ export const models = [
   {
     "name": "Funk Dunk",
     "customEmojiId": "5436003131450230888",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/funk-dunk.svg",
       "tgs": "gifts/snoopcigar/assets/models/funk-dunk.tgs"
@@ -260,6 +390,10 @@ export const models = [
   {
     "name": "Hot Rod",
     "customEmojiId": "5436184074127442886",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/hot-rod.svg",
       "tgs": "gifts/snoopcigar/assets/models/hot-rod.tgs"
@@ -268,6 +402,10 @@ export const models = [
   {
     "name": "Ice Prince",
     "customEmojiId": "5438208657286264449",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/ice-prince.svg",
       "tgs": "gifts/snoopcigar/assets/models/ice-prince.tgs"
@@ -276,6 +414,10 @@ export const models = [
   {
     "name": "Mushizzle",
     "customEmojiId": "5436061946732381645",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/mushizzle.svg",
       "tgs": "gifts/snoopcigar/assets/models/mushizzle.tgs"
@@ -284,6 +426,10 @@ export const models = [
   {
     "name": "Royalty",
     "customEmojiId": "5435942061310247997",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/royalty.svg",
       "tgs": "gifts/snoopcigar/assets/models/royalty.tgs"
@@ -292,6 +438,10 @@ export const models = [
   {
     "name": "Smoke Dogg",
     "customEmojiId": "5438560883259242843",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/smoke-dogg.svg",
       "tgs": "gifts/snoopcigar/assets/models/smoke-dogg.tgs"
@@ -300,6 +450,10 @@ export const models = [
   {
     "name": "Vinyl Vibes",
     "customEmojiId": "5438127911901103507",
+    "rarityPermille": 25,
+    "originalRarityPermille": 25,
+    "rarity": 2.5,
+    "originalRarity": 2.5,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/vinyl-vibes.svg",
       "tgs": "gifts/snoopcigar/assets/models/vinyl-vibes.tgs"
@@ -308,6 +462,10 @@ export const models = [
   {
     "name": "Bandana",
     "customEmojiId": "5438464070401425642",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/bandana.svg",
       "tgs": "gifts/snoopcigar/assets/models/bandana.tgs"
@@ -316,6 +474,10 @@ export const models = [
   {
     "name": "Dolla Rolla",
     "customEmojiId": "5438598395503606703",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/dolla-rolla.svg",
       "tgs": "gifts/snoopcigar/assets/models/dolla-rolla.tgs"
@@ -324,6 +486,10 @@ export const models = [
   {
     "name": "Herbalist",
     "customEmojiId": "5438229810000198730",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/herbalist.svg",
       "tgs": "gifts/snoopcigar/assets/models/herbalist.tgs"
@@ -332,6 +498,10 @@ export const models = [
   {
     "name": "Jade Fade",
     "customEmojiId": "5438356077743736765",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/jade-fade.svg",
       "tgs": "gifts/snoopcigar/assets/models/jade-fade.tgs"
@@ -340,6 +510,10 @@ export const models = [
   {
     "name": "Lion King",
     "customEmojiId": "5436028720865376459",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/lion-king.svg",
       "tgs": "gifts/snoopcigar/assets/models/lion-king.tgs"
@@ -348,6 +522,10 @@ export const models = [
   {
     "name": "Mirage",
     "customEmojiId": "5438403094750726122",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/mirage.svg",
       "tgs": "gifts/snoopcigar/assets/models/mirage.tgs"
@@ -356,6 +534,10 @@ export const models = [
   {
     "name": "Old School",
     "customEmojiId": "5435849156872667899",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/old-school.svg",
       "tgs": "gifts/snoopcigar/assets/models/old-school.tgs"
@@ -364,6 +546,10 @@ export const models = [
   {
     "name": "Puff Puff Pass",
     "customEmojiId": "5438633008645046828",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/puff-puff-pass.svg",
       "tgs": "gifts/snoopcigar/assets/models/puff-puff-pass.tgs"
@@ -372,6 +558,10 @@ export const models = [
   {
     "name": "Rasta",
     "customEmojiId": "5435855088222503907",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/rasta.svg",
       "tgs": "gifts/snoopcigar/assets/models/rasta.tgs"
@@ -380,6 +570,10 @@ export const models = [
   {
     "name": "Ruby Doobie",
     "customEmojiId": "5438467841382713210",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/ruby-doobie.svg",
       "tgs": "gifts/snoopcigar/assets/models/ruby-doobie.tgs"
@@ -388,6 +582,10 @@ export const models = [
   {
     "name": "Snoop Ring",
     "customEmojiId": "5438482332602366601",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/snoop-ring.svg",
       "tgs": "gifts/snoopcigar/assets/models/snoop-ring.tgs"
@@ -396,6 +594,10 @@ export const models = [
   {
     "name": "The King",
     "customEmojiId": "5438327456081675294",
+    "rarityPermille": 30,
+    "originalRarityPermille": 30,
+    "rarity": 3,
+    "originalRarity": 3,
     "assets": {
       "svg": "gifts/snoopcigar/assets/models/the-king.svg",
       "tgs": "gifts/snoopcigar/assets/models/the-king.tgs"
@@ -405,43 +607,210 @@ export const models = [
 
 export const patterns = [
   {
-    "name": "Yogi Shaman",
-    "customEmojiId": "5199445571261203846",
+    "name": "Acorn",
+    "customEmojiId": "5199500774475870841",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/yogi-shaman.png"
+      "png": "gifts/snoopcigar/assets/patterns/acorn.png"
     }
   },
   {
-    "name": "Pineapple",
-    "customEmojiId": "5199590977379009936",
+    "name": "Apple",
+    "customEmojiId": "5199834806967375335",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/pineapple.png"
+      "png": "gifts/snoopcigar/assets/patterns/apple.png"
     }
   },
   {
-    "name": "Warhorse",
-    "customEmojiId": "5199428060679541926",
+    "name": "Baseball Cap",
+    "customEmojiId": "5199873423018329022",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/warhorse.png"
+      "png": "gifts/snoopcigar/assets/patterns/baseball-cap.png"
     }
   },
   {
-    "name": "Radar",
-    "customEmojiId": "5199811519654695383",
+    "name": "Boat",
+    "customEmojiId": "5199564713653997766",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/radar.png"
+      "png": "gifts/snoopcigar/assets/patterns/boat.png"
     }
   },
   {
-    "name": "Cavalier Hat",
-    "customEmojiId": "5199484170132292855",
+    "name": "Bottlenose",
+    "customEmojiId": "5199797414982094107",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cavalier-hat.png"
+      "png": "gifts/snoopcigar/assets/patterns/bottlenose.png"
+    }
+  },
+  {
+    "name": "Brass Knuckles",
+    "customEmojiId": "5199924546014052526",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/brass-knuckles.png"
+    }
+  },
+  {
+    "name": "Bubble Tea",
+    "customEmojiId": "5199799150148883131",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bubble-tea.png"
+    }
+  },
+  {
+    "name": "Cheese",
+    "customEmojiId": "5199949985105348813",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cheese.png"
+    }
+  },
+  {
+    "name": "Chest",
+    "customEmojiId": "5199799017004894591",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/chest.png"
+    }
+  },
+  {
+    "name": "Chili Pepper",
+    "customEmojiId": "5199643277195772037",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/chili-pepper.png"
+    }
+  },
+  {
+    "name": "Coin Purse",
+    "customEmojiId": "5199421974710879091",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/coin-purse.png"
+    }
+  },
+  {
+    "name": "Croissant",
+    "customEmojiId": "5199706980150706028",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/croissant.png"
+    }
+  },
+  {
+    "name": "Crystal",
+    "customEmojiId": "5199505833947336625",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/crystal.png"
+    }
+  },
+  {
+    "name": "Diamond",
+    "customEmojiId": "5199628004292067329",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/diamond.png"
+    }
+  },
+  {
+    "name": "Fleur-de-lis",
+    "customEmojiId": "5199655573687140713",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/fleur-de-lis.png"
+    }
+  },
+  {
+    "name": "Genie Lamp",
+    "customEmojiId": "5199760491148248638",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/genie-lamp.png"
+    }
+  },
+  {
+    "name": "Gua Pi Mao",
+    "customEmojiId": "5199440052228229167",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/gua-pi-mao.png"
+    }
+  },
+  {
+    "name": "Headphones",
+    "customEmojiId": "5199736980497270388",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/headphones.png"
     }
   },
   {
     "name": "Hip-Hop",
     "customEmojiId": "5199555874611299686",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/hip-hop.png"
     }
@@ -449,286 +818,252 @@ export const patterns = [
   {
     "name": "Illuminati",
     "customEmojiId": "5199959970904312871",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/illuminati.png"
     }
   },
   {
-    "name": "Bunny Ears",
-    "customEmojiId": "5199774076129808154",
+    "name": "Inguz Rune",
+    "customEmojiId": "5199780557235455952",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bunny-ears.png"
+      "png": "gifts/snoopcigar/assets/patterns/inguz-rune.png"
     }
   },
   {
-    "name": "Dolphin",
-    "customEmojiId": "5199801499495994058",
+    "name": "Jellyfish",
+    "customEmojiId": "5199463842052082744",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/dolphin.png"
+      "png": "gifts/snoopcigar/assets/patterns/jellyfish.png"
     }
   },
   {
     "name": "Legionary",
     "customEmojiId": "5199428202413461386",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/legionary.png"
     }
   },
   {
-    "name": "Ring",
-    "customEmojiId": "5199821179036142060",
+    "name": "Lightning",
+    "customEmojiId": "5202201454206549813",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/ring.png"
-    }
-  },
-  {
-    "name": "Sparks",
-    "customEmojiId": "5199534721897367416",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/sparks.png"
-    }
-  },
-  {
-    "name": "Aztec Falcon",
-    "customEmojiId": "5199675880292517991",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/aztec-falcon.png"
-    }
-  },
-  {
-    "name": "Trinity Knot",
-    "customEmojiId": "5199449449616675994",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/trinity-knot.png"
-    }
-  },
-  {
-    "name": "Wizard Hat",
-    "customEmojiId": "5199659452042611516",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/wizard-hat.png"
-    }
-  },
-  {
-    "name": "Vinyl Record",
-    "customEmojiId": "5199870635584551794",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/vinyl-record.png"
-    }
-  },
-  {
-    "name": "Beretta",
-    "customEmojiId": "5199917351943832803",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/beretta.png"
+      "png": "gifts/snoopcigar/assets/patterns/lightning.png"
     }
   },
   {
     "name": "Los Angeles",
     "customEmojiId": "5199582997329775383",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/los-angeles.png"
     }
   },
   {
-    "name": "Grape",
-    "customEmojiId": "5199618417925067376",
+    "name": "Musical Note",
+    "customEmojiId": "5199763458970653234",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/grape.png"
+      "png": "gifts/snoopcigar/assets/patterns/musical-note.png"
     }
   },
   {
-    "name": "Nemes",
-    "customEmojiId": "5199898990958646583",
+    "name": "Mustang",
+    "customEmojiId": "5199436757988311690",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/nemes.png"
+      "png": "gifts/snoopcigar/assets/patterns/mustang.png"
     }
   },
   {
-    "name": "Royal Crown",
-    "customEmojiId": "5199769278651342343",
+    "name": "Oak Leaf",
+    "customEmojiId": "5199714255825309269",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/royal-crown.png"
+      "png": "gifts/snoopcigar/assets/patterns/oak-leaf.png"
     }
   },
   {
-    "name": "Bone",
-    "customEmojiId": "5199640352323047571",
+    "name": "Ouroboros",
+    "customEmojiId": "5199428661974962024",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bone.png"
+      "png": "gifts/snoopcigar/assets/patterns/ouroboros.png"
     }
   },
   {
-    "name": "Lovely Kiss",
-    "customEmojiId": "5199851368361267380",
+    "name": "Panty",
+    "customEmojiId": "5199834450485085491",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/lovely-kiss.png"
+      "png": "gifts/snoopcigar/assets/patterns/panty.png"
     }
   },
   {
-    "name": "Tsunami",
-    "customEmojiId": "5199500714346319781",
+    "name": "Pawn",
+    "customEmojiId": "5199596131339765368",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/tsunami.png"
-    }
-  },
-  {
-    "name": "Ushanka",
-    "customEmojiId": "5202149927483900109",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/ushanka.png"
-    }
-  },
-  {
-    "name": "Palm Trees",
-    "customEmojiId": "5199492171656364550",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/palm-trees.png"
-    }
-  },
-  {
-    "name": "Potion",
-    "customEmojiId": "5199510532641560275",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/potion.png"
-    }
-  },
-  {
-    "name": "Chili Pepper",
-    "customEmojiId": "5199643277195772037",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/chili-pepper.png"
-    }
-  },
-  {
-    "name": "The Eye",
-    "customEmojiId": "5199464073980313985",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/the-eye.png"
-    }
-  },
-  {
-    "name": "Drug",
-    "customEmojiId": "5199963359633511195",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/drug.png"
-    }
-  },
-  {
-    "name": "Croissant",
-    "customEmojiId": "5199706980150706028",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/croissant.png"
-    }
-  },
-  {
-    "name": "Heater Shield",
-    "customEmojiId": "5199906721899780489",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/heater-shield.png"
-    }
-  },
-  {
-    "name": "Spray Paint",
-    "customEmojiId": "5199752545458747049",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/spray-paint.png"
-    }
-  },
-  {
-    "name": "Cactus",
-    "customEmojiId": "5199664352600297564",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cactus.png"
-    }
-  },
-  {
-    "name": "Sea Horse",
-    "customEmojiId": "5199693631392352882",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/sea-horse.png"
-    }
-  },
-  {
-    "name": "Magic Vial",
-    "customEmojiId": "5199608535205315973",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/magic-vial.png"
-    }
-  },
-  {
-    "name": "Plume Shako",
-    "customEmojiId": "5199423851611589961",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/plume-shako.png"
-    }
-  },
-  {
-    "name": "Mushroom",
-    "customEmojiId": "5199901374665492419",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/mushroom.png"
-    }
-  },
-  {
-    "name": "Crusader Cross",
-    "customEmojiId": "5199468566516105305",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/crusader-cross.png"
-    }
-  },
-  {
-    "name": "Cat Mask",
-    "customEmojiId": "5199751016450395261",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cat-mask.png"
-    }
-  },
-  {
-    "name": "Crystal",
-    "customEmojiId": "5199505833947336625",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/crystal.png"
-    }
-  },
-  {
-    "name": "Police Hat",
-    "customEmojiId": "5199767113987824870",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/police-hat.png"
-    }
-  },
-  {
-    "name": "Boombox",
-    "customEmojiId": "5199586841325506003",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/boombox.png"
-    }
-  },
-  {
-    "name": "Bubble Tea",
-    "customEmojiId": "5199799150148883131",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bubble-tea.png"
-    }
-  },
-  {
-    "name": "Gua Pi Mao",
-    "customEmojiId": "5199440052228229167",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/gua-pi-mao.png"
+      "png": "gifts/snoopcigar/assets/patterns/pawn.png"
     }
   },
   {
     "name": "Pro Headphones",
     "customEmojiId": "5199484230261838343",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/pro-headphones.png"
     }
   },
   {
+    "name": "Sea Horse",
+    "customEmojiId": "5199693631392352882",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/sea-horse.png"
+    }
+  },
+  {
+    "name": "Sea Jelly",
+    "customEmojiId": "5199917369123703634",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/sea-jelly.png"
+    }
+  },
+  {
+    "name": "Shark Knife",
+    "customEmojiId": "5199666796436687154",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/shark-knife.png"
+    }
+  },
+  {
+    "name": "Snoop Logo",
+    "customEmojiId": "5199772435452299061",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/snoop-logo.png"
+    }
+  },
+  {
+    "name": "Sprout",
+    "customEmojiId": "5199705945063589397",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/sprout.png"
+    }
+  },
+  {
+    "name": "Teru Bōzu",
+    "customEmojiId": "5199948172629150385",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/teru-bozu.png"
+    }
+  },
+  {
+    "name": "The Eye",
+    "customEmojiId": "5199464073980313985",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/the-eye.png"
+    }
+  },
+  {
+    "name": "Toy Bucket",
+    "customEmojiId": "5199747872534338785",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/toy-bucket.png"
+    }
+  },
+  {
+    "name": "Wizard Hat",
+    "customEmojiId": "5199659452042611516",
+    "rarityPermille": 4,
+    "originalRarityPermille": 4,
+    "rarity": 0.4,
+    "originalRarity": 0.4,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/wizard-hat.png"
+    }
+  },
+  {
     "name": "213",
     "customEmojiId": "5199597488549434909",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/213.png"
     }
@@ -736,258 +1071,1044 @@ export const patterns = [
   {
     "name": "Anchor",
     "customEmojiId": "5199524130508019696",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/anchor.png"
     }
   },
   {
-    "name": "Spades",
-    "customEmojiId": "5199913155760783674",
+    "name": "Anubis",
+    "customEmojiId": "5199800163761162785",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/spades.png"
+      "png": "gifts/snoopcigar/assets/patterns/anubis.png"
     }
   },
   {
-    "name": "Ghost",
-    "customEmojiId": "5199766383843378029",
+    "name": "Aztec Falcon",
+    "customEmojiId": "5199675880292517991",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/ghost.png"
+      "png": "gifts/snoopcigar/assets/patterns/aztec-falcon.png"
     }
   },
   {
     "name": "Baphomet",
     "customEmojiId": "5199603441374108638",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/baphomet.png"
     }
   },
   {
-    "name": "All-Seeing Eye",
-    "customEmojiId": "5199922359875701200",
+    "name": "Basketball",
+    "customEmojiId": "5199728789994637327",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/all-seeing-eye.png"
-    }
-  },
-  {
-    "name": "Egg",
-    "customEmojiId": "5199786226592283587",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/egg.png"
-    }
-  },
-  {
-    "name": "Planet",
-    "customEmojiId": "5199952033804749816",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/planet.png"
+      "png": "gifts/snoopcigar/assets/patterns/basketball.png"
     }
   },
   {
     "name": "Bastet",
     "customEmojiId": "5199520204907910380",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/bastet.png"
     }
   },
   {
-    "name": "Viper",
-    "customEmojiId": "5199937503930385823",
+    "name": "Beretta",
+    "customEmojiId": "5199917351943832803",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/viper.png"
+      "png": "gifts/snoopcigar/assets/patterns/beretta.png"
     }
   },
   {
     "name": "Blood Drop",
     "customEmojiId": "5199450016552355691",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/blood-drop.png"
     }
   },
   {
-    "name": "Fleur-de-lis",
-    "customEmojiId": "5199655573687140713",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/fleur-de-lis.png"
-    }
-  },
-  {
-    "name": "Turtle",
-    "customEmojiId": "5199802964079839347",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/turtle.png"
-    }
-  },
-  {
-    "name": "Worker Ant",
-    "customEmojiId": "5199496204630661208",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/worker-ant.png"
-    }
-  },
-  {
-    "name": "Desert Eagle",
-    "customEmojiId": "5199964265871611461",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/desert-eagle.png"
-    }
-  },
-  {
-    "name": "Bong",
-    "customEmojiId": "5199531165664442359",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bong.png"
-    }
-  },
-  {
-    "name": "War Tiger",
-    "customEmojiId": "5199588829895364674",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/war-tiger.png"
-    }
-  },
-  {
-    "name": "Bearskin",
-    "customEmojiId": "5199745828129901558",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bearskin.png"
-    }
-  },
-  {
-    "name": "Kashket",
-    "customEmojiId": "5199448672227594010",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/kashket.png"
-    }
-  },
-  {
-    "name": "Coin Purse",
-    "customEmojiId": "5199421974710879091",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/coin-purse.png"
-    }
-  },
-  {
-    "name": "Breeze",
-    "customEmojiId": "5199658631703859803",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/breeze.png"
-    }
-  },
-  {
-    "name": "Iron Helmet",
-    "customEmojiId": "5199857089257702611",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/iron-helmet.png"
-    }
-  },
-  {
-    "name": "Gold",
-    "customEmojiId": "5199529048245569871",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/gold.png"
-    }
-  },
-  {
-    "name": "Tie",
-    "customEmojiId": "5199849435625984324",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/tie.png"
-    }
-  },
-  {
-    "name": "Smartphone",
-    "customEmojiId": "5199833724635614475",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/smartphone.png"
-    }
-  },
-  {
-    "name": "Head Scarf",
-    "customEmojiId": "5199429765781555604",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/head-scarf.png"
-    }
-  },
-  {
-    "name": "Doberman",
-    "customEmojiId": "5199561689997017519",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/doberman.png"
-    }
-  },
-  {
-    "name": "Genie Lamp",
-    "customEmojiId": "5199760491148248638",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/genie-lamp.png"
-    }
-  },
-  {
-    "name": "Onigiri",
-    "customEmojiId": "5199752717257444302",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/onigiri.png"
-    }
-  },
-  {
-    "name": "Black Bandana",
-    "customEmojiId": "5199409596615132950",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/black-bandana.png"
-    }
-  },
-  {
-    "name": "Boat",
-    "customEmojiId": "5199564713653997766",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/boat.png"
-    }
-  },
-  {
-    "name": "Nigiri",
-    "customEmojiId": "5199706554948942813",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/nigiri.png"
-    }
-  },
-  {
-    "name": "Beer",
-    "customEmojiId": "5199920405665583833",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/beer.png"
-    }
-  },
-  {
-    "name": "Cocktail",
-    "customEmojiId": "5199925405007515741",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cocktail.png"
-    }
-  },
-  {
-    "name": "Pickaxe",
-    "customEmojiId": "5199445292088328237",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/pickaxe.png"
-    }
-  },
-  {
-    "name": "Coat of Arms",
-    "customEmojiId": "5199543926012283083",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/coat-of-arms.png"
-    }
-  },
-  {
     "name": "Book",
     "customEmojiId": "5199463541404373712",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/book.png"
     }
   },
   {
+    "name": "Carrot",
+    "customEmojiId": "5199942498977352363",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/carrot.png"
+    }
+  },
+  {
+    "name": "Cat Mask",
+    "customEmojiId": "5199751016450395261",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cat-mask.png"
+    }
+  },
+  {
+    "name": "Crusader Cross",
+    "customEmojiId": "5199468566516105305",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/crusader-cross.png"
+    }
+  },
+  {
+    "name": "Cute Paw",
+    "customEmojiId": "5199960164177840714",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cute-paw.png"
+    }
+  },
+  {
+    "name": "Desert Eagle",
+    "customEmojiId": "5199964265871611461",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/desert-eagle.png"
+    }
+  },
+  {
+    "name": "Dice",
+    "customEmojiId": "5199905927330827651",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/dice.png"
+    }
+  },
+  {
+    "name": "Dollar Graffiti",
+    "customEmojiId": "5199837087595004659",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/dollar-graffiti.png"
+    }
+  },
+  {
+    "name": "Egg Basket",
+    "customEmojiId": "5199573548401720659",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/egg-basket.png"
+    }
+  },
+  {
+    "name": "Garden Pot",
+    "customEmojiId": "5199961336703914826",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/garden-pot.png"
+    }
+  },
+  {
+    "name": "Gift Box",
+    "customEmojiId": "5199854971838826197",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/gift-box.png"
+    }
+  },
+  {
+    "name": "Heater Shield",
+    "customEmojiId": "5199906721899780489",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/heater-shield.png"
+    }
+  },
+  {
+    "name": "Key",
+    "customEmojiId": "5199761882717653195",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/key.png"
+    }
+  },
+  {
+    "name": "Like",
+    "customEmojiId": "5199438957011572772",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/like.png"
+    }
+  },
+  {
+    "name": "Loudspeaker",
+    "customEmojiId": "5199796135081839538",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/loudspeaker.png"
+    }
+  },
+  {
+    "name": "Love Lock",
+    "customEmojiId": "5199543157213139030",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/love-lock.png"
+    }
+  },
+  {
+    "name": "Low Rider",
+    "customEmojiId": "5199830512000078489",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/low-rider.png"
+    }
+  },
+  {
+    "name": "Moon Eagle",
+    "customEmojiId": "5199513281420625625",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/moon-eagle.png"
+    }
+  },
+  {
+    "name": "Nemes",
+    "customEmojiId": "5199898990958646583",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/nemes.png"
+    }
+  },
+  {
+    "name": "Nigiri",
+    "customEmojiId": "5199706554948942813",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/nigiri.png"
+    }
+  },
+  {
+    "name": "Onigiri",
+    "customEmojiId": "5199752717257444302",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/onigiri.png"
+    }
+  },
+  {
+    "name": "Origami",
+    "customEmojiId": "5199778723284421527",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/origami.png"
+    }
+  },
+  {
+    "name": "PC Mouse",
+    "customEmojiId": "5199776412592014669",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/pc-mouse.png"
+    }
+  },
+  {
+    "name": "Pencil",
+    "customEmojiId": "5199649638042340721",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/pencil.png"
+    }
+  },
+  {
+    "name": "Planet",
+    "customEmojiId": "5199952033804749816",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/planet.png"
+    }
+  },
+  {
+    "name": "Plume Shako",
+    "customEmojiId": "5199423851611589961",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/plume-shako.png"
+    }
+  },
+  {
+    "name": "Radar",
+    "customEmojiId": "5199811519654695383",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/radar.png"
+    }
+  },
+  {
+    "name": "Rap Mic",
+    "customEmojiId": "5199480528000031785",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/rap-mic.png"
+    }
+  },
+  {
+    "name": "Rap Sign",
+    "customEmojiId": "5199894872085010619",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/rap-sign.png"
+    }
+  },
+  {
+    "name": "Revolver",
+    "customEmojiId": "5199915006891691950",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/revolver.png"
+    }
+  },
+  {
+    "name": "Rooster",
+    "customEmojiId": "5199454002282004330",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/rooster.png"
+    }
+  },
+  {
+    "name": "Smartphone",
+    "customEmojiId": "5199833724635614475",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/smartphone.png"
+    }
+  },
+  {
+    "name": "Snoop Collar",
+    "customEmojiId": "5199530658858308320",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/snoop-collar.png"
+    }
+  },
+  {
+    "name": "Snoop Leaf",
+    "customEmojiId": "5199915221640055629",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/snoop-leaf.png"
+    }
+  },
+  {
+    "name": "Spray Paint",
+    "customEmojiId": "5199752545458747049",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/spray-paint.png"
+    }
+  },
+  {
+    "name": "Swag Bandana",
+    "customEmojiId": "5199450188351046792",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/swag-bandana.png"
+    }
+  },
+  {
+    "name": "Ushanka",
+    "customEmojiId": "5202149927483900109",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/ushanka.png"
+    }
+  },
+  {
+    "name": "Wagasa",
+    "customEmojiId": "5199688541856110192",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/wagasa.png"
+    }
+  },
+  {
+    "name": "Westside Hand",
+    "customEmojiId": "5199430504515930470",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/westside-hand.png"
+    }
+  },
+  {
+    "name": "Yo Sign",
+    "customEmojiId": "5199924683453008944",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/yo-sign.png"
+    }
+  },
+  {
+    "name": "Black Bandana",
+    "customEmojiId": "5199409596615132950",
+    "rarityPermille": 6,
+    "originalRarityPermille": 6,
+    "rarity": 0.6,
+    "originalRarity": 0.6,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/black-bandana.png"
+    }
+  },
+  {
+    "name": "Gingerbread",
+    "customEmojiId": "5199945376605439444",
+    "rarityPermille": 6,
+    "originalRarityPermille": 6,
+    "rarity": 0.6,
+    "originalRarity": 0.6,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/gingerbread.png"
+    }
+  },
+  {
+    "name": "Lovely Kiss",
+    "customEmojiId": "5199851368361267380",
+    "rarityPermille": 6,
+    "originalRarityPermille": 6,
+    "rarity": 0.6,
+    "originalRarity": 0.6,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/lovely-kiss.png"
+    }
+  },
+  {
+    "name": "Mushroom",
+    "customEmojiId": "5199901374665492419",
+    "rarityPermille": 6,
+    "originalRarityPermille": 6,
+    "rarity": 0.6,
+    "originalRarity": 0.6,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/mushroom.png"
+    }
+  },
+  {
+    "name": "All-Seeing Eye",
+    "customEmojiId": "5199922359875701200",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/all-seeing-eye.png"
+    }
+  },
+  {
+    "name": "Bascinet",
+    "customEmojiId": "5199688421597022189",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bascinet.png"
+    }
+  },
+  {
+    "name": "Bearskin",
+    "customEmojiId": "5199745828129901558",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bearskin.png"
+    }
+  },
+  {
+    "name": "Beer",
+    "customEmojiId": "5199920405665583833",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/beer.png"
+    }
+  },
+  {
+    "name": "Bike Helmet",
+    "customEmojiId": "5199780634544872443",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bike-helmet.png"
+    }
+  },
+  {
+    "name": "Blunt",
+    "customEmojiId": "5199523894284813020",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/blunt.png"
+    }
+  },
+  {
+    "name": "Bone",
+    "customEmojiId": "5199640352323047571",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bone.png"
+    }
+  },
+  {
+    "name": "Bong",
+    "customEmojiId": "5199531165664442359",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bong.png"
+    }
+  },
+  {
+    "name": "Boombox",
+    "customEmojiId": "5199586841325506003",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/boombox.png"
+    }
+  },
+  {
+    "name": "Bread",
+    "customEmojiId": "5199525547847224334",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bread.png"
+    }
+  },
+  {
+    "name": "Breeze",
+    "customEmojiId": "5199658631703859803",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/breeze.png"
+    }
+  },
+  {
+    "name": "Bug",
+    "customEmojiId": "5199687519653889118",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bug.png"
+    }
+  },
+  {
+    "name": "Bunny Ears",
+    "customEmojiId": "5199774076129808154",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/bunny-ears.png"
+    }
+  },
+  {
+    "name": "Burger",
+    "customEmojiId": "5199576765332229212",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/burger.png"
+    }
+  },
+  {
+    "name": "Cactus",
+    "customEmojiId": "5199664352600297564",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cactus.png"
+    }
+  },
+  {
+    "name": "Cash",
+    "customEmojiId": "5199583108998922344",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cash.png"
+    }
+  },
+  {
+    "name": "Cash Cap",
+    "customEmojiId": "5199576043777723654",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cash-cap.png"
+    }
+  },
+  {
+    "name": "Cavalier Hat",
+    "customEmojiId": "5199484170132292855",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cavalier-hat.png"
+    }
+  },
+  {
+    "name": "Coat of Arms",
+    "customEmojiId": "5199543926012283083",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/coat-of-arms.png"
+    }
+  },
+  {
+    "name": "Cobra",
+    "customEmojiId": "5199726195834392948",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cobra.png"
+    }
+  },
+  {
+    "name": "Cocktail",
+    "customEmojiId": "5199925405007515741",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cocktail.png"
+    }
+  },
+  {
+    "name": "Coconut",
+    "customEmojiId": "5199939960651680778",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/coconut.png"
+    }
+  },
+  {
+    "name": "Cricket Helmet",
+    "customEmojiId": "5199841202173676889",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/cricket-helmet.png"
+    }
+  },
+  {
+    "name": "Crown",
+    "customEmojiId": "5199763085308495651",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/crown.png"
+    }
+  },
+  {
+    "name": "Deerstalker",
+    "customEmojiId": "5199479669006568749",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/deerstalker.png"
+    }
+  },
+  {
+    "name": "Doberman",
+    "customEmojiId": "5199561689997017519",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/doberman.png"
+    }
+  },
+  {
+    "name": "Dolphin",
+    "customEmojiId": "5199801499495994058",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/dolphin.png"
+    }
+  },
+  {
+    "name": "Drug",
+    "customEmojiId": "5199963359633511195",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/drug.png"
+    }
+  },
+  {
+    "name": "Egg",
+    "customEmojiId": "5199786226592283587",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/egg.png"
+    }
+  },
+  {
+    "name": "Fishing Hook",
+    "customEmojiId": "5199562218277996516",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/fishing-hook.png"
+    }
+  },
+  {
+    "name": "Full Moon",
+    "customEmojiId": "5199549311901275297",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/full-moon.png"
+    }
+  },
+  {
+    "name": "Gem",
+    "customEmojiId": "5199568523289988128",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/gem.png"
+    }
+  },
+  {
+    "name": "Ghost",
+    "customEmojiId": "5199766383843378029",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/ghost.png"
+    }
+  },
+  {
+    "name": "Glasses",
+    "customEmojiId": "5199843323887519152",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/glasses.png"
+    }
+  },
+  {
+    "name": "Gold",
+    "customEmojiId": "5199529048245569871",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/gold.png"
+    }
+  },
+  {
+    "name": "Grape",
+    "customEmojiId": "5199618417925067376",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/grape.png"
+    }
+  },
+  {
+    "name": "Head Scarf",
+    "customEmojiId": "5199429765781555604",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/head-scarf.png"
+    }
+  },
+  {
+    "name": "Iron Helmet",
+    "customEmojiId": "5199857089257702611",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/iron-helmet.png"
+    }
+  },
+  {
+    "name": "Kashket",
+    "customEmojiId": "5199448672227594010",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/kashket.png"
+    }
+  },
+  {
+    "name": "Kitsune Mask",
+    "customEmojiId": "5199633360116285741",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/kitsune-mask.png"
+    }
+  },
+  {
+    "name": "Lion of Babylon",
+    "customEmojiId": "5199765593569398366",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/lion-of-babylon.png"
+    }
+  },
+  {
+    "name": "Magic Vial",
+    "customEmojiId": "5199608535205315973",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/magic-vial.png"
+    }
+  },
+  {
     "name": "Melon",
     "customEmojiId": "5199664507219118426",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/melon.png"
     }
@@ -995,1442 +2116,1943 @@ export const patterns = [
   {
     "name": "Money Bag",
     "customEmojiId": "5199426943988044271",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/money-bag.png"
     }
   },
   {
-    "name": "Wise Raven",
-    "customEmojiId": "5199774827749083086",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/wise-raven.png"
-    }
-  },
-  {
-    "name": "Moon Eagle",
-    "customEmojiId": "5199513281420625625",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/moon-eagle.png"
-    }
-  },
-  {
-    "name": "Revolver",
-    "customEmojiId": "5199915006891691950",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/revolver.png"
-    }
-  },
-  {
-    "name": "Apple",
-    "customEmojiId": "5199834806967375335",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/apple.png"
-    }
-  },
-  {
-    "name": "Bike Helmet",
-    "customEmojiId": "5199780634544872443",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bike-helmet.png"
-    }
-  },
-  {
-    "name": "Gem",
-    "customEmojiId": "5199568523289988128",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/gem.png"
-    }
-  },
-  {
-    "name": "Tooth",
-    "customEmojiId": "5199462351698429183",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/tooth.png"
-    }
-  },
-  {
-    "name": "Headphones",
-    "customEmojiId": "5199736980497270388",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/headphones.png"
-    }
-  },
-  {
-    "name": "Shark Knife",
-    "customEmojiId": "5199666796436687154",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/shark-knife.png"
-    }
-  },
-  {
-    "name": "Baseball Cap",
-    "customEmojiId": "5199873423018329022",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/baseball-cap.png"
-    }
-  },
-  {
-    "name": "Sunflower",
-    "customEmojiId": "5199874518234992013",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/sunflower.png"
-    }
-  },
-  {
-    "name": "Mustang",
-    "customEmojiId": "5199436757988311690",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/mustang.png"
-    }
-  },
-  {
-    "name": "Egg Basket",
-    "customEmojiId": "5199573548401720659",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/egg-basket.png"
-    }
-  },
-  {
-    "name": "Panty",
-    "customEmojiId": "5199834450485085491",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/panty.png"
-    }
-  },
-  {
-    "name": "Cobra",
-    "customEmojiId": "5199726195834392948",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cobra.png"
-    }
-  },
-  {
-    "name": "Lightning",
-    "customEmojiId": "5202201454206549813",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/lightning.png"
-    }
-  },
-  {
-    "name": "Full Moon",
-    "customEmojiId": "5199549311901275297",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/full-moon.png"
-    }
-  },
-  {
-    "name": "Gift Box",
-    "customEmojiId": "5199854971838826197",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/gift-box.png"
-    }
-  },
-  {
-    "name": "Inguz Rune",
-    "customEmojiId": "5199780557235455952",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/inguz-rune.png"
-    }
-  },
-  {
-    "name": "Sea Jelly",
-    "customEmojiId": "5199917369123703634",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/sea-jelly.png"
-    }
-  },
-  {
-    "name": "Blunt",
-    "customEmojiId": "5199523894284813020",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/blunt.png"
-    }
-  },
-  {
-    "name": "Lion of Babylon",
-    "customEmojiId": "5199765593569398366",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/lion-of-babylon.png"
-    }
-  },
-  {
-    "name": "Low Rider",
-    "customEmojiId": "5199830512000078489",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/low-rider.png"
-    }
-  },
-  {
-    "name": "Pawn",
-    "customEmojiId": "5199596131339765368",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/pawn.png"
-    }
-  },
-  {
-    "name": "Rain Drop",
-    "customEmojiId": "5199596200059239228",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/rain-drop.png"
-    }
-  },
-  {
-    "name": "Gingerbread",
-    "customEmojiId": "5199945376605439444",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/gingerbread.png"
-    }
-  },
-  {
-    "name": "Unicorn Head",
-    "customEmojiId": "5199885517646234797",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/unicorn-head.png"
-    }
-  },
-  {
-    "name": "Mustache",
-    "customEmojiId": "5199490530978856729",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/mustache.png"
-    }
-  },
-  {
-    "name": "Rap Mic",
-    "customEmojiId": "5199480528000031785",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/rap-mic.png"
-    }
-  },
-  {
-    "name": "Oak Leaf",
-    "customEmojiId": "5199714255825309269",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/oak-leaf.png"
-    }
-  },
-  {
-    "name": "Dice",
-    "customEmojiId": "5199905927330827651",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/dice.png"
-    }
-  },
-  {
-    "name": "Carrot",
-    "customEmojiId": "5199942498977352363",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/carrot.png"
-    }
-  },
-  {
-    "name": "Origami",
-    "customEmojiId": "5199778723284421527",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/origami.png"
-    }
-  },
-  {
-    "name": "UFO",
-    "customEmojiId": "5199788069133256359",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/ufo.png"
-    }
-  },
-  {
-    "name": "Coconut",
-    "customEmojiId": "5199939960651680778",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/coconut.png"
-    }
-  },
-  {
-    "name": "Ouroboros",
-    "customEmojiId": "5199428661974962024",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/ouroboros.png"
-    }
-  },
-  {
-    "name": "Cricket Helmet",
-    "customEmojiId": "5199841202173676889",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cricket-helmet.png"
-    }
-  },
-  {
-    "name": "Diamond",
-    "customEmojiId": "5199628004292067329",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/diamond.png"
-    }
-  },
-  {
-    "name": "Brass Knuckles",
-    "customEmojiId": "5199924546014052526",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/brass-knuckles.png"
-    }
-  },
-  {
-    "name": "PC Mouse",
-    "customEmojiId": "5199776412592014669",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/pc-mouse.png"
-    }
-  },
-  {
-    "name": "Rooster",
-    "customEmojiId": "5199454002282004330",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/rooster.png"
-    }
-  },
-  {
-    "name": "Snoop Collar",
-    "customEmojiId": "5199530658858308320",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/snoop-collar.png"
-    }
-  },
-  {
-    "name": "Rocket",
-    "customEmojiId": "5199857192336916692",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/rocket.png"
-    }
-  },
-  {
-    "name": "Bread",
-    "customEmojiId": "5199525547847224334",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bread.png"
-    }
-  },
-  {
-    "name": "Snoop Leaf",
-    "customEmojiId": "5199915221640055629",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/snoop-leaf.png"
-    }
-  },
-  {
-    "name": "Swag Bandana",
-    "customEmojiId": "5199450188351046792",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/swag-bandana.png"
-    }
-  },
-  {
-    "name": "Snoop Logo",
-    "customEmojiId": "5199772435452299061",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/snoop-logo.png"
-    }
-  },
-  {
-    "name": "Teru Bōzu",
-    "customEmojiId": "5199948172629150385",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/teru-bozu.png"
-    }
-  },
-  {
-    "name": "Pencil",
-    "customEmojiId": "5199649638042340721",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/pencil.png"
-    }
-  },
-  {
-    "name": "Sprout",
-    "customEmojiId": "5199705945063589397",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/sprout.png"
-    }
-  },
-  {
-    "name": "Deerstalker",
-    "customEmojiId": "5199479669006568749",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/deerstalker.png"
-    }
-  },
-  {
-    "name": "Cute Paw",
-    "customEmojiId": "5199960164177840714",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cute-paw.png"
-    }
-  },
-  {
-    "name": "Burger",
-    "customEmojiId": "5199576765332229212",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/burger.png"
-    }
-  },
-  {
-    "name": "Key",
-    "customEmojiId": "5199761882717653195",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/key.png"
-    }
-  },
-  {
-    "name": "Scarab",
-    "customEmojiId": "5199439627026463806",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/scarab.png"
-    }
-  },
-  {
-    "name": "Crown",
-    "customEmojiId": "5199763085308495651",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/crown.png"
-    }
-  },
-  {
-    "name": "Musical Note",
-    "customEmojiId": "5199763458970653234",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/musical-note.png"
-    }
-  },
-  {
-    "name": "Like",
-    "customEmojiId": "5199438957011572772",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/like.png"
-    }
-  },
-  {
-    "name": "Oxen of Fire",
-    "customEmojiId": "5199717897957573867",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/oxen-of-fire.png"
-    }
-  },
-  {
-    "name": "Glasses",
-    "customEmojiId": "5199843323887519152",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/glasses.png"
-    }
-  },
-  {
-    "name": "Garden Pot",
-    "customEmojiId": "5199961336703914826",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/garden-pot.png"
-    }
-  },
-  {
-    "name": "UZI",
-    "customEmojiId": "5199435392188712389",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/uzi.png"
-    }
-  },
-  {
-    "name": "Basketball",
-    "customEmojiId": "5199728789994637327",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/basketball.png"
-    }
-  },
-  {
-    "name": "Jellyfish",
-    "customEmojiId": "5199463842052082744",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/jellyfish.png"
-    }
-  },
-  {
-    "name": "Old Candle",
-    "customEmojiId": "5199902654565747851",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/old-candle.png"
-    }
-  },
-  {
     "name": "Music Skull",
     "customEmojiId": "5199447121744399613",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/music-skull.png"
     }
   },
   {
-    "name": "Chest",
-    "customEmojiId": "5199799017004894591",
+    "name": "Mustache",
+    "customEmojiId": "5199490530978856729",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/chest.png"
+      "png": "gifts/snoopcigar/assets/patterns/mustache.png"
     }
   },
   {
-    "name": "Acorn",
-    "customEmojiId": "5199500774475870841",
+    "name": "Old Candle",
+    "customEmojiId": "5199902654565747851",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/acorn.png"
+      "png": "gifts/snoopcigar/assets/patterns/old-candle.png"
     }
   },
   {
-    "name": "Love Lock",
-    "customEmojiId": "5199543157213139030",
+    "name": "Oxen of Fire",
+    "customEmojiId": "5199717897957573867",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/love-lock.png"
-    }
-  },
-  {
-    "name": "Bug",
-    "customEmojiId": "5199687519653889118",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bug.png"
-    }
-  },
-  {
-    "name": "Cash Cap",
-    "customEmojiId": "5199576043777723654",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cash-cap.png"
-    }
-  },
-  {
-    "name": "Bascinet",
-    "customEmojiId": "5199688421597022189",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bascinet.png"
-    }
-  },
-  {
-    "name": "Bottlenose",
-    "customEmojiId": "5199797414982094107",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/bottlenose.png"
-    }
-  },
-  {
-    "name": "Dollar Graffiti",
-    "customEmojiId": "5199837087595004659",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/dollar-graffiti.png"
-    }
-  },
-  {
-    "name": "Anubis",
-    "customEmojiId": "5199800163761162785",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/anubis.png"
-    }
-  },
-  {
-    "name": "Toy Bucket",
-    "customEmojiId": "5199747872534338785",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/toy-bucket.png"
-    }
-  },
-  {
-    "name": "Steampunk Hat",
-    "customEmojiId": "5199923729970268578",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/steampunk-hat.png"
+      "png": "gifts/snoopcigar/assets/patterns/oxen-of-fire.png"
     }
   },
   {
     "name": "Paisley",
     "customEmojiId": "5199498309164632323",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/paisley.png"
     }
   },
   {
-    "name": "Fishing Hook",
-    "customEmojiId": "5199562218277996516",
+    "name": "Palm Trees",
+    "customEmojiId": "5199492171656364550",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/fishing-hook.png"
-    }
-  },
-  {
-    "name": "Westside Hand",
-    "customEmojiId": "5199430504515930470",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/westside-hand.png"
+      "png": "gifts/snoopcigar/assets/patterns/palm-trees.png"
     }
   },
   {
     "name": "Pegasus",
     "customEmojiId": "5199615102210311126",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/pegasus.png"
     }
   },
   {
+    "name": "Pickaxe",
+    "customEmojiId": "5199445292088328237",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/pickaxe.png"
+    }
+  },
+  {
+    "name": "Pineapple",
+    "customEmojiId": "5199590977379009936",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/pineapple.png"
+    }
+  },
+  {
+    "name": "Police Hat",
+    "customEmojiId": "5199767113987824870",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/police-hat.png"
+    }
+  },
+  {
     "name": "Porrige",
     "customEmojiId": "5199425857361315324",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/porrige.png"
     }
   },
   {
-    "name": "Rap Sign",
-    "customEmojiId": "5199894872085010619",
+    "name": "Potion",
+    "customEmojiId": "5199510532641560275",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/rap-sign.png"
-    }
-  },
-  {
-    "name": "Yo Sign",
-    "customEmojiId": "5199924683453008944",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/yo-sign.png"
-    }
-  },
-  {
-    "name": "Wagasa",
-    "customEmojiId": "5199688541856110192",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/wagasa.png"
-    }
-  },
-  {
-    "name": "Cheese",
-    "customEmojiId": "5199949985105348813",
-    "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cheese.png"
+      "png": "gifts/snoopcigar/assets/patterns/potion.png"
     }
   },
   {
     "name": "Press Hat",
     "customEmojiId": "5199819379444842683",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
       "png": "gifts/snoopcigar/assets/patterns/press-hat.png"
     }
   },
   {
-    "name": "Cash",
-    "customEmojiId": "5199583108998922344",
+    "name": "Rain Drop",
+    "customEmojiId": "5199596200059239228",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/cash.png"
+      "png": "gifts/snoopcigar/assets/patterns/rain-drop.png"
     }
   },
   {
-    "name": "Kitsune Mask",
-    "customEmojiId": "5199633360116285741",
+    "name": "Ring",
+    "customEmojiId": "5199821179036142060",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/kitsune-mask.png"
+      "png": "gifts/snoopcigar/assets/patterns/ring.png"
     }
   },
   {
-    "name": "Loudspeaker",
-    "customEmojiId": "5199796135081839538",
+    "name": "Rocket",
+    "customEmojiId": "5199857192336916692",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
     "assets": {
-      "png": "gifts/snoopcigar/assets/patterns/loudspeaker.png"
+      "png": "gifts/snoopcigar/assets/patterns/rocket.png"
+    }
+  },
+  {
+    "name": "Royal Crown",
+    "customEmojiId": "5199769278651342343",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/royal-crown.png"
+    }
+  },
+  {
+    "name": "Scarab",
+    "customEmojiId": "5199439627026463806",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/scarab.png"
+    }
+  },
+  {
+    "name": "Spades",
+    "customEmojiId": "5199913155760783674",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/spades.png"
+    }
+  },
+  {
+    "name": "Sparks",
+    "customEmojiId": "5199534721897367416",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/sparks.png"
+    }
+  },
+  {
+    "name": "Steampunk Hat",
+    "customEmojiId": "5199923729970268578",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/steampunk-hat.png"
+    }
+  },
+  {
+    "name": "Sunflower",
+    "customEmojiId": "5199874518234992013",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/sunflower.png"
+    }
+  },
+  {
+    "name": "Tie",
+    "customEmojiId": "5199849435625984324",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/tie.png"
+    }
+  },
+  {
+    "name": "Tooth",
+    "customEmojiId": "5199462351698429183",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/tooth.png"
+    }
+  },
+  {
+    "name": "Trinity Knot",
+    "customEmojiId": "5199449449616675994",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/trinity-knot.png"
+    }
+  },
+  {
+    "name": "Tsunami",
+    "customEmojiId": "5199500714346319781",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/tsunami.png"
+    }
+  },
+  {
+    "name": "Turtle",
+    "customEmojiId": "5199802964079839347",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/turtle.png"
+    }
+  },
+  {
+    "name": "UFO",
+    "customEmojiId": "5199788069133256359",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/ufo.png"
+    }
+  },
+  {
+    "name": "Unicorn Head",
+    "customEmojiId": "5199885517646234797",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/unicorn-head.png"
+    }
+  },
+  {
+    "name": "UZI",
+    "customEmojiId": "5199435392188712389",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/uzi.png"
+    }
+  },
+  {
+    "name": "Vinyl Record",
+    "customEmojiId": "5199870635584551794",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/vinyl-record.png"
+    }
+  },
+  {
+    "name": "Viper",
+    "customEmojiId": "5199937503930385823",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/viper.png"
+    }
+  },
+  {
+    "name": "War Tiger",
+    "customEmojiId": "5199588829895364674",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/war-tiger.png"
+    }
+  },
+  {
+    "name": "Warhorse",
+    "customEmojiId": "5199428060679541926",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/warhorse.png"
+    }
+  },
+  {
+    "name": "Wise Raven",
+    "customEmojiId": "5199774827749083086",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/wise-raven.png"
+    }
+  },
+  {
+    "name": "Worker Ant",
+    "customEmojiId": "5199496204630661208",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/worker-ant.png"
+    }
+  },
+  {
+    "name": "Yogi Shaman",
+    "customEmojiId": "5199445571261203846",
+    "rarityPermille": 7,
+    "originalRarityPermille": 7,
+    "rarity": 0.7,
+    "originalRarity": 0.7,
+    "assets": {
+      "png": "gifts/snoopcigar/assets/patterns/yogi-shaman.png"
     }
   }
 ] satisfies readonly GiftPattern[];
 
 export const backdrops = [
   {
-    "name": "Orange",
-    "customEmojiId": "5375479315603420454",
-    "hex": {
-      "centerColor": "#d19a3a",
-      "edgeColor": "#c06f47",
-      "patternColor": "#9d3907",
-      "textColor": "#ffe1c3"
-    }
-  },
-  {
-    "name": "Hunter Green",
-    "customEmojiId": "5375046438734558335",
-    "hex": {
-      "centerColor": "#8fae78",
-      "edgeColor": "#4b825b",
-      "patternColor": "#1c491f",
-      "textColor": "#d8f5de"
-    }
-  },
-  {
-    "name": "Purple",
-    "customEmojiId": "5375106490967289982",
-    "hex": {
-      "centerColor": "#ae6cae",
-      "edgeColor": "#844784",
-      "patternColor": "#470c47",
-      "textColor": "#f3cbf3"
-    }
-  },
-  {
-    "name": "Camo Green",
-    "customEmojiId": "5375411489479878975",
-    "hex": {
-      "centerColor": "#75944d",
-      "edgeColor": "#547341",
-      "patternColor": "#163701",
-      "textColor": "#cfe8b9"
-    }
-  },
-  {
-    "name": "Feldgrau",
-    "customEmojiId": "5375107384320485908",
-    "hex": {
-      "centerColor": "#899288",
-      "edgeColor": "#5e6b63",
-      "patternColor": "#1c261f",
-      "textColor": "#dee9e1"
-    }
-  },
-  {
-    "name": "Strawberry",
-    "customEmojiId": "5377810976039004691",
-    "hex": {
-      "centerColor": "#dd8e6f",
-      "edgeColor": "#b75a60",
-      "patternColor": "#a90c0c",
-      "textColor": "#ffd3d3"
-    }
-  },
-  {
-    "name": "Dark Lilac",
-    "customEmojiId": "5375595296900280612",
-    "hex": {
-      "centerColor": "#b17da5",
-      "edgeColor": "#8c577a",
-      "patternColor": "#652852",
-      "textColor": "#f0c4e2"
-    }
-  },
-  {
-    "name": "Rosewood",
-    "customEmojiId": "5375125960054043180",
-    "hex": {
-      "centerColor": "#b77a77",
-      "edgeColor": "#814c52",
-      "patternColor": "#551c22",
-      "textColor": "#edcacd"
-    }
-  },
-  {
-    "name": "Steel Grey",
-    "customEmojiId": "5377767863157283654",
-    "hex": {
-      "centerColor": "#97a2ac",
-      "edgeColor": "#63727c",
-      "patternColor": "#334552",
-      "textColor": "#dfe4e8"
-    }
-  },
-  {
-    "name": "Pacific Green",
-    "customEmojiId": "5375523141449707206",
-    "hex": {
-      "centerColor": "#6fc793",
-      "edgeColor": "#3b9c84",
-      "patternColor": "#006149",
-      "textColor": "#c6fff0"
-    }
-  },
-  {
-    "name": "Burnt Sienna",
-    "customEmojiId": "5377680275889219155",
-    "hex": {
-      "centerColor": "#d66f3c",
-      "edgeColor": "#b54b2d",
-      "patternColor": "#6b0902",
-      "textColor": "#ffccb0"
-    }
-  },
-  {
-    "name": "Satin Gold",
-    "customEmojiId": "5377843106689344328",
-    "hex": {
-      "centerColor": "#bf9b47",
-      "edgeColor": "#8d7739",
-      "patternColor": "#5d3b00",
-      "textColor": "#fee4a9"
-    }
-  },
-  {
-    "name": "Amber",
-    "customEmojiId": "5375590628270831231",
-    "hex": {
-      "centerColor": "#dab345",
-      "edgeColor": "#b1802a",
-      "patternColor": "#7a3100",
-      "textColor": "#ffedc7"
-    }
-  },
-  {
-    "name": "Carrot Juice",
-    "customEmojiId": "5377603262830633515",
-    "hex": {
-      "centerColor": "#db9867",
-      "edgeColor": "#c76f4f",
-      "patternColor": "#8e2100",
-      "textColor": "#ffd7ca"
-    }
-  },
-  {
-    "name": "Burgundy",
-    "customEmojiId": "5375243216956193305",
-    "hex": {
-      "centerColor": "#a35e66",
-      "edgeColor": "#6d414a",
-      "patternColor": "#340307",
-      "textColor": "#e7bcc0"
-    }
-  },
-  {
-    "name": "Pistachio",
-    "customEmojiId": "5375280450027679837",
-    "hex": {
-      "centerColor": "#97b07c",
-      "edgeColor": "#5c814c",
-      "patternColor": "#28471b",
-      "textColor": "#d9f2c9"
-    }
-  },
-  {
-    "name": "Ivory White",
-    "customEmojiId": "5375500438252580046",
-    "hex": {
-      "centerColor": "#bab6b1",
-      "edgeColor": "#a19d97",
-      "patternColor": "#665f52",
-      "textColor": "#f5f4f2"
-    }
-  },
-  {
-    "name": "Cobalt Blue",
-    "customEmojiId": "5375508658819986305",
-    "hex": {
-      "centerColor": "#6088cf",
-      "edgeColor": "#5162b8",
-      "patternColor": "#13247c",
-      "textColor": "#c2d3f5"
-    }
-  },
-  {
-    "name": "Chocolate",
-    "customEmojiId": "5375145089838378346",
-    "hex": {
-      "centerColor": "#a46e58",
-      "edgeColor": "#74443b",
-      "patternColor": "#3e0a02",
-      "textColor": "#e4b6ac"
-    }
-  },
-  {
-    "name": "Cyberpunk",
-    "customEmojiId": "5375292097978986361",
-    "hex": {
-      "centerColor": "#858ff3",
-      "edgeColor": "#865fd3",
-      "patternColor": "#4318a6",
-      "textColor": "#e0d9ff"
-    }
-  },
-  {
-    "name": "Pine Green",
-    "customEmojiId": "5375456049765578111",
-    "hex": {
-      "centerColor": "#6ba97c",
-      "edgeColor": "#3e7970",
-      "patternColor": "#0b4833",
-      "textColor": "#d8f5e5"
-    }
-  },
-  {
-    "name": "French Blue",
-    "customEmojiId": "5375333269535485469",
-    "hex": {
-      "centerColor": "#5c9bc4",
-      "edgeColor": "#37739a",
-      "patternColor": "#073b5c",
-      "textColor": "#c1e3f9"
-    }
-  },
-  {
-    "name": "Mystic Pearl",
-    "customEmojiId": "5375343865219805643",
-    "hex": {
-      "centerColor": "#d08b6d",
-      "edgeColor": "#b05770",
-      "patternColor": "#9b0526",
-      "textColor": "#fedde0"
-    }
-  },
-  {
-    "name": "Turquoise",
-    "customEmojiId": "5375084470669966301",
-    "hex": {
-      "centerColor": "#5ec0b8",
-      "edgeColor": "#3d928e",
-      "patternColor": "#11534c",
-      "textColor": "#bdf8f2"
-    }
-  },
-  {
-    "name": "Tactical Pine",
-    "customEmojiId": "5375347412862793082",
-    "hex": {
-      "centerColor": "#44826b",
-      "edgeColor": "#2f6369",
-      "patternColor": "#002624",
-      "textColor": "#b7e6d3"
-    }
-  },
-  {
-    "name": "Ranger Green",
-    "customEmojiId": "5375074549295510665",
-    "hex": {
-      "centerColor": "#5f7849",
-      "edgeColor": "#3c4f3b",
-      "patternColor": "#102209",
-      "textColor": "#b7c4b5"
-    }
-  },
-  {
-    "name": "Celtic Blue",
-    "customEmojiId": "5375186931409777211",
-    "hex": {
-      "centerColor": "#45b8ed",
-      "edgeColor": "#3886d9",
-      "patternColor": "#003e85",
-      "textColor": "#c2e7ff"
-    }
-  },
-  {
-    "name": "Shamrock Green",
-    "customEmojiId": "5377843866898555150",
-    "hex": {
-      "centerColor": "#8ab163",
-      "edgeColor": "#559345",
-      "patternColor": "#126b00",
-      "textColor": "#d5fbc8"
-    }
-  },
-  {
-    "name": "Desert Sand",
-    "customEmojiId": "5375295684276677732",
-    "hex": {
-      "centerColor": "#b39f82",
-      "edgeColor": "#7e735b",
-      "patternColor": "#504429",
-      "textColor": "#f2e5cd"
-    }
-  },
-  {
-    "name": "Dark Green",
-    "customEmojiId": "5375600953372209854",
-    "hex": {
-      "centerColor": "#516341",
-      "edgeColor": "#2b452f",
-      "patternColor": "#000501",
-      "textColor": "#bfd1a9"
-    }
-  },
-  {
-    "name": "Navy Blue",
-    "customEmojiId": "5375095358412057425",
-    "hex": {
-      "centerColor": "#6c9edd",
-      "edgeColor": "#5c6ec9",
-      "patternColor": "#1239a2",
-      "textColor": "#d3e1ff"
-    }
-  },
-  {
     "name": "Azure Blue",
+    "backdropId": 9,
     "customEmojiId": "5375057773153254940",
+    "centerColor": 6140363,
+    "edgeColor": 4492203,
+    "patternColor": 151668,
+    "textColor": 11922687,
     "hex": {
       "centerColor": "#5db1cb",
       "edgeColor": "#448bab",
       "patternColor": "#025074",
       "textColor": "#b5ecff"
-    }
-  },
-  {
-    "name": "Deep Cyan",
-    "customEmojiId": "5377423312290868137",
-    "hex": {
-      "centerColor": "#31b5aa",
-      "edgeColor": "#189599",
-      "patternColor": "#004f4f",
-      "textColor": "#d1fffd"
-    }
-  },
-  {
-    "name": "Khaki Green",
-    "customEmojiId": "5377549107587998846",
-    "hex": {
-      "centerColor": "#adb070",
-      "edgeColor": "#6b7d54",
-      "patternColor": "#39501b",
-      "textColor": "#d3e6bb"
-    }
-  },
-  {
-    "name": "Silver Blue",
-    "customEmojiId": "5375068162679139533",
-    "hex": {
-      "centerColor": "#80a4b8",
-      "edgeColor": "#607c91",
-      "patternColor": "#15374b",
-      "textColor": "#c9e4f4"
-    }
-  },
-  {
-    "name": "Onyx Black",
-    "customEmojiId": "5377775263385937055",
-    "hex": {
-      "centerColor": "#4d5254",
-      "edgeColor": "#313638",
-      "patternColor": "#000000",
-      "textColor": "#a9abad"
-    }
-  },
-  {
-    "name": "French Violet",
-    "customEmojiId": "5377583218218262703",
-    "hex": {
-      "centerColor": "#c260e6",
-      "edgeColor": "#914ed9",
-      "patternColor": "#4a018a",
-      "textColor": "#ebc7ff"
-    }
-  },
-  {
-    "name": "Mint Green",
-    "customEmojiId": "5375453017518666054",
-    "hex": {
-      "centerColor": "#7ecb82",
-      "edgeColor": "#459e5a",
-      "patternColor": "#026b22",
-      "textColor": "#bdffcc"
-    }
-  },
-  {
-    "name": "Coral Red",
-    "customEmojiId": "5377303611552326657",
-    "hex": {
-      "centerColor": "#da896b",
-      "edgeColor": "#c4654f",
-      "patternColor": "#891200",
-      "textColor": "#ffd9d2"
-    }
-  },
-  {
-    "name": "Jade Green",
-    "customEmojiId": "5375392875091620167",
-    "hex": {
-      "centerColor": "#55c49c",
-      "edgeColor": "#3b9977",
-      "patternColor": "#044931",
-      "textColor": "#befee7"
-    }
-  },
-  {
-    "name": "Old Gold",
-    "customEmojiId": "5375123404548499298",
-    "hex": {
-      "centerColor": "#b58d38",
-      "edgeColor": "#946925",
-      "patternColor": "#4f3302",
-      "textColor": "#ffdd8c"
-    }
-  },
-  {
-    "name": "Sky Blue",
-    "customEmojiId": "5375428136773120397",
-    "hex": {
-      "centerColor": "#58b4c8",
-      "edgeColor": "#538bc2",
-      "patternColor": "#07609b",
-      "textColor": "#cde8fd"
-    }
-  },
-  {
-    "name": "Grape",
-    "customEmojiId": "5375533853098147113",
-    "hex": {
-      "centerColor": "#9d74c1",
-      "edgeColor": "#794da0",
-      "patternColor": "#3e0a6b",
-      "textColor": "#e0bdfe"
-    }
-  },
-  {
-    "name": "Seal Brown",
-    "customEmojiId": "5375269034004608036",
-    "hex": {
-      "centerColor": "#664d45",
-      "edgeColor": "#47362e",
-      "patternColor": "#0a0605",
-      "textColor": "#d4bcb5"
-    }
-  },
-  {
-    "name": "Emerald",
-    "customEmojiId": "5375465786456438121",
-    "hex": {
-      "centerColor": "#78c585",
-      "edgeColor": "#42a171",
-      "patternColor": "#006532",
-      "textColor": "#b9f9d9"
-    }
-  },
-  {
-    "name": "Roman Silver",
-    "customEmojiId": "5375482502469152633",
-    "hex": {
-      "centerColor": "#a3a8b5",
-      "edgeColor": "#7c808a",
-      "patternColor": "#3f4550",
-      "textColor": "#dadfe2"
-    }
-  },
-  {
-    "name": "Gunship Green",
-    "customEmojiId": "5375121566302501587",
-    "hex": {
-      "centerColor": "#558a65",
-      "edgeColor": "#3d6657",
-      "patternColor": "#07261d",
-      "textColor": "#b5e0d4"
-    }
-  },
-  {
-    "name": "Pure Gold",
-    "customEmojiId": "5377566347586724653",
-    "hex": {
-      "centerColor": "#ccab41",
-      "edgeColor": "#987b32",
-      "patternColor": "#703c00",
-      "textColor": "#ffe5ab"
-    }
-  },
-  {
-    "name": "Persimmon",
-    "customEmojiId": "5377611079671113314",
-    "hex": {
-      "centerColor": "#e7a75a",
-      "edgeColor": "#c5675f",
-      "patternColor": "#ad0e00",
-      "textColor": "#ffe4d7"
-    }
-  },
-  {
-    "name": "Lemongrass",
-    "customEmojiId": "5375580127075793214",
-    "hex": {
-      "centerColor": "#aeb85a",
-      "edgeColor": "#559345",
-      "patternColor": "#466a07",
-      "textColor": "#d8f2c2"
-    }
-  },
-  {
-    "name": "Platinum",
-    "customEmojiId": "5375209243764877171",
-    "hex": {
-      "centerColor": "#b2aea7",
-      "edgeColor": "#88847e",
-      "patternColor": "#3d382d",
-      "textColor": "#e9e7e2"
-    }
-  },
-  {
-    "name": "Mexican Pink",
-    "customEmojiId": "5375494846205161879",
-    "hex": {
-      "centerColor": "#e36692",
-      "edgeColor": "#c9497c",
-      "patternColor": "#750230",
-      "textColor": "#ffd6e6"
-    }
-  },
-  {
-    "name": "English Violet",
-    "customEmojiId": "5377317497181595389",
-    "hex": {
-      "centerColor": "#b186bb",
-      "edgeColor": "#875a91",
-      "patternColor": "#54225f",
-      "textColor": "#e6c7ed"
-    }
-  },
-  {
-    "name": "Electric Purple",
-    "customEmojiId": "5375123176915234503",
-    "hex": {
-      "centerColor": "#ca70c6",
-      "edgeColor": "#9662d4",
-      "patternColor": "#620fb4",
-      "textColor": "#ebceff"
-    }
-  },
-  {
-    "name": "Copper",
-    "customEmojiId": "5375444380339435270",
-    "hex": {
-      "centerColor": "#d08656",
-      "edgeColor": "#9d6531",
-      "patternColor": "#602901",
-      "textColor": "#f4d8be"
-    }
-  },
-  {
-    "name": "Lavender",
-    "customEmojiId": "5375569106189712018",
-    "hex": {
-      "centerColor": "#b789e4",
-      "edgeColor": "#8a5abc",
-      "patternColor": "#5b10ab",
-      "textColor": "#e8d1ff"
-    }
-  },
-  {
-    "name": "Sapphire",
-    "customEmojiId": "5377394836657695827",
-    "hex": {
-      "centerColor": "#58a3c8",
-      "edgeColor": "#5379c2",
-      "patternColor": "#0d45b6",
-      "textColor": "#c1deff"
-    }
-  },
-  {
-    "name": "Rifle Green",
-    "customEmojiId": "5377619347483158640",
-    "hex": {
-      "centerColor": "#64695c",
-      "edgeColor": "#4b5241",
-      "patternColor": "#0f120b",
-      "textColor": "#c3c7bd"
-    }
-  },
-  {
-    "name": "Gunmetal",
-    "customEmojiId": "5375182267075292360",
-    "hex": {
-      "centerColor": "#4c5d63",
-      "edgeColor": "#2f3b42",
-      "patternColor": "#04080a",
-      "textColor": "#b6c5cc"
-    }
-  },
-  {
-    "name": "Black",
-    "customEmojiId": "5377437666071568792",
-    "hex": {
-      "centerColor": "#363738",
-      "edgeColor": "#0e0f0f",
-      "patternColor": "#6c6868",
-      "textColor": "#8c8f91"
-    }
-  },
-  {
-    "name": "Pacific Cyan",
-    "customEmojiId": "5375176666437938248",
-    "hex": {
-      "centerColor": "#5abea6",
-      "edgeColor": "#3d95ba",
-      "patternColor": "#02648d",
-      "textColor": "#b6efff"
-    }
-  },
-  {
-    "name": "Mustard",
-    "customEmojiId": "5375113225476008176",
-    "hex": {
-      "centerColor": "#d4980d",
-      "edgeColor": "#c47712",
-      "patternColor": "#7a2500",
-      "textColor": "#ffde9c"
-    }
-  },
-  {
-    "name": "Indigo Dye",
-    "customEmojiId": "5375159374899604169",
-    "hex": {
-      "centerColor": "#537991",
-      "edgeColor": "#416479",
-      "patternColor": "#031b29",
-      "textColor": "#c2dcee"
-    }
-  },
-  {
-    "name": "Light Olive",
-    "customEmojiId": "5375600553940250812",
-    "hex": {
-      "centerColor": "#c2af64",
-      "edgeColor": "#887e45",
-      "patternColor": "#594c04",
-      "textColor": "#f5ebbc"
-    }
-  },
-  {
-    "name": "Cappuccino",
-    "customEmojiId": "5375084663943491762",
-    "hex": {
-      "centerColor": "#b1907e",
-      "edgeColor": "#7c6356",
-      "patternColor": "#4a3226",
-      "textColor": "#ebd4c8"
-    }
-  },
-  {
-    "name": "Tomato",
-    "customEmojiId": "5377723259921916635",
-    "hex": {
-      "centerColor": "#e6793e",
-      "edgeColor": "#d44e3f",
-      "patternColor": "#800b00",
-      "textColor": "#ffccbd"
-    }
-  },
-  {
-    "name": "Carmine",
-    "customEmojiId": "5375573362502298464",
-    "hex": {
-      "centerColor": "#e0574a",
-      "edgeColor": "#a8383b",
-      "patternColor": "#4f0100",
-      "textColor": "#ffb7ad"
-    }
-  },
-  {
-    "name": "Fandango",
-    "customEmojiId": "5377665664410477598",
-    "hex": {
-      "centerColor": "#e28ab6",
-      "edgeColor": "#a4588b",
-      "patternColor": "#8e054e",
-      "textColor": "#ffc7eb"
-    }
-  },
-  {
-    "name": "Chestnut",
-    "customEmojiId": "5375124757463201258",
-    "hex": {
-      "centerColor": "#be6f54",
-      "edgeColor": "#994838",
-      "patternColor": "#601508",
-      "textColor": "#fec6b9"
-    }
-  },
-  {
-    "name": "Marine Blue",
-    "customEmojiId": "5375439277918288314",
-    "hex": {
-      "centerColor": "#4e689c",
-      "edgeColor": "#3b4b7a",
-      "patternColor": "#010821",
-      "textColor": "#bbcbf2"
-    }
-  },
-  {
-    "name": "Neon Blue",
-    "customEmojiId": "5375064164064586786",
-    "hex": {
-      "centerColor": "#7596f9",
-      "edgeColor": "#6862e4",
-      "patternColor": "#2828bc",
-      "textColor": "#cfddff"
-    }
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
   },
   {
     "name": "Battleship Grey",
+    "backdropId": 50,
     "customEmojiId": "5375258223571925187",
+    "centerColor": 9211013,
+    "edgeColor": 7105638,
+    "patternColor": 2828832,
+    "textColor": 13618884,
     "hex": {
       "centerColor": "#8c8c85",
       "edgeColor": "#6c6c66",
       "patternColor": "#2b2a20",
       "textColor": "#cfcec4"
-    }
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
   },
   {
-    "name": "Fire Engine",
-    "customEmojiId": "5375497006573710335",
+    "name": "Celtic Blue",
+    "backdropId": 74,
+    "customEmojiId": "5375186931409777211",
+    "centerColor": 4569325,
+    "edgeColor": 3704537,
+    "patternColor": 16005,
+    "textColor": 12773375,
     "hex": {
-      "centerColor": "#f05f4f",
-      "edgeColor": "#c43949",
-      "patternColor": "#690009",
-      "textColor": "#ffb7a6"
-    }
+      "centerColor": "#45b8ed",
+      "edgeColor": "#3886d9",
+      "patternColor": "#003e85",
+      "textColor": "#c2e7ff"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Cobalt Blue",
+    "backdropId": 53,
+    "customEmojiId": "5375508658819986305",
+    "centerColor": 6326479,
+    "edgeColor": 5333688,
+    "patternColor": 1254524,
+    "textColor": 12768245,
+    "hex": {
+      "centerColor": "#6088cf",
+      "edgeColor": "#5162b8",
+      "patternColor": "#13247c",
+      "textColor": "#c2d3f5"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Coral Red",
+    "backdropId": 25,
+    "customEmojiId": "5377303611552326657",
+    "centerColor": 14322027,
+    "edgeColor": 12870991,
+    "patternColor": 8983040,
+    "textColor": 16767442,
+    "hex": {
+      "centerColor": "#da896b",
+      "edgeColor": "#c4654f",
+      "patternColor": "#891200",
+      "textColor": "#ffd9d2"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Deep Cyan",
+    "backdropId": 70,
+    "customEmojiId": "5377423312290868137",
+    "centerColor": 3257770,
+    "edgeColor": 1611161,
+    "patternColor": 20303,
+    "textColor": 13762557,
+    "hex": {
+      "centerColor": "#31b5aa",
+      "edgeColor": "#189599",
+      "patternColor": "#004f4f",
+      "textColor": "#d1fffd"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Ivory White",
+    "backdropId": 41,
+    "customEmojiId": "5375500438252580046",
+    "centerColor": 12236465,
+    "edgeColor": 10591639,
+    "patternColor": 6709074,
+    "textColor": 16119026,
+    "hex": {
+      "centerColor": "#bab6b1",
+      "edgeColor": "#a19d97",
+      "patternColor": "#665f52",
+      "textColor": "#f5f4f2"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Lavender",
+    "backdropId": 2,
+    "customEmojiId": "5375569106189712018",
+    "centerColor": 12028388,
+    "edgeColor": 9067196,
+    "patternColor": 5968043,
+    "textColor": 15258111,
+    "hex": {
+      "centerColor": "#b789e4",
+      "edgeColor": "#8a5abc",
+      "patternColor": "#5b10ab",
+      "textColor": "#e8d1ff"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
   },
   {
     "name": "Midnight Blue",
+    "backdropId": 48,
     "customEmojiId": "5375050733701852215",
+    "centerColor": 6056325,
+    "edgeColor": 3489879,
+    "patternColor": 199192,
+    "textColor": 12569824,
     "hex": {
       "centerColor": "#5c6985",
       "edgeColor": "#354057",
       "patternColor": "#030a18",
       "textColor": "#bfcce0"
-    }
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
   },
   {
-    "name": "Caramel",
-    "customEmojiId": "5375311837648678407",
+    "name": "Mint Green",
+    "backdropId": 14,
+    "customEmojiId": "5375453017518666054",
+    "centerColor": 8309634,
+    "edgeColor": 4562522,
+    "patternColor": 158498,
+    "textColor": 12451788,
     "hex": {
-      "centerColor": "#d09932",
-      "edgeColor": "#b77431",
-      "patternColor": "#7d3600",
-      "textColor": "#ffd9b3"
-    }
-  },
-  {
-    "name": "Raspberry",
-    "customEmojiId": "5375565034560713219",
-    "hex": {
-      "centerColor": "#e07b85",
-      "edgeColor": "#b65980",
-      "patternColor": "#890638",
-      "textColor": "#ffd6e6"
-    }
+      "centerColor": "#7ecb82",
+      "edgeColor": "#459e5a",
+      "patternColor": "#026b22",
+      "textColor": "#bdffcc"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
   },
   {
     "name": "Moonstone",
+    "backdropId": 33,
     "customEmojiId": "5375335404134231481",
+    "centerColor": 8303028,
+    "edgeColor": 5800848,
+    "patternColor": 1459538,
+    "textColor": 14349821,
     "hex": {
       "centerColor": "#7eb1b4",
       "edgeColor": "#588390",
       "patternColor": "#164552",
       "textColor": "#daf5fd"
-    }
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
   },
   {
-    "name": "Electric Indigo",
-    "customEmojiId": "5375368406662934349",
+    "name": "Mustard",
+    "backdropId": 78,
+    "customEmojiId": "5375113225476008176",
+    "centerColor": 13932557,
+    "edgeColor": 12875538,
+    "patternColor": 8004864,
+    "textColor": 16768668,
     "hex": {
-      "centerColor": "#a980f3",
-      "edgeColor": "#5b62d8",
-      "patternColor": "#3722ab",
-      "textColor": "#d8d8ff"
-    }
+      "centerColor": "#d4980d",
+      "edgeColor": "#c47712",
+      "patternColor": "#7a2500",
+      "textColor": "#ffde9c"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
   },
   {
-    "name": "Malachite",
-    "customEmojiId": "5377519721421758750",
+    "name": "Mystic Pearl",
+    "backdropId": 29,
+    "customEmojiId": "5375343865219805643",
+    "centerColor": 13667181,
+    "edgeColor": 11556720,
+    "patternColor": 10159398,
+    "textColor": 16702944,
     "hex": {
-      "centerColor": "#95b457",
-      "edgeColor": "#3d9755",
-      "patternColor": "#046b06",
-      "textColor": "#c2efbe"
-    }
+      "centerColor": "#d08b6d",
+      "edgeColor": "#b05770",
+      "patternColor": "#9b0526",
+      "textColor": "#fedde0"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Navy Blue",
+    "backdropId": 6,
+    "customEmojiId": "5375095358412057425",
+    "centerColor": 7118557,
+    "edgeColor": 6057673,
+    "patternColor": 1194402,
+    "textColor": 13885951,
+    "hex": {
+      "centerColor": "#6c9edd",
+      "edgeColor": "#5c6ec9",
+      "patternColor": "#1239a2",
+      "textColor": "#d3e1ff"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Neon Blue",
+    "backdropId": 5,
+    "customEmojiId": "5375064164064586786",
+    "centerColor": 7706361,
+    "edgeColor": 6841060,
+    "patternColor": 2631868,
+    "textColor": 13622783,
+    "hex": {
+      "centerColor": "#7596f9",
+      "edgeColor": "#6862e4",
+      "patternColor": "#2828bc",
+      "textColor": "#cfddff"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Old Gold",
+    "backdropId": 75,
+    "customEmojiId": "5375123404548499298",
+    "centerColor": 11898168,
+    "edgeColor": 9726245,
+    "patternColor": 5190402,
+    "textColor": 16768396,
+    "hex": {
+      "centerColor": "#b58d38",
+      "edgeColor": "#946925",
+      "patternColor": "#4f3302",
+      "textColor": "#ffdd8c"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Persimmon",
+    "backdropId": 26,
+    "customEmojiId": "5377611079671113314",
+    "centerColor": 15181658,
+    "edgeColor": 12937055,
+    "patternColor": 11341312,
+    "textColor": 16770263,
+    "hex": {
+      "centerColor": "#e7a75a",
+      "edgeColor": "#c5675f",
+      "patternColor": "#ad0e00",
+      "textColor": "#ffe4d7"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Pine Green",
+    "backdropId": 34,
+    "customEmojiId": "5375456049765578111",
+    "centerColor": 7055740,
+    "edgeColor": 4094320,
+    "patternColor": 739379,
+    "textColor": 14218725,
+    "hex": {
+      "centerColor": "#6ba97c",
+      "edgeColor": "#3e7970",
+      "patternColor": "#0b4833",
+      "textColor": "#d8f5e5"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Purple",
+    "backdropId": 51,
+    "customEmojiId": "5375106490967289982",
+    "centerColor": 11431086,
+    "edgeColor": 8669060,
+    "patternColor": 4656199,
+    "textColor": 15977459,
+    "hex": {
+      "centerColor": "#ae6cae",
+      "edgeColor": "#844784",
+      "patternColor": "#470c47",
+      "textColor": "#f3cbf3"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Roman Silver",
+    "backdropId": 43,
+    "customEmojiId": "5375482502469152633",
+    "centerColor": 10725557,
+    "edgeColor": 8159370,
+    "patternColor": 4146512,
+    "textColor": 14344162,
+    "hex": {
+      "centerColor": "#a3a8b5",
+      "edgeColor": "#7c808a",
+      "patternColor": "#3f4550",
+      "textColor": "#dadfe2"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Sky Blue",
+    "backdropId": 8,
+    "customEmojiId": "5375428136773120397",
+    "centerColor": 5813448,
+    "edgeColor": 5475266,
+    "patternColor": 483483,
+    "textColor": 13494525,
+    "hex": {
+      "centerColor": "#58b4c8",
+      "edgeColor": "#538bc2",
+      "patternColor": "#07609b",
+      "textColor": "#cde8fd"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Tomato",
+    "backdropId": 72,
+    "customEmojiId": "5377723259921916635",
+    "centerColor": 15104318,
+    "edgeColor": 13913663,
+    "patternColor": 8391424,
+    "textColor": 16764093,
+    "hex": {
+      "centerColor": "#e6793e",
+      "edgeColor": "#d44e3f",
+      "patternColor": "#800b00",
+      "textColor": "#ffccbd"
+    },
+    "rarityPermille": 10,
+    "originalRarityPermille": 10,
+    "rarity": 1,
+    "originalRarity": 1
+  },
+  {
+    "name": "Amber",
+    "backdropId": 21,
+    "customEmojiId": "5375590628270831231",
+    "centerColor": 14332741,
+    "edgeColor": 11632682,
+    "patternColor": 8007936,
+    "textColor": 16772551,
+    "hex": {
+      "centerColor": "#dab345",
+      "edgeColor": "#b1802a",
+      "patternColor": "#7a3100",
+      "textColor": "#ffedc7"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
   },
   {
     "name": "Aquamarine",
+    "backdropId": 11,
     "customEmojiId": "5377657950649214703",
+    "centerColor": 6336917,
+    "edgeColor": 4631476,
+    "patternColor": 221031,
+    "textColor": 13106686,
     "hex": {
       "centerColor": "#60b195",
       "edgeColor": "#46abb4",
       "patternColor": "#035f67",
       "textColor": "#c7fdfe"
-    }
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Black",
+    "backdropId": 0,
+    "customEmojiId": "5377437666071568792",
+    "centerColor": 3553080,
+    "edgeColor": 921359,
+    "patternColor": 7104616,
+    "textColor": 9211793,
+    "hex": {
+      "centerColor": "#363738",
+      "edgeColor": "#0e0f0f",
+      "patternColor": "#6c6868",
+      "textColor": "#8c8f91"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Cappuccino",
+    "backdropId": 39,
+    "customEmojiId": "5375084663943491762",
+    "centerColor": 11636862,
+    "edgeColor": 8151894,
+    "patternColor": 4862502,
+    "textColor": 15455432,
+    "hex": {
+      "centerColor": "#b1907e",
+      "edgeColor": "#7c6356",
+      "patternColor": "#4a3226",
+      "textColor": "#ebd4c8"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Carrot Juice",
+    "backdropId": 24,
+    "customEmojiId": "5377603262830633515",
+    "centerColor": 14391399,
+    "edgeColor": 13070159,
+    "patternColor": 9314560,
+    "textColor": 16766922,
+    "hex": {
+      "centerColor": "#db9867",
+      "edgeColor": "#c76f4f",
+      "patternColor": "#8e2100",
+      "textColor": "#ffd7ca"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Chocolate",
+    "backdropId": 59,
+    "customEmojiId": "5375145089838378346",
+    "centerColor": 10776152,
+    "edgeColor": 7619643,
+    "patternColor": 4065794,
+    "textColor": 14988972,
+    "hex": {
+      "centerColor": "#a46e58",
+      "edgeColor": "#74443b",
+      "patternColor": "#3e0a02",
+      "textColor": "#e4b6ac"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Copper",
+    "backdropId": 57,
+    "customEmojiId": "5375444380339435270",
+    "centerColor": 13665878,
+    "edgeColor": 10315057,
+    "patternColor": 6301953,
+    "textColor": 16046270,
+    "hex": {
+      "centerColor": "#d08656",
+      "edgeColor": "#9d6531",
+      "patternColor": "#602901",
+      "textColor": "#f4d8be"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Cyberpunk",
+    "backdropId": 3,
+    "customEmojiId": "5375292097978986361",
+    "centerColor": 8753139,
+    "edgeColor": 8806355,
+    "patternColor": 4397222,
+    "textColor": 14735871,
+    "hex": {
+      "centerColor": "#858ff3",
+      "edgeColor": "#865fd3",
+      "patternColor": "#4318a6",
+      "textColor": "#e0d9ff"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Dark Green",
+    "backdropId": 63,
+    "customEmojiId": "5375600953372209854",
+    "centerColor": 5333825,
+    "edgeColor": 2835759,
+    "patternColor": 1281,
+    "textColor": 12571049,
+    "hex": {
+      "centerColor": "#516341",
+      "edgeColor": "#2b452f",
+      "patternColor": "#000501",
+      "textColor": "#bfd1a9"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Desert Sand",
+    "backdropId": 38,
+    "customEmojiId": "5375295684276677732",
+    "centerColor": 11771778,
+    "edgeColor": 8287067,
+    "patternColor": 5260329,
+    "textColor": 15918541,
+    "hex": {
+      "centerColor": "#b39f82",
+      "edgeColor": "#7e735b",
+      "patternColor": "#504429",
+      "textColor": "#f2e5cd"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Electric Indigo",
+    "backdropId": 4,
+    "customEmojiId": "5375368406662934349",
+    "centerColor": 11108595,
+    "edgeColor": 5989080,
+    "patternColor": 3613355,
+    "textColor": 14211327,
+    "hex": {
+      "centerColor": "#a980f3",
+      "edgeColor": "#5b62d8",
+      "patternColor": "#3722ab",
+      "textColor": "#d8d8ff"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Emerald",
+    "backdropId": 13,
+    "customEmojiId": "5375465786456438121",
+    "centerColor": 7914885,
+    "edgeColor": 4366705,
+    "patternColor": 25906,
+    "textColor": 12188121,
+    "hex": {
+      "centerColor": "#78c585",
+      "edgeColor": "#42a171",
+      "patternColor": "#006532",
+      "textColor": "#b9f9d9"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "English Violet",
+    "backdropId": 32,
+    "customEmojiId": "5377317497181595389",
+    "centerColor": 11634363,
+    "edgeColor": 8870545,
+    "patternColor": 5513823,
+    "textColor": 15124461,
+    "hex": {
+      "centerColor": "#b186bb",
+      "edgeColor": "#875a91",
+      "patternColor": "#54225f",
+      "textColor": "#e6c7ed"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Fandango",
+    "backdropId": 30,
+    "customEmojiId": "5377665664410477598",
+    "centerColor": 14846646,
+    "edgeColor": 10770571,
+    "patternColor": 9307470,
+    "textColor": 16762859,
+    "hex": {
+      "centerColor": "#e28ab6",
+      "edgeColor": "#a4588b",
+      "patternColor": "#8e054e",
+      "textColor": "#ffc7eb"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Fire Engine",
+    "backdropId": 73,
+    "customEmojiId": "5375497006573710335",
+    "centerColor": 15753039,
+    "edgeColor": 12859721,
+    "patternColor": 6881289,
+    "textColor": 16758694,
+    "hex": {
+      "centerColor": "#f05f4f",
+      "edgeColor": "#c43949",
+      "patternColor": "#690009",
+      "textColor": "#ffb7a6"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Gunmetal",
+    "backdropId": 69,
+    "customEmojiId": "5375182267075292360",
+    "centerColor": 5004643,
+    "edgeColor": 3095362,
+    "patternColor": 264202,
+    "textColor": 11978188,
+    "hex": {
+      "centerColor": "#4c5d63",
+      "edgeColor": "#2f3b42",
+      "patternColor": "#04080a",
+      "textColor": "#b6c5cc"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Gunship Green",
+    "backdropId": 62,
+    "customEmojiId": "5375121566302501587",
+    "centerColor": 5605989,
+    "edgeColor": 4023895,
+    "patternColor": 468509,
+    "textColor": 11919572,
+    "hex": {
+      "centerColor": "#558a65",
+      "edgeColor": "#3d6657",
+      "patternColor": "#07261d",
+      "textColor": "#b5e0d4"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Khaki Green",
+    "backdropId": 37,
+    "customEmojiId": "5377549107587998846",
+    "centerColor": 11382896,
+    "edgeColor": 7044436,
+    "patternColor": 3756059,
+    "textColor": 13887163,
+    "hex": {
+      "centerColor": "#adb070",
+      "edgeColor": "#6b7d54",
+      "patternColor": "#39501b",
+      "textColor": "#d3e6bb"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Malachite",
+    "backdropId": 15,
+    "customEmojiId": "5377519721421758750",
+    "centerColor": 9811031,
+    "edgeColor": 4036437,
+    "patternColor": 289542,
+    "textColor": 12775358,
+    "hex": {
+      "centerColor": "#95b457",
+      "edgeColor": "#3d9755",
+      "patternColor": "#046b06",
+      "textColor": "#c2efbe"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Marine Blue",
+    "backdropId": 60,
+    "customEmojiId": "5375439277918288314",
+    "centerColor": 5138588,
+    "edgeColor": 3885946,
+    "patternColor": 67617,
+    "textColor": 12307442,
+    "hex": {
+      "centerColor": "#4e689c",
+      "edgeColor": "#3b4b7a",
+      "patternColor": "#010821",
+      "textColor": "#bbcbf2"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Mexican Pink",
+    "backdropId": 71,
+    "customEmojiId": "5375494846205161879",
+    "centerColor": 14902930,
+    "edgeColor": 13191548,
+    "patternColor": 7668272,
+    "textColor": 16766694,
+    "hex": {
+      "centerColor": "#e36692",
+      "edgeColor": "#c9497c",
+      "patternColor": "#750230",
+      "textColor": "#ffd6e6"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Onyx Black",
+    "backdropId": 49,
+    "customEmojiId": "5377775263385937055",
+    "centerColor": 5067348,
+    "edgeColor": 3225144,
+    "patternColor": 0,
+    "textColor": 11119533,
+    "hex": {
+      "centerColor": "#4d5254",
+      "edgeColor": "#313638",
+      "patternColor": "#000000",
+      "textColor": "#a9abad"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Pistachio",
+    "backdropId": 36,
+    "customEmojiId": "5375280450027679837",
+    "centerColor": 9941116,
+    "edgeColor": 6062412,
+    "patternColor": 2639643,
+    "textColor": 14283465,
+    "hex": {
+      "centerColor": "#97b07c",
+      "edgeColor": "#5c814c",
+      "patternColor": "#28471b",
+      "textColor": "#d9f2c9"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Pure Gold",
+    "backdropId": 20,
+    "customEmojiId": "5377566347586724653",
+    "centerColor": 13413185,
+    "edgeColor": 9993010,
+    "patternColor": 7355392,
+    "textColor": 16770475,
+    "hex": {
+      "centerColor": "#ccab41",
+      "edgeColor": "#987b32",
+      "patternColor": "#703c00",
+      "textColor": "#ffe5ab"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Ranger Green",
+    "backdropId": 66,
+    "customEmojiId": "5375074549295510665",
+    "centerColor": 6256713,
+    "edgeColor": 3952443,
+    "patternColor": 1057289,
+    "textColor": 12043445,
+    "hex": {
+      "centerColor": "#5f7849",
+      "edgeColor": "#3c4f3b",
+      "patternColor": "#102209",
+      "textColor": "#b7c4b5"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Rosewood",
+    "backdropId": 40,
+    "customEmojiId": "5375125960054043180",
+    "centerColor": 12024439,
+    "edgeColor": 8473682,
+    "patternColor": 5577762,
+    "textColor": 15583949,
+    "hex": {
+      "centerColor": "#b77a77",
+      "edgeColor": "#814c52",
+      "patternColor": "#551c22",
+      "textColor": "#edcacd"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Sapphire",
+    "backdropId": 7,
+    "customEmojiId": "5377394836657695827",
+    "centerColor": 5809096,
+    "edgeColor": 5470658,
+    "patternColor": 869814,
+    "textColor": 12705535,
+    "hex": {
+      "centerColor": "#58a3c8",
+      "edgeColor": "#5379c2",
+      "patternColor": "#0d45b6",
+      "textColor": "#c1deff"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Seal Brown",
+    "backdropId": 64,
+    "customEmojiId": "5375269034004608036",
+    "centerColor": 6704453,
+    "edgeColor": 4666926,
+    "patternColor": 656901,
+    "textColor": 13941941,
+    "hex": {
+      "centerColor": "#664d45",
+      "edgeColor": "#47362e",
+      "patternColor": "#0a0605",
+      "textColor": "#d4bcb5"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Silver Blue",
+    "backdropId": 45,
+    "customEmojiId": "5375068162679139533",
+    "centerColor": 8430776,
+    "edgeColor": 6323345,
+    "patternColor": 1390411,
+    "textColor": 13231348,
+    "hex": {
+      "centerColor": "#80a4b8",
+      "edgeColor": "#607c91",
+      "patternColor": "#15374b",
+      "textColor": "#c9e4f4"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Steel Grey",
+    "backdropId": 44,
+    "customEmojiId": "5377767863157283654",
+    "centerColor": 9937580,
+    "edgeColor": 6517372,
+    "patternColor": 3360082,
+    "textColor": 14673128,
+    "hex": {
+      "centerColor": "#97a2ac",
+      "edgeColor": "#63727c",
+      "patternColor": "#334552",
+      "textColor": "#dfe4e8"
+    },
+    "rarityPermille": 12,
+    "originalRarityPermille": 12,
+    "rarity": 1.2,
+    "originalRarity": 1.2
+  },
+  {
+    "name": "Burgundy",
+    "backdropId": 46,
+    "customEmojiId": "5375243216956193305",
+    "centerColor": 10706534,
+    "edgeColor": 7160138,
+    "patternColor": 3408647,
+    "textColor": 15187136,
+    "hex": {
+      "centerColor": "#a35e66",
+      "edgeColor": "#6d414a",
+      "patternColor": "#340307",
+      "textColor": "#e7bcc0"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Burnt Sienna",
+    "backdropId": 76,
+    "customEmojiId": "5377680275889219155",
+    "centerColor": 14053180,
+    "edgeColor": 11881261,
+    "patternColor": 7014658,
+    "textColor": 16764080,
+    "hex": {
+      "centerColor": "#d66f3c",
+      "edgeColor": "#b54b2d",
+      "patternColor": "#6b0902",
+      "textColor": "#ffccb0"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Camo Green",
+    "backdropId": 67,
+    "customEmojiId": "5375411489479878975",
+    "centerColor": 7705677,
+    "edgeColor": 5534529,
+    "patternColor": 1455873,
+    "textColor": 13625529,
+    "hex": {
+      "centerColor": "#75944d",
+      "edgeColor": "#547341",
+      "patternColor": "#163701",
+      "textColor": "#cfe8b9"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Caramel",
+    "backdropId": 22,
+    "customEmojiId": "5375311837648678407",
+    "centerColor": 13670706,
+    "edgeColor": 12022833,
+    "patternColor": 8205824,
+    "textColor": 16767411,
+    "hex": {
+      "centerColor": "#d09932",
+      "edgeColor": "#b77431",
+      "patternColor": "#7d3600",
+      "textColor": "#ffd9b3"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Carmine",
+    "backdropId": 77,
+    "customEmojiId": "5375573362502298464",
+    "centerColor": 14702410,
+    "edgeColor": 11024443,
+    "patternColor": 5177600,
+    "textColor": 16758701,
+    "hex": {
+      "centerColor": "#e0574a",
+      "edgeColor": "#a8383b",
+      "patternColor": "#4f0100",
+      "textColor": "#ffb7ad"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Chestnut",
+    "backdropId": 58,
+    "customEmojiId": "5375124757463201258",
+    "centerColor": 12480340,
+    "edgeColor": 10045496,
+    "patternColor": 6296840,
+    "textColor": 16697017,
+    "hex": {
+      "centerColor": "#be6f54",
+      "edgeColor": "#994838",
+      "patternColor": "#601508",
+      "textColor": "#fec6b9"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Dark Lilac",
+    "backdropId": 31,
+    "customEmojiId": "5375595296900280612",
+    "centerColor": 11632037,
+    "edgeColor": 9197434,
+    "patternColor": 6629458,
+    "textColor": 15779042,
+    "hex": {
+      "centerColor": "#b17da5",
+      "edgeColor": "#8c577a",
+      "patternColor": "#652852",
+      "textColor": "#f0c4e2"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Electric Purple",
+    "backdropId": 1,
+    "customEmojiId": "5375123176915234503",
+    "centerColor": 13267142,
+    "edgeColor": 9855700,
+    "patternColor": 6426548,
+    "textColor": 15453951,
+    "hex": {
+      "centerColor": "#ca70c6",
+      "edgeColor": "#9662d4",
+      "patternColor": "#620fb4",
+      "textColor": "#ebceff"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Feldgrau",
+    "backdropId": 68,
+    "customEmojiId": "5375107384320485908",
+    "centerColor": 9015944,
+    "edgeColor": 6187875,
+    "patternColor": 1844767,
+    "textColor": 14608865,
+    "hex": {
+      "centerColor": "#899288",
+      "edgeColor": "#5e6b63",
+      "patternColor": "#1c261f",
+      "textColor": "#dee9e1"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "French Blue",
+    "backdropId": 54,
+    "customEmojiId": "5375333269535485469",
+    "centerColor": 6069188,
+    "edgeColor": 3634074,
+    "patternColor": 473948,
+    "textColor": 12706809,
+    "hex": {
+      "centerColor": "#5c9bc4",
+      "edgeColor": "#37739a",
+      "patternColor": "#073b5c",
+      "textColor": "#c1e3f9"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "French Violet",
+    "backdropId": 79,
+    "customEmojiId": "5377583218218262703",
+    "centerColor": 12738790,
+    "edgeColor": 9522905,
+    "patternColor": 4850058,
+    "textColor": 15452159,
+    "hex": {
+      "centerColor": "#c260e6",
+      "edgeColor": "#914ed9",
+      "patternColor": "#4a018a",
+      "textColor": "#ebc7ff"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Grape",
+    "backdropId": 52,
+    "customEmojiId": "5375533853098147113",
+    "centerColor": 10319041,
+    "edgeColor": 7949728,
+    "patternColor": 4065899,
+    "textColor": 14728702,
+    "hex": {
+      "centerColor": "#9d74c1",
+      "edgeColor": "#794da0",
+      "patternColor": "#3e0a6b",
+      "textColor": "#e0bdfe"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Hunter Green",
+    "backdropId": 35,
+    "customEmojiId": "5375046438734558335",
+    "centerColor": 9416312,
+    "edgeColor": 4948571,
+    "patternColor": 1853727,
+    "textColor": 14218718,
+    "hex": {
+      "centerColor": "#8fae78",
+      "edgeColor": "#4b825b",
+      "patternColor": "#1c491f",
+      "textColor": "#d8f5de"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Indigo Dye",
+    "backdropId": 47,
+    "customEmojiId": "5375159374899604169",
+    "centerColor": 5470609,
+    "edgeColor": 4285561,
+    "patternColor": 203561,
+    "textColor": 12770542,
+    "hex": {
+      "centerColor": "#537991",
+      "edgeColor": "#416479",
+      "patternColor": "#031b29",
+      "textColor": "#c2dcee"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Jade Green",
+    "backdropId": 56,
+    "customEmojiId": "5375392875091620167",
+    "centerColor": 5620892,
+    "edgeColor": 3905911,
+    "patternColor": 280881,
+    "textColor": 12517095,
+    "hex": {
+      "centerColor": "#55c49c",
+      "edgeColor": "#3b9977",
+      "patternColor": "#044931",
+      "textColor": "#befee7"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Lemongrass",
+    "backdropId": 17,
+    "customEmojiId": "5375580127075793214",
+    "centerColor": 11450458,
+    "edgeColor": 5608261,
+    "patternColor": 4614663,
+    "textColor": 14217922,
+    "hex": {
+      "centerColor": "#aeb85a",
+      "edgeColor": "#559345",
+      "patternColor": "#466a07",
+      "textColor": "#d8f2c2"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Light Olive",
+    "backdropId": 18,
+    "customEmojiId": "5375600553940250812",
+    "centerColor": 12758884,
+    "edgeColor": 8945221,
+    "patternColor": 5852164,
+    "textColor": 16116668,
+    "hex": {
+      "centerColor": "#c2af64",
+      "edgeColor": "#887e45",
+      "patternColor": "#594c04",
+      "textColor": "#f5ebbc"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Orange",
+    "backdropId": 23,
+    "customEmojiId": "5375479315603420454",
+    "centerColor": 13736506,
+    "edgeColor": 12611399,
+    "patternColor": 10303751,
+    "textColor": 16769475,
+    "hex": {
+      "centerColor": "#d19a3a",
+      "edgeColor": "#c06f47",
+      "patternColor": "#9d3907",
+      "textColor": "#ffe1c3"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Pacific Cyan",
+    "backdropId": 10,
+    "customEmojiId": "5375176666437938248",
+    "centerColor": 5947046,
+    "edgeColor": 4036026,
+    "patternColor": 156813,
+    "textColor": 11988991,
+    "hex": {
+      "centerColor": "#5abea6",
+      "edgeColor": "#3d95ba",
+      "patternColor": "#02648d",
+      "textColor": "#b6efff"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Pacific Green",
+    "backdropId": 12,
+    "customEmojiId": "5375523141449707206",
+    "centerColor": 7325587,
+    "edgeColor": 3906692,
+    "patternColor": 24905,
+    "textColor": 13041648,
+    "hex": {
+      "centerColor": "#6fc793",
+      "edgeColor": "#3b9c84",
+      "patternColor": "#006149",
+      "textColor": "#c6fff0"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Platinum",
+    "backdropId": 42,
+    "customEmojiId": "5375209243764877171",
+    "centerColor": 11710119,
+    "edgeColor": 8946814,
+    "patternColor": 4012077,
+    "textColor": 15329250,
+    "hex": {
+      "centerColor": "#b2aea7",
+      "edgeColor": "#88847e",
+      "patternColor": "#3d382d",
+      "textColor": "#e9e7e2"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Raspberry",
+    "backdropId": 28,
+    "customEmojiId": "5375565034560713219",
+    "centerColor": 14711685,
+    "edgeColor": 11950464,
+    "patternColor": 8980024,
+    "textColor": 16766694,
+    "hex": {
+      "centerColor": "#e07b85",
+      "edgeColor": "#b65980",
+      "patternColor": "#890638",
+      "textColor": "#ffd6e6"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Rifle Green",
+    "backdropId": 65,
+    "customEmojiId": "5377619347483158640",
+    "centerColor": 6580572,
+    "edgeColor": 4936257,
+    "patternColor": 987659,
+    "textColor": 12830653,
+    "hex": {
+      "centerColor": "#64695c",
+      "edgeColor": "#4b5241",
+      "patternColor": "#0f120b",
+      "textColor": "#c3c7bd"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Satin Gold",
+    "backdropId": 19,
+    "customEmojiId": "5377843106689344328",
+    "centerColor": 12557127,
+    "edgeColor": 9271097,
+    "patternColor": 6109952,
+    "textColor": 16704681,
+    "hex": {
+      "centerColor": "#bf9b47",
+      "edgeColor": "#8d7739",
+      "patternColor": "#5d3b00",
+      "textColor": "#fee4a9"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Shamrock Green",
+    "backdropId": 16,
+    "customEmojiId": "5377843866898555150",
+    "centerColor": 9089379,
+    "edgeColor": 5608261,
+    "patternColor": 1207040,
+    "textColor": 14023624,
+    "hex": {
+      "centerColor": "#8ab163",
+      "edgeColor": "#559345",
+      "patternColor": "#126b00",
+      "textColor": "#d5fbc8"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Strawberry",
+    "backdropId": 27,
+    "customEmojiId": "5377810976039004691",
+    "centerColor": 14519919,
+    "edgeColor": 12016224,
+    "patternColor": 11078668,
+    "textColor": 16765907,
+    "hex": {
+      "centerColor": "#dd8e6f",
+      "edgeColor": "#b75a60",
+      "patternColor": "#a90c0c",
+      "textColor": "#ffd3d3"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Tactical Pine",
+    "backdropId": 61,
+    "customEmojiId": "5375347412862793082",
+    "centerColor": 4489835,
+    "edgeColor": 3105641,
+    "patternColor": 9764,
+    "textColor": 12052179,
+    "hex": {
+      "centerColor": "#44826b",
+      "edgeColor": "#2f6369",
+      "patternColor": "#002624",
+      "textColor": "#b7e6d3"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
+  },
+  {
+    "name": "Turquoise",
+    "backdropId": 55,
+    "customEmojiId": "5375084470669966301",
+    "centerColor": 6209720,
+    "edgeColor": 4035214,
+    "patternColor": 1135436,
+    "textColor": 12450034,
+    "hex": {
+      "centerColor": "#5ec0b8",
+      "edgeColor": "#3d928e",
+      "patternColor": "#11534c",
+      "textColor": "#bdf8f2"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5
   }
 ] satisfies readonly Backdrop[];
 

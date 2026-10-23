@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "golden-boy",
+  "name": "Golden Boy",
+  "customEmojiId": "5246977970031060206",
+  "rarityPermille": 8,
+  "originalRarityPermille": 8,
+  "rarity": 0.8,
+  "originalRarity": 0.8,
+  "gift": {
+    "slug": "jesterhat",
+    "name": "Jester Hat",
+    "id": "5933590374185435592"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/golden-boy.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/golden-boy.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/golden-boy.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jesterhat/assets/models/golden-boy.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/jesterhat/models/golden-boy.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

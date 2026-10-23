@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "la-noir",
+  "name": "LA Noir",
+  "customEmojiId": "5438503631345185864",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "lowrider",
+    "name": "Low Rider",
+    "id": "6014675319464657779"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/la-noir.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/la-noir.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/la-noir.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lowrider/assets/models/la-noir.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lowrider/models/la-noir.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

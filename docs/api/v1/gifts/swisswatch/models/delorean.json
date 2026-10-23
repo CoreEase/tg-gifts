@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "delorean",
+  "name": "DeLorean",
+  "customEmojiId": "5253910038656873048",
+  "rarityPermille": 15,
+  "originalRarityPermille": 15,
+  "rarity": 1.5,
+  "originalRarity": 1.5,
+  "gift": {
+    "slug": "swisswatch",
+    "name": "Swiss Watch",
+    "id": "5936043693864651359"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/delorean.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/delorean.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/delorean.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/swisswatch/assets/models/delorean.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/swisswatch/models/delorean.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

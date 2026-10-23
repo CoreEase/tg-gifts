@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "hibiscus-tea",
+  "name": "Hibiscus Tea",
+  "customEmojiId": "5269262742853810364",
+  "rarityPermille": 33,
+  "originalRarityPermille": 33,
+  "rarity": 3.3,
+  "originalRarity": 3.3,
+  "gift": {
+    "slug": "holidaydrink",
+    "name": "Holiday Drink",
+    "id": "6003735372041814769"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hibiscus-tea.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hibiscus-tea.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hibiscus-tea.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/holidaydrink/assets/models/hibiscus-tea.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/holidaydrink/models/hibiscus-tea.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}

@@ -1,0 +1,23 @@
+{
+  "type": "model",
+  "slug": "academic",
+  "name": "Academic",
+  "customEmojiId": "5294046877405177983",
+  "rarityPermille": 20,
+  "originalRarityPermille": 20,
+  "rarity": 2,
+  "originalRarity": 2,
+  "gift": {
+    "slug": "lootbag",
+    "name": "Loot Bag",
+    "id": "5868659926187901653"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/academic.svg",
+  "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/academic.tgs",
+  "assets": {
+    "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/academic.svg",
+    "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/lootbag/assets/models/academic.tgs"
+  },
+  "url": "https://coreease.github.io/tg-gifts/api/v1/gifts/lootbag/models/academic.json",
+  "attribution": "Gift data and assets powered by @GiftChanges (api.changes.tg). Thanks to @GiftChanges for this API."
+}
