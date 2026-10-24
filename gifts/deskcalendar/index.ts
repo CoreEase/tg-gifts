@@ -5560,29 +5560,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Shamrock Green",
-    "backdropId": 16,
-    "customEmojiId": "5377843866898555150",
-    "centerColor": 9089379,
-    "edgeColor": 5608261,
-    "patternColor": 1207040,
-    "textColor": 14023624,
-    "hex": {
-      "centerColor": "#8ab163",
-      "edgeColor": "#559345",
-      "patternColor": "#126b00",
-      "textColor": "#d5fbc8"
-    },
-    "rarityPermille": 19,
-    "originalRarityPermille": 20,
-    "rarity": 1.9,
-    "originalRarity": 2,
-    "assets": {
-      "circleSvg": "assets/backdrops/8ab163-559345-circle.svg",
-      "squareSvg": "assets/backdrops/8ab163-559345-square.svg"
-    }
-  },
-  {
     "name": "Amber",
     "backdropId": 21,
     "customEmojiId": "5375590628270831231",
@@ -6109,6 +6086,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/58a3c8-5379c2-circle.svg",
       "squareSvg": "assets/backdrops/58a3c8-5379c2-square.svg"
+    }
+  },
+  {
+    "name": "Shamrock Green",
+    "backdropId": 16,
+    "customEmojiId": "5377843866898555150",
+    "centerColor": 9089379,
+    "edgeColor": 5608261,
+    "patternColor": 1207040,
+    "textColor": 14023624,
+    "hex": {
+      "centerColor": "#8ab163",
+      "edgeColor": "#559345",
+      "patternColor": "#126b00",
+      "textColor": "#d5fbc8"
+    },
+    "rarityPermille": 20,
+    "originalRarityPermille": 20,
+    "rarity": 2,
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/8ab163-559345-circle.svg",
+      "squareSvg": "assets/backdrops/8ab163-559345-square.svg"
     }
   },
   {

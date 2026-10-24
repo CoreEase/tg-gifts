@@ -1486,18 +1486,6 @@ export const models = [
     }
   },
   {
-    "name": "Inner Glow",
-    "customEmojiId": "5249175971084393808",
-    "rarityPermille": 12,
-    "originalRarityPermille": 13,
-    "rarity": 1.2,
-    "originalRarity": 1.3,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/inner-glow.svg",
-      "tgs": "gifts/jinglebells/assets/models/inner-glow.tgs"
-    }
-  },
-  {
     "name": "Jade Jingle",
     "customEmojiId": "5249089479032987816",
     "rarityPermille": 12,
@@ -1651,6 +1639,18 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/heatwave.svg",
       "tgs": "gifts/jinglebells/assets/models/heatwave.tgs"
+    }
+  },
+  {
+    "name": "Inner Glow",
+    "customEmojiId": "5249175971084393808",
+    "rarityPermille": 13,
+    "originalRarityPermille": 13,
+    "rarity": 1.3,
+    "originalRarity": 1.3,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/inner-glow.svg",
+      "tgs": "gifts/jinglebells/assets/models/inner-glow.tgs"
     }
   },
   {

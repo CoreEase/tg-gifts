@@ -2652,28 +2652,6 @@
     },
     {
       "type": "model",
-      "slug": "inner-glow",
-      "name": "Inner Glow",
-      "customEmojiId": "5249175971084393808",
-      "rarityPermille": 12,
-      "originalRarityPermille": 13,
-      "rarity": 1.2,
-      "originalRarity": 1.3,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/inner-glow.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/inner-glow.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/inner-glow.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/inner-glow.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/inner-glow.json"
-    },
-    {
-      "type": "model",
       "slug": "jade-jingle",
       "name": "Jade Jingle",
       "customEmojiId": "5249089479032987816",
@@ -2957,6 +2935,28 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/heatwave.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/heatwave.json"
+    },
+    {
+      "type": "model",
+      "slug": "inner-glow",
+      "name": "Inner Glow",
+      "customEmojiId": "5249175971084393808",
+      "rarityPermille": 13,
+      "originalRarityPermille": 13,
+      "rarity": 1.3,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/inner-glow.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/inner-glow.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/inner-glow.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/inner-glow.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/inner-glow.json"
     },
     {
       "type": "model",
