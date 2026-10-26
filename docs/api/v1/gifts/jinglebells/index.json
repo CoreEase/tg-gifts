@@ -2748,6 +2748,28 @@
     },
     {
       "type": "model",
+      "slug": "purple-glass",
+      "name": "Purple Glass",
+      "customEmojiId": "5249038974512556637",
+      "rarityPermille": 12,
+      "originalRarityPermille": 13,
+      "rarity": 1.2,
+      "originalRarity": 1.3,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-glass.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-glass.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-glass.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-glass.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/purple-glass.json"
+    },
+    {
+      "type": "model",
       "slug": "purple-ring",
       "name": "Purple Ring",
       "customEmojiId": "5249497728559377679",
@@ -3078,28 +3100,6 @@
     },
     {
       "type": "model",
-      "slug": "purple-glass",
-      "name": "Purple Glass",
-      "customEmojiId": "5249038974512556637",
-      "rarityPermille": 13,
-      "originalRarityPermille": 13,
-      "rarity": 1.3,
-      "originalRarity": 1.3,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-glass.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-glass.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-glass.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-glass.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/purple-glass.json"
-    },
-    {
-      "type": "model",
       "slug": "rainforest",
       "name": "Rainforest",
       "customEmojiId": "5249416338929113764",
@@ -3207,6 +3207,28 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/shiny-opal.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/shiny-opal.json"
+    },
+    {
+      "type": "model",
+      "slug": "soft-blush",
+      "name": "Soft Blush",
+      "customEmojiId": "5249283061798956915",
+      "rarityPermille": 13,
+      "originalRarityPermille": 15,
+      "rarity": 1.3,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/soft-blush.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/soft-blush.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/soft-blush.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/soft-blush.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/soft-blush.json"
     },
     {
       "type": "model",
@@ -3383,28 +3405,6 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/placeholder.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/placeholder.json"
-    },
-    {
-      "type": "model",
-      "slug": "soft-blush",
-      "name": "Soft Blush",
-      "customEmojiId": "5249283061798956915",
-      "rarityPermille": 14,
-      "originalRarityPermille": 15,
-      "rarity": 1.4,
-      "originalRarity": 1.5,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/soft-blush.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/soft-blush.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/soft-blush.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/soft-blush.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/soft-blush.json"
     },
     {
       "type": "model",
@@ -3806,6 +3806,38 @@
     },
     {
       "type": "backdrop",
+      "slug": "neon-blue",
+      "name": "Neon Blue",
+      "backdropId": 5,
+      "customEmojiId": "5375064164064586786",
+      "centerColor": 7706361,
+      "edgeColor": 6841060,
+      "patternColor": 2631868,
+      "textColor": 13622783,
+      "hex": {
+        "centerColor": "#7596f9",
+        "edgeColor": "#6862e4",
+        "patternColor": "#2828bc",
+        "textColor": "#cfddff"
+      },
+      "rarityPermille": 14,
+      "originalRarityPermille": 15,
+      "rarity": 1.4,
+      "originalRarity": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg"
+      },
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/neon-blue.json"
+    },
+    {
+      "type": "backdrop",
       "slug": "strawberry",
       "name": "Strawberry",
       "backdropId": 27,
@@ -4027,38 +4059,6 @@
         "id": "6001473264306619020"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/mint-green.json"
-    },
-    {
-      "type": "backdrop",
-      "slug": "neon-blue",
-      "name": "Neon Blue",
-      "backdropId": 5,
-      "customEmojiId": "5375064164064586786",
-      "centerColor": 7706361,
-      "edgeColor": 6841060,
-      "patternColor": 2631868,
-      "textColor": 13622783,
-      "hex": {
-        "centerColor": "#7596f9",
-        "edgeColor": "#6862e4",
-        "patternColor": "#2828bc",
-        "textColor": "#cfddff"
-      },
-      "rarityPermille": 15,
-      "originalRarityPermille": 15,
-      "rarity": 1.5,
-      "originalRarity": 1.5,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg"
-      },
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/neon-blue.json"
     },
     {
       "type": "backdrop",

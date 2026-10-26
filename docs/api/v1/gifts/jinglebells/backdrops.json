@@ -372,6 +372,38 @@
     },
     {
       "type": "backdrop",
+      "slug": "neon-blue",
+      "name": "Neon Blue",
+      "backdropId": 5,
+      "customEmojiId": "5375064164064586786",
+      "centerColor": 7706361,
+      "edgeColor": 6841060,
+      "patternColor": 2631868,
+      "textColor": 13622783,
+      "hex": {
+        "centerColor": "#7596f9",
+        "edgeColor": "#6862e4",
+        "patternColor": "#2828bc",
+        "textColor": "#cfddff"
+      },
+      "rarityPermille": 14,
+      "originalRarityPermille": 15,
+      "rarity": 1.4,
+      "originalRarity": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg"
+      },
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/neon-blue.json"
+    },
+    {
+      "type": "backdrop",
       "slug": "strawberry",
       "name": "Strawberry",
       "backdropId": 27,
@@ -593,38 +625,6 @@
         "id": "6001473264306619020"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/mint-green.json"
-    },
-    {
-      "type": "backdrop",
-      "slug": "neon-blue",
-      "name": "Neon Blue",
-      "backdropId": 5,
-      "customEmojiId": "5375064164064586786",
-      "centerColor": 7706361,
-      "edgeColor": 6841060,
-      "patternColor": 2631868,
-      "textColor": 13622783,
-      "hex": {
-        "centerColor": "#7596f9",
-        "edgeColor": "#6862e4",
-        "patternColor": "#2828bc",
-        "textColor": "#cfddff"
-      },
-      "rarityPermille": 15,
-      "originalRarityPermille": 15,
-      "rarity": 1.5,
-      "originalRarity": 1.5,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg"
-      },
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/neon-blue.json"
     },
     {
       "type": "backdrop",

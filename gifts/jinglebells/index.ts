@@ -1534,6 +1534,18 @@ export const models = [
     }
   },
   {
+    "name": "Purple Glass",
+    "customEmojiId": "5249038974512556637",
+    "rarityPermille": 12,
+    "originalRarityPermille": 13,
+    "rarity": 1.2,
+    "originalRarity": 1.3,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/purple-glass.svg",
+      "tgs": "gifts/jinglebells/assets/models/purple-glass.tgs"
+    }
+  },
+  {
     "name": "Purple Ring",
     "customEmojiId": "5249497728559377679",
     "rarityPermille": 12,
@@ -1714,18 +1726,6 @@ export const models = [
     }
   },
   {
-    "name": "Purple Glass",
-    "customEmojiId": "5249038974512556637",
-    "rarityPermille": 13,
-    "originalRarityPermille": 13,
-    "rarity": 1.3,
-    "originalRarity": 1.3,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/purple-glass.svg",
-      "tgs": "gifts/jinglebells/assets/models/purple-glass.tgs"
-    }
-  },
-  {
     "name": "Rainforest",
     "customEmojiId": "5249416338929113764",
     "rarityPermille": 13,
@@ -1783,6 +1783,18 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/shiny-opal.svg",
       "tgs": "gifts/jinglebells/assets/models/shiny-opal.tgs"
+    }
+  },
+  {
+    "name": "Soft Blush",
+    "customEmojiId": "5249283061798956915",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/soft-blush.svg",
+      "tgs": "gifts/jinglebells/assets/models/soft-blush.tgs"
     }
   },
   {
@@ -1879,18 +1891,6 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/placeholder.svg",
       "tgs": "gifts/jinglebells/assets/models/placeholder.tgs"
-    }
-  },
-  {
-    "name": "Soft Blush",
-    "customEmojiId": "5249283061798956915",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/soft-blush.svg",
-      "tgs": "gifts/jinglebells/assets/models/soft-blush.tgs"
     }
   },
   {
@@ -3695,6 +3695,29 @@ export const backdrops = [
     }
   },
   {
+    "name": "Neon Blue",
+    "backdropId": 5,
+    "customEmojiId": "5375064164064586786",
+    "centerColor": 7706361,
+    "edgeColor": 6841060,
+    "patternColor": 2631868,
+    "textColor": 13622783,
+    "hex": {
+      "centerColor": "#7596f9",
+      "edgeColor": "#6862e4",
+      "patternColor": "#2828bc",
+      "textColor": "#cfddff"
+    },
+    "rarityPermille": 14,
+    "originalRarityPermille": 15,
+    "rarity": 1.4,
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/7596f9-6862e4-circle.svg",
+      "squareSvg": "assets/backdrops/7596f9-6862e4-square.svg"
+    }
+  },
+  {
     "name": "Strawberry",
     "backdropId": 27,
     "customEmojiId": "5377810976039004691",
@@ -3853,29 +3876,6 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/7ecb82-459e5a-circle.svg",
       "squareSvg": "assets/backdrops/7ecb82-459e5a-square.svg"
-    }
-  },
-  {
-    "name": "Neon Blue",
-    "backdropId": 5,
-    "customEmojiId": "5375064164064586786",
-    "centerColor": 7706361,
-    "edgeColor": 6841060,
-    "patternColor": 2631868,
-    "textColor": 13622783,
-    "hex": {
-      "centerColor": "#7596f9",
-      "edgeColor": "#6862e4",
-      "patternColor": "#2828bc",
-      "textColor": "#cfddff"
-    },
-    "rarityPermille": 15,
-    "originalRarityPermille": 15,
-    "rarity": 1.5,
-    "originalRarity": 1.5,
-    "assets": {
-      "circleSvg": "assets/backdrops/7596f9-6862e4-circle.svg",
-      "squareSvg": "assets/backdrops/7596f9-6862e4-square.svg"
     }
   },
   {
