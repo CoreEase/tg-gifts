@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "grape",
+  "name": "Grape",
+  "backdropId": 52,
+  "customEmojiId": "5375533853098147113",
+  "centerColor": 10319041,
+  "edgeColor": 7949728,
+  "patternColor": 4065899,
+  "textColor": 14728702,
+  "hex": {
+    "centerColor": "#9d74c1",
+    "edgeColor": "#794da0",
+    "patternColor": "#3e0a6b",
+    "textColor": "#e0bdfe"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/9d74c1-794da0-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/9d74c1-794da0-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/9d74c1-794da0-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/grape.json"
+}

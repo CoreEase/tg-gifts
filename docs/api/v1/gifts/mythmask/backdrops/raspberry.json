@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "raspberry",
+  "name": "Raspberry",
+  "backdropId": 28,
+  "customEmojiId": "5375565034560713219",
+  "centerColor": 14711685,
+  "edgeColor": 11950464,
+  "patternColor": 8980024,
+  "textColor": 16766694,
+  "hex": {
+    "centerColor": "#e07b85",
+    "edgeColor": "#b65980",
+    "patternColor": "#890638",
+    "textColor": "#ffd6e6"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 10,
+  "rarity": 0,
+  "originalRarity": 1,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e07b85-b65980-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e07b85-b65980-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e07b85-b65980-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/raspberry.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "seal-brown",
+  "name": "Seal Brown",
+  "backdropId": 64,
+  "customEmojiId": "5375269034004608036",
+  "centerColor": 6704453,
+  "edgeColor": 4666926,
+  "patternColor": 656901,
+  "textColor": 13941941,
+  "hex": {
+    "centerColor": "#664d45",
+    "edgeColor": "#47362e",
+    "patternColor": "#0a0605",
+    "textColor": "#d4bcb5"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/664d45-47362e-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/664d45-47362e-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/664d45-47362e-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/seal-brown.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "caramel",
+  "name": "Caramel",
+  "backdropId": 22,
+  "customEmojiId": "5375311837648678407",
+  "centerColor": 13670706,
+  "edgeColor": 12022833,
+  "patternColor": 8205824,
+  "textColor": 16767411,
+  "hex": {
+    "centerColor": "#d09932",
+    "edgeColor": "#b77431",
+    "patternColor": "#7d3600",
+    "textColor": "#ffd9b3"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d09932-b77431-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d09932-b77431-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d09932-b77431-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/caramel.json"
+}

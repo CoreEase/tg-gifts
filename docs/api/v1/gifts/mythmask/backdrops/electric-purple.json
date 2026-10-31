@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "electric-purple",
+  "name": "Electric Purple",
+  "backdropId": 1,
+  "customEmojiId": "5375123176915234503",
+  "centerColor": 13267142,
+  "edgeColor": 9855700,
+  "patternColor": 6426548,
+  "textColor": 15453951,
+  "hex": {
+    "centerColor": "#ca70c6",
+    "edgeColor": "#9662d4",
+    "patternColor": "#620fb4",
+    "textColor": "#ebceff"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ca70c6-9662d4-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ca70c6-9662d4-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ca70c6-9662d4-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/electric-purple.json"
+}

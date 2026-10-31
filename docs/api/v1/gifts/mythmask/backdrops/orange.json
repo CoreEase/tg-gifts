@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "orange",
+  "name": "Orange",
+  "backdropId": 23,
+  "customEmojiId": "5375479315603420454",
+  "centerColor": 13736506,
+  "edgeColor": 12611399,
+  "patternColor": 10303751,
+  "textColor": 16769475,
+  "hex": {
+    "centerColor": "#d19a3a",
+    "edgeColor": "#c06f47",
+    "patternColor": "#9d3907",
+    "textColor": "#ffe1c3"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d19a3a-c06f47-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d19a3a-c06f47-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d19a3a-c06f47-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/orange.json"
+}

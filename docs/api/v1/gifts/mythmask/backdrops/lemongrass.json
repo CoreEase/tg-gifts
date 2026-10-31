@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "lemongrass",
+  "name": "Lemongrass",
+  "backdropId": 17,
+  "customEmojiId": "5375580127075793214",
+  "centerColor": 11450458,
+  "edgeColor": 5608261,
+  "patternColor": 4614663,
+  "textColor": 14217922,
+  "hex": {
+    "centerColor": "#aeb85a",
+    "edgeColor": "#559345",
+    "patternColor": "#466a07",
+    "textColor": "#d8f2c2"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/aeb85a-559345-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/aeb85a-559345-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/aeb85a-559345-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/lemongrass.json"
+}

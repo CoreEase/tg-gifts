@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "sapphire",
+  "name": "Sapphire",
+  "backdropId": 7,
+  "customEmojiId": "5377394836657695827",
+  "centerColor": 5809096,
+  "edgeColor": 5470658,
+  "patternColor": 869814,
+  "textColor": 12705535,
+  "hex": {
+    "centerColor": "#58a3c8",
+    "edgeColor": "#5379c2",
+    "patternColor": "#0d45b6",
+    "textColor": "#c1deff"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 10,
+  "rarity": 0,
+  "originalRarity": 1,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/58a3c8-5379c2-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/58a3c8-5379c2-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/58a3c8-5379c2-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/sapphire.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "mint-green",
+  "name": "Mint Green",
+  "backdropId": 14,
+  "customEmojiId": "5375453017518666054",
+  "centerColor": 8309634,
+  "edgeColor": 4562522,
+  "patternColor": 158498,
+  "textColor": 12451788,
+  "hex": {
+    "centerColor": "#7ecb82",
+    "edgeColor": "#459e5a",
+    "patternColor": "#026b22",
+    "textColor": "#bdffcc"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/mint-green.json"
+}

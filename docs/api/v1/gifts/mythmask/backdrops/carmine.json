@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "carmine",
+  "name": "Carmine",
+  "backdropId": 77,
+  "customEmojiId": "5375573362502298464",
+  "centerColor": 14702410,
+  "edgeColor": 11024443,
+  "patternColor": 5177600,
+  "textColor": 16758701,
+  "hex": {
+    "centerColor": "#e0574a",
+    "edgeColor": "#a8383b",
+    "patternColor": "#4f0100",
+    "textColor": "#ffb7ad"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e0574a-a8383b-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e0574a-a8383b-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e0574a-a8383b-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/carmine.json"
+}

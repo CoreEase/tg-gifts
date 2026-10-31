@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "moonstone",
+  "name": "Moonstone",
+  "backdropId": 33,
+  "customEmojiId": "5375335404134231481",
+  "centerColor": 8303028,
+  "edgeColor": 5800848,
+  "patternColor": 1459538,
+  "textColor": 14349821,
+  "hex": {
+    "centerColor": "#7eb1b4",
+    "edgeColor": "#588390",
+    "patternColor": "#164552",
+    "textColor": "#daf5fd"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7eb1b4-588390-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7eb1b4-588390-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7eb1b4-588390-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/moonstone.json"
+}

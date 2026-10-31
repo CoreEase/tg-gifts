@@ -1919,6 +1919,7 @@ export const collections = [
   { slug: "moodpack", name: "Mood Packs", count: 15911, modelCount: 50, patternCount: 200, backdropCount: 80, inFragment: true, original: "gifts/moodpack/original.svg" },
   { slug: "moonpendant", name: "Moon Pendants", count: 13503, modelCount: 50, patternCount: 161, backdropCount: 80, inFragment: true, original: "gifts/moonpendant/original.svg" },
   { slug: "moussecake", name: "Mousse Cakes", count: 8063, modelCount: 50, patternCount: 225, backdropCount: 80, inFragment: true, original: "gifts/moussecake/original.svg" },
+  { slug: "mythmask", name: "Myth Mask", count: null, modelCount: 132, patternCount: 262, backdropCount: 80, inFragment: false, original: "gifts/mythmask/original.svg" },
   { slug: "nailbracelet", name: "Nail Bracelets", count: 1932, modelCount: 50, patternCount: 262, backdropCount: 80, inFragment: true, original: "gifts/nailbracelet/original.svg" },
   { slug: "nekohelmet", name: "Neko Helmets", count: 4246, modelCount: 60, patternCount: 262, backdropCount: 80, inFragment: true, original: "gifts/nekohelmet/original.svg" },
   { slug: "partysparkler", name: "Party Sparklers", count: 21831, modelCount: 100, patternCount: 136, backdropCount: 60, inFragment: true, original: "gifts/partysparkler/original.svg" },

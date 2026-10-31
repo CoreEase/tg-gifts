@@ -6020,29 +6020,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Raspberry",
-    "backdropId": 28,
-    "customEmojiId": "5375565034560713219",
-    "centerColor": 14711685,
-    "edgeColor": 11950464,
-    "patternColor": 8980024,
-    "textColor": 16766694,
-    "hex": {
-      "centerColor": "#e07b85",
-      "edgeColor": "#b65980",
-      "patternColor": "#890638",
-      "textColor": "#ffd6e6"
-    },
-    "rarityPermille": 20,
-    "originalRarityPermille": 20,
-    "rarity": 2,
-    "originalRarity": 2,
-    "assets": {
-      "circleSvg": "assets/backdrops/e07b85-b65980-circle.svg",
-      "squareSvg": "assets/backdrops/e07b85-b65980-square.svg"
-    }
-  },
-  {
     "name": "Rosewood",
     "backdropId": 40,
     "customEmojiId": "5375125960054043180",
@@ -6201,6 +6178,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/6fc793-3b9c84-circle.svg",
       "squareSvg": "assets/backdrops/6fc793-3b9c84-square.svg"
+    }
+  },
+  {
+    "name": "Raspberry",
+    "backdropId": 28,
+    "customEmojiId": "5375565034560713219",
+    "centerColor": 14711685,
+    "edgeColor": 11950464,
+    "patternColor": 8980024,
+    "textColor": 16766694,
+    "hex": {
+      "centerColor": "#e07b85",
+      "edgeColor": "#b65980",
+      "patternColor": "#890638",
+      "textColor": "#ffd6e6"
+    },
+    "rarityPermille": 21,
+    "originalRarityPermille": 20,
+    "rarity": 2.1,
+    "originalRarity": 2,
+    "assets": {
+      "circleSvg": "assets/backdrops/e07b85-b65980-circle.svg",
+      "squareSvg": "assets/backdrops/e07b85-b65980-square.svg"
     }
   }
 ] satisfies readonly Backdrop[];

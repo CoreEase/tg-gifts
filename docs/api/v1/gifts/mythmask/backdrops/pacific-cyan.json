@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "pacific-cyan",
+  "name": "Pacific Cyan",
+  "backdropId": 10,
+  "customEmojiId": "5375176666437938248",
+  "centerColor": 5947046,
+  "edgeColor": 4036026,
+  "patternColor": 156813,
+  "textColor": 11988991,
+  "hex": {
+    "centerColor": "#5abea6",
+    "edgeColor": "#3d95ba",
+    "patternColor": "#02648d",
+    "textColor": "#b6efff"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5abea6-3d95ba-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5abea6-3d95ba-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5abea6-3d95ba-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/pacific-cyan.json"
+}

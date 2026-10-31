@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "onyx-black",
+  "name": "Onyx Black",
+  "backdropId": 49,
+  "customEmojiId": "5377775263385937055",
+  "centerColor": 5067348,
+  "edgeColor": 3225144,
+  "patternColor": 0,
+  "textColor": 11119533,
+  "hex": {
+    "centerColor": "#4d5254",
+    "edgeColor": "#313638",
+    "patternColor": "#000000",
+    "textColor": "#a9abad"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/4d5254-313638-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/4d5254-313638-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/4d5254-313638-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/onyx-black.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "purple",
+  "name": "Purple",
+  "backdropId": 51,
+  "customEmojiId": "5375106490967289982",
+  "centerColor": 11431086,
+  "edgeColor": 8669060,
+  "patternColor": 4656199,
+  "textColor": 15977459,
+  "hex": {
+    "centerColor": "#ae6cae",
+    "edgeColor": "#844784",
+    "patternColor": "#470c47",
+    "textColor": "#f3cbf3"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ae6cae-844784-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ae6cae-844784-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/ae6cae-844784-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/purple.json"
+}

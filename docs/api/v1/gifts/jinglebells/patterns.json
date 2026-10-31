@@ -2220,46 +2220,6 @@
     },
     {
       "type": "pattern",
-      "slug": "cupcake",
-      "name": "Cupcake",
-      "customEmojiId": "5199460788330335122",
-      "rarityPermille": 19,
-      "originalRarityPermille": 19,
-      "rarity": 1.9,
-      "originalRarity": 1.9,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/cupcake.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/cupcake.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/cupcake.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "gingerbread",
-      "name": "Gingerbread",
-      "customEmojiId": "5199945376605439444",
-      "rarityPermille": 19,
-      "originalRarityPermille": 19,
-      "rarity": 1.9,
-      "originalRarity": 1.9,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/gingerbread.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/gingerbread.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/gingerbread.json"
-    },
-    {
-      "type": "pattern",
       "slug": "rudolph",
       "name": "Rudolph",
       "customEmojiId": "5199540056246747378",
@@ -2300,6 +2260,26 @@
     },
     {
       "type": "pattern",
+      "slug": "cupcake",
+      "name": "Cupcake",
+      "customEmojiId": "5199460788330335122",
+      "rarityPermille": 20,
+      "originalRarityPermille": 19,
+      "rarity": 2,
+      "originalRarity": 1.9,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/cupcake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/cupcake.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/cupcake.json"
+    },
+    {
+      "type": "pattern",
       "slug": "festive-wreath",
       "name": "Festive Wreath",
       "customEmojiId": "5199830851302495542",
@@ -2317,6 +2297,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/festive-wreath.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/festive-wreath.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "gingerbread",
+      "name": "Gingerbread",
+      "customEmojiId": "5199945376605439444",
+      "rarityPermille": 20,
+      "originalRarityPermille": 19,
+      "rarity": 2,
+      "originalRarity": 1.9,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/gingerbread.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/gingerbread.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/gingerbread.json"
     },
     {
       "type": "pattern",

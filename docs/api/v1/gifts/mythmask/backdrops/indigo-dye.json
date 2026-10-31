@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "indigo-dye",
+  "name": "Indigo Dye",
+  "backdropId": 47,
+  "customEmojiId": "5375159374899604169",
+  "centerColor": 5470609,
+  "edgeColor": 4285561,
+  "patternColor": 203561,
+  "textColor": 12770542,
+  "hex": {
+    "centerColor": "#537991",
+    "edgeColor": "#416479",
+    "patternColor": "#031b29",
+    "textColor": "#c2dcee"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/537991-416479-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/537991-416479-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/537991-416479-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/indigo-dye.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "gunmetal",
+  "name": "Gunmetal",
+  "backdropId": 69,
+  "customEmojiId": "5375182267075292360",
+  "centerColor": 5004643,
+  "edgeColor": 3095362,
+  "patternColor": 264202,
+  "textColor": 11978188,
+  "hex": {
+    "centerColor": "#4c5d63",
+    "edgeColor": "#2f3b42",
+    "patternColor": "#04080a",
+    "textColor": "#b6c5cc"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 10,
+  "rarity": 0,
+  "originalRarity": 1,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/4c5d63-2f3b42-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/4c5d63-2f3b42-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/4c5d63-2f3b42-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/gunmetal.json"
+}

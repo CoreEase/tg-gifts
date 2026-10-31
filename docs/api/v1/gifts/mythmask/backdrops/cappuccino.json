@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "cappuccino",
+  "name": "Cappuccino",
+  "backdropId": 39,
+  "customEmojiId": "5375084663943491762",
+  "centerColor": 11636862,
+  "edgeColor": 8151894,
+  "patternColor": 4862502,
+  "textColor": 15455432,
+  "hex": {
+    "centerColor": "#b1907e",
+    "edgeColor": "#7c6356",
+    "patternColor": "#4a3226",
+    "textColor": "#ebd4c8"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b1907e-7c6356-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/cappuccino.json"
+}

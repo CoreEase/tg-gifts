@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "malachite",
+  "name": "Malachite",
+  "backdropId": 15,
+  "customEmojiId": "5377519721421758750",
+  "centerColor": 9811031,
+  "edgeColor": 4036437,
+  "patternColor": 289542,
+  "textColor": 12775358,
+  "hex": {
+    "centerColor": "#95b457",
+    "edgeColor": "#3d9755",
+    "patternColor": "#046b06",
+    "textColor": "#c2efbe"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/malachite.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "lavender",
+  "name": "Lavender",
+  "backdropId": 2,
+  "customEmojiId": "5375569106189712018",
+  "centerColor": 12028388,
+  "edgeColor": 9067196,
+  "patternColor": 5968043,
+  "textColor": 15258111,
+  "hex": {
+    "centerColor": "#b789e4",
+    "edgeColor": "#8a5abc",
+    "patternColor": "#5b10ab",
+    "textColor": "#e8d1ff"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b789e4-8a5abc-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b789e4-8a5abc-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b789e4-8a5abc-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/lavender.json"
+}

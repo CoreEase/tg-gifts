@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "shamrock-green",
+  "name": "Shamrock Green",
+  "backdropId": 16,
+  "customEmojiId": "5377843866898555150",
+  "centerColor": 9089379,
+  "edgeColor": 5608261,
+  "patternColor": 1207040,
+  "textColor": 14023624,
+  "hex": {
+    "centerColor": "#8ab163",
+    "edgeColor": "#559345",
+    "patternColor": "#126b00",
+    "textColor": "#d5fbc8"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8ab163-559345-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8ab163-559345-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8ab163-559345-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/shamrock-green.json"
+}

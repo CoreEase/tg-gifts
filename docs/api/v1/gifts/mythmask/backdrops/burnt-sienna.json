@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "burnt-sienna",
+  "name": "Burnt Sienna",
+  "backdropId": 76,
+  "customEmojiId": "5377680275889219155",
+  "centerColor": 14053180,
+  "edgeColor": 11881261,
+  "patternColor": 7014658,
+  "textColor": 16764080,
+  "hex": {
+    "centerColor": "#d66f3c",
+    "edgeColor": "#b54b2d",
+    "patternColor": "#6b0902",
+    "textColor": "#ffccb0"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d66f3c-b54b2d-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d66f3c-b54b2d-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/d66f3c-b54b2d-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/burnt-sienna.json"
+}

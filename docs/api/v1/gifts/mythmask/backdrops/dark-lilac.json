@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "dark-lilac",
+  "name": "Dark Lilac",
+  "backdropId": 31,
+  "customEmojiId": "5375595296900280612",
+  "centerColor": 11632037,
+  "edgeColor": 9197434,
+  "patternColor": 6629458,
+  "textColor": 15779042,
+  "hex": {
+    "centerColor": "#b17da5",
+    "edgeColor": "#8c577a",
+    "patternColor": "#652852",
+    "textColor": "#f0c4e2"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b17da5-8c577a-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b17da5-8c577a-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b17da5-8c577a-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/dark-lilac.json"
+}

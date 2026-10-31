@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "rosewood",
+  "name": "Rosewood",
+  "backdropId": 40,
+  "customEmojiId": "5375125960054043180",
+  "centerColor": 12024439,
+  "edgeColor": 8473682,
+  "patternColor": 5577762,
+  "textColor": 15583949,
+  "hex": {
+    "centerColor": "#b77a77",
+    "edgeColor": "#814c52",
+    "patternColor": "#551c22",
+    "textColor": "#edcacd"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b77a77-814c52-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b77a77-814c52-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b77a77-814c52-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/rosewood.json"
+}

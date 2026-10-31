@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "amber",
+  "name": "Amber",
+  "backdropId": 21,
+  "customEmojiId": "5375590628270831231",
+  "centerColor": 14332741,
+  "edgeColor": 11632682,
+  "patternColor": 8007936,
+  "textColor": 16772551,
+  "hex": {
+    "centerColor": "#dab345",
+    "edgeColor": "#b1802a",
+    "patternColor": "#7a3100",
+    "textColor": "#ffedc7"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/dab345-b1802a-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/dab345-b1802a-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/dab345-b1802a-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/amber.json"
+}

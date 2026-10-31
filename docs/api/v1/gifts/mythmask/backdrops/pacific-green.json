@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "pacific-green",
+  "name": "Pacific Green",
+  "backdropId": 12,
+  "customEmojiId": "5375523141449707206",
+  "centerColor": 7325587,
+  "edgeColor": 3906692,
+  "patternColor": 24905,
+  "textColor": 13041648,
+  "hex": {
+    "centerColor": "#6fc793",
+    "edgeColor": "#3b9c84",
+    "patternColor": "#006149",
+    "textColor": "#c6fff0"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6fc793-3b9c84-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6fc793-3b9c84-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6fc793-3b9c84-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/pacific-green.json"
+}

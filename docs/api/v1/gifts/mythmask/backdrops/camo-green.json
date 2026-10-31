@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "camo-green",
+  "name": "Camo Green",
+  "backdropId": 67,
+  "customEmojiId": "5375411489479878975",
+  "centerColor": 7705677,
+  "edgeColor": 5534529,
+  "patternColor": 1455873,
+  "textColor": 13625529,
+  "hex": {
+    "centerColor": "#75944d",
+    "edgeColor": "#547341",
+    "patternColor": "#163701",
+    "textColor": "#cfe8b9"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/75944d-547341-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/75944d-547341-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/75944d-547341-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/camo-green.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "roman-silver",
+  "name": "Roman Silver",
+  "backdropId": 43,
+  "customEmojiId": "5375482502469152633",
+  "centerColor": 10725557,
+  "edgeColor": 8159370,
+  "patternColor": 4146512,
+  "textColor": 14344162,
+  "hex": {
+    "centerColor": "#a3a8b5",
+    "edgeColor": "#7c808a",
+    "patternColor": "#3f4550",
+    "textColor": "#dadfe2"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/a3a8b5-7c808a-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/a3a8b5-7c808a-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/a3a8b5-7c808a-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/roman-silver.json"
+}

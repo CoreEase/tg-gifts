@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "tomato",
+  "name": "Tomato",
+  "backdropId": 72,
+  "customEmojiId": "5377723259921916635",
+  "centerColor": 15104318,
+  "edgeColor": 13913663,
+  "patternColor": 8391424,
+  "textColor": 16764093,
+  "hex": {
+    "centerColor": "#e6793e",
+    "edgeColor": "#d44e3f",
+    "patternColor": "#800b00",
+    "textColor": "#ffccbd"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e6793e-d44e3f-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e6793e-d44e3f-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/e6793e-d44e3f-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/tomato.json"
+}

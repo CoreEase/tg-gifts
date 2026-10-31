@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "old-gold",
+  "name": "Old Gold",
+  "backdropId": 75,
+  "customEmojiId": "5375123404548499298",
+  "centerColor": 11898168,
+  "edgeColor": 9726245,
+  "patternColor": 5190402,
+  "textColor": 16768396,
+  "hex": {
+    "centerColor": "#b58d38",
+    "edgeColor": "#946925",
+    "patternColor": "#4f3302",
+    "textColor": "#ffdd8c"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b58d38-946925-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b58d38-946925-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b58d38-946925-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/old-gold.json"
+}

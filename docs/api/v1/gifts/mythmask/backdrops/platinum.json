@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "platinum",
+  "name": "Platinum",
+  "backdropId": 42,
+  "customEmojiId": "5375209243764877171",
+  "centerColor": 11710119,
+  "edgeColor": 8946814,
+  "patternColor": 4012077,
+  "textColor": 15329250,
+  "hex": {
+    "centerColor": "#b2aea7",
+    "edgeColor": "#88847e",
+    "patternColor": "#3d382d",
+    "textColor": "#e9e7e2"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b2aea7-88847e-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b2aea7-88847e-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b2aea7-88847e-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/platinum.json"
+}

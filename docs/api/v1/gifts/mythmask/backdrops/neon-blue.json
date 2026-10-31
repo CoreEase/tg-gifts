@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "neon-blue",
+  "name": "Neon Blue",
+  "backdropId": 5,
+  "customEmojiId": "5375064164064586786",
+  "centerColor": 7706361,
+  "edgeColor": 6841060,
+  "patternColor": 2631868,
+  "textColor": 13622783,
+  "hex": {
+    "centerColor": "#7596f9",
+    "edgeColor": "#6862e4",
+    "patternColor": "#2828bc",
+    "textColor": "#cfddff"
+  },
+  "rarityPermille": 1000,
+  "originalRarityPermille": 15,
+  "rarity": 100,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/neon-blue.json"
+}

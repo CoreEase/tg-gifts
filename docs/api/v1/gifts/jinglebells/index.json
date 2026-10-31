@@ -1648,28 +1648,6 @@
     },
     {
       "type": "model",
-      "slug": "jam-jar",
-      "name": "Jam Jar",
-      "customEmojiId": "5246973739488275498",
-      "rarityPermille": 4,
-      "originalRarityPermille": 5,
-      "rarity": 0.4,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/jam-jar.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/jam-jar.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/jam-jar.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/jam-jar.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/jam-jar.json"
-    },
-    {
-      "type": "model",
       "slug": "melting",
       "name": "Melting",
       "customEmojiId": "5247211706446279996",
@@ -1821,6 +1799,28 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/ice-chime.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/ice-chime.json"
+    },
+    {
+      "type": "model",
+      "slug": "jam-jar",
+      "name": "Jam Jar",
+      "customEmojiId": "5246973739488275498",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/jam-jar.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/jam-jar.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/jam-jar.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/jam-jar.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/jam-jar.json"
     },
     {
       "type": "model",
@@ -2044,6 +2044,28 @@
     },
     {
       "type": "model",
+      "slug": "santa-hat",
+      "name": "Santa Hat",
+      "customEmojiId": "5247137592490617935",
+      "rarityPermille": 7,
+      "originalRarityPermille": 9,
+      "rarity": 0.7,
+      "originalRarity": 0.9,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/santa-hat.json"
+    },
+    {
+      "type": "model",
       "slug": "silver-bells",
       "name": "Silver Bells",
       "customEmojiId": "5249232260925777852",
@@ -2217,28 +2239,6 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-horns.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/purple-horns.json"
-    },
-    {
-      "type": "model",
-      "slug": "santa-hat",
-      "name": "Santa Hat",
-      "customEmojiId": "5247137592490617935",
-      "rarityPermille": 8,
-      "originalRarityPermille": 9,
-      "rarity": 0.8,
-      "originalRarity": 0.9,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/santa-hat.json"
     },
     {
       "type": "model",
@@ -3806,38 +3806,6 @@
     },
     {
       "type": "backdrop",
-      "slug": "neon-blue",
-      "name": "Neon Blue",
-      "backdropId": 5,
-      "customEmojiId": "5375064164064586786",
-      "centerColor": 7706361,
-      "edgeColor": 6841060,
-      "patternColor": 2631868,
-      "textColor": 13622783,
-      "hex": {
-        "centerColor": "#7596f9",
-        "edgeColor": "#6862e4",
-        "patternColor": "#2828bc",
-        "textColor": "#cfddff"
-      },
-      "rarityPermille": 14,
-      "originalRarityPermille": 15,
-      "rarity": 1.4,
-      "originalRarity": 1.5,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg"
-      },
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/neon-blue.json"
-    },
-    {
-      "type": "backdrop",
       "slug": "strawberry",
       "name": "Strawberry",
       "backdropId": 27,
@@ -4059,6 +4027,38 @@
         "id": "6001473264306619020"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/mint-green.json"
+    },
+    {
+      "type": "backdrop",
+      "slug": "neon-blue",
+      "name": "Neon Blue",
+      "backdropId": 5,
+      "customEmojiId": "5375064164064586786",
+      "centerColor": 7706361,
+      "edgeColor": 6841060,
+      "patternColor": 2631868,
+      "textColor": 13622783,
+      "hex": {
+        "centerColor": "#7596f9",
+        "edgeColor": "#6862e4",
+        "patternColor": "#2828bc",
+        "textColor": "#cfddff"
+      },
+      "rarityPermille": 15,
+      "originalRarityPermille": 15,
+      "rarity": 1.5,
+      "originalRarity": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7596f9-6862e4-square.svg"
+      },
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/neon-blue.json"
     },
     {
       "type": "backdrop",
@@ -4574,38 +4574,6 @@
     },
     {
       "type": "backdrop",
-      "slug": "light-olive",
-      "name": "Light Olive",
-      "backdropId": 18,
-      "customEmojiId": "5375600553940250812",
-      "centerColor": 12758884,
-      "edgeColor": 8945221,
-      "patternColor": 5852164,
-      "textColor": 16116668,
-      "hex": {
-        "centerColor": "#c2af64",
-        "edgeColor": "#887e45",
-        "patternColor": "#594c04",
-        "textColor": "#f5ebbc"
-      },
-      "rarityPermille": 19,
-      "originalRarityPermille": 19,
-      "rarity": 1.9,
-      "originalRarity": 1.9,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/c2af64-887e45-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/c2af64-887e45-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/c2af64-887e45-square.svg"
-      },
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/light-olive.json"
-    },
-    {
-      "type": "backdrop",
       "slug": "pine-green",
       "name": "Pine Green",
       "backdropId": 34,
@@ -4923,6 +4891,38 @@
         "id": "6001473264306619020"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/jade-green.json"
+    },
+    {
+      "type": "backdrop",
+      "slug": "light-olive",
+      "name": "Light Olive",
+      "backdropId": 18,
+      "customEmojiId": "5375600553940250812",
+      "centerColor": 12758884,
+      "edgeColor": 8945221,
+      "patternColor": 5852164,
+      "textColor": 16116668,
+      "hex": {
+        "centerColor": "#c2af64",
+        "edgeColor": "#887e45",
+        "patternColor": "#594c04",
+        "textColor": "#f5ebbc"
+      },
+      "rarityPermille": 20,
+      "originalRarityPermille": 19,
+      "rarity": 2,
+      "originalRarity": 1.9,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/c2af64-887e45-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/c2af64-887e45-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/c2af64-887e45-square.svg"
+      },
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/backdrops/light-olive.json"
     },
     {
       "type": "backdrop",
@@ -7576,46 +7576,6 @@
     },
     {
       "type": "pattern",
-      "slug": "cupcake",
-      "name": "Cupcake",
-      "customEmojiId": "5199460788330335122",
-      "rarityPermille": 19,
-      "originalRarityPermille": 19,
-      "rarity": 1.9,
-      "originalRarity": 1.9,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/cupcake.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/cupcake.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/cupcake.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "gingerbread",
-      "name": "Gingerbread",
-      "customEmojiId": "5199945376605439444",
-      "rarityPermille": 19,
-      "originalRarityPermille": 19,
-      "rarity": 1.9,
-      "originalRarity": 1.9,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/gingerbread.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/gingerbread.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/gingerbread.json"
-    },
-    {
-      "type": "pattern",
       "slug": "rudolph",
       "name": "Rudolph",
       "customEmojiId": "5199540056246747378",
@@ -7656,6 +7616,26 @@
     },
     {
       "type": "pattern",
+      "slug": "cupcake",
+      "name": "Cupcake",
+      "customEmojiId": "5199460788330335122",
+      "rarityPermille": 20,
+      "originalRarityPermille": 19,
+      "rarity": 2,
+      "originalRarity": 1.9,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/cupcake.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/cupcake.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/cupcake.json"
+    },
+    {
+      "type": "pattern",
       "slug": "festive-wreath",
       "name": "Festive Wreath",
       "customEmojiId": "5199830851302495542",
@@ -7673,6 +7653,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/festive-wreath.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/festive-wreath.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "gingerbread",
+      "name": "Gingerbread",
+      "customEmojiId": "5199945376605439444",
+      "rarityPermille": 20,
+      "originalRarityPermille": 19,
+      "rarity": 2,
+      "originalRarity": 1.9,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/gingerbread.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/gingerbread.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/gingerbread.json"
     },
     {
       "type": "pattern",

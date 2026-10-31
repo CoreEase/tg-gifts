@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "emerald",
+  "name": "Emerald",
+  "backdropId": 13,
+  "customEmojiId": "5375465786456438121",
+  "centerColor": 7914885,
+  "edgeColor": 4366705,
+  "patternColor": 25906,
+  "textColor": 12188121,
+  "hex": {
+    "centerColor": "#78c585",
+    "edgeColor": "#42a171",
+    "patternColor": "#006532",
+    "textColor": "#b9f9d9"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/78c585-42a171-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/78c585-42a171-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/78c585-42a171-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/emerald.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "desert-sand",
+  "name": "Desert Sand",
+  "backdropId": 38,
+  "customEmojiId": "5375295684276677732",
+  "centerColor": 11771778,
+  "edgeColor": 8287067,
+  "patternColor": 5260329,
+  "textColor": 15918541,
+  "hex": {
+    "centerColor": "#b39f82",
+    "edgeColor": "#7e735b",
+    "patternColor": "#504429",
+    "textColor": "#f2e5cd"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 10,
+  "rarity": 0,
+  "originalRarity": 1,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b39f82-7e735b-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b39f82-7e735b-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b39f82-7e735b-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/desert-sand.json"
+}

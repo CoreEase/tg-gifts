@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "electric-indigo",
+  "name": "Electric Indigo",
+  "backdropId": 4,
+  "customEmojiId": "5375368406662934349",
+  "centerColor": 11108595,
+  "edgeColor": 5989080,
+  "patternColor": 3613355,
+  "textColor": 14211327,
+  "hex": {
+    "centerColor": "#a980f3",
+    "edgeColor": "#5b62d8",
+    "patternColor": "#3722ab",
+    "textColor": "#d8d8ff"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/a980f3-5b62d8-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/a980f3-5b62d8-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/a980f3-5b62d8-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/electric-indigo.json"
+}

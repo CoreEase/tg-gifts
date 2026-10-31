@@ -1,0 +1,20 @@
+{
+  "type": "pattern",
+  "slug": "coin",
+  "name": "Coin",
+  "customEmojiId": "5199414832180268714",
+  "rarityPermille": 1000,
+  "originalRarityPermille": 2,
+  "rarity": 100,
+  "originalRarity": 0.2,
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/coin.png",
+  "assets": {
+    "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/coin.png"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/patterns/coin.json"
+}

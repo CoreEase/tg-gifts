@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "sky-blue",
+  "name": "Sky Blue",
+  "backdropId": 8,
+  "customEmojiId": "5375428136773120397",
+  "centerColor": 5813448,
+  "edgeColor": 5475266,
+  "patternColor": 483483,
+  "textColor": 13494525,
+  "hex": {
+    "centerColor": "#58b4c8",
+    "edgeColor": "#538bc2",
+    "patternColor": "#07609b",
+    "textColor": "#cde8fd"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/58b4c8-538bc2-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/58b4c8-538bc2-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/58b4c8-538bc2-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/sky-blue.json"
+}

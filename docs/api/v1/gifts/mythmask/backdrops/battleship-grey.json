@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "battleship-grey",
+  "name": "Battleship Grey",
+  "backdropId": 50,
+  "customEmojiId": "5375258223571925187",
+  "centerColor": 9211013,
+  "edgeColor": 7105638,
+  "patternColor": 2828832,
+  "textColor": 13618884,
+  "hex": {
+    "centerColor": "#8c8c85",
+    "edgeColor": "#6c6c66",
+    "patternColor": "#2b2a20",
+    "textColor": "#cfcec4"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8c8c85-6c6c66-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8c8c85-6c6c66-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8c8c85-6c6c66-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/battleship-grey.json"
+}

@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "carrot-juice",
+  "name": "Carrot Juice",
+  "backdropId": 24,
+  "customEmojiId": "5377603262830633515",
+  "centerColor": 14391399,
+  "edgeColor": 13070159,
+  "patternColor": 9314560,
+  "textColor": 16766922,
+  "hex": {
+    "centerColor": "#db9867",
+    "edgeColor": "#c76f4f",
+    "patternColor": "#8e2100",
+    "textColor": "#ffd7ca"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/db9867-c76f4f-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/db9867-c76f4f-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/db9867-c76f4f-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/carrot-juice.json"
+}

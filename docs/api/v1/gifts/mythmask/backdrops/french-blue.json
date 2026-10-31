@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "french-blue",
+  "name": "French Blue",
+  "backdropId": 54,
+  "customEmojiId": "5375333269535485469",
+  "centerColor": 6069188,
+  "edgeColor": 3634074,
+  "patternColor": 473948,
+  "textColor": 12706809,
+  "hex": {
+    "centerColor": "#5c9bc4",
+    "edgeColor": "#37739a",
+    "patternColor": "#073b5c",
+    "textColor": "#c1e3f9"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c9bc4-37739a-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c9bc4-37739a-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c9bc4-37739a-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/french-blue.json"
+}

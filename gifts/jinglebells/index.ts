@@ -934,18 +934,6 @@ export const models = [
     }
   },
   {
-    "name": "Jam Jar",
-    "customEmojiId": "5246973739488275498",
-    "rarityPermille": 4,
-    "originalRarityPermille": 5,
-    "rarity": 0.4,
-    "originalRarity": 0.5,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/jam-jar.svg",
-      "tgs": "gifts/jinglebells/assets/models/jam-jar.tgs"
-    }
-  },
-  {
     "name": "Melting",
     "customEmojiId": "5247211706446279996",
     "rarityPermille": 4,
@@ -1027,6 +1015,18 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/ice-chime.svg",
       "tgs": "gifts/jinglebells/assets/models/ice-chime.tgs"
+    }
+  },
+  {
+    "name": "Jam Jar",
+    "customEmojiId": "5246973739488275498",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/jam-jar.svg",
+      "tgs": "gifts/jinglebells/assets/models/jam-jar.tgs"
     }
   },
   {
@@ -1150,6 +1150,18 @@ export const models = [
     }
   },
   {
+    "name": "Santa Hat",
+    "customEmojiId": "5247137592490617935",
+    "rarityPermille": 7,
+    "originalRarityPermille": 9,
+    "rarity": 0.7,
+    "originalRarity": 0.9,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/santa-hat.svg",
+      "tgs": "gifts/jinglebells/assets/models/santa-hat.tgs"
+    }
+  },
+  {
     "name": "Silver Bells",
     "customEmojiId": "5249232260925777852",
     "rarityPermille": 7,
@@ -1243,18 +1255,6 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/purple-horns.svg",
       "tgs": "gifts/jinglebells/assets/models/purple-horns.tgs"
-    }
-  },
-  {
-    "name": "Santa Hat",
-    "customEmojiId": "5247137592490617935",
-    "rarityPermille": 8,
-    "originalRarityPermille": 9,
-    "rarity": 0.8,
-    "originalRarity": 0.9,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/santa-hat.svg",
-      "tgs": "gifts/jinglebells/assets/models/santa-hat.tgs"
     }
   },
   {
@@ -3131,28 +3131,6 @@ export const patterns = [
     }
   },
   {
-    "name": "Cupcake",
-    "customEmojiId": "5199460788330335122",
-    "rarityPermille": 19,
-    "originalRarityPermille": 19,
-    "rarity": 1.9,
-    "originalRarity": 1.9,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/cupcake.png"
-    }
-  },
-  {
-    "name": "Gingerbread",
-    "customEmojiId": "5199945376605439444",
-    "rarityPermille": 19,
-    "originalRarityPermille": 19,
-    "rarity": 1.9,
-    "originalRarity": 1.9,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/gingerbread.png"
-    }
-  },
-  {
     "name": "Rudolph",
     "customEmojiId": "5199540056246747378",
     "rarityPermille": 19,
@@ -3175,6 +3153,17 @@ export const patterns = [
     }
   },
   {
+    "name": "Cupcake",
+    "customEmojiId": "5199460788330335122",
+    "rarityPermille": 20,
+    "originalRarityPermille": 19,
+    "rarity": 2,
+    "originalRarity": 1.9,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/cupcake.png"
+    }
+  },
+  {
     "name": "Festive Wreath",
     "customEmojiId": "5199830851302495542",
     "rarityPermille": 20,
@@ -3183,6 +3172,17 @@ export const patterns = [
     "originalRarity": 2,
     "assets": {
       "png": "gifts/jinglebells/assets/patterns/festive-wreath.png"
+    }
+  },
+  {
+    "name": "Gingerbread",
+    "customEmojiId": "5199945376605439444",
+    "rarityPermille": 20,
+    "originalRarityPermille": 19,
+    "rarity": 2,
+    "originalRarity": 1.9,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/gingerbread.png"
     }
   },
   {
@@ -3695,29 +3695,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Neon Blue",
-    "backdropId": 5,
-    "customEmojiId": "5375064164064586786",
-    "centerColor": 7706361,
-    "edgeColor": 6841060,
-    "patternColor": 2631868,
-    "textColor": 13622783,
-    "hex": {
-      "centerColor": "#7596f9",
-      "edgeColor": "#6862e4",
-      "patternColor": "#2828bc",
-      "textColor": "#cfddff"
-    },
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "circleSvg": "assets/backdrops/7596f9-6862e4-circle.svg",
-      "squareSvg": "assets/backdrops/7596f9-6862e4-square.svg"
-    }
-  },
-  {
     "name": "Strawberry",
     "backdropId": 27,
     "customEmojiId": "5377810976039004691",
@@ -3876,6 +3853,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/7ecb82-459e5a-circle.svg",
       "squareSvg": "assets/backdrops/7ecb82-459e5a-square.svg"
+    }
+  },
+  {
+    "name": "Neon Blue",
+    "backdropId": 5,
+    "customEmojiId": "5375064164064586786",
+    "centerColor": 7706361,
+    "edgeColor": 6841060,
+    "patternColor": 2631868,
+    "textColor": 13622783,
+    "hex": {
+      "centerColor": "#7596f9",
+      "edgeColor": "#6862e4",
+      "patternColor": "#2828bc",
+      "textColor": "#cfddff"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/7596f9-6862e4-circle.svg",
+      "squareSvg": "assets/backdrops/7596f9-6862e4-square.svg"
     }
   },
   {
@@ -4247,29 +4247,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Light Olive",
-    "backdropId": 18,
-    "customEmojiId": "5375600553940250812",
-    "centerColor": 12758884,
-    "edgeColor": 8945221,
-    "patternColor": 5852164,
-    "textColor": 16116668,
-    "hex": {
-      "centerColor": "#c2af64",
-      "edgeColor": "#887e45",
-      "patternColor": "#594c04",
-      "textColor": "#f5ebbc"
-    },
-    "rarityPermille": 19,
-    "originalRarityPermille": 19,
-    "rarity": 1.9,
-    "originalRarity": 1.9,
-    "assets": {
-      "circleSvg": "assets/backdrops/c2af64-887e45-circle.svg",
-      "squareSvg": "assets/backdrops/c2af64-887e45-square.svg"
-    }
-  },
-  {
     "name": "Pine Green",
     "backdropId": 34,
     "customEmojiId": "5375456049765578111",
@@ -4497,6 +4474,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/55c49c-3b9977-circle.svg",
       "squareSvg": "assets/backdrops/55c49c-3b9977-square.svg"
+    }
+  },
+  {
+    "name": "Light Olive",
+    "backdropId": 18,
+    "customEmojiId": "5375600553940250812",
+    "centerColor": 12758884,
+    "edgeColor": 8945221,
+    "patternColor": 5852164,
+    "textColor": 16116668,
+    "hex": {
+      "centerColor": "#c2af64",
+      "edgeColor": "#887e45",
+      "patternColor": "#594c04",
+      "textColor": "#f5ebbc"
+    },
+    "rarityPermille": 20,
+    "originalRarityPermille": 19,
+    "rarity": 2,
+    "originalRarity": 1.9,
+    "assets": {
+      "circleSvg": "assets/backdrops/c2af64-887e45-circle.svg",
+      "squareSvg": "assets/backdrops/c2af64-887e45-square.svg"
     }
   },
   {

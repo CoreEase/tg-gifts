@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "dark-green",
+  "name": "Dark Green",
+  "backdropId": 63,
+  "customEmojiId": "5375600953372209854",
+  "centerColor": 5333825,
+  "edgeColor": 2835759,
+  "patternColor": 1281,
+  "textColor": 12571049,
+  "hex": {
+    "centerColor": "#516341",
+    "edgeColor": "#2b452f",
+    "patternColor": "#000501",
+    "textColor": "#bfd1a9"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/516341-2b452f-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/516341-2b452f-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/516341-2b452f-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/dark-green.json"
+}

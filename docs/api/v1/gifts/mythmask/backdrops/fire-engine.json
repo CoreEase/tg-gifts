@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "fire-engine",
+  "name": "Fire Engine",
+  "backdropId": 73,
+  "customEmojiId": "5375497006573710335",
+  "centerColor": 15753039,
+  "edgeColor": 12859721,
+  "patternColor": 6881289,
+  "textColor": 16758694,
+  "hex": {
+    "centerColor": "#f05f4f",
+    "edgeColor": "#c43949",
+    "patternColor": "#690009",
+    "textColor": "#ffb7a6"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 12,
+  "rarity": 0,
+  "originalRarity": 1.2,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/f05f4f-c43949-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/f05f4f-c43949-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/f05f4f-c43949-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/fire-engine.json"
+}

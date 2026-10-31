@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "pistachio",
+  "name": "Pistachio",
+  "backdropId": 36,
+  "customEmojiId": "5375280450027679837",
+  "centerColor": 9941116,
+  "edgeColor": 6062412,
+  "patternColor": 2639643,
+  "textColor": 14283465,
+  "hex": {
+    "centerColor": "#97b07c",
+    "edgeColor": "#5c814c",
+    "patternColor": "#28471b",
+    "textColor": "#d9f2c9"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 15,
+  "rarity": 0,
+  "originalRarity": 1.5,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/97b07c-5c814c-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/97b07c-5c814c-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/97b07c-5c814c-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/pistachio.json"
+}

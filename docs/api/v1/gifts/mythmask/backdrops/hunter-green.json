@@ -1,0 +1,32 @@
+{
+  "type": "backdrop",
+  "slug": "hunter-green",
+  "name": "Hunter Green",
+  "backdropId": 35,
+  "customEmojiId": "5375046438734558335",
+  "centerColor": 9416312,
+  "edgeColor": 4948571,
+  "patternColor": 1853727,
+  "textColor": 14218718,
+  "hex": {
+    "centerColor": "#8fae78",
+    "edgeColor": "#4b825b",
+    "patternColor": "#1c491f",
+    "textColor": "#d8f5de"
+  },
+  "rarityPermille": 0,
+  "originalRarityPermille": 10,
+  "rarity": 0,
+  "originalRarity": 1,
+  "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8fae78-4b825b-square.svg",
+  "assets": {
+    "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8fae78-4b825b-circle.svg",
+    "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/8fae78-4b825b-square.svg"
+  },
+  "gift": {
+    "slug": "mythmask",
+    "name": "Myth Mask",
+    "id": "5775966332847654507"
+  },
+  "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/hunter-green.json"
+}
