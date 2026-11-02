@@ -886,6 +886,18 @@ export const models = [
     }
   },
   {
+    "name": "Luftballons",
+    "customEmojiId": "5249476283787661693",
+    "rarityPermille": 3,
+    "originalRarityPermille": 4,
+    "rarity": 0.3,
+    "originalRarity": 0.4,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/luftballons.svg",
+      "tgs": "gifts/deskcalendar/assets/models/luftballons.tgs"
+    }
+  },
+  {
     "name": "Pepe Plans",
     "customEmojiId": "5249500657727069928",
     "rarityPermille": 3,
@@ -931,18 +943,6 @@ export const models = [
     "assets": {
       "svg": "gifts/deskcalendar/assets/models/fund-manager.svg",
       "tgs": "gifts/deskcalendar/assets/models/fund-manager.tgs"
-    }
-  },
-  {
-    "name": "Luftballons",
-    "customEmojiId": "5249476283787661693",
-    "rarityPermille": 4,
-    "originalRarityPermille": 4,
-    "rarity": 0.4,
-    "originalRarity": 0.4,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/luftballons.svg",
-      "tgs": "gifts/deskcalendar/assets/models/luftballons.tgs"
     }
   },
   {
@@ -1474,6 +1474,18 @@ export const models = [
     }
   },
   {
+    "name": "Barbie Day",
+    "customEmojiId": "5249233493581391930",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/barbie-day.svg",
+      "tgs": "gifts/deskcalendar/assets/models/barbie-day.tgs"
+    }
+  },
+  {
     "name": "Basic Blue",
     "customEmojiId": "5249110060516268121",
     "rarityPermille": 13,
@@ -1546,6 +1558,18 @@ export const models = [
     }
   },
   {
+    "name": "Deep Ocean",
+    "customEmojiId": "5246971218342472509",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/deep-ocean.svg",
+      "tgs": "gifts/deskcalendar/assets/models/deep-ocean.tgs"
+    }
+  },
+  {
     "name": "Eco Friendly",
     "customEmojiId": "5249386617755428292",
     "rarityPermille": 13,
@@ -1567,6 +1591,18 @@ export const models = [
     "assets": {
       "svg": "gifts/deskcalendar/assets/models/going-green.svg",
       "tgs": "gifts/deskcalendar/assets/models/going-green.tgs"
+    }
+  },
+  {
+    "name": "Gold Leaf",
+    "customEmojiId": "5249195392926511448",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/gold-leaf.svg",
+      "tgs": "gifts/deskcalendar/assets/models/gold-leaf.tgs"
     }
   },
   {
@@ -1762,18 +1798,6 @@ export const models = [
     }
   },
   {
-    "name": "Barbie Day",
-    "customEmojiId": "5249233493581391930",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/barbie-day.svg",
-      "tgs": "gifts/deskcalendar/assets/models/barbie-day.tgs"
-    }
-  },
-  {
     "name": "Black Flip",
     "customEmojiId": "5249410429054115966",
     "rarityPermille": 14,
@@ -1822,18 +1846,6 @@ export const models = [
     }
   },
   {
-    "name": "Deep Ocean",
-    "customEmojiId": "5246971218342472509",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/deep-ocean.svg",
-      "tgs": "gifts/deskcalendar/assets/models/deep-ocean.tgs"
-    }
-  },
-  {
     "name": "Fire Path",
     "customEmojiId": "5249075752317511101",
     "rarityPermille": 14,
@@ -1843,18 +1855,6 @@ export const models = [
     "assets": {
       "svg": "gifts/deskcalendar/assets/models/fire-path.svg",
       "tgs": "gifts/deskcalendar/assets/models/fire-path.tgs"
-    }
-  },
-  {
-    "name": "Gold Leaf",
-    "customEmojiId": "5249195392926511448",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/gold-leaf.svg",
-      "tgs": "gifts/deskcalendar/assets/models/gold-leaf.tgs"
     }
   },
   {
@@ -5353,6 +5353,29 @@ export const backdrops = [
     }
   },
   {
+    "name": "Midnight Blue",
+    "backdropId": 48,
+    "customEmojiId": "5375050733701852215",
+    "centerColor": 6056325,
+    "edgeColor": 3489879,
+    "patternColor": 199192,
+    "textColor": 12569824,
+    "hex": {
+      "centerColor": "#5c6985",
+      "edgeColor": "#354057",
+      "patternColor": "#030a18",
+      "textColor": "#bfcce0"
+    },
+    "rarityPermille": 15,
+    "originalRarityPermille": 15,
+    "rarity": 1.5,
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/5c6985-354057-circle.svg",
+      "squareSvg": "assets/backdrops/5c6985-354057-square.svg"
+    }
+  },
+  {
     "name": "Mint Green",
     "backdropId": 14,
     "customEmojiId": "5375453017518666054",
@@ -5488,29 +5511,6 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/bf9b47-8d7739-circle.svg",
       "squareSvg": "assets/backdrops/bf9b47-8d7739-square.svg"
-    }
-  },
-  {
-    "name": "Midnight Blue",
-    "backdropId": 48,
-    "customEmojiId": "5375050733701852215",
-    "centerColor": 6056325,
-    "edgeColor": 3489879,
-    "patternColor": 199192,
-    "textColor": 12569824,
-    "hex": {
-      "centerColor": "#5c6985",
-      "edgeColor": "#354057",
-      "patternColor": "#030a18",
-      "textColor": "#bfcce0"
-    },
-    "rarityPermille": 16,
-    "originalRarityPermille": 15,
-    "rarity": 1.6,
-    "originalRarity": 1.5,
-    "assets": {
-      "circleSvg": "assets/backdrops/5c6985-354057-circle.svg",
-      "squareSvg": "assets/backdrops/5c6985-354057-square.svg"
     }
   },
   {

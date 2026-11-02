@@ -5,7 +5,7 @@
     "apiName": "Jelly Bunny",
     "id": "5915502858152706668",
     "count": 14251,
-    "modelCount": 99,
+    "modelCount": 100,
     "patternCount": 256,
     "backdropCount": 60,
     "inFragment": true,
@@ -16,7 +16,7 @@
     "backdropsUrl": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jellybunny/backdrops.json",
     "patternsUrl": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jellybunny/patterns.json"
   },
-  "count": 99,
+  "count": 100,
   "items": [
     {
       "type": "model",
@@ -990,7 +990,7 @@
       "type": "model",
       "slug": "violet-joy",
       "name": "Violet Joy",
-      "customEmojiId": "5456242305839161543",
+      "customEmojiId": "5420323017601362829",
       "rarityPermille": 5,
       "originalRarityPermille": 5,
       "rarity": 0.5,
@@ -1007,6 +1007,28 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/violet-joy.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jellybunny/models/violet-joy.json"
+    },
+    {
+      "type": "model",
+      "slug": "violet-joy-1",
+      "name": "Violet Joy-1",
+      "customEmojiId": "5422617870167222456",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "jellybunny",
+        "name": "Jelly Bunny",
+        "id": "5915502858152706668"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/violet-joy-1.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/violet-joy-1.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/violet-joy-1.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jellybunny/assets/models/violet-joy-1.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jellybunny/models/violet-joy-1.json"
     },
     {
       "type": "model",

@@ -77,7 +77,7 @@ export const models = [
   },
   {
     "name": "Rave",
-    "customEmojiId": "5456390331887018382",
+    "customEmojiId": "5420490598635316561",
     "rarityPermille": 2,
     "originalRarityPermille": 2,
     "rarity": 0.2,

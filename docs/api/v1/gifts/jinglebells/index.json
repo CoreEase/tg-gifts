@@ -2044,28 +2044,6 @@
     },
     {
       "type": "model",
-      "slug": "santa-hat",
-      "name": "Santa Hat",
-      "customEmojiId": "5247137592490617935",
-      "rarityPermille": 7,
-      "originalRarityPermille": 9,
-      "rarity": 0.7,
-      "originalRarity": 0.9,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/santa-hat.json"
-    },
-    {
-      "type": "model",
       "slug": "silver-bells",
       "name": "Silver Bells",
       "customEmojiId": "5249232260925777852",
@@ -2239,6 +2217,28 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/purple-horns.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/purple-horns.json"
+    },
+    {
+      "type": "model",
+      "slug": "santa-hat",
+      "name": "Santa Hat",
+      "customEmojiId": "5247137592490617935",
+      "rarityPermille": 8,
+      "originalRarityPermille": 9,
+      "rarity": 0.8,
+      "originalRarity": 0.9,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/models/santa-hat.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/models/santa-hat.json"
     },
     {
       "type": "model",
@@ -7416,6 +7416,26 @@
     },
     {
       "type": "pattern",
+      "slug": "piggy-bank",
+      "name": "Piggy Bank",
+      "customEmojiId": "5199476082708878264",
+      "rarityPermille": 15,
+      "originalRarityPermille": 16,
+      "rarity": 1.5,
+      "originalRarity": 1.6,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/piggy-bank.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/piggy-bank.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/piggy-bank.json"
+    },
+    {
+      "type": "pattern",
       "slug": "candle",
       "name": "Candle",
       "customEmojiId": "5199639604998733687",
@@ -7473,26 +7493,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/nordic-wolf.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/nordic-wolf.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "piggy-bank",
-      "name": "Piggy Bank",
-      "customEmojiId": "5199476082708878264",
-      "rarityPermille": 16,
-      "originalRarityPermille": 16,
-      "rarity": 1.6,
-      "originalRarity": 1.6,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/piggy-bank.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/piggy-bank.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/piggy-bank.json"
     },
     {
       "type": "pattern",
@@ -7596,6 +7596,26 @@
     },
     {
       "type": "pattern",
+      "slug": "snow-angel",
+      "name": "Snow Angel",
+      "customEmojiId": "5199879135324836933",
+      "rarityPermille": 19,
+      "originalRarityPermille": 20,
+      "rarity": 1.9,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/snow-angel.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/snow-angel.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/snow-angel.json"
+    },
+    {
+      "type": "pattern",
       "slug": "chest",
       "name": "Chest",
       "customEmojiId": "5199799017004894591",
@@ -7693,26 +7713,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/new-year-s-eve.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/new-year-s-eve.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "snow-angel",
-      "name": "Snow Angel",
-      "customEmojiId": "5199879135324836933",
-      "rarityPermille": 20,
-      "originalRarityPermille": 20,
-      "rarity": 2,
-      "originalRarity": 2,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/snow-angel.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/snow-angel.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/snow-angel.json"
     },
     {
       "type": "pattern",

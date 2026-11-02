@@ -533,7 +533,7 @@ export const models = [
   },
   {
     "name": "Violet Joy",
-    "customEmojiId": "5456242305839161543",
+    "customEmojiId": "5420323017601362829",
     "rarityPermille": 5,
     "originalRarityPermille": 5,
     "rarity": 0.5,
@@ -541,6 +541,18 @@ export const models = [
     "assets": {
       "svg": "gifts/jellybunny/assets/models/violet-joy.svg",
       "tgs": "gifts/jellybunny/assets/models/violet-joy.tgs"
+    }
+  },
+  {
+    "name": "Violet Joy-1",
+    "customEmojiId": "5422617870167222456",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "svg": "gifts/jellybunny/assets/models/violet-joy-1.svg",
+      "tgs": "gifts/jellybunny/assets/models/violet-joy-1.tgs"
     }
   },
   {

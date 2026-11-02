@@ -701,7 +701,7 @@ export const models = [
   },
   {
     "name": "Strawberry",
-    "customEmojiId": "5249443191064649848",
+    "customEmojiId": "5420267659767886925",
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,

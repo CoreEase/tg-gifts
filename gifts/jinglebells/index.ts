@@ -1150,18 +1150,6 @@ export const models = [
     }
   },
   {
-    "name": "Santa Hat",
-    "customEmojiId": "5247137592490617935",
-    "rarityPermille": 7,
-    "originalRarityPermille": 9,
-    "rarity": 0.7,
-    "originalRarity": 0.9,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/santa-hat.svg",
-      "tgs": "gifts/jinglebells/assets/models/santa-hat.tgs"
-    }
-  },
-  {
     "name": "Silver Bells",
     "customEmojiId": "5249232260925777852",
     "rarityPermille": 7,
@@ -1255,6 +1243,18 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/purple-horns.svg",
       "tgs": "gifts/jinglebells/assets/models/purple-horns.tgs"
+    }
+  },
+  {
+    "name": "Santa Hat",
+    "customEmojiId": "5247137592490617935",
+    "rarityPermille": 8,
+    "originalRarityPermille": 9,
+    "rarity": 0.8,
+    "originalRarity": 0.9,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/santa-hat.svg",
+      "tgs": "gifts/jinglebells/assets/models/santa-hat.tgs"
     }
   },
   {
@@ -3043,6 +3043,17 @@ export const patterns = [
     }
   },
   {
+    "name": "Piggy Bank",
+    "customEmojiId": "5199476082708878264",
+    "rarityPermille": 15,
+    "originalRarityPermille": 16,
+    "rarity": 1.5,
+    "originalRarity": 1.6,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/piggy-bank.png"
+    }
+  },
+  {
     "name": "Candle",
     "customEmojiId": "5199639604998733687",
     "rarityPermille": 16,
@@ -3073,17 +3084,6 @@ export const patterns = [
     "originalRarity": 1.6,
     "assets": {
       "png": "gifts/jinglebells/assets/patterns/nordic-wolf.png"
-    }
-  },
-  {
-    "name": "Piggy Bank",
-    "customEmojiId": "5199476082708878264",
-    "rarityPermille": 16,
-    "originalRarityPermille": 16,
-    "rarity": 1.6,
-    "originalRarity": 1.6,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/piggy-bank.png"
     }
   },
   {
@@ -3142,6 +3142,17 @@ export const patterns = [
     }
   },
   {
+    "name": "Snow Angel",
+    "customEmojiId": "5199879135324836933",
+    "rarityPermille": 19,
+    "originalRarityPermille": 20,
+    "rarity": 1.9,
+    "originalRarity": 2,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/snow-angel.png"
+    }
+  },
+  {
     "name": "Chest",
     "customEmojiId": "5199799017004894591",
     "rarityPermille": 20,
@@ -3194,17 +3205,6 @@ export const patterns = [
     "originalRarity": 2,
     "assets": {
       "png": "gifts/jinglebells/assets/patterns/new-year-s-eve.png"
-    }
-  },
-  {
-    "name": "Snow Angel",
-    "customEmojiId": "5199879135324836933",
-    "rarityPermille": 20,
-    "originalRarityPermille": 20,
-    "rarity": 2,
-    "originalRarity": 2,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/snow-angel.png"
     }
   },
   {

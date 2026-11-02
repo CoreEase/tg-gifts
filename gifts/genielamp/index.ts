@@ -29,7 +29,7 @@ export const models = [
   },
   {
     "name": "Lava Lamp",
-    "customEmojiId": "5244546138073230020",
+    "customEmojiId": "5420229185450848767",
     "rarityPermille": 5,
     "originalRarityPermille": 5,
     "rarity": 0.5,
@@ -37,6 +37,18 @@ export const models = [
     "assets": {
       "svg": "gifts/genielamp/assets/models/lava-lamp.svg",
       "tgs": "gifts/genielamp/assets/models/lava-lamp.tgs"
+    }
+  },
+  {
+    "name": "Lava Lamp-1",
+    "customEmojiId": "5422721962994610314",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "svg": "gifts/genielamp/assets/models/lava-lamp-1.svg",
+      "tgs": "gifts/genielamp/assets/models/lava-lamp-1.tgs"
     }
   },
   {
