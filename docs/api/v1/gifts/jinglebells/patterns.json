@@ -2240,26 +2240,6 @@
     },
     {
       "type": "pattern",
-      "slug": "snow-angel",
-      "name": "Snow Angel",
-      "customEmojiId": "5199879135324836933",
-      "rarityPermille": 19,
-      "originalRarityPermille": 20,
-      "rarity": 1.9,
-      "originalRarity": 2,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/snow-angel.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/snow-angel.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/snow-angel.json"
-    },
-    {
-      "type": "pattern",
       "slug": "chest",
       "name": "Chest",
       "customEmojiId": "5199799017004894591",
@@ -2357,6 +2337,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/new-year-s-eve.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/new-year-s-eve.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "snow-angel",
+      "name": "Snow Angel",
+      "customEmojiId": "5199879135324836933",
+      "rarityPermille": 20,
+      "originalRarityPermille": 20,
+      "rarity": 2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/snow-angel.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/snow-angel.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/snow-angel.json"
     },
     {
       "type": "pattern",

@@ -2720,46 +2720,6 @@
     },
     {
       "type": "pattern",
-      "slug": "crystal",
-      "name": "Crystal",
-      "customEmojiId": "5199505833947336625",
-      "rarityPermille": 4,
-      "originalRarityPermille": 5,
-      "rarity": 0.4,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/crystal.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/crystal.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/patterns/crystal.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "earth",
-      "name": "Earth",
-      "customEmojiId": "5199963814900042040",
-      "rarityPermille": 4,
-      "originalRarityPermille": 5,
-      "rarity": 0.4,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/earth.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/earth.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/patterns/earth.json"
-    },
-    {
-      "type": "pattern",
       "slug": "human-scull",
       "name": "Human Scull",
       "customEmojiId": "5199616090052791141",
@@ -3320,6 +3280,26 @@
     },
     {
       "type": "pattern",
+      "slug": "crystal",
+      "name": "Crystal",
+      "customEmojiId": "5199505833947336625",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/crystal.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/crystal.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/patterns/crystal.json"
+    },
+    {
+      "type": "pattern",
       "slug": "dagger",
       "name": "Dagger",
       "customEmojiId": "5199675966191864697",
@@ -3377,6 +3357,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/drug.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/patterns/drug.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "earth",
+      "name": "Earth",
+      "customEmojiId": "5199963814900042040",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/earth.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/patterns/earth.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/patterns/earth.json"
     },
     {
       "type": "pattern",

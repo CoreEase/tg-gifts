@@ -756,38 +756,6 @@
     },
     {
       "type": "backdrop",
-      "slug": "midnight-blue",
-      "name": "Midnight Blue",
-      "backdropId": 48,
-      "customEmojiId": "5375050733701852215",
-      "centerColor": 6056325,
-      "edgeColor": 3489879,
-      "patternColor": 199192,
-      "textColor": 12569824,
-      "hex": {
-        "centerColor": "#5c6985",
-        "edgeColor": "#354057",
-        "patternColor": "#030a18",
-        "textColor": "#bfcce0"
-      },
-      "rarityPermille": 15,
-      "originalRarityPermille": 15,
-      "rarity": 1.5,
-      "originalRarity": 1.5,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c6985-354057-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c6985-354057-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c6985-354057-square.svg"
-      },
-      "gift": {
-        "slug": "deskcalendar",
-        "name": "Desk Calendar",
-        "id": "5782988952268964995"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/deskcalendar/backdrops/midnight-blue.json"
-    },
-    {
-      "type": "backdrop",
       "slug": "mint-green",
       "name": "Mint Green",
       "backdropId": 14,
@@ -977,6 +945,38 @@
         "id": "5782988952268964995"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/deskcalendar/backdrops/satin-gold.json"
+    },
+    {
+      "type": "backdrop",
+      "slug": "midnight-blue",
+      "name": "Midnight Blue",
+      "backdropId": 48,
+      "customEmojiId": "5375050733701852215",
+      "centerColor": 6056325,
+      "edgeColor": 3489879,
+      "patternColor": 199192,
+      "textColor": 12569824,
+      "hex": {
+        "centerColor": "#5c6985",
+        "edgeColor": "#354057",
+        "patternColor": "#030a18",
+        "textColor": "#bfcce0"
+      },
+      "rarityPermille": 16,
+      "originalRarityPermille": 15,
+      "rarity": 1.6,
+      "originalRarity": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c6985-354057-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c6985-354057-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/5c6985-354057-square.svg"
+      },
+      "gift": {
+        "slug": "deskcalendar",
+        "name": "Desk Calendar",
+        "id": "5782988952268964995"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/deskcalendar/backdrops/midnight-blue.json"
     },
     {
       "type": "backdrop",

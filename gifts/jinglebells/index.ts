@@ -934,6 +934,18 @@ export const models = [
     }
   },
   {
+    "name": "Jam Jar",
+    "customEmojiId": "5246973739488275498",
+    "rarityPermille": 4,
+    "originalRarityPermille": 5,
+    "rarity": 0.4,
+    "originalRarity": 0.5,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/jam-jar.svg",
+      "tgs": "gifts/jinglebells/assets/models/jam-jar.tgs"
+    }
+  },
+  {
     "name": "Melting",
     "customEmojiId": "5247211706446279996",
     "rarityPermille": 4,
@@ -1015,18 +1027,6 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/ice-chime.svg",
       "tgs": "gifts/jinglebells/assets/models/ice-chime.tgs"
-    }
-  },
-  {
-    "name": "Jam Jar",
-    "customEmojiId": "5246973739488275498",
-    "rarityPermille": 5,
-    "originalRarityPermille": 5,
-    "rarity": 0.5,
-    "originalRarity": 0.5,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/jam-jar.svg",
-      "tgs": "gifts/jinglebells/assets/models/jam-jar.tgs"
     }
   },
   {
@@ -1558,6 +1558,18 @@ export const models = [
     }
   },
   {
+    "name": "Saltwater",
+    "customEmojiId": "5246848717285254824",
+    "rarityPermille": 12,
+    "originalRarityPermille": 14,
+    "rarity": 1.2,
+    "originalRarity": 1.4,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/saltwater.svg",
+      "tgs": "gifts/jinglebells/assets/models/saltwater.tgs"
+    }
+  },
+  {
     "name": "Teal Rust",
     "customEmojiId": "5249246885289420942",
     "rarityPermille": 12,
@@ -1627,18 +1639,6 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/crimson-steel.svg",
       "tgs": "gifts/jinglebells/assets/models/crimson-steel.tgs"
-    }
-  },
-  {
-    "name": "Gamer Color",
-    "customEmojiId": "5249062850235750619",
-    "rarityPermille": 13,
-    "originalRarityPermille": 14,
-    "rarity": 1.3,
-    "originalRarity": 1.4,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/gamer-color.svg",
-      "tgs": "gifts/jinglebells/assets/models/gamer-color.tgs"
     }
   },
   {
@@ -1762,18 +1762,6 @@ export const models = [
     }
   },
   {
-    "name": "Saltwater",
-    "customEmojiId": "5246848717285254824",
-    "rarityPermille": 13,
-    "originalRarityPermille": 14,
-    "rarity": 1.3,
-    "originalRarity": 1.4,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/saltwater.svg",
-      "tgs": "gifts/jinglebells/assets/models/saltwater.tgs"
-    }
-  },
-  {
     "name": "Shiny Opal",
     "customEmojiId": "5249028121130196997",
     "rarityPermille": 13,
@@ -1843,6 +1831,18 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/dusty-rose.svg",
       "tgs": "gifts/jinglebells/assets/models/dusty-rose.tgs"
+    }
+  },
+  {
+    "name": "Gamer Color",
+    "customEmojiId": "5249062850235750619",
+    "rarityPermille": 14,
+    "originalRarityPermille": 14,
+    "rarity": 1.4,
+    "originalRarity": 1.4,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/gamer-color.svg",
+      "tgs": "gifts/jinglebells/assets/models/gamer-color.tgs"
     }
   },
   {
@@ -3142,17 +3142,6 @@ export const patterns = [
     }
   },
   {
-    "name": "Snow Angel",
-    "customEmojiId": "5199879135324836933",
-    "rarityPermille": 19,
-    "originalRarityPermille": 20,
-    "rarity": 1.9,
-    "originalRarity": 2,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/snow-angel.png"
-    }
-  },
-  {
     "name": "Chest",
     "customEmojiId": "5199799017004894591",
     "rarityPermille": 20,
@@ -3205,6 +3194,17 @@ export const patterns = [
     "originalRarity": 2,
     "assets": {
       "png": "gifts/jinglebells/assets/patterns/new-year-s-eve.png"
+    }
+  },
+  {
+    "name": "Snow Angel",
+    "customEmojiId": "5199879135324836933",
+    "rarityPermille": 20,
+    "originalRarityPermille": 20,
+    "rarity": 2,
+    "originalRarity": 2,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/snow-angel.png"
     }
   },
   {

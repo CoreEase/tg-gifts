@@ -260,6 +260,26 @@
     },
     {
       "type": "pattern",
+      "slug": "griffon",
+      "name": "Griffon",
+      "customEmojiId": "5199733754976831104",
+      "rarityPermille": 2,
+      "originalRarityPermille": null,
+      "rarity": 0.2,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/griffon.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/griffon.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/griffon.json"
+    },
+    {
+      "type": "pattern",
       "slug": "handset",
       "name": "Handset",
       "customEmojiId": "5199548491562517801",
@@ -600,6 +620,26 @@
     },
     {
       "type": "pattern",
+      "slug": "tribal-shield",
+      "name": "Tribal Shield",
+      "customEmojiId": "5199940531882326218",
+      "rarityPermille": 2,
+      "originalRarityPermille": null,
+      "rarity": 0.2,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/tribal-shield.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/tribal-shield.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/tribal-shield.json"
+    },
+    {
+      "type": "pattern",
       "slug": "tsunami",
       "name": "Tsunami",
       "customEmojiId": "5199500714346319781",
@@ -717,6 +757,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/all-seeing-eye.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/all-seeing-eye.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "bascinet",
+      "name": "Bascinet",
+      "customEmojiId": "5199688421597022189",
+      "rarityPermille": 3,
+      "originalRarityPermille": null,
+      "rarity": 0.3,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/bascinet.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/bascinet.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/bascinet.json"
     },
     {
       "type": "pattern",
@@ -860,26 +920,6 @@
     },
     {
       "type": "pattern",
-      "slug": "conical-hat",
-      "name": "Conical Hat",
-      "customEmojiId": "5199648817703584324",
-      "rarityPermille": 3,
-      "originalRarityPermille": null,
-      "rarity": 0.3,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/conical-hat.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/conical-hat.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/conical-hat.json"
-    },
-    {
-      "type": "pattern",
       "slug": "cow-skull",
       "name": "Cow Skull",
       "customEmojiId": "5199674639046968689",
@@ -1000,26 +1040,6 @@
     },
     {
       "type": "pattern",
-      "slug": "griffon",
-      "name": "Griffon",
-      "customEmojiId": "5199733754976831104",
-      "rarityPermille": 3,
-      "originalRarityPermille": null,
-      "rarity": 0.3,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/griffon.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/griffon.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/griffon.json"
-    },
-    {
-      "type": "pattern",
       "slug": "kitsune-mask",
       "name": "Kitsune Mask",
       "customEmojiId": "5199633360116285741",
@@ -1097,26 +1117,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/mask.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/mask.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "money-bag",
-      "name": "Money Bag",
-      "customEmojiId": "5199426943988044271",
-      "rarityPermille": 3,
-      "originalRarityPermille": null,
-      "rarity": 0.3,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/money-bag.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/money-bag.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/money-bag.json"
     },
     {
       "type": "pattern",
@@ -1380,26 +1380,6 @@
     },
     {
       "type": "pattern",
-      "slug": "tribal-shield",
-      "name": "Tribal Shield",
-      "customEmojiId": "5199940531882326218",
-      "rarityPermille": 3,
-      "originalRarityPermille": null,
-      "rarity": 0.3,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/tribal-shield.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/tribal-shield.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/tribal-shield.json"
-    },
-    {
-      "type": "pattern",
       "slug": "venetian-mask",
       "name": "Venetian Mask",
       "customEmojiId": "5199793845864267822",
@@ -1457,6 +1437,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/alarm.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/alarm.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "alkonost",
+      "name": "Alkonost",
+      "customEmojiId": "5199529237224130039",
+      "rarityPermille": 4,
+      "originalRarityPermille": null,
+      "rarity": 0.4,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/alkonost.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/alkonost.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/alkonost.json"
     },
     {
       "type": "pattern",
@@ -1537,26 +1537,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/bandana.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/bandana.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "bascinet",
-      "name": "Bascinet",
-      "customEmojiId": "5199688421597022189",
-      "rarityPermille": 4,
-      "originalRarityPermille": null,
-      "rarity": 0.4,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/bascinet.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/bascinet.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/bascinet.json"
     },
     {
       "type": "pattern",
@@ -1700,6 +1680,26 @@
     },
     {
       "type": "pattern",
+      "slug": "conical-hat",
+      "name": "Conical Hat",
+      "customEmojiId": "5199648817703584324",
+      "rarityPermille": 4,
+      "originalRarityPermille": null,
+      "rarity": 0.4,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/conical-hat.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/conical-hat.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/conical-hat.json"
+    },
+    {
+      "type": "pattern",
       "slug": "crusader",
       "name": "Crusader",
       "customEmojiId": "5199701096045512582",
@@ -1800,26 +1800,6 @@
     },
     {
       "type": "pattern",
-      "slug": "fehu-rune",
-      "name": "Fehu Rune",
-      "customEmojiId": "5201658535980598965",
-      "rarityPermille": 4,
-      "originalRarityPermille": null,
-      "rarity": 0.4,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/fehu-rune.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/fehu-rune.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/fehu-rune.json"
-    },
-    {
-      "type": "pattern",
       "slug": "firebird",
       "name": "Firebird",
       "customEmojiId": "5199747116620088950",
@@ -1880,26 +1860,6 @@
     },
     {
       "type": "pattern",
-      "slug": "flower-tulip",
-      "name": "Flower Tulip",
-      "customEmojiId": "5199785517922683567",
-      "rarityPermille": 4,
-      "originalRarityPermille": null,
-      "rarity": 0.4,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/flower-tulip.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/flower-tulip.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/flower-tulip.json"
-    },
-    {
-      "type": "pattern",
       "slug": "full-moon",
       "name": "Full Moon",
       "customEmojiId": "5199549311901275297",
@@ -1957,6 +1917,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/greek-helmet.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/greek-helmet.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "greek-sun",
+      "name": "Greek Sun",
+      "customEmojiId": "5199681906131637748",
+      "rarityPermille": 4,
+      "originalRarityPermille": 5,
+      "rarity": 0.4,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/greek-sun.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/greek-sun.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/greek-sun.json"
     },
     {
       "type": "pattern",
@@ -2040,6 +2020,26 @@
     },
     {
       "type": "pattern",
+      "slug": "horseshoe",
+      "name": "Horseshoe",
+      "customEmojiId": "5199843530045950060",
+      "rarityPermille": 4,
+      "originalRarityPermille": 5,
+      "rarity": 0.4,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/horseshoe.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/horseshoe.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/horseshoe.json"
+    },
+    {
+      "type": "pattern",
       "slug": "illuminati",
       "name": "Illuminati",
       "customEmojiId": "5199959970904312871",
@@ -2100,6 +2100,26 @@
     },
     {
       "type": "pattern",
+      "slug": "knight",
+      "name": "Knight",
+      "customEmojiId": "5199568179692599944",
+      "rarityPermille": 4,
+      "originalRarityPermille": 5,
+      "rarity": 0.4,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/knight.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/knight.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/knight.json"
+    },
+    {
+      "type": "pattern",
       "slug": "lemon-slice",
       "name": "Lemon Slice",
       "customEmojiId": "5199964953066377215",
@@ -2157,6 +2177,46 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/monarch.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/monarch.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "money-bag",
+      "name": "Money Bag",
+      "customEmojiId": "5199426943988044271",
+      "rarityPermille": 4,
+      "originalRarityPermille": null,
+      "rarity": 0.4,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/money-bag.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/money-bag.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/money-bag.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "moon-cross",
+      "name": "Moon Cross",
+      "customEmojiId": "5199926568943652086",
+      "rarityPermille": 4,
+      "originalRarityPermille": 5,
+      "rarity": 0.4,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/moon-cross.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/moon-cross.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/moon-cross.json"
     },
     {
       "type": "pattern",
@@ -2320,26 +2380,6 @@
     },
     {
       "type": "pattern",
-      "slug": "pencil",
-      "name": "Pencil",
-      "customEmojiId": "5199649638042340721",
-      "rarityPermille": 4,
-      "originalRarityPermille": null,
-      "rarity": 0.4,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/pencil.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/pencil.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/pencil.json"
-    },
-    {
-      "type": "pattern",
       "slug": "piggy-bank",
       "name": "Piggy Bank",
       "customEmojiId": "5199476082708878264",
@@ -2357,6 +2397,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/piggy-bank.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/piggy-bank.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "plume-shako",
+      "name": "Plume Shako",
+      "customEmojiId": "5199423851611589961",
+      "rarityPermille": 4,
+      "originalRarityPermille": null,
+      "rarity": 0.4,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/plume-shako.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/plume-shako.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/plume-shako.json"
     },
     {
       "type": "pattern",
@@ -2620,6 +2680,26 @@
     },
     {
       "type": "pattern",
+      "slug": "tree-of-life",
+      "name": "Tree of Life",
+      "customEmojiId": "5199597209376558882",
+      "rarityPermille": 4,
+      "originalRarityPermille": 5,
+      "rarity": 0.4,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/tree-of-life.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/tree-of-life.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/tree-of-life.json"
+    },
+    {
+      "type": "pattern",
       "slug": "trickster-fox",
       "name": "Trickster Fox",
       "customEmojiId": "5199707800489464034",
@@ -2800,26 +2880,6 @@
     },
     {
       "type": "pattern",
-      "slug": "alkonost",
-      "name": "Alkonost",
-      "customEmojiId": "5199529237224130039",
-      "rarityPermille": 5,
-      "originalRarityPermille": null,
-      "rarity": 0.5,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/alkonost.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/alkonost.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/alkonost.json"
-    },
-    {
-      "type": "pattern",
       "slug": "avocado",
       "name": "Avocado",
       "customEmojiId": "5199464318793453067",
@@ -2837,6 +2897,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/avocado.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/avocado.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "aztec-totem",
+      "name": "Aztec Totem",
+      "customEmojiId": "5199726925978831254",
+      "rarityPermille": 5,
+      "originalRarityPermille": 5,
+      "rarity": 0.5,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/aztec-totem.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/aztec-totem.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/aztec-totem.json"
     },
     {
       "type": "pattern",
@@ -3180,6 +3260,46 @@
     },
     {
       "type": "pattern",
+      "slug": "fehu-rune",
+      "name": "Fehu Rune",
+      "customEmojiId": "5201658535980598965",
+      "rarityPermille": 5,
+      "originalRarityPermille": null,
+      "rarity": 0.5,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/fehu-rune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/fehu-rune.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/fehu-rune.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "flower-tulip",
+      "name": "Flower Tulip",
+      "customEmojiId": "5199785517922683567",
+      "rarityPermille": 5,
+      "originalRarityPermille": null,
+      "rarity": 0.5,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/flower-tulip.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/flower-tulip.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/flower-tulip.json"
+    },
+    {
+      "type": "pattern",
       "slug": "flying-dragon",
       "name": "Flying Dragon",
       "customEmojiId": "5199467896501208139",
@@ -3260,26 +3380,6 @@
     },
     {
       "type": "pattern",
-      "slug": "greek-sun",
-      "name": "Greek Sun",
-      "customEmojiId": "5199681906131637748",
-      "rarityPermille": 5,
-      "originalRarityPermille": 5,
-      "rarity": 0.5,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/greek-sun.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/greek-sun.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/greek-sun.json"
-    },
-    {
-      "type": "pattern",
       "slug": "heater-shield",
       "name": "Heater Shield",
       "customEmojiId": "5199906721899780489",
@@ -3317,26 +3417,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/heraldic-lily.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/heraldic-lily.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "horseshoe",
-      "name": "Horseshoe",
-      "customEmojiId": "5199843530045950060",
-      "rarityPermille": 5,
-      "originalRarityPermille": 5,
-      "rarity": 0.5,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/horseshoe.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/horseshoe.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/horseshoe.json"
     },
     {
       "type": "pattern",
@@ -3397,46 +3477,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/kitsune.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/kitsune.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "knight",
-      "name": "Knight",
-      "customEmojiId": "5199568179692599944",
-      "rarityPermille": 5,
-      "originalRarityPermille": 5,
-      "rarity": 0.5,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/knight.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/knight.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/knight.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "kudu-totem",
-      "name": "Kudu Totem",
-      "customEmojiId": "5199943018668394204",
-      "rarityPermille": 5,
-      "originalRarityPermille": 5,
-      "rarity": 0.5,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/kudu-totem.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/kudu-totem.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/kudu-totem.json"
     },
     {
       "type": "pattern",
@@ -3560,26 +3600,6 @@
     },
     {
       "type": "pattern",
-      "slug": "moon-cross",
-      "name": "Moon Cross",
-      "customEmojiId": "5199926568943652086",
-      "rarityPermille": 5,
-      "originalRarityPermille": 5,
-      "rarity": 0.5,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/moon-cross.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/moon-cross.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/moon-cross.json"
-    },
-    {
-      "type": "pattern",
       "slug": "mountain-lion",
       "name": "Mountain Lion",
       "customEmojiId": "5199456879910094088",
@@ -3637,26 +3657,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/mustang.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/mustang.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "neptune",
-      "name": "Neptune",
-      "customEmojiId": "5199805712858906090",
-      "rarityPermille": 5,
-      "originalRarityPermille": null,
-      "rarity": 0.5,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/neptune.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/neptune.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/neptune.json"
     },
     {
       "type": "pattern",
@@ -3840,6 +3840,26 @@
     },
     {
       "type": "pattern",
+      "slug": "pencil",
+      "name": "Pencil",
+      "customEmojiId": "5199649638042340721",
+      "rarityPermille": 5,
+      "originalRarityPermille": null,
+      "rarity": 0.5,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/pencil.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/pencil.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/pencil.json"
+    },
+    {
+      "type": "pattern",
       "slug": "pirate-scull",
       "name": "Pirate Scull",
       "customEmojiId": "5199610403516089508",
@@ -3857,26 +3877,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/pirate-scull.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/pirate-scull.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "plume-shako",
-      "name": "Plume Shako",
-      "customEmojiId": "5199423851611589961",
-      "rarityPermille": 5,
-      "originalRarityPermille": null,
-      "rarity": 0.5,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/plume-shako.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/plume-shako.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/plume-shako.json"
     },
     {
       "type": "pattern",
@@ -4220,26 +4220,6 @@
     },
     {
       "type": "pattern",
-      "slug": "tree-of-life",
-      "name": "Tree of Life",
-      "customEmojiId": "5199597209376558882",
-      "rarityPermille": 5,
-      "originalRarityPermille": 5,
-      "rarity": 0.5,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/tree-of-life.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/tree-of-life.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/tree-of-life.json"
-    },
-    {
-      "type": "pattern",
       "slug": "trophy",
       "name": "Trophy",
       "customEmojiId": "5199543874472675475",
@@ -4337,6 +4317,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/viper.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/viper.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "wagasa",
+      "name": "Wagasa",
+      "customEmojiId": "5199688541856110192",
+      "rarityPermille": 5,
+      "originalRarityPermille": null,
+      "rarity": 0.5,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/wagasa.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/wagasa.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/wagasa.json"
     },
     {
       "type": "pattern",
@@ -4500,26 +4500,6 @@
     },
     {
       "type": "pattern",
-      "slug": "aztec-totem",
-      "name": "Aztec Totem",
-      "customEmojiId": "5199726925978831254",
-      "rarityPermille": 6,
-      "originalRarityPermille": 5,
-      "rarity": 0.6,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/aztec-totem.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/aztec-totem.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/aztec-totem.json"
-    },
-    {
-      "type": "pattern",
       "slug": "bull-of-heaven",
       "name": "Bull of Heaven",
       "customEmojiId": "5199518259287723654",
@@ -4680,6 +4660,26 @@
     },
     {
       "type": "pattern",
+      "slug": "kudu-totem",
+      "name": "Kudu Totem",
+      "customEmojiId": "5199943018668394204",
+      "rarityPermille": 6,
+      "originalRarityPermille": 5,
+      "rarity": 0.6,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/kudu-totem.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/kudu-totem.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/kudu-totem.json"
+    },
+    {
+      "type": "pattern",
       "slug": "mannaz-rune",
       "name": "Mannaz Rune",
       "customEmojiId": "5199593631668799507",
@@ -4737,6 +4737,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/moon-face.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/moon-face.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "neptune",
+      "name": "Neptune",
+      "customEmojiId": "5199805712858906090",
+      "rarityPermille": 6,
+      "originalRarityPermille": null,
+      "rarity": 0.6,
+      "originalRarity": null,
+      "gift": {
+        "slug": "resistancedog",
+        "name": "Resistance Dog",
+        "id": "5832279504491381684"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/neptune.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/neptune.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/neptune.json"
     },
     {
       "type": "pattern",
@@ -4817,26 +4837,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/sleepy-unicorn.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/sleepy-unicorn.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "wagasa",
-      "name": "Wagasa",
-      "customEmojiId": "5199688541856110192",
-      "rarityPermille": 6,
-      "originalRarityPermille": null,
-      "rarity": 0.6,
-      "originalRarity": null,
-      "gift": {
-        "slug": "resistancedog",
-        "name": "Resistance Dog",
-        "id": "5832279504491381684"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/wagasa.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/resistancedog/assets/patterns/wagasa.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/resistancedog/patterns/wagasa.json"
     },
     {
       "type": "pattern",

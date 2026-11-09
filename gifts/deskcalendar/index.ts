@@ -1390,6 +1390,18 @@ export const models = [
     }
   },
   {
+    "name": "Groundhog Day",
+    "customEmojiId": "5248949368609859201",
+    "rarityPermille": 9,
+    "originalRarityPermille": 10,
+    "rarity": 0.9,
+    "originalRarity": 1,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/groundhog-day.svg",
+      "tgs": "gifts/deskcalendar/assets/models/groundhog-day.tgs"
+    }
+  },
+  {
     "name": "Monochrome",
     "customEmojiId": "5248986034745664101",
     "rarityPermille": 9,
@@ -1423,18 +1435,6 @@ export const models = [
     "assets": {
       "svg": "gifts/deskcalendar/assets/models/golden-years.svg",
       "tgs": "gifts/deskcalendar/assets/models/golden-years.tgs"
-    }
-  },
-  {
-    "name": "Groundhog Day",
-    "customEmojiId": "5248949368609859201",
-    "rarityPermille": 10,
-    "originalRarityPermille": 10,
-    "rarity": 1,
-    "originalRarity": 1,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/groundhog-day.svg",
-      "tgs": "gifts/deskcalendar/assets/models/groundhog-day.tgs"
     }
   },
   {
@@ -1690,6 +1690,18 @@ export const models = [
     }
   },
   {
+    "name": "Party Time",
+    "customEmojiId": "5249151433936232730",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/party-time.svg",
+      "tgs": "gifts/deskcalendar/assets/models/party-time.tgs"
+    }
+  },
+  {
     "name": "Purple Front",
     "customEmojiId": "5249457373046663588",
     "rarityPermille": 13,
@@ -1939,18 +1951,6 @@ export const models = [
     "assets": {
       "svg": "gifts/deskcalendar/assets/models/orange-mood.svg",
       "tgs": "gifts/deskcalendar/assets/models/orange-mood.tgs"
-    }
-  },
-  {
-    "name": "Party Time",
-    "customEmojiId": "5249151433936232730",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/party-time.svg",
-      "tgs": "gifts/deskcalendar/assets/models/party-time.tgs"
     }
   },
   {
@@ -5353,29 +5353,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Midnight Blue",
-    "backdropId": 48,
-    "customEmojiId": "5375050733701852215",
-    "centerColor": 6056325,
-    "edgeColor": 3489879,
-    "patternColor": 199192,
-    "textColor": 12569824,
-    "hex": {
-      "centerColor": "#5c6985",
-      "edgeColor": "#354057",
-      "patternColor": "#030a18",
-      "textColor": "#bfcce0"
-    },
-    "rarityPermille": 15,
-    "originalRarityPermille": 15,
-    "rarity": 1.5,
-    "originalRarity": 1.5,
-    "assets": {
-      "circleSvg": "assets/backdrops/5c6985-354057-circle.svg",
-      "squareSvg": "assets/backdrops/5c6985-354057-square.svg"
-    }
-  },
-  {
     "name": "Mint Green",
     "backdropId": 14,
     "customEmojiId": "5375453017518666054",
@@ -5511,6 +5488,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/bf9b47-8d7739-circle.svg",
       "squareSvg": "assets/backdrops/bf9b47-8d7739-square.svg"
+    }
+  },
+  {
+    "name": "Midnight Blue",
+    "backdropId": 48,
+    "customEmojiId": "5375050733701852215",
+    "centerColor": 6056325,
+    "edgeColor": 3489879,
+    "patternColor": 199192,
+    "textColor": 12569824,
+    "hex": {
+      "centerColor": "#5c6985",
+      "edgeColor": "#354057",
+      "patternColor": "#030a18",
+      "textColor": "#bfcce0"
+    },
+    "rarityPermille": 16,
+    "originalRarityPermille": 15,
+    "rarity": 1.6,
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/5c6985-354057-circle.svg",
+      "squareSvg": "assets/backdrops/5c6985-354057-square.svg"
     }
   },
   {

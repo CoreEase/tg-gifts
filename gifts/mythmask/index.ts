@@ -538,6 +538,18 @@ export const models = [
     }
   },
   {
+    "name": "Enderman",
+    "customEmojiId": "5418272625984056433",
+    "rarityPermille": 2,
+    "originalRarityPermille": 2,
+    "rarity": 0.2,
+    "originalRarity": 0.2,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/enderman.svg",
+      "tgs": "gifts/mythmask/assets/models/enderman.tgs"
+    }
+  },
+  {
     "name": "First Dog",
     "customEmojiId": "5418256833389311734",
     "rarityPermille": 2,
@@ -563,7 +575,7 @@ export const models = [
   },
   {
     "name": "Hellspawn",
-    "customEmojiId": "5418162090705724815",
+    "customEmojiId": "5427040191833483749",
     "rarityPermille": 2,
     "originalRarityPermille": 2,
     "rarity": 0.2,
@@ -703,18 +715,6 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/wrong-number.svg",
       "tgs": "gifts/mythmask/assets/models/wrong-number.tgs"
-    }
-  },
-  {
-    "name": "Enderman",
-    "customEmojiId": "5418272625984056433",
-    "rarityPermille": 3,
-    "originalRarityPermille": 2,
-    "rarity": 0.3,
-    "originalRarity": 0.2,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/enderman.svg",
-      "tgs": "gifts/mythmask/assets/models/enderman.tgs"
     }
   },
   {
@@ -886,15 +886,15 @@ export const models = [
     }
   },
   {
-    "name": "Arthur Fool",
-    "customEmojiId": "5417896674611735666",
-    "rarityPermille": 9,
+    "name": "Iron Thorn",
+    "customEmojiId": "5418150816416572828",
+    "rarityPermille": 8,
     "originalRarityPermille": 10,
-    "rarity": 0.9,
+    "rarity": 0.8,
     "originalRarity": 1,
     "assets": {
-      "svg": "gifts/mythmask/assets/models/arthur-fool.svg",
-      "tgs": "gifts/mythmask/assets/models/arthur-fool.tgs"
+      "svg": "gifts/mythmask/assets/models/iron-thorn.svg",
+      "tgs": "gifts/mythmask/assets/models/iron-thorn.tgs"
     }
   },
   {
@@ -946,6 +946,18 @@ export const models = [
     }
   },
   {
+    "name": "Grey Matter",
+    "customEmojiId": "5417922603329301325",
+    "rarityPermille": 9,
+    "originalRarityPermille": 10,
+    "rarity": 0.9,
+    "originalRarity": 1,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/grey-matter.svg",
+      "tgs": "gifts/mythmask/assets/models/grey-matter.tgs"
+    }
+  },
+  {
     "name": "Immortal",
     "customEmojiId": "5418117697923756214",
     "rarityPermille": 9,
@@ -958,20 +970,8 @@ export const models = [
     }
   },
   {
-    "name": "Iron Thorn",
-    "customEmojiId": "5418150816416572828",
-    "rarityPermille": 9,
-    "originalRarityPermille": 10,
-    "rarity": 0.9,
-    "originalRarity": 1,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/iron-thorn.svg",
-      "tgs": "gifts/mythmask/assets/models/iron-thorn.tgs"
-    }
-  },
-  {
     "name": "Liquid Metal",
-    "customEmojiId": "5418308617809995847",
+    "customEmojiId": "5427204160799941505",
     "rarityPermille": 9,
     "originalRarityPermille": 10,
     "rarity": 0.9,
@@ -1003,6 +1003,18 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/neon-jackal.svg",
       "tgs": "gifts/mythmask/assets/models/neon-jackal.tgs"
+    }
+  },
+  {
+    "name": "Neon Rider",
+    "customEmojiId": "5418374760306356274",
+    "rarityPermille": 9,
+    "originalRarityPermille": 10,
+    "rarity": 0.9,
+    "originalRarity": 1,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/neon-rider.svg",
+      "tgs": "gifts/mythmask/assets/models/neon-rider.tgs"
     }
   },
   {
@@ -1042,6 +1054,30 @@ export const models = [
     }
   },
   {
+    "name": "Pink Crush",
+    "customEmojiId": "5417979185228456085",
+    "rarityPermille": 9,
+    "originalRarityPermille": 10,
+    "rarity": 0.9,
+    "originalRarity": 1,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/pink-crush.svg",
+      "tgs": "gifts/mythmask/assets/models/pink-crush.tgs"
+    }
+  },
+  {
+    "name": "Twisted Jester",
+    "customEmojiId": "5417910762104468637",
+    "rarityPermille": 9,
+    "originalRarityPermille": 10,
+    "rarity": 0.9,
+    "originalRarity": 1,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/twisted-jester.svg",
+      "tgs": "gifts/mythmask/assets/models/twisted-jester.tgs"
+    }
+  },
+  {
     "name": "Wasteland",
     "customEmojiId": "5417921628371725864",
     "rarityPermille": 9,
@@ -1051,6 +1087,18 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/wasteland.svg",
       "tgs": "gifts/mythmask/assets/models/wasteland.tgs"
+    }
+  },
+  {
+    "name": "Wise Owl",
+    "customEmojiId": "5418228241792020428",
+    "rarityPermille": 9,
+    "originalRarityPermille": 10,
+    "rarity": 0.9,
+    "originalRarity": 1,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/wise-owl.svg",
+      "tgs": "gifts/mythmask/assets/models/wise-owl.tgs"
     }
   },
   {
@@ -1066,15 +1114,15 @@ export const models = [
     }
   },
   {
-    "name": "Anonymous",
-    "customEmojiId": "5418365092334971378",
+    "name": "Arthur Fool",
+    "customEmojiId": "5417896674611735666",
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
     "originalRarity": 1,
     "assets": {
-      "svg": "gifts/mythmask/assets/models/anonymous.svg",
-      "tgs": "gifts/mythmask/assets/models/anonymous.tgs"
+      "svg": "gifts/mythmask/assets/models/arthur-fool.svg",
+      "tgs": "gifts/mythmask/assets/models/arthur-fool.tgs"
     }
   },
   {
@@ -1099,18 +1147,6 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/dragon-dance.svg",
       "tgs": "gifts/mythmask/assets/models/dragon-dance.tgs"
-    }
-  },
-  {
-    "name": "Grey Matter",
-    "customEmojiId": "5417922603329301325",
-    "rarityPermille": 10,
-    "originalRarityPermille": 10,
-    "rarity": 1,
-    "originalRarity": 1,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/grey-matter.svg",
-      "tgs": "gifts/mythmask/assets/models/grey-matter.tgs"
     }
   },
   {
@@ -1150,30 +1186,6 @@ export const models = [
     }
   },
   {
-    "name": "Neon Rider",
-    "customEmojiId": "5418374760306356274",
-    "rarityPermille": 10,
-    "originalRarityPermille": 10,
-    "rarity": 1,
-    "originalRarity": 1,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/neon-rider.svg",
-      "tgs": "gifts/mythmask/assets/models/neon-rider.tgs"
-    }
-  },
-  {
-    "name": "Pink Crush",
-    "customEmojiId": "5417979185228456085",
-    "rarityPermille": 10,
-    "originalRarityPermille": 10,
-    "rarity": 1,
-    "originalRarity": 1,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/pink-crush.svg",
-      "tgs": "gifts/mythmask/assets/models/pink-crush.tgs"
-    }
-  },
-  {
     "name": "Pink Cupid",
     "customEmojiId": "5418126244908673712",
     "rarityPermille": 10,
@@ -1198,30 +1210,6 @@ export const models = [
     }
   },
   {
-    "name": "Twisted Jester",
-    "customEmojiId": "5417910762104468637",
-    "rarityPermille": 10,
-    "originalRarityPermille": 10,
-    "rarity": 1,
-    "originalRarity": 1,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/twisted-jester.svg",
-      "tgs": "gifts/mythmask/assets/models/twisted-jester.tgs"
-    }
-  },
-  {
-    "name": "Wise Owl",
-    "customEmojiId": "5418228241792020428",
-    "rarityPermille": 10,
-    "originalRarityPermille": 10,
-    "rarity": 1,
-    "originalRarity": 1,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/wise-owl.svg",
-      "tgs": "gifts/mythmask/assets/models/wise-owl.tgs"
-    }
-  },
-  {
     "name": "Zorro",
     "customEmojiId": "5418124672950640192",
     "rarityPermille": 10,
@@ -1231,6 +1219,18 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/zorro.svg",
       "tgs": "gifts/mythmask/assets/models/zorro.tgs"
+    }
+  },
+  {
+    "name": "Anonymous",
+    "customEmojiId": "5418365092334971378",
+    "rarityPermille": 11,
+    "originalRarityPermille": 10,
+    "rarity": 1.1,
+    "originalRarity": 1,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/anonymous.svg",
+      "tgs": "gifts/mythmask/assets/models/anonymous.tgs"
     }
   },
   {
@@ -1246,6 +1246,30 @@ export const models = [
     }
   },
   {
+    "name": "Tiki Mana",
+    "customEmojiId": "5417979326962378353",
+    "rarityPermille": 12,
+    "originalRarityPermille": 15,
+    "rarity": 1.2,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/tiki-mana.svg",
+      "tgs": "gifts/mythmask/assets/models/tiki-mana.tgs"
+    }
+  },
+  {
+    "name": "Area 51",
+    "customEmojiId": "5417943287891799402",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/area-51.svg",
+      "tgs": "gifts/mythmask/assets/models/area-51.tgs"
+    }
+  },
+  {
     "name": "Brick Face",
     "customEmojiId": "5417913351969743900",
     "rarityPermille": 13,
@@ -1255,6 +1279,78 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/brick-face.svg",
       "tgs": "gifts/mythmask/assets/models/brick-face.tgs"
+    }
+  },
+  {
+    "name": "Crimson Face",
+    "customEmojiId": "5418113669244432580",
+    "rarityPermille": 13,
+    "originalRarityPermille": 20,
+    "rarity": 1.3,
+    "originalRarity": 2,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/crimson-face.svg",
+      "tgs": "gifts/mythmask/assets/models/crimson-face.tgs"
+    }
+  },
+  {
+    "name": "Cuban Pete",
+    "customEmojiId": "5418208553661934373",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/cuban-pete.svg",
+      "tgs": "gifts/mythmask/assets/models/cuban-pete.tgs"
+    }
+  },
+  {
+    "name": "Deep One",
+    "customEmojiId": "5418163499454999582",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/deep-one.svg",
+      "tgs": "gifts/mythmask/assets/models/deep-one.tgs"
+    }
+  },
+  {
+    "name": "Evil Genius",
+    "customEmojiId": "5418294165245045980",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/evil-genius.svg",
+      "tgs": "gifts/mythmask/assets/models/evil-genius.tgs"
+    }
+  },
+  {
+    "name": "Giggle Grief",
+    "customEmojiId": "5418023925902781543",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/giggle-grief.svg",
+      "tgs": "gifts/mythmask/assets/models/giggle-grief.tgs"
+    }
+  },
+  {
+    "name": "Mad Package",
+    "customEmojiId": "5418097387023409743",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/mad-package.svg",
+      "tgs": "gifts/mythmask/assets/models/mad-package.tgs"
     }
   },
   {
@@ -1270,6 +1366,18 @@ export const models = [
     }
   },
   {
+    "name": "Red Eye",
+    "customEmojiId": "5417840960295972470",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/red-eye.svg",
+      "tgs": "gifts/mythmask/assets/models/red-eye.tgs"
+    }
+  },
+  {
     "name": "Royal Jester",
     "customEmojiId": "5418011333058668999",
     "rarityPermille": 13,
@@ -1282,15 +1390,15 @@ export const models = [
     }
   },
   {
-    "name": "Tiki Mana",
-    "customEmojiId": "5417979326962378353",
+    "name": "Third Eye",
+    "customEmojiId": "5417985919737186649",
     "rarityPermille": 13,
     "originalRarityPermille": 15,
     "rarity": 1.3,
     "originalRarity": 1.5,
     "assets": {
-      "svg": "gifts/mythmask/assets/models/tiki-mana.svg",
-      "tgs": "gifts/mythmask/assets/models/tiki-mana.tgs"
+      "svg": "gifts/mythmask/assets/models/third-eye.svg",
+      "tgs": "gifts/mythmask/assets/models/third-eye.tgs"
     }
   },
   {
@@ -1306,27 +1414,27 @@ export const models = [
     }
   },
   {
-    "name": "Witch King",
-    "customEmojiId": "5418280009032841169",
+    "name": "Weld Master",
+    "customEmojiId": "5427136626734181045",
+    "rarityPermille": 13,
+    "originalRarityPermille": 20,
+    "rarity": 1.3,
+    "originalRarity": 2,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/weld-master.svg",
+      "tgs": "gifts/mythmask/assets/models/weld-master.tgs"
+    }
+  },
+  {
+    "name": "Wild Stallion",
+    "customEmojiId": "5418294783720334580",
     "rarityPermille": 13,
     "originalRarityPermille": 15,
     "rarity": 1.3,
     "originalRarity": 1.5,
     "assets": {
-      "svg": "gifts/mythmask/assets/models/witch-king.svg",
-      "tgs": "gifts/mythmask/assets/models/witch-king.tgs"
-    }
-  },
-  {
-    "name": "Area 51",
-    "customEmojiId": "5417943287891799402",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/area-51.svg",
-      "tgs": "gifts/mythmask/assets/models/area-51.tgs"
+      "svg": "gifts/mythmask/assets/models/wild-stallion.svg",
+      "tgs": "gifts/mythmask/assets/models/wild-stallion.tgs"
     }
   },
   {
@@ -1342,18 +1450,6 @@ export const models = [
     }
   },
   {
-    "name": "Crimson Face",
-    "customEmojiId": "5418113669244432580",
-    "rarityPermille": 14,
-    "originalRarityPermille": 20,
-    "rarity": 1.4,
-    "originalRarity": 2,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/crimson-face.svg",
-      "tgs": "gifts/mythmask/assets/models/crimson-face.tgs"
-    }
-  },
-  {
     "name": "Crimson Lady",
     "customEmojiId": "5418135702426659253",
     "rarityPermille": 14,
@@ -1363,18 +1459,6 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/crimson-lady.svg",
       "tgs": "gifts/mythmask/assets/models/crimson-lady.tgs"
-    }
-  },
-  {
-    "name": "Cuban Pete",
-    "customEmojiId": "5418208553661934373",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/cuban-pete.svg",
-      "tgs": "gifts/mythmask/assets/models/cuban-pete.tgs"
     }
   },
   {
@@ -1402,18 +1486,6 @@ export const models = [
     }
   },
   {
-    "name": "Deep One",
-    "customEmojiId": "5418163499454999582",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/deep-one.svg",
-      "tgs": "gifts/mythmask/assets/models/deep-one.tgs"
-    }
-  },
-  {
     "name": "Doomsday",
     "customEmojiId": "5418179605582359361",
     "rarityPermille": 14,
@@ -1423,30 +1495,6 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/doomsday.svg",
       "tgs": "gifts/mythmask/assets/models/doomsday.tgs"
-    }
-  },
-  {
-    "name": "Evil Genius",
-    "customEmojiId": "5418294165245045980",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/evil-genius.svg",
-      "tgs": "gifts/mythmask/assets/models/evil-genius.tgs"
-    }
-  },
-  {
-    "name": "Giggle Grief",
-    "customEmojiId": "5418023925902781543",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/giggle-grief.svg",
-      "tgs": "gifts/mythmask/assets/models/giggle-grief.tgs"
     }
   },
   {
@@ -1474,18 +1522,6 @@ export const models = [
     }
   },
   {
-    "name": "Mad Package",
-    "customEmojiId": "5418097387023409743",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/mad-package.svg",
-      "tgs": "gifts/mythmask/assets/models/mad-package.tgs"
-    }
-  },
-  {
     "name": "No Face",
     "customEmojiId": "5418176444486433333",
     "rarityPermille": 14,
@@ -1495,18 +1531,6 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/no-face.svg",
       "tgs": "gifts/mythmask/assets/models/no-face.tgs"
-    }
-  },
-  {
-    "name": "Red Eye",
-    "customEmojiId": "5417840960295972470",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/red-eye.svg",
-      "tgs": "gifts/mythmask/assets/models/red-eye.tgs"
     }
   },
   {
@@ -1522,51 +1546,51 @@ export const models = [
     }
   },
   {
-    "name": "Third Eye",
-    "customEmojiId": "5417985919737186649",
+    "name": "Witch King",
+    "customEmojiId": "5418280009032841169",
     "rarityPermille": 14,
     "originalRarityPermille": 15,
     "rarity": 1.4,
     "originalRarity": 1.5,
     "assets": {
-      "svg": "gifts/mythmask/assets/models/third-eye.svg",
-      "tgs": "gifts/mythmask/assets/models/third-eye.tgs"
-    }
-  },
-  {
-    "name": "Weld Master",
-    "customEmojiId": "5418345953960703895",
-    "rarityPermille": 14,
-    "originalRarityPermille": 20,
-    "rarity": 1.4,
-    "originalRarity": 2,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/weld-master.svg",
-      "tgs": "gifts/mythmask/assets/models/weld-master.tgs"
-    }
-  },
-  {
-    "name": "Wild Stallion",
-    "customEmojiId": "5418294783720334580",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/wild-stallion.svg",
-      "tgs": "gifts/mythmask/assets/models/wild-stallion.tgs"
+      "svg": "gifts/mythmask/assets/models/witch-king.svg",
+      "tgs": "gifts/mythmask/assets/models/witch-king.tgs"
     }
   },
   {
     "name": "Tribal Warrior",
     "customEmojiId": "5418029354741441009",
+    "rarityPermille": 16,
+    "originalRarityPermille": 20,
+    "rarity": 1.6,
+    "originalRarity": 2,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/tribal-warrior.svg",
+      "tgs": "gifts/mythmask/assets/models/tribal-warrior.tgs"
+    }
+  },
+  {
+    "name": "Soft Bloom",
+    "customEmojiId": "5418006780393336123",
     "rarityPermille": 17,
     "originalRarityPermille": 20,
     "rarity": 1.7,
     "originalRarity": 2,
     "assets": {
-      "svg": "gifts/mythmask/assets/models/tribal-warrior.svg",
-      "tgs": "gifts/mythmask/assets/models/tribal-warrior.tgs"
+      "svg": "gifts/mythmask/assets/models/soft-bloom.svg",
+      "tgs": "gifts/mythmask/assets/models/soft-bloom.tgs"
+    }
+  },
+  {
+    "name": "Cyber Knight",
+    "customEmojiId": "5417846402019536261",
+    "rarityPermille": 18,
+    "originalRarityPermille": 20,
+    "rarity": 1.8,
+    "originalRarity": 2,
+    "assets": {
+      "svg": "gifts/mythmask/assets/models/cyber-knight.svg",
+      "tgs": "gifts/mythmask/assets/models/cyber-knight.tgs"
     }
   },
   {
@@ -1582,18 +1606,6 @@ export const models = [
     }
   },
   {
-    "name": "Soft Bloom",
-    "customEmojiId": "5418006780393336123",
-    "rarityPermille": 18,
-    "originalRarityPermille": 20,
-    "rarity": 1.8,
-    "originalRarity": 2,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/soft-bloom.svg",
-      "tgs": "gifts/mythmask/assets/models/soft-bloom.tgs"
-    }
-  },
-  {
     "name": "Tragic Face",
     "customEmojiId": "5418036239574018088",
     "rarityPermille": 18,
@@ -1603,18 +1615,6 @@ export const models = [
     "assets": {
       "svg": "gifts/mythmask/assets/models/tragic-face.svg",
       "tgs": "gifts/mythmask/assets/models/tragic-face.tgs"
-    }
-  },
-  {
-    "name": "Cyber Knight",
-    "customEmojiId": "5417846402019536261",
-    "rarityPermille": 19,
-    "originalRarityPermille": 20,
-    "rarity": 1.9,
-    "originalRarity": 2,
-    "assets": {
-      "svg": "gifts/mythmask/assets/models/cyber-knight.svg",
-      "tgs": "gifts/mythmask/assets/models/cyber-knight.tgs"
     }
   },
   {
@@ -3166,28 +3166,6 @@ export const patterns = [
     }
   },
   {
-    "name": "Crystal",
-    "customEmojiId": "5199505833947336625",
-    "rarityPermille": 4,
-    "originalRarityPermille": 5,
-    "rarity": 0.4,
-    "originalRarity": 0.5,
-    "assets": {
-      "png": "gifts/mythmask/assets/patterns/crystal.png"
-    }
-  },
-  {
-    "name": "Earth",
-    "customEmojiId": "5199963814900042040",
-    "rarityPermille": 4,
-    "originalRarityPermille": 5,
-    "rarity": 0.4,
-    "originalRarity": 0.5,
-    "assets": {
-      "png": "gifts/mythmask/assets/patterns/earth.png"
-    }
-  },
-  {
     "name": "Human Scull",
     "customEmojiId": "5199616090052791141",
     "rarityPermille": 4,
@@ -3496,6 +3474,17 @@ export const patterns = [
     }
   },
   {
+    "name": "Crystal",
+    "customEmojiId": "5199505833947336625",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/mythmask/assets/patterns/crystal.png"
+    }
+  },
+  {
     "name": "Dagger",
     "customEmojiId": "5199675966191864697",
     "rarityPermille": 5,
@@ -3526,6 +3515,17 @@ export const patterns = [
     "originalRarity": 0.5,
     "assets": {
       "png": "gifts/mythmask/assets/patterns/drug.png"
+    }
+  },
+  {
+    "name": "Earth",
+    "customEmojiId": "5199963814900042040",
+    "rarityPermille": 5,
+    "originalRarityPermille": 5,
+    "rarity": 0.5,
+    "originalRarity": 0.5,
+    "assets": {
+      "png": "gifts/mythmask/assets/patterns/earth.png"
     }
   },
   {
@@ -4612,26 +4612,49 @@ export const backdrops = [
     }
   },
   {
-    "name": "Rifle Green",
-    "backdropId": 65,
-    "customEmojiId": "5377619347483158640",
-    "centerColor": 6580572,
-    "edgeColor": 4936257,
-    "patternColor": 987659,
-    "textColor": 12830653,
+    "name": "Khaki Green",
+    "backdropId": 37,
+    "customEmojiId": "5377549107587998846",
+    "centerColor": 11382896,
+    "edgeColor": 7044436,
+    "patternColor": 3756059,
+    "textColor": 13887163,
     "hex": {
-      "centerColor": "#64695c",
-      "edgeColor": "#4b5241",
-      "patternColor": "#0f120b",
-      "textColor": "#c3c7bd"
+      "centerColor": "#adb070",
+      "edgeColor": "#6b7d54",
+      "patternColor": "#39501b",
+      "textColor": "#d3e6bb"
     },
     "rarityPermille": 9,
     "originalRarityPermille": 10,
     "rarity": 0.9,
     "originalRarity": 1,
     "assets": {
-      "circleSvg": "assets/backdrops/64695c-4b5241-circle.svg",
-      "squareSvg": "assets/backdrops/64695c-4b5241-square.svg"
+      "circleSvg": "assets/backdrops/adb070-6b7d54-circle.svg",
+      "squareSvg": "assets/backdrops/adb070-6b7d54-square.svg"
+    }
+  },
+  {
+    "name": "Ranger Green",
+    "backdropId": 66,
+    "customEmojiId": "5375074549295510665",
+    "centerColor": 6256713,
+    "edgeColor": 3952443,
+    "patternColor": 1057289,
+    "textColor": 12043445,
+    "hex": {
+      "centerColor": "#5f7849",
+      "edgeColor": "#3c4f3b",
+      "patternColor": "#102209",
+      "textColor": "#b7c4b5"
+    },
+    "rarityPermille": 9,
+    "originalRarityPermille": 10,
+    "rarity": 0.9,
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/5f7849-3c4f3b-circle.svg",
+      "squareSvg": "assets/backdrops/5f7849-3c4f3b-square.svg"
     }
   },
   {
@@ -4701,52 +4724,6 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/b39f82-7e735b-circle.svg",
       "squareSvg": "assets/backdrops/b39f82-7e735b-square.svg"
-    }
-  },
-  {
-    "name": "Fandango",
-    "backdropId": 30,
-    "customEmojiId": "5377665664410477598",
-    "centerColor": 14846646,
-    "edgeColor": 10770571,
-    "patternColor": 9307470,
-    "textColor": 16762859,
-    "hex": {
-      "centerColor": "#e28ab6",
-      "edgeColor": "#a4588b",
-      "patternColor": "#8e054e",
-      "textColor": "#ffc7eb"
-    },
-    "rarityPermille": 10,
-    "originalRarityPermille": 10,
-    "rarity": 1,
-    "originalRarity": 1,
-    "assets": {
-      "circleSvg": "assets/backdrops/e28ab6-a4588b-circle.svg",
-      "squareSvg": "assets/backdrops/e28ab6-a4588b-square.svg"
-    }
-  },
-  {
-    "name": "Khaki Green",
-    "backdropId": 37,
-    "customEmojiId": "5377549107587998846",
-    "centerColor": 11382896,
-    "edgeColor": 7044436,
-    "patternColor": 3756059,
-    "textColor": 13887163,
-    "hex": {
-      "centerColor": "#adb070",
-      "edgeColor": "#6b7d54",
-      "patternColor": "#39501b",
-      "textColor": "#d3e6bb"
-    },
-    "rarityPermille": 10,
-    "originalRarityPermille": 10,
-    "rarity": 1,
-    "originalRarity": 1,
-    "assets": {
-      "circleSvg": "assets/backdrops/adb070-6b7d54-circle.svg",
-      "squareSvg": "assets/backdrops/adb070-6b7d54-square.svg"
     }
   },
   {
@@ -4842,26 +4819,26 @@ export const backdrops = [
     }
   },
   {
-    "name": "Ranger Green",
-    "backdropId": 66,
-    "customEmojiId": "5375074549295510665",
-    "centerColor": 6256713,
-    "edgeColor": 3952443,
-    "patternColor": 1057289,
-    "textColor": 12043445,
+    "name": "Rifle Green",
+    "backdropId": 65,
+    "customEmojiId": "5377619347483158640",
+    "centerColor": 6580572,
+    "edgeColor": 4936257,
+    "patternColor": 987659,
+    "textColor": 12830653,
     "hex": {
-      "centerColor": "#5f7849",
-      "edgeColor": "#3c4f3b",
-      "patternColor": "#102209",
-      "textColor": "#b7c4b5"
+      "centerColor": "#64695c",
+      "edgeColor": "#4b5241",
+      "patternColor": "#0f120b",
+      "textColor": "#c3c7bd"
     },
     "rarityPermille": 10,
     "originalRarityPermille": 10,
     "rarity": 1,
     "originalRarity": 1,
     "assets": {
-      "circleSvg": "assets/backdrops/5f7849-3c4f3b-circle.svg",
-      "squareSvg": "assets/backdrops/5f7849-3c4f3b-square.svg"
+      "circleSvg": "assets/backdrops/64695c-4b5241-circle.svg",
+      "squareSvg": "assets/backdrops/64695c-4b5241-square.svg"
     }
   },
   {
@@ -4957,6 +4934,29 @@ export const backdrops = [
     }
   },
   {
+    "name": "Fandango",
+    "backdropId": 30,
+    "customEmojiId": "5377665664410477598",
+    "centerColor": 14846646,
+    "edgeColor": 10770571,
+    "patternColor": 9307470,
+    "textColor": 16762859,
+    "hex": {
+      "centerColor": "#e28ab6",
+      "edgeColor": "#a4588b",
+      "patternColor": "#8e054e",
+      "textColor": "#ffc7eb"
+    },
+    "rarityPermille": 11,
+    "originalRarityPermille": 10,
+    "rarity": 1.1,
+    "originalRarity": 1,
+    "assets": {
+      "circleSvg": "assets/backdrops/e28ab6-a4588b-circle.svg",
+      "squareSvg": "assets/backdrops/e28ab6-a4588b-square.svg"
+    }
+  },
+  {
     "name": "Gunmetal",
     "backdropId": 69,
     "customEmojiId": "5375182267075292360",
@@ -4977,6 +4977,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/4c5d63-2f3b42-circle.svg",
       "squareSvg": "assets/backdrops/4c5d63-2f3b42-square.svg"
+    }
+  },
+  {
+    "name": "Jade Green",
+    "backdropId": 56,
+    "customEmojiId": "5375392875091620167",
+    "centerColor": 5620892,
+    "edgeColor": 3905911,
+    "patternColor": 280881,
+    "textColor": 12517095,
+    "hex": {
+      "centerColor": "#55c49c",
+      "edgeColor": "#3b9977",
+      "patternColor": "#044931",
+      "textColor": "#befee7"
+    },
+    "rarityPermille": 11,
+    "originalRarityPermille": 12,
+    "rarity": 1.1,
+    "originalRarity": 1.2,
+    "assets": {
+      "circleSvg": "assets/backdrops/55c49c-3b9977-circle.svg",
+      "squareSvg": "assets/backdrops/55c49c-3b9977-square.svg"
     }
   },
   {
@@ -5023,6 +5046,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/5c6985-354057-circle.svg",
       "squareSvg": "assets/backdrops/5c6985-354057-square.svg"
+    }
+  },
+  {
+    "name": "Pacific Green",
+    "backdropId": 12,
+    "customEmojiId": "5375523141449707206",
+    "centerColor": 7325587,
+    "edgeColor": 3906692,
+    "patternColor": 24905,
+    "textColor": 13041648,
+    "hex": {
+      "centerColor": "#6fc793",
+      "edgeColor": "#3b9c84",
+      "patternColor": "#006149",
+      "textColor": "#c6fff0"
+    },
+    "rarityPermille": 11,
+    "originalRarityPermille": 12,
+    "rarity": 1.1,
+    "originalRarity": 1.2,
+    "assets": {
+      "circleSvg": "assets/backdrops/6fc793-3b9c84-circle.svg",
+      "squareSvg": "assets/backdrops/6fc793-3b9c84-square.svg"
     }
   },
   {
@@ -5115,29 +5161,6 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/60b195-46abb4-circle.svg",
       "squareSvg": "assets/backdrops/60b195-46abb4-square.svg"
-    }
-  },
-  {
-    "name": "Battleship Grey",
-    "backdropId": 50,
-    "customEmojiId": "5375258223571925187",
-    "centerColor": 9211013,
-    "edgeColor": 7105638,
-    "patternColor": 2828832,
-    "textColor": 13618884,
-    "hex": {
-      "centerColor": "#8c8c85",
-      "edgeColor": "#6c6c66",
-      "patternColor": "#2b2a20",
-      "textColor": "#cfcec4"
-    },
-    "rarityPermille": 12,
-    "originalRarityPermille": 12,
-    "rarity": 1.2,
-    "originalRarity": 1.2,
-    "assets": {
-      "circleSvg": "assets/backdrops/8c8c85-6c6c66-circle.svg",
-      "squareSvg": "assets/backdrops/8c8c85-6c6c66-square.svg"
     }
   },
   {
@@ -5463,29 +5486,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Jade Green",
-    "backdropId": 56,
-    "customEmojiId": "5375392875091620167",
-    "centerColor": 5620892,
-    "edgeColor": 3905911,
-    "patternColor": 280881,
-    "textColor": 12517095,
-    "hex": {
-      "centerColor": "#55c49c",
-      "edgeColor": "#3b9977",
-      "patternColor": "#044931",
-      "textColor": "#befee7"
-    },
-    "rarityPermille": 12,
-    "originalRarityPermille": 12,
-    "rarity": 1.2,
-    "originalRarity": 1.2,
-    "assets": {
-      "circleSvg": "assets/backdrops/55c49c-3b9977-circle.svg",
-      "squareSvg": "assets/backdrops/55c49c-3b9977-square.svg"
-    }
-  },
-  {
     "name": "Light Olive",
     "backdropId": 18,
     "customEmojiId": "5375600553940250812",
@@ -5578,29 +5578,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Pacific Green",
-    "backdropId": 12,
-    "customEmojiId": "5375523141449707206",
-    "centerColor": 7325587,
-    "edgeColor": 3906692,
-    "patternColor": 24905,
-    "textColor": 13041648,
-    "hex": {
-      "centerColor": "#6fc793",
-      "edgeColor": "#3b9c84",
-      "patternColor": "#006149",
-      "textColor": "#c6fff0"
-    },
-    "rarityPermille": 12,
-    "originalRarityPermille": 12,
-    "rarity": 1.2,
-    "originalRarity": 1.2,
-    "assets": {
-      "circleSvg": "assets/backdrops/6fc793-3b9c84-circle.svg",
-      "squareSvg": "assets/backdrops/6fc793-3b9c84-square.svg"
-    }
-  },
-  {
     "name": "Tomato",
     "backdropId": 72,
     "customEmojiId": "5377723259921916635",
@@ -5621,6 +5598,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/e6793e-d44e3f-circle.svg",
       "squareSvg": "assets/backdrops/e6793e-d44e3f-square.svg"
+    }
+  },
+  {
+    "name": "Battleship Grey",
+    "backdropId": 50,
+    "customEmojiId": "5375258223571925187",
+    "centerColor": 9211013,
+    "edgeColor": 7105638,
+    "patternColor": 2828832,
+    "textColor": 13618884,
+    "hex": {
+      "centerColor": "#8c8c85",
+      "edgeColor": "#6c6c66",
+      "patternColor": "#2b2a20",
+      "textColor": "#cfcec4"
+    },
+    "rarityPermille": 13,
+    "originalRarityPermille": 12,
+    "rarity": 1.3,
+    "originalRarity": 1.2,
+    "assets": {
+      "circleSvg": "assets/backdrops/8c8c85-6c6c66-circle.svg",
+      "squareSvg": "assets/backdrops/8c8c85-6c6c66-square.svg"
     }
   },
   {
@@ -5739,6 +5739,29 @@ export const backdrops = [
     }
   },
   {
+    "name": "Amber",
+    "backdropId": 21,
+    "customEmojiId": "5375590628270831231",
+    "centerColor": 14332741,
+    "edgeColor": 11632682,
+    "patternColor": 8007936,
+    "textColor": 16772551,
+    "hex": {
+      "centerColor": "#dab345",
+      "edgeColor": "#b1802a",
+      "patternColor": "#7a3100",
+      "textColor": "#ffedc7"
+    },
+    "rarityPermille": 14,
+    "originalRarityPermille": 15,
+    "rarity": 1.4,
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/dab345-b1802a-circle.svg",
+      "squareSvg": "assets/backdrops/dab345-b1802a-square.svg"
+    }
+  },
+  {
     "name": "Black",
     "backdropId": 0,
     "customEmojiId": "5377437666071568792",
@@ -5759,6 +5782,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/363738-0e0f0f-circle.svg",
       "squareSvg": "assets/backdrops/363738-0e0f0f-square.svg"
+    }
+  },
+  {
+    "name": "Camo Green",
+    "backdropId": 67,
+    "customEmojiId": "5375411489479878975",
+    "centerColor": 7705677,
+    "edgeColor": 5534529,
+    "patternColor": 1455873,
+    "textColor": 13625529,
+    "hex": {
+      "centerColor": "#75944d",
+      "edgeColor": "#547341",
+      "patternColor": "#163701",
+      "textColor": "#cfe8b9"
+    },
+    "rarityPermille": 14,
+    "originalRarityPermille": 15,
+    "rarity": 1.4,
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/75944d-547341-circle.svg",
+      "squareSvg": "assets/backdrops/75944d-547341-square.svg"
     }
   },
   {
@@ -5877,26 +5923,26 @@ export const backdrops = [
     }
   },
   {
-    "name": "Amber",
-    "backdropId": 21,
-    "customEmojiId": "5375590628270831231",
-    "centerColor": 14332741,
-    "edgeColor": 11632682,
-    "patternColor": 8007936,
-    "textColor": 16772551,
+    "name": "Tactical Pine",
+    "backdropId": 61,
+    "customEmojiId": "5375347412862793082",
+    "centerColor": 4489835,
+    "edgeColor": 3105641,
+    "patternColor": 9764,
+    "textColor": 12052179,
     "hex": {
-      "centerColor": "#dab345",
-      "edgeColor": "#b1802a",
-      "patternColor": "#7a3100",
-      "textColor": "#ffedc7"
+      "centerColor": "#44826b",
+      "edgeColor": "#2f6369",
+      "patternColor": "#002624",
+      "textColor": "#b7e6d3"
     },
-    "rarityPermille": 15,
+    "rarityPermille": 14,
     "originalRarityPermille": 15,
-    "rarity": 1.5,
+    "rarity": 1.4,
     "originalRarity": 1.5,
     "assets": {
-      "circleSvg": "assets/backdrops/dab345-b1802a-circle.svg",
-      "squareSvg": "assets/backdrops/dab345-b1802a-square.svg"
+      "circleSvg": "assets/backdrops/44826b-2f6369-circle.svg",
+      "squareSvg": "assets/backdrops/44826b-2f6369-square.svg"
     }
   },
   {
@@ -5920,29 +5966,6 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/5db1cb-448bab-circle.svg",
       "squareSvg": "assets/backdrops/5db1cb-448bab-square.svg"
-    }
-  },
-  {
-    "name": "Camo Green",
-    "backdropId": 67,
-    "customEmojiId": "5375411489479878975",
-    "centerColor": 7705677,
-    "edgeColor": 5534529,
-    "patternColor": 1455873,
-    "textColor": 13625529,
-    "hex": {
-      "centerColor": "#75944d",
-      "edgeColor": "#547341",
-      "patternColor": "#163701",
-      "textColor": "#cfe8b9"
-    },
-    "rarityPermille": 15,
-    "originalRarityPermille": 15,
-    "rarity": 1.5,
-    "originalRarity": 1.5,
-    "assets": {
-      "circleSvg": "assets/backdrops/75944d-547341-circle.svg",
-      "squareSvg": "assets/backdrops/75944d-547341-square.svg"
     }
   },
   {
@@ -6038,29 +6061,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Electric Purple",
-    "backdropId": 1,
-    "customEmojiId": "5375123176915234503",
-    "centerColor": 13267142,
-    "edgeColor": 9855700,
-    "patternColor": 6426548,
-    "textColor": 15453951,
-    "hex": {
-      "centerColor": "#ca70c6",
-      "edgeColor": "#9662d4",
-      "patternColor": "#620fb4",
-      "textColor": "#ebceff"
-    },
-    "rarityPermille": 15,
-    "originalRarityPermille": 15,
-    "rarity": 1.5,
-    "originalRarity": 1.5,
-    "assets": {
-      "circleSvg": "assets/backdrops/ca70c6-9662d4-circle.svg",
-      "squareSvg": "assets/backdrops/ca70c6-9662d4-square.svg"
-    }
-  },
-  {
     "name": "Grape",
     "backdropId": 52,
     "customEmojiId": "5375533853098147113",
@@ -6081,29 +6081,6 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/9d74c1-794da0-circle.svg",
       "squareSvg": "assets/backdrops/9d74c1-794da0-square.svg"
-    }
-  },
-  {
-    "name": "Marine Blue",
-    "backdropId": 60,
-    "customEmojiId": "5375439277918288314",
-    "centerColor": 5138588,
-    "edgeColor": 3885946,
-    "patternColor": 67617,
-    "textColor": 12307442,
-    "hex": {
-      "centerColor": "#4e689c",
-      "edgeColor": "#3b4b7a",
-      "patternColor": "#010821",
-      "textColor": "#bbcbf2"
-    },
-    "rarityPermille": 15,
-    "originalRarityPermille": 15,
-    "rarity": 1.5,
-    "originalRarity": 1.5,
-    "assets": {
-      "circleSvg": "assets/backdrops/4e689c-3b4b7a-circle.svg",
-      "squareSvg": "assets/backdrops/4e689c-3b4b7a-square.svg"
     }
   },
   {
@@ -6314,26 +6291,26 @@ export const backdrops = [
     }
   },
   {
-    "name": "Tactical Pine",
-    "backdropId": 61,
-    "customEmojiId": "5375347412862793082",
-    "centerColor": 4489835,
-    "edgeColor": 3105641,
-    "patternColor": 9764,
-    "textColor": 12052179,
+    "name": "Electric Purple",
+    "backdropId": 1,
+    "customEmojiId": "5375123176915234503",
+    "centerColor": 13267142,
+    "edgeColor": 9855700,
+    "patternColor": 6426548,
+    "textColor": 15453951,
     "hex": {
-      "centerColor": "#44826b",
-      "edgeColor": "#2f6369",
-      "patternColor": "#002624",
-      "textColor": "#b7e6d3"
+      "centerColor": "#ca70c6",
+      "edgeColor": "#9662d4",
+      "patternColor": "#620fb4",
+      "textColor": "#ebceff"
     },
-    "rarityPermille": 15,
+    "rarityPermille": 16,
     "originalRarityPermille": 15,
-    "rarity": 1.5,
+    "rarity": 1.6,
     "originalRarity": 1.5,
     "assets": {
-      "circleSvg": "assets/backdrops/44826b-2f6369-circle.svg",
-      "squareSvg": "assets/backdrops/44826b-2f6369-square.svg"
+      "circleSvg": "assets/backdrops/ca70c6-9662d4-circle.svg",
+      "squareSvg": "assets/backdrops/ca70c6-9662d4-square.svg"
     }
   },
   {
@@ -6357,6 +6334,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/b789e4-8a5abc-circle.svg",
       "squareSvg": "assets/backdrops/b789e4-8a5abc-square.svg"
+    }
+  },
+  {
+    "name": "Marine Blue",
+    "backdropId": 60,
+    "customEmojiId": "5375439277918288314",
+    "centerColor": 5138588,
+    "edgeColor": 3885946,
+    "patternColor": 67617,
+    "textColor": 12307442,
+    "hex": {
+      "centerColor": "#4e689c",
+      "edgeColor": "#3b4b7a",
+      "patternColor": "#010821",
+      "textColor": "#bbcbf2"
+    },
+    "rarityPermille": 16,
+    "originalRarityPermille": 15,
+    "rarity": 1.6,
+    "originalRarity": 1.5,
+    "assets": {
+      "circleSvg": "assets/backdrops/4e689c-3b4b7a-circle.svg",
+      "squareSvg": "assets/backdrops/4e689c-3b4b7a-square.svg"
     }
   },
   {
