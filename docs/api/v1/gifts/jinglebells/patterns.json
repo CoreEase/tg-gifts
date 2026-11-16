@@ -2400,26 +2400,6 @@
     },
     {
       "type": "pattern",
-      "slug": "dessert",
-      "name": "Dessert",
-      "customEmojiId": "5199456540607676981",
-      "rarityPermille": 23,
-      "originalRarityPermille": 23,
-      "rarity": 2.3,
-      "originalRarity": 2.3,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/dessert.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/dessert.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/dessert.json"
-    },
-    {
-      "type": "pattern",
       "slug": "gift-box",
       "name": "Gift Box",
       "customEmojiId": "5199854971838826197",
@@ -2457,6 +2437,26 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/ice-pop.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/ice-pop.json"
+    },
+    {
+      "type": "pattern",
+      "slug": "magic-wand",
+      "name": "Magic Wand",
+      "customEmojiId": "5199565744446145009",
+      "rarityPermille": 23,
+      "originalRarityPermille": 24,
+      "rarity": 2.3,
+      "originalRarity": 2.4,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/magic-wand.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/magic-wand.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/magic-wand.json"
     },
     {
       "type": "pattern",
@@ -2580,6 +2580,26 @@
     },
     {
       "type": "pattern",
+      "slug": "dessert",
+      "name": "Dessert",
+      "customEmojiId": "5199456540607676981",
+      "rarityPermille": 24,
+      "originalRarityPermille": 23,
+      "rarity": 2.4,
+      "originalRarity": 2.3,
+      "gift": {
+        "slug": "jinglebells",
+        "name": "Jingle Bells",
+        "id": "6001473264306619020"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/dessert.png",
+      "assets": {
+        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/dessert.png"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/dessert.json"
+    },
+    {
+      "type": "pattern",
       "slug": "eikthyrnir",
       "name": "Eikthyrnir",
       "customEmojiId": "5199875514667404240",
@@ -2657,26 +2677,6 @@
         "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/jingle-bell.png"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/jingle-bell.json"
-    },
-    {
-      "type": "pattern",
-      "slug": "magic-wand",
-      "name": "Magic Wand",
-      "customEmojiId": "5199565744446145009",
-      "rarityPermille": 24,
-      "originalRarityPermille": 24,
-      "rarity": 2.4,
-      "originalRarity": 2.4,
-      "gift": {
-        "slug": "jinglebells",
-        "name": "Jingle Bells",
-        "id": "6001473264306619020"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/magic-wand.png",
-      "assets": {
-        "png": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/jinglebells/assets/patterns/magic-wand.png"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/jinglebells/patterns/magic-wand.json"
     },
     {
       "type": "pattern",

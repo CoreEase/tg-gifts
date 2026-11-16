@@ -3230,17 +3230,6 @@ export const patterns = [
     }
   },
   {
-    "name": "Dessert",
-    "customEmojiId": "5199456540607676981",
-    "rarityPermille": 23,
-    "originalRarityPermille": 23,
-    "rarity": 2.3,
-    "originalRarity": 2.3,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/dessert.png"
-    }
-  },
-  {
     "name": "Gift Box",
     "customEmojiId": "5199854971838826197",
     "rarityPermille": 23,
@@ -3260,6 +3249,17 @@ export const patterns = [
     "originalRarity": 2.4,
     "assets": {
       "png": "gifts/jinglebells/assets/patterns/ice-pop.png"
+    }
+  },
+  {
+    "name": "Magic Wand",
+    "customEmojiId": "5199565744446145009",
+    "rarityPermille": 23,
+    "originalRarityPermille": 24,
+    "rarity": 2.3,
+    "originalRarity": 2.4,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/magic-wand.png"
     }
   },
   {
@@ -3329,6 +3329,17 @@ export const patterns = [
     }
   },
   {
+    "name": "Dessert",
+    "customEmojiId": "5199456540607676981",
+    "rarityPermille": 24,
+    "originalRarityPermille": 23,
+    "rarity": 2.4,
+    "originalRarity": 2.3,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/dessert.png"
+    }
+  },
+  {
     "name": "Eikthyrnir",
     "customEmojiId": "5199875514667404240",
     "rarityPermille": 24,
@@ -3370,17 +3381,6 @@ export const patterns = [
     "originalRarity": 2.3,
     "assets": {
       "png": "gifts/jinglebells/assets/patterns/jingle-bell.png"
-    }
-  },
-  {
-    "name": "Magic Wand",
-    "customEmojiId": "5199565744446145009",
-    "rarityPermille": 24,
-    "originalRarityPermille": 24,
-    "rarity": 2.4,
-    "originalRarity": 2.4,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/magic-wand.png"
     }
   },
   {
@@ -4155,29 +4155,6 @@ export const backdrops = [
     }
   },
   {
-    "name": "Aquamarine",
-    "backdropId": 11,
-    "customEmojiId": "5377657950649214703",
-    "centerColor": 6336917,
-    "edgeColor": 4631476,
-    "patternColor": 221031,
-    "textColor": 13106686,
-    "hex": {
-      "centerColor": "#60b195",
-      "edgeColor": "#46abb4",
-      "patternColor": "#035f67",
-      "textColor": "#c7fdfe"
-    },
-    "rarityPermille": 19,
-    "originalRarityPermille": 19,
-    "rarity": 1.9,
-    "originalRarity": 1.9,
-    "assets": {
-      "circleSvg": "assets/backdrops/60b195-46abb4-circle.svg",
-      "squareSvg": "assets/backdrops/60b195-46abb4-square.svg"
-    }
-  },
-  {
     "name": "Azure Blue",
     "backdropId": 9,
     "customEmojiId": "5375057773153254940",
@@ -4290,6 +4267,29 @@ export const backdrops = [
     "assets": {
       "circleSvg": "assets/backdrops/ccab41-987b32-circle.svg",
       "squareSvg": "assets/backdrops/ccab41-987b32-square.svg"
+    }
+  },
+  {
+    "name": "Aquamarine",
+    "backdropId": 11,
+    "customEmojiId": "5377657950649214703",
+    "centerColor": 6336917,
+    "edgeColor": 4631476,
+    "patternColor": 221031,
+    "textColor": 13106686,
+    "hex": {
+      "centerColor": "#60b195",
+      "edgeColor": "#46abb4",
+      "patternColor": "#035f67",
+      "textColor": "#c7fdfe"
+    },
+    "rarityPermille": 20,
+    "originalRarityPermille": 19,
+    "rarity": 2,
+    "originalRarity": 1.9,
+    "assets": {
+      "circleSvg": "assets/backdrops/60b195-46abb4-circle.svg",
+      "squareSvg": "assets/backdrops/60b195-46abb4-square.svg"
     }
   },
   {
