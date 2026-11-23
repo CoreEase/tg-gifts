@@ -1558,6 +1558,18 @@ export const models = [
     }
   },
   {
+    "name": "Dark Binding",
+    "customEmojiId": "5249288370378534433",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/dark-binding.svg",
+      "tgs": "gifts/deskcalendar/assets/models/dark-binding.tgs"
+    }
+  },
+  {
     "name": "Deep Ocean",
     "customEmojiId": "5246971218342472509",
     "rarityPermille": 13,
@@ -1690,6 +1702,18 @@ export const models = [
     }
   },
   {
+    "name": "Orange Mood",
+    "customEmojiId": "5246869775509912161",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/orange-mood.svg",
+      "tgs": "gifts/deskcalendar/assets/models/orange-mood.tgs"
+    }
+  },
+  {
     "name": "Party Time",
     "customEmojiId": "5249151433936232730",
     "rarityPermille": 13,
@@ -1762,6 +1786,18 @@ export const models = [
     }
   },
   {
+    "name": "Sunshine",
+    "customEmojiId": "5248948140249209321",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/sunshine.svg",
+      "tgs": "gifts/deskcalendar/assets/models/sunshine.tgs"
+    }
+  },
+  {
     "name": "Surfer",
     "customEmojiId": "5249034366012644695",
     "rarityPermille": 13,
@@ -1783,6 +1819,18 @@ export const models = [
     "assets": {
       "svg": "gifts/deskcalendar/assets/models/the-nineties.svg",
       "tgs": "gifts/deskcalendar/assets/models/the-nineties.tgs"
+    }
+  },
+  {
+    "name": "Tropical",
+    "customEmojiId": "5249358185071930417",
+    "rarityPermille": 13,
+    "originalRarityPermille": 15,
+    "rarity": 1.3,
+    "originalRarity": 1.5,
+    "assets": {
+      "svg": "gifts/deskcalendar/assets/models/tropical.svg",
+      "tgs": "gifts/deskcalendar/assets/models/tropical.tgs"
     }
   },
   {
@@ -1843,18 +1891,6 @@ export const models = [
     "assets": {
       "svg": "gifts/deskcalendar/assets/models/blossoms.svg",
       "tgs": "gifts/deskcalendar/assets/models/blossoms.tgs"
-    }
-  },
-  {
-    "name": "Dark Binding",
-    "customEmojiId": "5249288370378534433",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/dark-binding.svg",
-      "tgs": "gifts/deskcalendar/assets/models/dark-binding.tgs"
     }
   },
   {
@@ -1942,18 +1978,6 @@ export const models = [
     }
   },
   {
-    "name": "Orange Mood",
-    "customEmojiId": "5246869775509912161",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/orange-mood.svg",
-      "tgs": "gifts/deskcalendar/assets/models/orange-mood.tgs"
-    }
-  },
-  {
     "name": "Pink Day",
     "customEmojiId": "5249358756302582114",
     "rarityPermille": 14,
@@ -1975,30 +1999,6 @@ export const models = [
     "assets": {
       "svg": "gifts/deskcalendar/assets/models/plum-peach.svg",
       "tgs": "gifts/deskcalendar/assets/models/plum-peach.tgs"
-    }
-  },
-  {
-    "name": "Sunshine",
-    "customEmojiId": "5248948140249209321",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/sunshine.svg",
-      "tgs": "gifts/deskcalendar/assets/models/sunshine.tgs"
-    }
-  },
-  {
-    "name": "Tropical",
-    "customEmojiId": "5249358185071930417",
-    "rarityPermille": 14,
-    "originalRarityPermille": 15,
-    "rarity": 1.4,
-    "originalRarity": 1.5,
-    "assets": {
-      "svg": "gifts/deskcalendar/assets/models/tropical.svg",
-      "tgs": "gifts/deskcalendar/assets/models/tropical.tgs"
     }
   }
 ] satisfies readonly GiftModel[];

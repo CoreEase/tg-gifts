@@ -874,6 +874,18 @@ export const models = [
     }
   },
   {
+    "name": "Topsoil",
+    "customEmojiId": "5249222485580211625",
+    "rarityPermille": 3,
+    "originalRarityPermille": 4,
+    "rarity": 0.3,
+    "originalRarity": 0.4,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/topsoil.svg",
+      "tgs": "gifts/jinglebells/assets/models/topsoil.tgs"
+    }
+  },
+  {
     "name": "Buffering",
     "customEmojiId": "5246870119107291335",
     "rarityPermille": 4,
@@ -967,18 +979,6 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/motion-blur.svg",
       "tgs": "gifts/jinglebells/assets/models/motion-blur.tgs"
-    }
-  },
-  {
-    "name": "Topsoil",
-    "customEmojiId": "5249222485580211625",
-    "rarityPermille": 4,
-    "originalRarityPermille": 4,
-    "rarity": 0.4,
-    "originalRarity": 0.4,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/topsoil.svg",
-      "tgs": "gifts/jinglebells/assets/models/topsoil.tgs"
     }
   },
   {
@@ -1450,18 +1450,6 @@ export const models = [
     }
   },
   {
-    "name": "Cast Bronze",
-    "customEmojiId": "5249161217871731570",
-    "rarityPermille": 12,
-    "originalRarityPermille": 14,
-    "rarity": 1.2,
-    "originalRarity": 1.4,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/cast-bronze.svg",
-      "tgs": "gifts/jinglebells/assets/models/cast-bronze.tgs"
-    }
-  },
-  {
     "name": "Copper Pink",
     "customEmojiId": "5247210877517588788",
     "rarityPermille": 12,
@@ -1483,6 +1471,18 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/golden-cane.svg",
       "tgs": "gifts/jinglebells/assets/models/golden-cane.tgs"
+    }
+  },
+  {
+    "name": "Inner Glow",
+    "customEmojiId": "5249175971084393808",
+    "rarityPermille": 12,
+    "originalRarityPermille": 13,
+    "rarity": 1.2,
+    "originalRarity": 1.3,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/inner-glow.svg",
+      "tgs": "gifts/jinglebells/assets/models/inner-glow.tgs"
     }
   },
   {
@@ -1618,6 +1618,18 @@ export const models = [
     }
   },
   {
+    "name": "Cast Bronze",
+    "customEmojiId": "5249161217871731570",
+    "rarityPermille": 13,
+    "originalRarityPermille": 14,
+    "rarity": 1.3,
+    "originalRarity": 1.4,
+    "assets": {
+      "svg": "gifts/jinglebells/assets/models/cast-bronze.svg",
+      "tgs": "gifts/jinglebells/assets/models/cast-bronze.tgs"
+    }
+  },
+  {
     "name": "Citrus Bell",
     "customEmojiId": "5246863161260273613",
     "rarityPermille": 13,
@@ -1651,18 +1663,6 @@ export const models = [
     "assets": {
       "svg": "gifts/jinglebells/assets/models/heatwave.svg",
       "tgs": "gifts/jinglebells/assets/models/heatwave.tgs"
-    }
-  },
-  {
-    "name": "Inner Glow",
-    "customEmojiId": "5249175971084393808",
-    "rarityPermille": 13,
-    "originalRarityPermille": 13,
-    "rarity": 1.3,
-    "originalRarity": 1.3,
-    "assets": {
-      "svg": "gifts/jinglebells/assets/models/inner-glow.svg",
-      "tgs": "gifts/jinglebells/assets/models/inner-glow.tgs"
     }
   },
   {
@@ -3131,6 +3131,28 @@ export const patterns = [
     }
   },
   {
+    "name": "Cupcake",
+    "customEmojiId": "5199460788330335122",
+    "rarityPermille": 19,
+    "originalRarityPermille": 19,
+    "rarity": 1.9,
+    "originalRarity": 1.9,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/cupcake.png"
+    }
+  },
+  {
+    "name": "Gingerbread",
+    "customEmojiId": "5199945376605439444",
+    "rarityPermille": 19,
+    "originalRarityPermille": 19,
+    "rarity": 1.9,
+    "originalRarity": 1.9,
+    "assets": {
+      "png": "gifts/jinglebells/assets/patterns/gingerbread.png"
+    }
+  },
+  {
     "name": "Rudolph",
     "customEmojiId": "5199540056246747378",
     "rarityPermille": 19,
@@ -3153,17 +3175,6 @@ export const patterns = [
     }
   },
   {
-    "name": "Cupcake",
-    "customEmojiId": "5199460788330335122",
-    "rarityPermille": 20,
-    "originalRarityPermille": 19,
-    "rarity": 2,
-    "originalRarity": 1.9,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/cupcake.png"
-    }
-  },
-  {
     "name": "Festive Wreath",
     "customEmojiId": "5199830851302495542",
     "rarityPermille": 20,
@@ -3172,17 +3183,6 @@ export const patterns = [
     "originalRarity": 2,
     "assets": {
       "png": "gifts/jinglebells/assets/patterns/festive-wreath.png"
-    }
-  },
-  {
-    "name": "Gingerbread",
-    "customEmojiId": "5199945376605439444",
-    "rarityPermille": 20,
-    "originalRarityPermille": 19,
-    "rarity": 2,
-    "originalRarity": 1.9,
-    "assets": {
-      "png": "gifts/jinglebells/assets/patterns/gingerbread.png"
     }
   },
   {

@@ -660,6 +660,38 @@
     },
     {
       "type": "backdrop",
+      "slug": "malachite",
+      "name": "Malachite",
+      "backdropId": 15,
+      "customEmojiId": "5377519721421758750",
+      "centerColor": 9811031,
+      "edgeColor": 4036437,
+      "patternColor": 289542,
+      "textColor": 12775358,
+      "hex": {
+        "centerColor": "#95b457",
+        "edgeColor": "#3d9755",
+        "patternColor": "#046b06",
+        "textColor": "#c2efbe"
+      },
+      "rarityPermille": 11,
+      "originalRarityPermille": 12,
+      "rarity": 1.1,
+      "originalRarity": 1.2,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-square.svg"
+      },
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/malachite.json"
+    },
+    {
+      "type": "backdrop",
       "slug": "mexican-pink",
       "name": "Mexican Pink",
       "backdropId": 71,
@@ -1076,38 +1108,6 @@
     },
     {
       "type": "backdrop",
-      "slug": "cyberpunk",
-      "name": "Cyberpunk",
-      "backdropId": 3,
-      "customEmojiId": "5375292097978986361",
-      "centerColor": 8753139,
-      "edgeColor": 8806355,
-      "patternColor": 4397222,
-      "textColor": 14735871,
-      "hex": {
-        "centerColor": "#858ff3",
-        "edgeColor": "#865fd3",
-        "patternColor": "#4318a6",
-        "textColor": "#e0d9ff"
-      },
-      "rarityPermille": 12,
-      "originalRarityPermille": 12,
-      "rarity": 1.2,
-      "originalRarity": 1.2,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/858ff3-865fd3-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/858ff3-865fd3-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/858ff3-865fd3-square.svg"
-      },
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/cyberpunk.json"
-    },
-    {
-      "type": "backdrop",
       "slug": "dark-lilac",
       "name": "Dark Lilac",
       "backdropId": 31,
@@ -1332,38 +1332,6 @@
     },
     {
       "type": "backdrop",
-      "slug": "malachite",
-      "name": "Malachite",
-      "backdropId": 15,
-      "customEmojiId": "5377519721421758750",
-      "centerColor": 9811031,
-      "edgeColor": 4036437,
-      "patternColor": 289542,
-      "textColor": 12775358,
-      "hex": {
-        "centerColor": "#95b457",
-        "edgeColor": "#3d9755",
-        "patternColor": "#046b06",
-        "textColor": "#c2efbe"
-      },
-      "rarityPermille": 12,
-      "originalRarityPermille": 12,
-      "rarity": 1.2,
-      "originalRarity": 1.2,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/95b457-3d9755-square.svg"
-      },
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/malachite.json"
-    },
-    {
-      "type": "backdrop",
       "slug": "moonstone",
       "name": "Moonstone",
       "backdropId": 33,
@@ -1492,6 +1460,38 @@
     },
     {
       "type": "backdrop",
+      "slug": "cyberpunk",
+      "name": "Cyberpunk",
+      "backdropId": 3,
+      "customEmojiId": "5375292097978986361",
+      "centerColor": 8753139,
+      "edgeColor": 8806355,
+      "patternColor": 4397222,
+      "textColor": 14735871,
+      "hex": {
+        "centerColor": "#858ff3",
+        "edgeColor": "#865fd3",
+        "patternColor": "#4318a6",
+        "textColor": "#e0d9ff"
+      },
+      "rarityPermille": 13,
+      "originalRarityPermille": 12,
+      "rarity": 1.3,
+      "originalRarity": 1.2,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/858ff3-865fd3-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/858ff3-865fd3-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/858ff3-865fd3-square.svg"
+      },
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/cyberpunk.json"
+    },
+    {
+      "type": "backdrop",
       "slug": "emerald",
       "name": "Emerald",
       "backdropId": 13,
@@ -1588,6 +1588,38 @@
     },
     {
       "type": "backdrop",
+      "slug": "mint-green",
+      "name": "Mint Green",
+      "backdropId": 14,
+      "customEmojiId": "5375453017518666054",
+      "centerColor": 8309634,
+      "edgeColor": 4562522,
+      "patternColor": 158498,
+      "textColor": 12451788,
+      "hex": {
+        "centerColor": "#7ecb82",
+        "edgeColor": "#459e5a",
+        "patternColor": "#026b22",
+        "textColor": "#bdffcc"
+      },
+      "rarityPermille": 13,
+      "originalRarityPermille": 15,
+      "rarity": 1.3,
+      "originalRarity": 1.5,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-square.svg"
+      },
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/mint-green.json"
+    },
+    {
+      "type": "backdrop",
       "slug": "roman-silver",
       "name": "Roman Silver",
       "backdropId": 43,
@@ -1681,38 +1713,6 @@
         "id": "5775966332847654507"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/amber.json"
-    },
-    {
-      "type": "backdrop",
-      "slug": "black",
-      "name": "Black",
-      "backdropId": 0,
-      "customEmojiId": "5377437666071568792",
-      "centerColor": 3553080,
-      "edgeColor": 921359,
-      "patternColor": 7104616,
-      "textColor": 9211793,
-      "hex": {
-        "centerColor": "#363738",
-        "edgeColor": "#0e0f0f",
-        "patternColor": "#6c6868",
-        "textColor": "#8c8f91"
-      },
-      "rarityPermille": 14,
-      "originalRarityPermille": 12,
-      "rarity": 1.4,
-      "originalRarity": 1.2,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-square.svg"
-      },
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/black.json"
     },
     {
       "type": "backdrop",
@@ -1844,35 +1844,35 @@
     },
     {
       "type": "backdrop",
-      "slug": "mint-green",
-      "name": "Mint Green",
-      "backdropId": 14,
-      "customEmojiId": "5375453017518666054",
-      "centerColor": 8309634,
-      "edgeColor": 4562522,
-      "patternColor": 158498,
-      "textColor": 12451788,
+      "slug": "navy-blue",
+      "name": "Navy Blue",
+      "backdropId": 6,
+      "customEmojiId": "5375095358412057425",
+      "centerColor": 7118557,
+      "edgeColor": 6057673,
+      "patternColor": 1194402,
+      "textColor": 13885951,
       "hex": {
-        "centerColor": "#7ecb82",
-        "edgeColor": "#459e5a",
-        "patternColor": "#026b22",
-        "textColor": "#bdffcc"
+        "centerColor": "#6c9edd",
+        "edgeColor": "#5c6ec9",
+        "patternColor": "#1239a2",
+        "textColor": "#d3e1ff"
       },
       "rarityPermille": 14,
       "originalRarityPermille": 15,
       "rarity": 1.4,
       "originalRarity": 1.5,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-square.svg",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6c9edd-5c6ec9-square.svg",
       "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/7ecb82-459e5a-square.svg"
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6c9edd-5c6ec9-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6c9edd-5c6ec9-square.svg"
       },
       "gift": {
         "slug": "mythmask",
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/mint-green.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/navy-blue.json"
     },
     {
       "type": "backdrop",
@@ -1969,6 +1969,38 @@
         "id": "5775966332847654507"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/azure-blue.json"
+    },
+    {
+      "type": "backdrop",
+      "slug": "black",
+      "name": "Black",
+      "backdropId": 0,
+      "customEmojiId": "5377437666071568792",
+      "centerColor": 3553080,
+      "edgeColor": 921359,
+      "patternColor": 7104616,
+      "textColor": 9211793,
+      "hex": {
+        "centerColor": "#363738",
+        "edgeColor": "#0e0f0f",
+        "patternColor": "#6c6868",
+        "textColor": "#8c8f91"
+      },
+      "rarityPermille": 15,
+      "originalRarityPermille": 12,
+      "rarity": 1.5,
+      "originalRarity": 1.2,
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-square.svg",
+      "assets": {
+        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-circle.svg",
+        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/363738-0e0f0f-square.svg"
+      },
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/black.json"
     },
     {
       "type": "backdrop",
@@ -2161,38 +2193,6 @@
         "id": "5775966332847654507"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/mystic-pearl.json"
-    },
-    {
-      "type": "backdrop",
-      "slug": "navy-blue",
-      "name": "Navy Blue",
-      "backdropId": 6,
-      "customEmojiId": "5375095358412057425",
-      "centerColor": 7118557,
-      "edgeColor": 6057673,
-      "patternColor": 1194402,
-      "textColor": 13885951,
-      "hex": {
-        "centerColor": "#6c9edd",
-        "edgeColor": "#5c6ec9",
-        "patternColor": "#1239a2",
-        "textColor": "#d3e1ff"
-      },
-      "rarityPermille": 15,
-      "originalRarityPermille": 15,
-      "rarity": 1.5,
-      "originalRarity": 1.5,
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6c9edd-5c6ec9-square.svg",
-      "assets": {
-        "circleSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6c9edd-5c6ec9-circle.svg",
-        "squareSvg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/6c9edd-5c6ec9-square.svg"
-      },
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/backdrops/navy-blue.json"
     },
     {
       "type": "backdrop",
@@ -2530,9 +2530,9 @@
         "patternColor": "#3d382d",
         "textColor": "#e9e7e2"
       },
-      "rarityPermille": 16,
+      "rarityPermille": 17,
       "originalRarityPermille": 15,
-      "rarity": 1.6,
+      "rarity": 1.7,
       "originalRarity": 1.5,
       "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/assets/backdrops/b2aea7-88847e-square.svg",
       "assets": {

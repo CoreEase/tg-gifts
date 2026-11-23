@@ -878,28 +878,6 @@
     },
     {
       "type": "model",
-      "slug": "baldwin",
-      "name": "Baldwin",
-      "customEmojiId": "5418170044985156833",
-      "rarityPermille": 2,
-      "originalRarityPermille": 2,
-      "rarity": 0.2,
-      "originalRarity": 0.2,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/baldwin.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/baldwin.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/baldwin.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/baldwin.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/baldwin.json"
-    },
-    {
-      "type": "model",
       "slug": "death-blossom",
       "name": "Death Blossom",
       "customEmojiId": "5417995347190391941",
@@ -1007,28 +985,6 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/iron-maiden.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/iron-maiden.json"
-    },
-    {
-      "type": "model",
-      "slug": "kinkster",
-      "name": "Kinkster",
-      "customEmojiId": "5418352495195892194",
-      "rarityPermille": 2,
-      "originalRarityPermille": 2,
-      "rarity": 0.2,
-      "originalRarity": 0.2,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kinkster.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kinkster.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kinkster.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kinkster.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/kinkster.json"
     },
     {
       "type": "model",
@@ -1186,28 +1142,6 @@
     },
     {
       "type": "model",
-      "slug": "the-donald",
-      "name": "The Donald",
-      "customEmojiId": "5418229551757044488",
-      "rarityPermille": 2,
-      "originalRarityPermille": 2,
-      "rarity": 0.2,
-      "originalRarity": 0.2,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/the-donald.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/the-donald.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/the-donald.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/the-donald.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/the-donald.json"
-    },
-    {
-      "type": "model",
       "slug": "wrong-number",
       "name": "Wrong Number",
       "customEmojiId": "5418142522834724475",
@@ -1227,6 +1161,28 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wrong-number.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/wrong-number.json"
+    },
+    {
+      "type": "model",
+      "slug": "baldwin",
+      "name": "Baldwin",
+      "customEmojiId": "5418170044985156833",
+      "rarityPermille": 3,
+      "originalRarityPermille": 2,
+      "rarity": 0.3,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/baldwin.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/baldwin.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/baldwin.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/baldwin.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/baldwin.json"
     },
     {
       "type": "model",
@@ -1271,6 +1227,94 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/enderman.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/enderman.json"
+    },
+    {
+      "type": "model",
+      "slug": "kinkster",
+      "name": "Kinkster",
+      "customEmojiId": "5418352495195892194",
+      "rarityPermille": 3,
+      "originalRarityPermille": 2,
+      "rarity": 0.3,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kinkster.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kinkster.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kinkster.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kinkster.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/kinkster.json"
+    },
+    {
+      "type": "model",
+      "slug": "the-donald",
+      "name": "The Donald",
+      "customEmojiId": "5418229551757044488",
+      "rarityPermille": 3,
+      "originalRarityPermille": 2,
+      "rarity": 0.3,
+      "originalRarity": 0.2,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/the-donald.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/the-donald.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/the-donald.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/the-donald.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/the-donald.json"
+    },
+    {
+      "type": "model",
+      "slug": "kaleidoscope",
+      "name": "Kaleidoscope",
+      "customEmojiId": "5420173149012532303",
+      "rarityPermille": 4,
+      "originalRarityPermille": 5,
+      "rarity": 0.4,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kaleidoscope.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kaleidoscope.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kaleidoscope.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kaleidoscope.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/kaleidoscope.json"
+    },
+    {
+      "type": "model",
+      "slug": "shift-mode",
+      "name": "Shift Mode",
+      "customEmojiId": "5418147251593719316",
+      "rarityPermille": 4,
+      "originalRarityPermille": 5,
+      "rarity": 0.4,
+      "originalRarity": 0.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/shift-mode.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/shift-mode.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/shift-mode.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/shift-mode.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/shift-mode.json"
     },
     {
       "type": "model",
@@ -1384,28 +1428,6 @@
     },
     {
       "type": "model",
-      "slug": "kaleidoscope",
-      "name": "Kaleidoscope",
-      "customEmojiId": "5420173149012532303",
-      "rarityPermille": 5,
-      "originalRarityPermille": 5,
-      "rarity": 0.5,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kaleidoscope.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kaleidoscope.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kaleidoscope.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/kaleidoscope.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/kaleidoscope.json"
-    },
-    {
-      "type": "model",
       "slug": "mecha-soldier",
       "name": "Mecha Soldier",
       "customEmojiId": "5418153672569825653",
@@ -1447,28 +1469,6 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/sapphire-kiss.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/sapphire-kiss.json"
-    },
-    {
-      "type": "model",
-      "slug": "shift-mode",
-      "name": "Shift Mode",
-      "customEmojiId": "5418147251593719316",
-      "rarityPermille": 5,
-      "originalRarityPermille": 5,
-      "rarity": 0.5,
-      "originalRarity": 0.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/shift-mode.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/shift-mode.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/shift-mode.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/shift-mode.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/shift-mode.json"
     },
     {
       "type": "model",
@@ -1582,6 +1582,28 @@
     },
     {
       "type": "model",
+      "slug": "backbreaker",
+      "name": "Backbreaker",
+      "customEmojiId": "5418343763527378196",
+      "rarityPermille": 8,
+      "originalRarityPermille": 10,
+      "rarity": 0.8,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/backbreaker.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/backbreaker.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/backbreaker.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/backbreaker.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/backbreaker.json"
+    },
+    {
+      "type": "model",
       "slug": "broken-time",
       "name": "Broken Time",
       "customEmojiId": "5417984691376539653",
@@ -1601,6 +1623,28 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/broken-time.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/broken-time.json"
+    },
+    {
+      "type": "model",
+      "slug": "gear-master",
+      "name": "Gear Master",
+      "customEmojiId": "5418003610707471918",
+      "rarityPermille": 8,
+      "originalRarityPermille": 10,
+      "rarity": 0.8,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/gear-master.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/gear-master.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/gear-master.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/gear-master.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/gear-master.json"
     },
     {
       "type": "model",
@@ -1626,6 +1670,28 @@
     },
     {
       "type": "model",
+      "slug": "lucky-rabbit",
+      "name": "Lucky Rabbit",
+      "customEmojiId": "5418029019733993687",
+      "rarityPermille": 8,
+      "originalRarityPermille": 10,
+      "rarity": 0.8,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lucky-rabbit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lucky-rabbit.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lucky-rabbit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lucky-rabbit.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/lucky-rabbit.json"
+    },
+    {
+      "type": "model",
       "slug": "nerdy",
       "name": "Nerdy",
       "customEmojiId": "5418019227208559444",
@@ -1645,6 +1711,72 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/nerdy.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/nerdy.json"
+    },
+    {
+      "type": "model",
+      "slug": "paint-riot",
+      "name": "Paint Riot",
+      "customEmojiId": "5418222112873687054",
+      "rarityPermille": 8,
+      "originalRarityPermille": 10,
+      "rarity": 0.8,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/paint-riot.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/paint-riot.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/paint-riot.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/paint-riot.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/paint-riot.json"
+    },
+    {
+      "type": "model",
+      "slug": "patchy",
+      "name": "Patchy",
+      "customEmojiId": "5420407877565197151",
+      "rarityPermille": 8,
+      "originalRarityPermille": 10,
+      "rarity": 0.8,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/patchy.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/patchy.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/patchy.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/patchy.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/patchy.json"
+    },
+    {
+      "type": "model",
+      "slug": "wasteland",
+      "name": "Wasteland",
+      "customEmojiId": "5417921628371725864",
+      "rarityPermille": 8,
+      "originalRarityPermille": 10,
+      "rarity": 0.8,
+      "originalRarity": 1,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wasteland.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wasteland.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wasteland.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wasteland.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/wasteland.json"
     },
     {
       "type": "model",
@@ -1670,9 +1802,9 @@
     },
     {
       "type": "model",
-      "slug": "backbreaker",
-      "name": "Backbreaker",
-      "customEmojiId": "5418343763527378196",
+      "slug": "crystaline",
+      "name": "Crystaline",
+      "customEmojiId": "5418220201613241866",
       "rarityPermille": 9,
       "originalRarityPermille": 10,
       "rarity": 0.9,
@@ -1682,13 +1814,13 @@
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/backbreaker.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/backbreaker.tgs",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crystaline.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crystaline.tgs",
       "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/backbreaker.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/backbreaker.tgs"
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crystaline.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crystaline.tgs"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/backbreaker.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/crystaline.json"
     },
     {
       "type": "model",
@@ -1714,9 +1846,9 @@
     },
     {
       "type": "model",
-      "slug": "gear-master",
-      "name": "Gear Master",
-      "customEmojiId": "5418003610707471918",
+      "slug": "dragon-dance",
+      "name": "Dragon Dance",
+      "customEmojiId": "5418338287444076748",
       "rarityPermille": 9,
       "originalRarityPermille": 10,
       "rarity": 0.9,
@@ -1726,13 +1858,13 @@
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/gear-master.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/gear-master.tgs",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/dragon-dance.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/dragon-dance.tgs",
       "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/gear-master.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/gear-master.tgs"
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/dragon-dance.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/dragon-dance.tgs"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/gear-master.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/dragon-dance.json"
     },
     {
       "type": "model",
@@ -1802,9 +1934,9 @@
     },
     {
       "type": "model",
-      "slug": "lucky-rabbit",
-      "name": "Lucky Rabbit",
-      "customEmojiId": "5418029019733993687",
+      "slug": "lunar-rabbit",
+      "name": "Lunar Rabbit",
+      "customEmojiId": "5418218771389129423",
       "rarityPermille": 9,
       "originalRarityPermille": 10,
       "rarity": 0.9,
@@ -1814,13 +1946,13 @@
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lucky-rabbit.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lucky-rabbit.tgs",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lunar-rabbit.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lunar-rabbit.tgs",
       "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lucky-rabbit.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lucky-rabbit.tgs"
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lunar-rabbit.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lunar-rabbit.tgs"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/lucky-rabbit.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/lunar-rabbit.json"
     },
     {
       "type": "model",
@@ -1868,50 +2000,6 @@
     },
     {
       "type": "model",
-      "slug": "paint-riot",
-      "name": "Paint Riot",
-      "customEmojiId": "5418222112873687054",
-      "rarityPermille": 9,
-      "originalRarityPermille": 10,
-      "rarity": 0.9,
-      "originalRarity": 1,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/paint-riot.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/paint-riot.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/paint-riot.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/paint-riot.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/paint-riot.json"
-    },
-    {
-      "type": "model",
-      "slug": "patchy",
-      "name": "Patchy",
-      "customEmojiId": "5420407877565197151",
-      "rarityPermille": 9,
-      "originalRarityPermille": 10,
-      "rarity": 0.9,
-      "originalRarity": 1,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/patchy.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/patchy.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/patchy.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/patchy.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/patchy.json"
-    },
-    {
-      "type": "model",
       "slug": "pink-crush",
       "name": "Pink Crush",
       "customEmojiId": "5417979185228456085",
@@ -1956,28 +2044,6 @@
     },
     {
       "type": "model",
-      "slug": "wasteland",
-      "name": "Wasteland",
-      "customEmojiId": "5417921628371725864",
-      "rarityPermille": 9,
-      "originalRarityPermille": 10,
-      "rarity": 0.9,
-      "originalRarity": 1,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wasteland.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wasteland.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wasteland.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/wasteland.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/wasteland.json"
-    },
-    {
-      "type": "model",
       "slug": "wise-owl",
       "name": "Wise Owl",
       "customEmojiId": "5418228241792020428",
@@ -2019,72 +2085,6 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/all-caps.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/all-caps.json"
-    },
-    {
-      "type": "model",
-      "slug": "crystaline",
-      "name": "Crystaline",
-      "customEmojiId": "5418220201613241866",
-      "rarityPermille": 10,
-      "originalRarityPermille": 10,
-      "rarity": 1,
-      "originalRarity": 1,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crystaline.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crystaline.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crystaline.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crystaline.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/crystaline.json"
-    },
-    {
-      "type": "model",
-      "slug": "dragon-dance",
-      "name": "Dragon Dance",
-      "customEmojiId": "5418338287444076748",
-      "rarityPermille": 10,
-      "originalRarityPermille": 10,
-      "rarity": 1,
-      "originalRarity": 1,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/dragon-dance.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/dragon-dance.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/dragon-dance.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/dragon-dance.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/dragon-dance.json"
-    },
-    {
-      "type": "model",
-      "slug": "lunar-rabbit",
-      "name": "Lunar Rabbit",
-      "customEmojiId": "5418218771389129423",
-      "rarityPermille": 10,
-      "originalRarityPermille": 10,
-      "rarity": 1,
-      "originalRarity": 1,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lunar-rabbit.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lunar-rabbit.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lunar-rabbit.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/lunar-rabbit.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/lunar-rabbit.json"
     },
     {
       "type": "model",
@@ -2264,6 +2264,72 @@
     },
     {
       "type": "model",
+      "slug": "crimson-face",
+      "name": "Crimson Face",
+      "customEmojiId": "5418113669244432580",
+      "rarityPermille": 12,
+      "originalRarityPermille": 20,
+      "rarity": 1.2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-face.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-face.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-face.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-face.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/crimson-face.json"
+    },
+    {
+      "type": "model",
+      "slug": "deep-one",
+      "name": "Deep One",
+      "customEmojiId": "5418163499454999582",
+      "rarityPermille": 12,
+      "originalRarityPermille": 15,
+      "rarity": 1.2,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/deep-one.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/deep-one.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/deep-one.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/deep-one.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/deep-one.json"
+    },
+    {
+      "type": "model",
+      "slug": "evil-genius",
+      "name": "Evil Genius",
+      "customEmojiId": "5418294165245045980",
+      "rarityPermille": 12,
+      "originalRarityPermille": 15,
+      "rarity": 1.2,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/evil-genius.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/evil-genius.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/evil-genius.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/evil-genius.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/evil-genius.json"
+    },
+    {
+      "type": "model",
       "slug": "ghostface",
       "name": "Ghostface",
       "customEmojiId": "5418269546492504662",
@@ -2283,6 +2349,50 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/ghostface.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/ghostface.json"
+    },
+    {
+      "type": "model",
+      "slug": "mad-package",
+      "name": "Mad Package",
+      "customEmojiId": "5418097387023409743",
+      "rarityPermille": 12,
+      "originalRarityPermille": 15,
+      "rarity": 1.2,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/mad-package.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/mad-package.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/mad-package.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/mad-package.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/mad-package.json"
+    },
+    {
+      "type": "model",
+      "slug": "night-vision",
+      "name": "Night Vision",
+      "customEmojiId": "5417960897257711131",
+      "rarityPermille": 12,
+      "originalRarityPermille": 15,
+      "rarity": 1.2,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/night-vision.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/night-vision.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/night-vision.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/night-vision.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/night-vision.json"
     },
     {
       "type": "model",
@@ -2308,6 +2418,72 @@
     },
     {
       "type": "model",
+      "slug": "royal-jester",
+      "name": "Royal Jester",
+      "customEmojiId": "5418011333058668999",
+      "rarityPermille": 12,
+      "originalRarityPermille": 15,
+      "rarity": 1.2,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/royal-jester.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/royal-jester.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/royal-jester.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/royal-jester.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/royal-jester.json"
+    },
+    {
+      "type": "model",
+      "slug": "uni-dream",
+      "name": "Uni Dream",
+      "customEmojiId": "5417918626189586445",
+      "rarityPermille": 12,
+      "originalRarityPermille": 15,
+      "rarity": 1.2,
+      "originalRarity": 1.5,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/uni-dream.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/uni-dream.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/uni-dream.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/uni-dream.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/uni-dream.json"
+    },
+    {
+      "type": "model",
+      "slug": "weld-master",
+      "name": "Weld Master",
+      "customEmojiId": "5427136626734181045",
+      "rarityPermille": 12,
+      "originalRarityPermille": 20,
+      "rarity": 1.2,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/weld-master.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/weld-master.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/weld-master.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/weld-master.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/weld-master.json"
+    },
+    {
+      "type": "model",
       "slug": "area-51",
       "name": "Area 51",
       "customEmojiId": "5417943287891799402",
@@ -2330,25 +2506,25 @@
     },
     {
       "type": "model",
-      "slug": "crimson-face",
-      "name": "Crimson Face",
-      "customEmojiId": "5418113669244432580",
+      "slug": "clockwork",
+      "name": "Clockwork",
+      "customEmojiId": "5418387275841058855",
       "rarityPermille": 13,
-      "originalRarityPermille": 20,
+      "originalRarityPermille": 15,
       "rarity": 1.3,
-      "originalRarity": 2,
+      "originalRarity": 1.5,
       "gift": {
         "slug": "mythmask",
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-face.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-face.tgs",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/clockwork.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/clockwork.tgs",
       "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-face.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-face.tgs"
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/clockwork.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/clockwork.tgs"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/crimson-face.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/clockwork.json"
     },
     {
       "type": "model",
@@ -2374,9 +2550,9 @@
     },
     {
       "type": "model",
-      "slug": "deep-one",
-      "name": "Deep One",
-      "customEmojiId": "5418163499454999582",
+      "slug": "cursed-straw",
+      "name": "Cursed Straw",
+      "customEmojiId": "5418335272377036100",
       "rarityPermille": 13,
       "originalRarityPermille": 15,
       "rarity": 1.3,
@@ -2386,35 +2562,13 @@
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/deep-one.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/deep-one.tgs",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/cursed-straw.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/cursed-straw.tgs",
       "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/deep-one.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/deep-one.tgs"
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/cursed-straw.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/cursed-straw.tgs"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/deep-one.json"
-    },
-    {
-      "type": "model",
-      "slug": "evil-genius",
-      "name": "Evil Genius",
-      "customEmojiId": "5418294165245045980",
-      "rarityPermille": 13,
-      "originalRarityPermille": 15,
-      "rarity": 1.3,
-      "originalRarity": 1.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/evil-genius.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/evil-genius.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/evil-genius.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/evil-genius.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/evil-genius.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/cursed-straw.json"
     },
     {
       "type": "model",
@@ -2440,9 +2594,9 @@
     },
     {
       "type": "model",
-      "slug": "mad-package",
-      "name": "Mad Package",
-      "customEmojiId": "5418097387023409743",
+      "slug": "la-muerte",
+      "name": "La Muerte",
+      "customEmojiId": "5418033718428215358",
       "rarityPermille": 13,
       "originalRarityPermille": 15,
       "rarity": 1.3,
@@ -2452,35 +2606,13 @@
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/mad-package.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/mad-package.tgs",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/la-muerte.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/la-muerte.tgs",
       "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/mad-package.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/mad-package.tgs"
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/la-muerte.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/la-muerte.tgs"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/mad-package.json"
-    },
-    {
-      "type": "model",
-      "slug": "night-vision",
-      "name": "Night Vision",
-      "customEmojiId": "5417960897257711131",
-      "rarityPermille": 13,
-      "originalRarityPermille": 15,
-      "rarity": 1.3,
-      "originalRarity": 1.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/night-vision.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/night-vision.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/night-vision.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/night-vision.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/night-vision.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/la-muerte.json"
     },
     {
       "type": "model",
@@ -2503,28 +2635,6 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/no-face.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/no-face.json"
-    },
-    {
-      "type": "model",
-      "slug": "royal-jester",
-      "name": "Royal Jester",
-      "customEmojiId": "5418011333058668999",
-      "rarityPermille": 13,
-      "originalRarityPermille": 15,
-      "rarity": 1.3,
-      "originalRarity": 1.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/royal-jester.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/royal-jester.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/royal-jester.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/royal-jester.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/royal-jester.json"
     },
     {
       "type": "model",
@@ -2572,50 +2682,6 @@
     },
     {
       "type": "model",
-      "slug": "uni-dream",
-      "name": "Uni Dream",
-      "customEmojiId": "5417918626189586445",
-      "rarityPermille": 13,
-      "originalRarityPermille": 15,
-      "rarity": 1.3,
-      "originalRarity": 1.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/uni-dream.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/uni-dream.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/uni-dream.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/uni-dream.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/uni-dream.json"
-    },
-    {
-      "type": "model",
-      "slug": "weld-master",
-      "name": "Weld Master",
-      "customEmojiId": "5427136626734181045",
-      "rarityPermille": 13,
-      "originalRarityPermille": 20,
-      "rarity": 1.3,
-      "originalRarity": 2,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/weld-master.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/weld-master.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/weld-master.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/weld-master.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/weld-master.json"
-    },
-    {
-      "type": "model",
       "slug": "wild-stallion",
       "name": "Wild Stallion",
       "customEmojiId": "5418294783720334580",
@@ -2638,25 +2704,25 @@
     },
     {
       "type": "model",
-      "slug": "clockwork",
-      "name": "Clockwork",
-      "customEmojiId": "5418387275841058855",
-      "rarityPermille": 14,
+      "slug": "witch-king",
+      "name": "Witch King",
+      "customEmojiId": "5418280009032841169",
+      "rarityPermille": 13,
       "originalRarityPermille": 15,
-      "rarity": 1.4,
+      "rarity": 1.3,
       "originalRarity": 1.5,
       "gift": {
         "slug": "mythmask",
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/clockwork.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/clockwork.tgs",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/witch-king.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/witch-king.tgs",
       "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/clockwork.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/clockwork.tgs"
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/witch-king.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/witch-king.tgs"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/clockwork.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/witch-king.json"
     },
     {
       "type": "model",
@@ -2679,28 +2745,6 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/crimson-lady.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/crimson-lady.json"
-    },
-    {
-      "type": "model",
-      "slug": "cursed-straw",
-      "name": "Cursed Straw",
-      "customEmojiId": "5418335272377036100",
-      "rarityPermille": 14,
-      "originalRarityPermille": 15,
-      "rarity": 1.4,
-      "originalRarity": 1.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/cursed-straw.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/cursed-straw.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/cursed-straw.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/cursed-straw.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/cursed-straw.json"
     },
     {
       "type": "model",
@@ -2748,47 +2792,25 @@
     },
     {
       "type": "model",
-      "slug": "la-muerte",
-      "name": "La Muerte",
-      "customEmojiId": "5418033718428215358",
+      "slug": "tribal-warrior",
+      "name": "Tribal Warrior",
+      "customEmojiId": "5418029354741441009",
       "rarityPermille": 14,
-      "originalRarityPermille": 15,
+      "originalRarityPermille": 20,
       "rarity": 1.4,
-      "originalRarity": 1.5,
+      "originalRarity": 2,
       "gift": {
         "slug": "mythmask",
         "name": "Myth Mask",
         "id": "5775966332847654507"
       },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/la-muerte.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/la-muerte.tgs",
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/tribal-warrior.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/tribal-warrior.tgs",
       "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/la-muerte.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/la-muerte.tgs"
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/tribal-warrior.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/tribal-warrior.tgs"
       },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/la-muerte.json"
-    },
-    {
-      "type": "model",
-      "slug": "witch-king",
-      "name": "Witch King",
-      "customEmojiId": "5418280009032841169",
-      "rarityPermille": 14,
-      "originalRarityPermille": 15,
-      "rarity": 1.4,
-      "originalRarity": 1.5,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/witch-king.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/witch-king.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/witch-king.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/witch-king.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/witch-king.json"
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/tribal-warrior.json"
     },
     {
       "type": "model",
@@ -2814,34 +2836,12 @@
     },
     {
       "type": "model",
-      "slug": "tribal-warrior",
-      "name": "Tribal Warrior",
-      "customEmojiId": "5418029354741441009",
-      "rarityPermille": 15,
-      "originalRarityPermille": 20,
-      "rarity": 1.5,
-      "originalRarity": 2,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/tribal-warrior.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/tribal-warrior.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/tribal-warrior.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/tribal-warrior.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/tribal-warrior.json"
-    },
-    {
-      "type": "model",
       "slug": "soft-bloom",
       "name": "Soft Bloom",
       "customEmojiId": "5418006780393336123",
-      "rarityPermille": 17,
+      "rarityPermille": 16,
       "originalRarityPermille": 20,
-      "rarity": 1.7,
+      "rarity": 1.6,
       "originalRarity": 2,
       "gift": {
         "slug": "mythmask",
@@ -2861,9 +2861,9 @@
       "slug": "cyber-knight",
       "name": "Cyber Knight",
       "customEmojiId": "5417846402019536261",
-      "rarityPermille": 18,
+      "rarityPermille": 17,
       "originalRarityPermille": 20,
-      "rarity": 1.8,
+      "rarity": 1.7,
       "originalRarity": 2,
       "gift": {
         "slug": "mythmask",
@@ -2883,9 +2883,9 @@
       "slug": "red-devil",
       "name": "Red Devil",
       "customEmojiId": "5418351739281647558",
-      "rarityPermille": 18,
+      "rarityPermille": 17,
       "originalRarityPermille": 20,
-      "rarity": 1.8,
+      "rarity": 1.7,
       "originalRarity": 2,
       "gift": {
         "slug": "mythmask",
@@ -2899,6 +2899,50 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-devil.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/red-devil.json"
+    },
+    {
+      "type": "model",
+      "slug": "golden-moth",
+      "name": "Golden Moth",
+      "customEmojiId": "5417918445800957550",
+      "rarityPermille": 18,
+      "originalRarityPermille": 20,
+      "rarity": 1.8,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/golden-moth.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/golden-moth.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/golden-moth.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/golden-moth.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/golden-moth.json"
+    },
+    {
+      "type": "model",
+      "slug": "red-oni",
+      "name": "Red Oni",
+      "customEmojiId": "5418375082428900987",
+      "rarityPermille": 18,
+      "originalRarityPermille": 20,
+      "rarity": 1.8,
+      "originalRarity": 2,
+      "gift": {
+        "slug": "mythmask",
+        "name": "Myth Mask",
+        "id": "5775966332847654507"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-oni.svg",
+      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-oni.tgs",
+      "assets": {
+        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-oni.svg",
+        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-oni.tgs"
+      },
+      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/red-oni.json"
     },
     {
       "type": "model",
@@ -2924,28 +2968,6 @@
     },
     {
       "type": "model",
-      "slug": "golden-moth",
-      "name": "Golden Moth",
-      "customEmojiId": "5417918445800957550",
-      "rarityPermille": 19,
-      "originalRarityPermille": 20,
-      "rarity": 1.9,
-      "originalRarity": 2,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/golden-moth.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/golden-moth.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/golden-moth.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/golden-moth.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/golden-moth.json"
-    },
-    {
-      "type": "model",
       "slug": "marble-david",
       "name": "Marble David",
       "customEmojiId": "5417933869028516566",
@@ -2965,28 +2987,6 @@
         "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/marble-david.tgs"
       },
       "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/marble-david.json"
-    },
-    {
-      "type": "model",
-      "slug": "red-oni",
-      "name": "Red Oni",
-      "customEmojiId": "5418375082428900987",
-      "rarityPermille": 19,
-      "originalRarityPermille": 20,
-      "rarity": 1.9,
-      "originalRarity": 2,
-      "gift": {
-        "slug": "mythmask",
-        "name": "Myth Mask",
-        "id": "5775966332847654507"
-      },
-      "imageUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-oni.svg",
-      "animationUrl": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-oni.tgs",
-      "assets": {
-        "svg": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-oni.svg",
-        "tgs": "https://raw.githubusercontent.com/CoreEase/tg-gifts/main/gifts/mythmask/assets/models/red-oni.tgs"
-      },
-      "url": "https://CoreEase.github.io/tg-gifts/api/v1/gifts/mythmask/models/red-oni.json"
     },
     {
       "type": "model",
